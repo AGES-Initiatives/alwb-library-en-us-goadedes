@@ -1,0 +1,105 @@
+A_Resource_Whose_Name = ho.s10_en_US_goadedes
+
+hoVE.title = ""
+
+hoVE.MM.entry.text = properties_en_US_goadedes.media.key
+R01 = ""
+R02 = ""
+hoVE.Ps103.text = properties_en_US_goadedes.media.key
+hoVE.MM.Anoixantaria.text = properties_en_US_goadedes.media.key
+hoVE.MM.Kathisma11.text = properties_en_US_goadedes.media.key
+R03 = ""
+R04 = ""
+R05 = ""
+R06 = ""
+R07 = ""
+R08 = ""
+R09 = ""
+hoVE.FosIlaron.title = ""
+R10 = ""
+hoVE.FosIlaron.incipit = "…"
+hoVE.FosIlaron.text = ""
+R11 = ""
+
+hoVE.SundayEvening.title = ""
+hoVE.SundayProkeimenon.text = properties_en_US_goadedes.media.key
+
+hoVE.MondayEvening.title = ""
+hoVE.MondayProkeimenon.text = properties_en_US_goadedes.media.key
+
+hoVE.TuesdayEvening.title = ""
+hoVE.TuesdayProkeimenon.text = properties_en_US_goadedes.media.key
+
+hoVE.WednesdayEvening.title = ""
+hoVE.WednesdayProkeimenon.text = properties_en_US_goadedes.media.key
+
+hoVE.ThursdayEvening.title = ""
+hoVE.ThursdayProkeimenon.text = properties_en_US_goadedes.media.key
+
+hoVE.FridayEvening.title = ""
+hoVE.FridayProkeimenon.text = properties_en_US_goadedes.media.key
+
+hoVE.SaturdayEvening.title = ""
+hoVE.SaturdayProkeimenon.text = properties_en_US_goadedes.media.key
+
+hoVE.GreatProkeimenonTisTheosMegas.text = properties_en_US_goadedes.media.key
+hoVE.GreatProkeimenonOTheosImon.text = properties_en_US_goadedes.media.key
+hoVE.GreatProkeimenonLent1.text = properties_en_US_goadedes.media.key
+hoVE.GreatProkeimenonLent2.text = properties_en_US_goadedes.media.key
+
+R12 = ""
+R13 = ""
+R14 = ""
+hoVE.MondayAlleluia.title = ""
+hoVE.MondayAlleluia.text = "" //for possible media
+
+hoVE.TuesdayThursdayAlleluia.title = ""
+hoVE.TuesdayThursdayAlleluia.text = "" //for possible media
+
+hoVE.WednesdayAlleluia.title = ""
+hoVE.WednesdayAlleluia.text = "" //for possible media
+
+hoVE.FridayAlleluia.title = ""
+hoVE.FridayAlleluia.text = "" //for possible media
+
+R15 = ""
+R16 = ""
+//This Prayer is also in the Small Doxology, at Matins, Compline etc. with ""
+hoVE.Prayer_Kataxioson.incipit = "…"
+hoVE.Prayer_Kataxioson.text = ""
+R17 = ""
+R18 = ""
+R19 = ""
+R20 = ""
+R21 = ""
+hoVE.LentApolytikion1.mode = misc_en_US_goadedes.Mode5
+hoVE.LentApolytikion1.incipit = "…"
+hoVE.LentApolytikion1.text = prayers_en_US_goadedes.TheotokeParthene.text
+hoVE.LentApolytikion2.mode = misc_en_US_goadedes.Mode5
+hoVE.LentApolytikion2.incipit = "…"
+hoVE.LentApolytikion2.text = ""
+hoVE.LentApolytikion3.mode = misc_en_US_goadedes.Mode5
+hoVE.LentApolytikion3.incipit = "…"
+hoVE.LentApolytikion3.text = ""
+hoVE.LentApolytikion4.note = ""
+hoVE.LentApolytikion4.mode = misc_en_US_goadedes.Mode5
+hoVE.LentApolytikion4.incipit = oc.m5.d7_en_US_goadedes.ocMA.LaudsTheotokion.incipit
+hoVE.LentApolytikion4.text = oc.m5.d7_en_US_goadedes.ocMA.LaudsTheotokion.text
+R22 = ""
+R23 = ""
+R24 = ""
+R25 = ""
+hoVE.Prayer_PanagiaTrias.incipit = "…"
+hoVE.Prayer_PanagiaTrias.text = //Παναγία Τριάς, τὸ ὁμοούσιον κράτος…
+hoVE.Prayer_EiiToOnomaKyriou.incipit = "…"
+hoVE.Prayer_EiiToOnomaKyriou.text = //Εἴη τὸ ὄνομα Κυρίου εὐλογημένον…
+R26 = ""
+
+// Not in Orologion
+//Lity
+hoVE.MM.LityKyrieEleison.text.text = properties_en_US_goadedes.media.key
+
+// Artoclasia
+hoVE.MM.ArtoklasiaTheotokeParthene.text = properties_en_US_goadedes.media.key
+hoVE.MM.ArtoklasiaHymn.text = properties_en_US_goadedes.media.key
+

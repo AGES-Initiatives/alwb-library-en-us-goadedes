@@ -1,0 +1,317 @@
+A_Resource_Whose_Name = me.m06.d17_en_US_goadedes
+
+meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "" // full title of day
+meDA.commemoration.first = ""
+meDA.commemoration.first_short = ""
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+meDA.dismissal = ""
+
+meVE.Stichera01.mode = misc_en_US_goadedes.Mode4
+meVE.Stichera01.melody = he.a.m4_en_US_goadedes.EdokasSimeiosin.name
+meVE.Stichera01.incipit = "…"
+meVE.Stichera01.text = ""
+
+meVE.Stichera02.mode = misc_en_US_goadedes.Mode4
+meVE.Stichera02.melody = he.a.m4_en_US_goadedes.EdokasSimeiosin.name
+meVE.Stichera02.incipit = "…"
+meVE.Stichera02.text = ""
+
+meVE.Stichera03.mode = misc_en_US_goadedes.Mode4
+meVE.Stichera03.melody = he.a.m4_en_US_goadedes.EdokasSimeiosin.name
+meVE.Stichera03.incipit = "…"
+meVE.Stichera03.text = ""
+
+meVE.Stichera04.mode = misc_en_US_goadedes.Mode4
+meVE.Stichera04.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
+meVE.Stichera04.incipit = "…"
+meVE.Stichera04.text = ""
+
+meVE.Stichera05.mode = misc_en_US_goadedes.Mode4
+meVE.Stichera05.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
+meVE.Stichera05.incipit = "…"
+meVE.Stichera05.text = ""
+
+meVE.Stichera06.mode = misc_en_US_goadedes.Mode4
+meVE.Stichera06.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
+meVE.Stichera06.incipit = "…"
+meVE.Stichera06.text = ""
+
+meVE.SticGlory.poet = poets_en_US_goadedes.Anatoliou
+meVE.SticGlory.mode = misc_en_US_goadedes.Mode8
+meVE.SticGlory.melody = ""
+meVE.SticGlory.incipit = "…"
+meVE.SticGlory.text = ""
+
+meVE.SticTheotokion.mode = misc_en_US_goadedes.Mode8
+meVE.SticTheotokion.melody = he.a.m8_en_US_goadedes.OTouParadoxou.name
+meVE.SticTheotokion.incipit = "…"
+meVE.SticTheotokion.text = ""
+
+meVE.SticStavrotheotokion.mode = misc_en_US_goadedes.Mode8
+meVE.SticStavrotheotokion.melody = he.a.m8_en_US_goadedes.OTouParadoxou.name
+meVE.SticStavrotheotokion.incipit = me.m01.d15_en_US_goadedes.meMA.AposStavrotheotokion.incipit
+meVE.SticStavrotheotokion.text = me.m01.d15_en_US_goadedes.meMA.AposStavrotheotokion.text
+
+meVE.Apolytikion1.poet = poets_en_US_goadedes.Gerasimou
+meVE.Apolytikion1.mode = misc_en_US_goadedes.Mode3
+meVE.Apolytikion1.melody = he.a.m3_en_US_goadedes.TinOraiotita.name
+meVE.Apolytikion1.incipit = "…"
+meVE.Apolytikion1.text = ""
+
+meMA.C1.acrostic = ""
+
+meMA.C1.title = titles_en_US_goadedes.KanonTonAgion
+meMA.C1.verse = prayers_en_US_goadedes.verse_SaintsM.text
+
+meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
+meMA.Ode1C11.mode = misc_en_US_goadedes.Mode8
+meMA.Ode1C11.melody = he.h.m8_en_US_goadedes.YgranDiodefsas.name
+meMA.Ode1C11.incipit = "…"
+meMA.Ode1C11.text = ""
+
+meMA.Ode1C12.ode = misc_en_US_goadedes.Ode1
+meMA.Ode1C12.mode = misc_en_US_goadedes.Mode8
+meMA.Ode1C12.melody = he.h.m8_en_US_goadedes.YgranDiodefsas.name
+meMA.Ode1C12.incipit = "…"
+meMA.Ode1C12.text = ""
+
+meMA.Ode1C13.ode = misc_en_US_goadedes.Ode1
+meMA.Ode1C13.mode = misc_en_US_goadedes.Mode8
+meMA.Ode1C13.melody = he.h.m8_en_US_goadedes.YgranDiodefsas.name
+meMA.Ode1C13.incipit = "…"
+meMA.Ode1C13.text = ""
+
+meMA.Ode1C1T.ode = misc_en_US_goadedes.Ode1
+meMA.Ode1C1T.mode = misc_en_US_goadedes.Mode8
+meMA.Ode1C1T.melody = he.h.m8_en_US_goadedes.YgranDiodefsas.name
+meMA.Ode1C1T.incipit = "…"
+meMA.Ode1C1T.text = ""
+
+meMA.Ode3C11.ode = misc_en_US_goadedes.Ode3
+meMA.Ode3C11.mode = misc_en_US_goadedes.Mode8
+meMA.Ode3C11.melody = he.h.m8_en_US_goadedes.SyEiToStereoma.name
+meMA.Ode3C11.incipit = "…"
+meMA.Ode3C11.text = ""
+
+meMA.Ode3C12.ode = misc_en_US_goadedes.Ode3
+meMA.Ode3C12.mode = misc_en_US_goadedes.Mode8
+meMA.Ode3C12.melody = he.h.m8_en_US_goadedes.SyEiToStereoma.name
+meMA.Ode3C12.incipit = "…"
+meMA.Ode3C12.text = ""
+
+meMA.Ode3C13.ode = misc_en_US_goadedes.Ode3
+meMA.Ode3C13.mode = misc_en_US_goadedes.Mode8
+meMA.Ode3C13.melody = he.h.m8_en_US_goadedes.SyEiToStereoma.name
+meMA.Ode3C13.incipit = "…"
+meMA.Ode3C13.text = ""
+
+meMA.Ode3C1T.ode = misc_en_US_goadedes.Ode3
+meMA.Ode3C1T.mode = misc_en_US_goadedes.Mode8
+meMA.Ode3C1T.melody = he.h.m8_en_US_goadedes.SyEiToStereoma.name
+meMA.Ode3C1T.incipit = "…"
+meMA.Ode3C1T.text = ""
+
+meMA.Ode3H.ode = misc_en_US_goadedes.Ode3
+meMA.Ode3H.mode = misc_en_US_goadedes.Mode8
+meMA.Ode3H.melody = misc_en_US_goadedes.Heirmos
+meMA.Ode3H.incipit = he.h.m8_en_US_goadedes.SyEiToStereoma.incipit
+meMA.Ode3H.text = he.h.m8_en_US_goadedes.SyEiToStereoma.text
+
+meMA.Ode3Kathisma1.mode = misc_en_US_goadedes.Mode3
+meMA.Ode3Kathisma1.melody = he.a.m3_en_US_goadedes.TheiasPisteos.name
+meMA.Ode3Kathisma1.incipit = "…"
+meMA.Ode3Kathisma1.text = ""
+
+meMA.Ode3KathismaT.mode = misc_en_US_goadedes.Mode3
+meMA.Ode3KathismaT.melody = he.a.m3_en_US_goadedes.TheiasPisteos.name
+meMA.Ode3KathismaT.incipit = oc.m3.d2_en_US_goadedes.ocMA.Kathisma23.incipit
+meMA.Ode3KathismaT.text = oc.m3.d2_en_US_goadedes.ocMA.Kathisma23.text
+
+meMA.Ode3KathismaSt.mode = misc_en_US_goadedes.Mode3
+meMA.Ode3KathismaSt.melody = he.a.m3_en_US_goadedes.TheiasPisteos.name
+meMA.Ode3KathismaSt.incipit = "…"
+meMA.Ode3KathismaSt.text = ""
+
+meMA.Ode4C11.ode = misc_en_US_goadedes.Ode4
+meMA.Ode4C11.mode = misc_en_US_goadedes.Mode8
+meMA.Ode4C11.melody = he.h.m8_en_US_goadedes.EisakikoaKyrie.name
+meMA.Ode4C11.incipit = "…"
+meMA.Ode4C11.text = ""
+
+meMA.Ode4C12.ode = misc_en_US_goadedes.Ode4
+meMA.Ode4C12.mode = misc_en_US_goadedes.Mode8
+meMA.Ode4C12.melody = he.h.m8_en_US_goadedes.EisakikoaKyrie.name
+meMA.Ode4C12.incipit = "…"
+meMA.Ode4C12.text = ""
+
+meMA.Ode4C13.ode = misc_en_US_goadedes.Ode4
+meMA.Ode4C13.mode = misc_en_US_goadedes.Mode8
+meMA.Ode4C13.melody = he.h.m8_en_US_goadedes.EisakikoaKyrie.name
+meMA.Ode4C13.incipit = "…"
+meMA.Ode4C13.text = ""
+
+meMA.Ode4C1T.ode = misc_en_US_goadedes.Ode4
+meMA.Ode4C1T.mode = misc_en_US_goadedes.Mode8
+meMA.Ode4C1T.melody = he.h.m8_en_US_goadedes.EisakikoaKyrie.name
+meMA.Ode4C1T.incipit = "…"
+meMA.Ode4C1T.text = ""
+
+meMA.Ode5C11.ode = misc_en_US_goadedes.Ode5
+meMA.Ode5C11.mode = misc_en_US_goadedes.Mode8
+meMA.Ode5C11.melody = he.h.m8_en_US_goadedes.InaTiMeAposo.name
+meMA.Ode5C11.incipit = "…"
+meMA.Ode5C11.text = ""
+
+meMA.Ode5C12.ode = misc_en_US_goadedes.Ode5
+meMA.Ode5C12.mode = misc_en_US_goadedes.Mode8
+meMA.Ode5C12.melody = he.h.m8_en_US_goadedes.InaTiMeAposo.name
+meMA.Ode5C12.incipit = "…"
+meMA.Ode5C12.text = ""
+
+meMA.Ode5C13.ode = misc_en_US_goadedes.Ode5
+meMA.Ode5C13.mode = misc_en_US_goadedes.Mode8
+meMA.Ode5C13.melody = he.h.m8_en_US_goadedes.InaTiMeAposo.name
+meMA.Ode5C13.incipit = "…"
+meMA.Ode5C13.text = ""
+
+meMA.Ode5C1T.ode = misc_en_US_goadedes.Ode5
+meMA.Ode5C1T.mode = misc_en_US_goadedes.Mode8
+meMA.Ode5C1T.melody = he.h.m8_en_US_goadedes.InaTiMeAposo.name
+meMA.Ode5C1T.incipit = "…"
+meMA.Ode5C1T.text = ""
+
+meMA.Ode6C11.ode = misc_en_US_goadedes.Ode6
+meMA.Ode6C11.mode = misc_en_US_goadedes.Mode8
+meMA.Ode6C11.melody = he.h.m8_en_US_goadedes.TinDeisinEkcheo.name
+meMA.Ode6C11.incipit = "…"
+meMA.Ode6C11.text = ""
+
+meMA.Ode6C12.ode = misc_en_US_goadedes.Ode6
+meMA.Ode6C12.mode = misc_en_US_goadedes.Mode8
+meMA.Ode6C12.melody = he.h.m8_en_US_goadedes.TinDeisinEkcheo.name
+meMA.Ode6C12.incipit = "…"
+meMA.Ode6C12.text = ""
+
+meMA.Ode6C13.ode = misc_en_US_goadedes.Ode6
+meMA.Ode6C13.mode = misc_en_US_goadedes.Mode8
+meMA.Ode6C13.melody = he.h.m8_en_US_goadedes.TinDeisinEkcheo.name
+meMA.Ode6C13.incipit = "…"
+meMA.Ode6C13.text = ""
+
+meMA.Ode6C1T.ode = misc_en_US_goadedes.Ode6
+meMA.Ode6C1T.mode = misc_en_US_goadedes.Mode8
+meMA.Ode6C1T.melody = he.h.m8_en_US_goadedes.TinDeisinEkcheo.name
+meMA.Ode6C1T.incipit = "…"
+meMA.Ode6C1T.text = ""
+
+meMA.Ode6H.ode = misc_en_US_goadedes.Ode6
+meMA.Ode6H.mode = misc_en_US_goadedes.Mode8
+meMA.Ode6H.melody = misc_en_US_goadedes.Heirmos
+meMA.Ode6H.incipit = he.h.m8_en_US_goadedes.TinDeisinEkcheo.incipit
+meMA.Ode6H.text = he.h.m8_en_US_goadedes.TinDeisinEkcheo.text
+
+meMA.Ode7C11.ode = misc_en_US_goadedes.Ode7
+meMA.Ode7C11.mode = misc_en_US_goadedes.Mode8
+meMA.Ode7C11.melody = he.h.m8_en_US_goadedes.TheouSynkatavasin.name
+meMA.Ode7C11.incipit = "…"
+meMA.Ode7C11.text = ""
+
+meMA.Ode7C12.ode = misc_en_US_goadedes.Ode7
+meMA.Ode7C12.mode = misc_en_US_goadedes.Mode8
+meMA.Ode7C12.melody = he.h.m8_en_US_goadedes.TheouSynkatavasin.name
+meMA.Ode7C12.incipit = "…"
+meMA.Ode7C12.text = ""
+
+meMA.Ode7C13.ode = misc_en_US_goadedes.Ode7
+meMA.Ode7C13.mode = misc_en_US_goadedes.Mode8
+meMA.Ode7C13.melody = he.h.m8_en_US_goadedes.TheouSynkatavasin.name
+meMA.Ode7C13.incipit = "…"
+meMA.Ode7C13.text = ""
+
+meMA.Ode7C1T.ode = misc_en_US_goadedes.Ode7
+meMA.Ode7C1T.mode = misc_en_US_goadedes.Mode8
+meMA.Ode7C1T.melody = he.h.m8_en_US_goadedes.TheouSynkatavasin.name
+meMA.Ode7C1T.incipit = "…"
+meMA.Ode7C1T.text = ""
+
+meMA.Ode8C11.ode = misc_en_US_goadedes.Ode8
+meMA.Ode8C11.mode = misc_en_US_goadedes.Mode8
+meMA.Ode8C11.melody = he.h.m8_en_US_goadedes.EptaplasiosKaminon.name
+meMA.Ode8C11.incipit = "…"
+meMA.Ode8C11.text = ""
+
+meMA.Ode8C12.ode = misc_en_US_goadedes.Ode8
+meMA.Ode8C12.mode = misc_en_US_goadedes.Mode8
+meMA.Ode8C12.melody = he.h.m8_en_US_goadedes.EptaplasiosKaminon.name
+meMA.Ode8C12.incipit = "…"
+meMA.Ode8C12.text = ""
+
+meMA.Ode8C13.ode = misc_en_US_goadedes.Ode8
+meMA.Ode8C13.mode = misc_en_US_goadedes.Mode8
+meMA.Ode8C13.melody = he.h.m8_en_US_goadedes.EptaplasiosKaminon.name
+meMA.Ode8C13.incipit = "…"
+meMA.Ode8C13.text = ""
+
+meMA.Ode8C1T.ode = misc_en_US_goadedes.Ode8
+meMA.Ode8C1T.mode = misc_en_US_goadedes.Mode8
+meMA.Ode8C1T.melody = he.h.m8_en_US_goadedes.EptaplasiosKaminon.name
+meMA.Ode8C1T.incipit = "…"
+meMA.Ode8C1T.text = ""
+
+meMA.Ode8H.ode = misc_en_US_goadedes.Ode8
+meMA.Ode8H.mode = misc_en_US_goadedes.Mode8
+meMA.Ode8H.melody = misc_en_US_goadedes.Heirmos
+meMA.Ode8H.incipit = he.h.m8_en_US_goadedes.EptaplasiosKaminon.incipit
+meMA.Ode8H.text = he.h.m8_en_US_goadedes.EptaplasiosKaminon.text
+
+meMA.Ode9C11.ode = misc_en_US_goadedes.Ode9
+meMA.Ode9C11.mode = misc_en_US_goadedes.Mode8
+meMA.Ode9C11.melody = he.h.m8_en_US_goadedes.ExestiEpiTouto.name
+meMA.Ode9C11.incipit = "…"
+meMA.Ode9C11.text = ""
+
+meMA.Ode9C12.ode = misc_en_US_goadedes.Ode9
+meMA.Ode9C12.mode = misc_en_US_goadedes.Mode8
+meMA.Ode9C12.melody = he.h.m8_en_US_goadedes.ExestiEpiTouto.name
+meMA.Ode9C12.incipit = "…"
+meMA.Ode9C12.text = ""
+
+meMA.Ode9C13.ode = misc_en_US_goadedes.Ode9
+meMA.Ode9C13.mode = misc_en_US_goadedes.Mode8
+meMA.Ode9C13.melody = he.h.m8_en_US_goadedes.ExestiEpiTouto.name
+meMA.Ode9C13.incipit = "…"
+meMA.Ode9C13.text = ""
+
+meMA.Ode9C1T.ode = misc_en_US_goadedes.Ode9
+meMA.Ode9C1T.mode = misc_en_US_goadedes.Mode8
+meMA.Ode9C1T.melody = he.h.m8_en_US_goadedes.ExestiEpiTouto.name
+meMA.Ode9C1T.incipit = "…"
+meMA.Ode9C1T.text = ""
+
+meMA.Ode9H.ode = misc_en_US_goadedes.Ode9
+meMA.Ode9H.mode = misc_en_US_goadedes.Mode8
+meMA.Ode9H.melody = misc_en_US_goadedes.Heirmos
+meMA.Ode9H.incipit = he.h.m8_en_US_goadedes.ExestiEpiTouto.incipit
+meMA.Ode9H.text = he.h.m8_en_US_goadedes.ExestiEpiTouto.text
+
+meLI.Kontakion1.mode = ""
+meLI.Kontakion1.melody = ""
+meLI.Kontakion1.incipit = "…"
+meLI.Kontakion1.text = ""
+
+meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
+
+meMegalynarion.text = ""
+

@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = pe.d118_en_US_goadedes
+
+peDA.commemoration.full = "" //full title of day
+peDA.commemoration.short = ""
+peDA.insert1 = "" //for use in petitions and dismissal
+peDA.insert2 = "" //for use in petitions and dismissal
+peDA.note = ""
+peHO.daytitle = ""
+peHO.commemorations = ""
+peHO.description1 = ""
+peHO.description2 = ""
+peHO.note1 = ""
+peHO.note2 = ""
+peDA.dismissal = dismissals_en_US_goadedes.dis00.ascension
+

@@ -1,14 +1,16 @@
 A_Resource_Whose_Name = titles_en_US_goadedes
 
-Allilouia = "Alleluia."
+Allilouia = ""
+
+Anastasima = ""
 
 Anastasimon = ""
 
-Antifonon1 = "First Antiphon."
+Antifonon1 = ""
 
-Antifonon2 = "Second Antiphon."
+Antifonon2 = ""
 
-Antifonon3 = "Third Antiphon."
+Antifonon3 = ""
 
 Antifonon4 = ""
 
@@ -24,11 +26,25 @@ Apolytikion = ""
 
 ApolytikionAnastasimon = ""
 
+ApolytikionTisEortis = ""
+
+ApolytikionTisImeras = ""
+
+ApolytikionTouTriodiou = ""
+
 Aposticha = ""
 
 ApostichaAnastasima = ""
 
+ApostichaProeortia = ""
+
 ApostichaStichira = ""
+
+ApostichaTisEortis = ""
+
+ApostichaTisOktoichou = ""
+
+ApostichaTisTheotokou = ""
 
 ApostichaTonAinon = ""
 
@@ -36,11 +52,17 @@ Apostolika = ""
 
 Apostolikon = ""
 
+Distichon = ""
+
 DoxologiaMegaliKaiApolysis = ""
 
 EfchiTouAgiouEfraim = ""
 
+EgkainiaNaou = ""
+
 EiEstinEideMi = ""
+
+EirmosAllos = ""
 
 EirmosEteros = ""
 
@@ -48,12 +70,15 @@ EirmosOAftos = ""
 
 Eisodikon = ""
 
+eistinleitourgian = ""
 EisTinLeitourgian = ""
 
 EisTinLitin = ""
 
+eistintrithektin = ""
 EisTinTrithektin = ""
 
+eistoapodeipnon = ""
 EisToApodeipnon = ""
 
 EisToKyrieEkekraxa = ""
@@ -61,6 +86,7 @@ EisToKyrieEkekraxa = ""
 eistonesperinon = ""
 EisTonEsperinon = ""
 
+eistonorthron = ""
 EisTonOrthron = ""
 
 EisTonStichon = ""
@@ -72,6 +98,8 @@ EisTousAinous = ""
 Eita = ""
 
 EkTouEsperinou = ""
+
+EkTouMikrouEsperinou = ""
 
 EkTouMinaiou = ""
 
@@ -107,11 +135,17 @@ Etera = ""
 
 Eteron = ""
 
+EteronApolytikion = ""
+
 EteronEktosTypikou = ""
+
+EteronKontakion = ""
 
 Eteros = ""
 
 EterosKanon = ""
+
+EterosKanonProeortios = ""
 
 EterosTisEortis = ""
 
@@ -125,7 +159,9 @@ Exaposteilarion = ""
 
 ExaposteilarionTisImeras = ""
 
-IArtoklasia = "The Blessing of the Five Loaves"
+IArtoklasia = ""
+
+IEvlogiaTonArton = ""
 
 ILiti = ""
 
@@ -137,7 +173,19 @@ Iamvikos = ""
 
 IchosOAftos = ""
 
+IchosTisEvdomados = ""
+
 Idiomela = ""
+
+IdiomelaTisEortis = ""
+
+IdiomelaTisLitis = ""
+
+IdiomelaTonApostichon = ""
+
+IdiomelaTouMinaiou = ""
+
+IdiomelaTouPentikostariou = ""
 
 IdiomelaTouTriodiou = ""
 
@@ -155,6 +203,8 @@ Idiomelon10 = ""
 IProfiteia = ""
 
 ITisEvdomados = ""
+
+KaiTheotokionOmou = ""
 
 Kanon1 = ""
 
@@ -180,6 +230,10 @@ KanonStavrosimos = ""
 
 KanonStavroanastasimos = ""
 
+KanonATisAgias = ""
+
+KanonBTisAgias = ""
+
 KanonTisAgias = ""
 
 KanonATisEortis = ""
@@ -188,15 +242,21 @@ KanonBTisEortis = ""
 
 KanonTisEortis = ""
 
+KanonTisMartyros = ""
+
 KanonATisMesopentikostis = ""
 
 KanonBTisMesopentikostis = ""
+
+KanonTisMyroforou = ""
 
 KanonATisOsias = ""
 
 KanonBTisOsias = ""
 
 KanonTisOsias = ""
+
+KanonTisSamaritidos = ""
 
 KanonATisTheotokou = ""
 
@@ -220,9 +280,25 @@ KanonBTonAsomaton = ""
 
 KanonTonAsomaton = ""
 
+KanonTonEnkainion = ""
+
+KanonTonIeromartyron = ""
+
 KanonTonMartyron = ""
 
+KanonTonMyroforon = ""
+
+KanonTonOsion = ""
+
 KanonTonPateron = ""
+
+KanonATonPateron = ""
+
+KanonBTonPateron = ""
+
+KanonTonPropatoron = ""
+
+KanonTonTheopatoron = ""
 
 KanonTouAgiou = ""
 
@@ -231,6 +307,8 @@ KanonATouAgiou = ""
 KanonBTouAgiou = ""
 
 KanonTouAgiouNikolaou = ""
+
+KanonTouApodeipnou = ""
 
 KanonTouApostolou = ""
 
@@ -242,7 +320,13 @@ KanonTouArchangelou = ""
 
 KanonTouEvangelistou = ""
 
+KanonTouIerarchou = ""
+
+KanonTouIeromartyros = ""
+
 KanonTouMartyros = ""
+
+KanonTouMegalomartyros = ""
 
 KanonTouOsiou = ""
 
@@ -250,7 +334,11 @@ KanonATouOsiou = ""
 
 KanonBTouOsiou = ""
 
+KanonTouParalytou = ""
+
 KanonTouPascha = ""
+
+KanonTouPentikostariou = ""
 
 KanonTouProdromou = ""
 
@@ -258,9 +346,13 @@ KanonATouProdromou = ""
 
 KanonBTouProdromou = ""
 
+KanonTouProtomartyros = ""
+
 KanonATouTriodiou = ""
 
 KanonBTouTriodiou = ""
+
+KanonCTouTriodiou = ""
 
 KanonTouProfitou = ""
 
@@ -268,11 +360,17 @@ KanonATouProfitou = ""
 
 KanonBTouProfitou = ""
 
+KanonTouStavrou = ""
+
 KanonTouTriodiou = ""
+
+KanonTouTyflou = ""
 
 KanonTriadikos = ""
 
 Katanyktika = ""
+
+KatanyktikaTroparia = ""
 
 Katanyktikon = ""
 
@@ -310,6 +408,10 @@ KontakionProeortion = ""
 
 KontakionTisEortis = ""
 
+KontakionTisImeras = ""
+
+KontakionTisTheotokou = ""
+
 KontakionTonPateron = ""
 
 KontakionTouPascha = ""
@@ -328,6 +430,8 @@ Megalynaria = ""
 
 Megalynarion = ""
 
+Magnificat = ""
+
 MetaTin1Stichologian = ""
 
 MetaTin1StichologianKathismata = ""
@@ -342,6 +446,10 @@ MetaTonAmomonKaiTaEvlogitaria = ""
 
 MetaTonPolyeleon = ""
 
+Metheorton = ""
+
+Metheortos = ""
+
 Mode = ""
 
 Nekrosima = ""
@@ -352,11 +460,13 @@ NekrosimonKanona = ""
 
 OAftos = ""
 
-OApostolos = "THE EPISTLE"
+OApostolos = ""
 
 OEirmos = ""
 
 OEirmosOsKatavasia = ""
+
+OEirmosProsTo = ""
 
 OiAinoi = ""
 
@@ -396,13 +506,17 @@ Proeortion = ""
 
 Proeortios = ""
 
-Prokeimenon = "Prokeimenon."
+Prokeimenon = ""
+
+ProkeimenonTouApostolou = ""
 
 Prosomoia = ""
 
 PsallomenaEnTiOdiTafti = ""
 
-SmallEntrance = "THE SMALL ENTRANCE"
+PsalmosToDavid = ""
+
+SmallEntrance = ""
 
 Salutations = ""
 
@@ -449,9 +563,13 @@ StichironIdiomelon = ""
 
 StichiraIdiomelaTisEortis = ""
 
+StichiraMartyrika = ""
+
 StichiraProsomoia = ""
 
 StichiraProsomoiaTouAgiou = ""
+
+StichiraProsomoiaTouOsiou = ""
 
 StichiraStavrosima = ""
 
@@ -459,11 +577,21 @@ StichiraTisEortis = ""
 
 StichiraTisTheotokou = ""
 
+StichiraTonAinon = ""
+
+StichiraTonEnkainion = ""
+
+StichiraTonKekoimimenon = ""
+
+StichiraTonPateron = ""
+
 StichiraTouAgiouNikolaou = ""
 
 StichiraTouMinaiou = ""
 
 StichiraTouPascha = ""
+
+StichiraTouPentikostariou = ""
 
 StichiraTouProdromou = ""
 
@@ -473,9 +601,17 @@ StichiraTouTriodiou = ""
 
 Stichoi = ""
 
+Stichologia = ""
+
 Synaxarion = ""
 
-TaAnagnosmata = "THE READINGS"
+TaAnagnosmata = ""
+
+TaAnagnosmataTisSeiras = ""
+
+TaAnagnosmataTouEsperinou = ""
+
+TaAnagnosmataTouMinologiou = ""
 
 TaAnastasima = ""
 
@@ -505,7 +641,11 @@ TisOktoichou = ""
 
 TisOsias = ""
 
+TisOsiomartyros = ""
+
 TisSamaritidos = ""
+
+TisSeiras = ""
 
 TisTheotokou = ""
 
@@ -513,15 +653,19 @@ ToAfto = ""
 
 ToAnastasimon = ""
 
+ToATheotokion = ""
+
 ToATheotokionTouIchou = ""
 
 ToEothinonDoxastikon = ""
 
 ToEothinonTisKyriakis = ""
 
-ToEvangelion = "THE HOLY GOSPEL"
+ToEvangelion = ""
 
 ToTheionEvangelion = ""
+
+ToMartyrikonTouIchou = ""
 
 TonAgion = ""
 
@@ -543,6 +687,8 @@ TonIeromartyron = ""
 
 TonIsapostolon = ""
 
+TonKekoimimenon = ""
+
 TonKoryfaion = ""
 
 TonMartyron = ""
@@ -563,9 +709,13 @@ TouAgiouMandyliou = ""
 
 TouAgiouNikolaou = ""
 
+TouAkathistou = ""
+
 TouApostolou = ""
 
 TouArchangelou = ""
+
+TouDikaiou = ""
 
 TouEvangelistou = ""
 
@@ -579,11 +729,15 @@ TouLazarou = ""
 
 TouMartyros = ""
 
+TouMegalomartyros = ""
+
 TouMinaiou = ""
 
 TouMnistoros = ""
 
 TouNaou = ""
+
+TouNeomartyros = ""
 
 TouOsiomartyros = ""
 
@@ -621,6 +775,8 @@ TroparionTisProfiteias = ""
 
 YmnoiMetaTinMikranEisodon = ""
 
+YmnosEisTinTheotokon = ""
+
 Ypakoi = ""
 
 daySunday = ""
@@ -645,6 +801,11 @@ BeforeEpiphany = ""
 AfterEpiphany = ""
 BeforeCross = ""
 AfterCross = ""
+
+SkippedEpistle = ""
+SkippedGospel = ""
+SkippedEpistleP = ""
+SkippedGospelP = ""
 
 daySunday.uc = ""
 dayMonday.uc = ""
@@ -677,8 +838,14 @@ ForWednesday = ""
 ForThursday = ""
 ForFriday = ""
 ForSaturday = ""
+ForWeekday = ""
 Evening = ""
+Evening.uc = ""
+intheEvening = ""
 Morning = ""
+Morning.uc = ""
+beforeMeatFareSunday = ""
+ofCheeseWeek = ""
 ofWeek1 = ""
 ofWeek2 = ""
 ofWeek3 = ""
@@ -686,8 +853,12 @@ ofWeek4 = ""
 ofWeek5 = ""
 ofWeek6_tr = ""
 ofWeek6_pe = ""
+ofAscension = ""
+ofPentecost = ""
+ofHolyWeek = ""
 ofWeek7 = ""
 ofWeek8_pe = ""
+ofCheeseWeek.uc = ""
 ofWeek1.uc = ""
 ofWeek2.uc = ""
 ofWeek3.uc = ""
@@ -720,10 +891,13 @@ IntermediateVersesOde8 = ""
 PhotagogicHymns = ""
 ofBrightWeek = ""
 
+sourceEuchologion = ""
 sourceHorologion = ""
 sourceMenaion = ""
+sourceMeSupplement = ""
 sourceOctoechos = ""
 sourcePentecostarion = ""
+sourcePeSupplement = ""
 sourceTriodion = ""
 
 //used by Horologion Eclogarion
@@ -752,6 +926,7 @@ eclog.ProphetElias.title = ""
 eclog.StAnne.title = ""
 eclog.Transfiguration.title = ""
 eclog.Dormition.title = ""
+eclog.Theotokos.title = ""
 eclog.Meatfare.title = ""
 
 forMeeting = ""

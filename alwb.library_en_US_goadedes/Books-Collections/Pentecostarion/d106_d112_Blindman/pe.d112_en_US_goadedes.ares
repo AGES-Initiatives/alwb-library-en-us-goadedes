@@ -1,0 +1,84 @@
+A_Resource_Whose_Name = pe.d112_en_US_goadedes
+
+peDA.commemoration.full = "" //full title of day
+peDA.commemoration.short = ""
+peDA.insert1 = "" //for use in petitions and dismissal
+peDA.insert2 = "" //for use in petitions and dismissal
+peDA.note = ""
+peHO.daytitle = ""
+peHO.commemorations = ""
+peHO.description1 = ""
+peHO.description2 = ""
+peHO.note1 = ""
+peHO.note2 = ""
+peDA.dismissal = dismissals_en_US_goadedes.dis00.ascension
+
+peVE.Stichera01.mode = misc_en_US_goadedes.Mode4
+peVE.Stichera01.melody = he.a.m4_en_US_goadedes.EdokasSimeiosin.name
+peVE.Stichera01.incipit = "…"
+peVE.Stichera01.text = ""
+
+peVE.Stichera02.mode = misc_en_US_goadedes.Mode4
+peVE.Stichera02.melody = he.a.m4_en_US_goadedes.EdokasSimeiosin.name
+peVE.Stichera02.incipit = "…"
+peVE.Stichera02.text = ""
+
+peVE.Stichera03.mode = misc_en_US_goadedes.Mode4
+peVE.Stichera03.melody = he.a.m4_en_US_goadedes.EdokasSimeiosin.name
+peVE.Stichera03.incipit = "…"
+peVE.Stichera03.text = ""
+
+peVE.SticGlory.mode = pe.d110_en_US_goadedes.peMA.PostGospelIdiomelon.mode
+peVE.SticGlory.melody = pe.d110_en_US_goadedes.peMA.PostGospelIdiomelon.melody
+peVE.SticGlory.incipit = pe.d110_en_US_goadedes.peMA.PostGospelIdiomelon.incipit
+peVE.SticGlory.text = pe.d110_en_US_goadedes.peMA.PostGospelIdiomelon.text
+
+peVE.Aposticha1.mode = misc_en_US_goadedes.Mode2
+peVE.Aposticha1.melody = he.a.m2_en_US_goadedes.OikosTouEfratha.name
+peVE.Aposticha1.incipit = "…"
+peVE.Aposticha1.text = ""
+
+peVE.Aposticha2.mode = misc_en_US_goadedes.Mode2
+peVE.Aposticha2.melody = he.a.m2_en_US_goadedes.OikosTouEfratha.name
+peVE.Aposticha2.incipit = "…"
+peVE.Aposticha2.text = ""
+
+peVE.Aposticha3.mode = misc_en_US_goadedes.Mode2
+peVE.Aposticha3.melody = he.a.m2_en_US_goadedes.OikosTouEfratha.name
+peVE.Aposticha3.incipit = "…"
+peVE.Aposticha3.text = ""
+
+peVE.AposGlory.mode = misc_en_US_goadedes.Mode7
+peVE.AposGlory.melody = misc_en_US_goadedes.Idiomelon
+peVE.AposGlory.incipit = "…"
+peVE.AposGlory.text = ""
+
+peMA.Kathisma11.mode = pe.d110_en_US_goadedes.peMA.Kathisma11.mode
+peMA.Kathisma11.melody = pe.d110_en_US_goadedes.peMA.Kathisma11.melody
+peMA.Kathisma11.incipit = pe.d110_en_US_goadedes.peMA.Kathisma11.incipit
+peMA.Kathisma11.text = pe.d110_en_US_goadedes.peMA.Kathisma11.text
+
+peMA.Kathisma21.mode = misc_en_US_goadedes.Mode1
+peMA.Kathisma21.melody = he.a.m1_en_US_goadedes.TouLithouSfragisthentos.name
+peMA.Kathisma21.incipit = "…"
+peMA.Kathisma21.text = ""
+
+peMA.Aposticha1.mode = misc_en_US_goadedes.Mode2
+peMA.Aposticha1.melody = he.a.m2_en_US_goadedes.OikosTouEfratha.name
+peMA.Aposticha1.incipit = "…"
+peMA.Aposticha1.text = ""
+
+peMA.Aposticha2.mode = misc_en_US_goadedes.Mode2
+peMA.Aposticha2.melody = he.a.m2_en_US_goadedes.OikosTouEfratha.name
+peMA.Aposticha2.incipit = "…"
+peMA.Aposticha2.text = ""
+
+peMA.Aposticha3.mode = misc_en_US_goadedes.Mode2
+peMA.Aposticha3.melody = he.a.m2_en_US_goadedes.OikosTouEfratha.name
+peMA.Aposticha3.incipit = "…"
+peMA.Aposticha3.text = ""
+
+peMA.AposGlory.mode = misc_en_US_goadedes.Mode8
+peMA.AposGlory.melody = misc_en_US_goadedes.Idiomelon
+peMA.AposGlory.incipit = "…"
+peMA.AposGlory.text = ""

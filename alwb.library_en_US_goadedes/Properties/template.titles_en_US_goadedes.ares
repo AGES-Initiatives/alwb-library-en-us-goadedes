@@ -1,0 +1,354 @@
+A_Resource_Whose_Name = template.titles_en_US_goadedes 
+
+//books - collections
+eo = ""
+eu = ""
+he = ""
+hi = ""
+ho = ""
+ka = ""
+le = "" // this should be divided into three sections: prophecies, epistles, gospels
+me = ""
+oc = ""
+oc.html.tab = ""
+oc.pdf.header = ""
+oc.pdf.cover = ""
+pe = ""
+ps = ""
+sy = ""
+tr = ""
+
+//service days
+sat = ""
+sun = ""
+wkd = ""
+
+//sacraments
+bap.html.tab = ""
+bap.pdf.header = ""
+bap.pdf.cover = ""
+
+cdo.html.tab = ""
+cdo.pdf.header = ""
+cdo.pdf.cover = ""
+
+chi.html.tab = ""
+chi.pdf.header = ""
+chi.pdf.cover = ""
+
+con.html.tab = ""
+con.pdf.header = ""
+con.pdf.cover = ""
+
+fun.html.tab = ""
+fun.pdf.header = ""
+fun.pdf.cover = ""
+
+mem.html.tab = ""
+mem.pdf.header = ""
+mem.pdf.cover = ""
+
+ord.html.tab = ""
+ord.pdf.header = ""
+ord.pdf.cover = ""
+
+pen.html.tab = ""
+pen.pdf.header = ""
+pen.pdf.cover = ""
+
+swb.html.tab = ""
+swb.pdf.header = ""
+swb.pdf.cover = ""
+
+unc.html.tab = ""
+unc.pdf.header = ""
+unc.pdf.cover = ""
+
+wed.html.tab = ""
+wed.pdf.header = ""
+wed.pdf.cover = ""
+
+//service names
+service = ""
+
+co.html.tab = ""
+co.pdf.header = ""
+co.pdf.cover = ""
+co.smallcompline.html.tab = ""
+co.smallcompline.pdf.cover = ""
+co.smallcompline.pdf.header = ""
+co.smallcomplinewithcanon.html.tab = ""
+co.smallcomplinewithcanon.pdf.cover = ""
+co.smallcomplinewithcanon.pdf.header = ""
+co.akathist.html.tab = ""
+co.akathist.pdf.header = ""
+co.akathist.pdf.cover = ""
+co.salutations.pdf.cover = ""
+co.salutations.pdf.header = ""
+co.greatcanon.html.tab = ""
+co.greatcanon.pdf.cover = ""
+co.greatcanon.pdf.header = ""
+co.greatcompline.pdf.cover = ""
+co.greatcompline.pdf.header = ""
+co.christmasvigil.html.tab = ""
+co.christmasvigil.pdf.cover = ""
+co.christmasvigil.pdf.header = ""
+co.epiphanyvigil.html.tab = ""
+co.epiphanyvigil.pdf.cover = ""
+co.epiphanyvigil.pdf.header = ""
+
+co1.html.tab = "" //this is the pre-resurrection service of Pascha
+co1.pdf.header = ""
+co1.pdf.cover = ""
+
+co2.html.tab = "" 
+co2.pdf.header = ""
+co2.pdf.cover = ""
+
+co3.html.tab = "" 
+co3.pdf.header = ""
+co3.pdf.cover = ""
+
+co4.html.tab = "" 
+co4.pdf.header = ""
+co4.pdf.cover = ""
+
+co6.html.tab = ""
+co6.pdf.header = ""
+co6.pdf.cover = ""
+
+dr.html.tab = ""
+dr.pdf.header = ""
+dr.pdf.cover = ""
+
+em.html.tab = "" //this is for Matins in the evening during Holy Week
+em.pdf.header = ""
+em.pdf.cover = ""
+
+em3.html.tab = "" 
+em3.pdf.header = ""
+em3.pdf.cover = ""
+
+gc.html.tab = ""
+gc.pdf.header = ""
+gc.pdf.cover = ""
+
+gh.html.tab = ""
+gh.pdf.header = ""
+gh.pdf.cover = ""
+
+gp.html.tab = ""
+gp.pdf.header = ""
+gp.pdf.cover = ""
+
+h1.html.tab = ""
+h1.pdf.header = ""
+h1.pdf.cover = ""
+
+h13.html.tab = ""
+h13.pdf.header = ""
+h13.pdf.cover = ""
+
+h3.html.tab = ""
+h3.pdf.header = ""
+h3.pdf.cover = ""
+
+h36.html.tab = ""
+h36.pdf.header = ""
+h36.pdf.cover = ""
+
+h6.html.tab = ""
+h6.pdf.header = ""
+h6.pdf.cover = ""
+
+h61.html.tab = ""
+h61.pdf.header = ""
+h61.pdf.cover = ""
+
+h9.html.tab = ""
+h9.pdf.header = ""
+h9.pdf.cover = ""
+
+h91.html.tab = ""
+h91.pdf.header = ""
+h91.pdf.cover = ""
+
+h92.html.tab = ""
+h92.pdf.header = ""
+h92.pdf.cover = ""
+
+hw.pdf.cover = ""
+
+li.html.tab = ""
+li.pdf.header = ""
+li.pdf.cover = ""
+
+li2.html.tab = ""
+li2.pdf.header = ""
+li2.pdf.cover = ""
+
+li3.html.tab = ""
+li3.pdf.header = ""
+li3.pdf.cover = ""
+
+li4.html.tab = ""
+li4.pdf.header = ""
+li4.pdf.cover = ""
+
+li5.html.tab = ""
+li5.pdf.header = ""
+li5.pdf.cover = ""
+
+li8.html.tab = ""
+li8.pdf.header = ""
+li8.pdf.cover = ""
+
+ma.html.tab = ""
+ma.pdf.header = ""
+ma.pdf.cover = ""
+
+ma2.html.tab = ""
+ma2.pdf.header = ""
+ma2.pdf.cover = ""
+
+ma3.html.tab = ""
+ma3.pdf.header = ""
+ma3.pdf.cover = ""
+
+ma4.html.tab = ""
+ma4.pdf.header = ""
+ma4.pdf.cover = ""
+
+ma5.html.tab = ""
+ma5.pdf.header = ""
+ma5.pdf.cover = ""
+
+mo.html.tab = ""
+mo.pdf.header = ""
+mo.pdf.cover = ""
+
+mo1.html.tab = ""
+mo1.pdf.header = ""
+mo1.pdf.cover = ""
+
+mo6.html.tab = ""
+mo6.pdf.header = ""
+mo6.pdf.cover = ""
+
+pl.html.tab = ""
+pl.pdf.header = ""
+pl.pdf.cover = ""
+
+sp.html.tab = ""
+sp.pdf.header = ""
+sp.pdf.cover = ""
+
+sv.html.tab = ""
+sv.pdf.header = ""
+sv.pdf.cover = ""
+
+sv3.html.tab = ""
+sv3.pdf.header = ""
+sv3.pdf.cover = ""
+
+ve.html.tab = ""
+ve.pdf.header = ""
+ve.pdf.cover = ""
+
+ve2.html.tab = ""
+ve2.pdf.header = ""
+ve2.pdf.cover = ""
+
+ve3.html.tab = ""
+ve3.pdf.header = ""
+ve3.pdf.cover = ""
+
+ve4.html.tab = ""
+ve4.pdf.header = ""
+ve4.pdf.cover = ""
+
+ve5.html.tab = ""
+ve5.pdf.header = ""
+ve5.pdf.cover = ""
+
+vl.html.tab = ""
+vl.pdf.header = ""
+vl.pdf.cover = ""
+vl.pdf.cover2 = ""
+
+//other
+d = ""
+d.delimiter = ""
+d.for = ""
+d.of = ""
+d.on = ""
+d.ontheeveof = ""
+d.onSundayMorning = ""
+d.onSundayEvening = ""
+d.onMondayMorning = ""
+d.onMondayEvening = ""
+d.onTuesdayMorning = ""
+d.onTuesdayEvening = ""
+d.onWednesdayMorning = ""
+d.onWednesdayEvening = ""
+d.onThursdayMorning = ""
+d.onThursdayEvening = ""
+d.onFridayMorning = ""
+d.onFridayAfternoon = ""
+d.onFridayEvening = ""
+d.onSaturdayMorning = ""
+d.onSaturdayEvening = ""
+
+me.SundayAfterFeast = ""
+
+me.m01.d06.onEpiphanyEve = ""
+me.m12.d25.onChristmasEve = ""
+
+m.month = "" // I will programatically determine whether to look up the m.month vs m.mode key
+m.mode = ""
+
+//Holy Week
+hw.mergedscores.title = ""
+hw.palmsunday = ""
+hw.bridegroomservice = ""
+hw.passion = ""
+hw.removal = ""
+hw.lamentation = ""
+hw.beforeresurrection = ""
+hw.ofholymonday = ""
+hw.ofholytuesday = ""
+hw.ofholywednesday = ""
+hw.ofholythursday = ""
+hw.ofholyfriday = ""
+hw.ofholysaturday = ""
+
+pa.pascha = ""
+pa.ofpascha = ""
+pa.resurrection = ""
+pa.easter = ""
+pa.agape = ""
+pa.brightweek = ""
+pa.ofbrightweek = ""
+
+sal.theotokos = ""
+
+clps.stichologia.top = ""
+clps.stichologia.bottom = ""
+clps.additionallitanies.top = ""
+clps.additionallitanies.bottom = ""
+clps.additionalpetitions.top = ""
+clps.additionalpetitions.bottom = ""
+clps.alternative.top = ""
+clps.alternative.bottom = ""
+clps.matinsordinary.top = ""
+clps.matinsordinary.bottom = ""
+clps.prayers.top = ""
+clps.prayers.bottom = ""
+clps.precommunionprayers.top = ""
+clps.precommunionprayers.bottom = ""
+clps.lity.top = ""
+clps.lity.bottom = ""
+clps.selectedverses.top = ""
+clps.selectedverses.bottom = ""
+clps.typikon.top = ""
+clps.typikon.bottom = ""

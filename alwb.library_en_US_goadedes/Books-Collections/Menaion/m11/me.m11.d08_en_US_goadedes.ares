@@ -169,13 +169,13 @@ meMA.MM.Prokeimenon.text = properties_en_US_goadedes.media.key
 
 meMA.PostGospelGlory.mode = misc_en_US_goadedes.Mode2
 meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.incipit = //ho.s03_en_US_goadedes.hoMA.PostGospelAngels.incipit
-meMA.PostGospelGlory.text = //ho.s03_en_US_goadedes.hoMA.PostGospelAngels.text
+meMA.PostGospelGlory.incipit = ho.s03_en_US_goadedes.hoMA.PostGospelAngels.incipit
+meMA.PostGospelGlory.text = ho.s03_en_US_goadedes.hoMA.PostGospelAngels.text
 
 meMA.PostGospelBoth.mode = misc_en_US_goadedes.Mode2
 meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.incipit = //ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.incipit
-meMA.PostGospelBoth.text = //ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.text
+meMA.PostGospelBoth.incipit = ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.incipit
+meMA.PostGospelBoth.text = ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_goadedes.Mode2
 meMA.PostGospelIdiomelon.melody = ""
@@ -296,8 +296,8 @@ meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = misc_en_US_goadedes.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_US_goadedes.ToProstachthen.name
-meMA.Ode3KathismaT.incipit = //oc.m8.d1_en_US_goadedes.ocMO.Kathisma22.incipit
-meMA.Ode3KathismaT.text = //oc.m8.d1_en_US_goadedes.ocMO.Kathisma22.text
+meMA.Ode3KathismaT.incipit = oc.m8.d1_en_US_goadedes.ocMO.Kathisma22.incipit
+meMA.Ode3KathismaT.text = oc.m8.d1_en_US_goadedes.ocMO.Kathisma22.text
 
 meMA.Ode4C11.ode = misc_en_US_goadedes.Ode4
 meMA.Ode4C11.mode = misc_en_US_goadedes.Mode8
@@ -636,8 +636,8 @@ meMA.LaudsGlory.text = ""
 
 meMA.LaudsTheotokion.mode = misc_en_US_goadedes.Mode5
 meMA.LaudsTheotokion.melody = ""
-meMA.LaudsTheotokion.incipit = //oc.m5.d3_en_US_goadedes.ocVE.AposTheotokion.incipit
-meMA.LaudsTheotokion.text = //oc.m5.d3_en_US_goadedes.ocVE.AposTheotokion.text
+meMA.LaudsTheotokion.incipit = oc.m5.d3_en_US_goadedes.ocVE.AposTheotokion.incipit
+meMA.LaudsTheotokion.text = oc.m5.d3_en_US_goadedes.ocVE.AposTheotokion.text
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_goadedes.media.key
 meMA.MM.Lauds123as678.text = properties_en_US_goadedes.media.key

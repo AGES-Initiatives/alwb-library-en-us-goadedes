@@ -22,8 +22,8 @@ ocVE.Stichera4.text = ""
 
 ocVE.Stichera5.mode = misc_en_US_goadedes.Mode2
 ocVE.Stichera5.melody = he.a.m2_en_US_goadedes.OteEkTouXylou.name
-ocVE.Stichera5.incipit = "Truly rising up over my head…"
-ocVE.Stichera5.text = "Truly rising up over my head * are the many sins and transgressions that I committed indeed; * truly they have multiplied more than the hairs of my head. * O pure Virgin, I have incurred innumerable burdens, * too heavy for me, incorrigible wretch that I am. * Please come quickly, help me and save me, * by your prayers and strong intercession; * for you can restore those who committed sins."
+ocVE.Stichera5.incipit = "…"
+ocVE.Stichera5.text = ""
 
 ocVE.Stichera6.mode = misc_en_US_goadedes.Mode2
 ocVE.Stichera6.melody = he.a.m2_en_US_goadedes.OteEkTouXylou.name
@@ -57,8 +57,8 @@ ocVE.AposTheotokion.text = ""
 
 ocVE.ApolTheotokionVM.mode = misc_en_US_goadedes.Mode2
 ocVE.ApolTheotokionVM.melody = ""
-ocVE.ApolTheotokionVM.incipit = //oc.m2.d1_en_US_goadedes.ocMA.Kathisma13.incipit
-ocVE.ApolTheotokionVM.text = //oc.m2.d1_en_US_goadedes.ocMA.Kathisma13.text
+ocVE.ApolTheotokionVM.incipit = oc.m2.d1_en_US_goadedes.ocMA.Kathisma13.incipit
+ocVE.ApolTheotokionVM.text = oc.m2.d1_en_US_goadedes.ocMA.Kathisma13.text
 
 ocMA.Kathisma11.mode = misc_en_US_goadedes.Mode2
 ocMA.Kathisma11.melody = ""
@@ -566,13 +566,13 @@ ocMA.AposTheotokion.text = ""
 
 ocMA.ApolTheotokion.mode = misc_en_US_goadedes.Mode2
 ocMA.ApolTheotokion.melody = ""
-ocMA.ApolTheotokion.incipit = //oc.m2.d2_en_US_goadedes.ocMA.Kathisma23.incipit
-ocMA.ApolTheotokion.text = //oc.m2.d2_en_US_goadedes.ocMA.Kathisma23.text
+ocMA.ApolTheotokion.incipit = oc.m2.d2_en_US_goadedes.ocMA.Kathisma23.incipit
+ocMA.ApolTheotokion.text = oc.m2.d2_en_US_goadedes.ocMA.Kathisma23.text
 
 ocLI.Beatitudes1.mode = misc_en_US_goadedes.Mode2
 ocLI.Beatitudes1.melody = he.h.m2_en_US_goadedes.SyToLogoSouKyrie.name
-ocLI.Beatitudes1.incipit = //oc.m2.d1_en_US_goadedes.ocLI.Beatitudes1.incipit
-ocLI.Beatitudes1.text = //oc.m2.d1_en_US_goadedes.ocLI.Beatitudes1.text
+ocLI.Beatitudes1.incipit = oc.m2.d1_en_US_goadedes.ocLI.Beatitudes1.incipit
+ocLI.Beatitudes1.text = oc.m2.d1_en_US_goadedes.ocLI.Beatitudes1.text
 
 ocLI.Beatitudes2.mode = misc_en_US_goadedes.Mode2
 ocLI.Beatitudes2.melody = he.h.m2_en_US_goadedes.SyToLogoSouKyrie.name
@@ -604,16 +604,16 @@ ocLI.MM.Beatitudes1234TrTas78910GB.text = properties_en_US_goadedes.media.key
 //Octoechos in Triodion
 
 octrMA.Triadic1.mode = misc_en_US_goadedes.Mode2
-octrMA.Triadic1.incipit = //oc.m2.d2_en_US_goadedes.octrMA.Triadic1.incipit
-octrMA.Triadic1.text = //oc.m2.d2_en_US_goadedes.octrMA.Triadic1.text
+octrMA.Triadic1.incipit = oc.m2.d2_en_US_goadedes.octrMA.Triadic1.incipit
+octrMA.Triadic1.text = oc.m2.d2_en_US_goadedes.octrMA.Triadic1.text
 
 octrMA.Triadic2.mode = misc_en_US_goadedes.Mode2
-octrMA.Triadic2.incipit = //oc.m2.d2_en_US_goadedes.octrMA.Triadic2.incipit
-octrMA.Triadic2.text = //oc.m2.d2_en_US_goadedes.octrMA.Triadic2.text
+octrMA.Triadic2.incipit = oc.m2.d2_en_US_goadedes.octrMA.Triadic2.incipit
+octrMA.Triadic2.text = oc.m2.d2_en_US_goadedes.octrMA.Triadic2.text
 
 octrMA.Triadic3.mode = misc_en_US_goadedes.Mode2
-octrMA.Triadic3.incipit = //oc.m2.d2_en_US_goadedes.octrMA.Triadic3.incipit
-octrMA.Triadic3.text = //oc.m2.d2_en_US_goadedes.octrMA.Triadic3.text
+octrMA.Triadic3.incipit = oc.m2.d2_en_US_goadedes.octrMA.Triadic3.incipit
+octrMA.Triadic3.text = oc.m2.d2_en_US_goadedes.octrMA.Triadic3.text
 
 octrMA.Kathisma11.mode = misc_en_US_goadedes.Mode2
 octrMA.Kathisma11.melody = ""
@@ -636,5 +636,5 @@ octrMA.Ode7Martyricon.incipit = ocMA.Kathisma32.incipit
 octrMA.Ode7Martyricon.text = ocMA.Kathisma32.text
 
 octrMA.Photogogic.mode = misc_en_US_goadedes.Mode2
-octrMA.Photogogic.incipit = //oc.m2.d2_en_US_goadedes.octrMA.Photagogic.incipit
-octrMA.Photogogic.text = //oc.m2.d2_en_US_goadedes.octrMA.Photagogic.text
+octrMA.Photogogic.incipit = oc.m2.d2_en_US_goadedes.octrMA.Photagogic.incipit
+octrMA.Photogogic.text = oc.m2.d2_en_US_goadedes.octrMA.Photagogic.text

@@ -1,0 +1,28 @@
+A_Resource_Whose_Name = me.m09.d12_en_US_goadedes
+
+meDA.date = ""
+meDA.commemoration.full = "" //full title of day
+meDA.commemoration.first = ""
+meDA.commemoration.first_short = ""
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" //for use in petitions and dismissal
+meDA.insert2 = "" //for use in petitions and dismissal
+meDA.note = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meLI.Kontakion1.mode = ""
+meLI.Kontakion1.melody = ""
+meLI.Kontakion1.incipit = "…"
+meLI.Kontakion1.text = ""
+
+meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
+
+meMegalynarion.text = ""
+

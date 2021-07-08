@@ -1,0 +1,120 @@
+A_Resource_Whose_Name = pe.d107_en_US_goadedes
+
+peDA.commemoration.full = "" //full title of day
+peDA.commemoration.short = ""
+peDA.insert1 = "" //for use in petitions and dismissal
+peDA.insert2 = "" //for use in petitions and dismissal
+peDA.note = ""
+peHO.daytitle = ""
+peHO.commemorations = ""
+peHO.description1 = ""
+peHO.description2 = ""
+peHO.note1 = ""
+peHO.note2 = ""
+peDA.dismissal = dismissals_en_US_goadedes.dis00.resurrection
+
+peVE.Stichera01.mode = misc_en_US_goadedes.Mode5
+peVE.Stichera01.melody = he.a.m5_en_US_goadedes.ChairoisAskitikon.name
+peVE.Stichera01.incipit = "…"
+peVE.Stichera01.text = ""
+
+peVE.Stichera02.mode = misc_en_US_goadedes.Mode5
+peVE.Stichera02.melody = he.a.m5_en_US_goadedes.ChairoisAskitikon.name
+peVE.Stichera02.incipit = "…"
+peVE.Stichera02.text = ""
+
+peVE.Stichera03.mode = misc_en_US_goadedes.Mode5
+peVE.Stichera03.melody = he.a.m5_en_US_goadedes.ChairoisAskitikon.name
+peVE.Stichera03.incipit = "…"
+peVE.Stichera03.text = ""
+
+peVE.SticGlory.mode = pe.d106_en_US_goadedes.peVE.Stichera09.mode
+peVE.SticGlory.melody = pe.d106_en_US_goadedes.peVE.Stichera09.melody
+peVE.SticGlory.incipit = pe.d106_en_US_goadedes.peVE.Stichera09.incipit
+peVE.SticGlory.text = pe.d106_en_US_goadedes.peVE.Stichera09.text
+
+peVE.Aposticha1.mode = oc.m5.d1_en_US_goadedes.ocVE.Stichera1.mode
+peVE.Aposticha1.melody = ""
+peVE.Aposticha1.incipit = oc.m5.d1_en_US_goadedes.ocVE.Stichera1.incipit
+peVE.Aposticha1.text = oc.m5.d1_en_US_goadedes.ocVE.Stichera1.text
+
+peVE.Aposticha2.mode = oc.m5.d2_en_US_goadedes.ocVE.Aposticha1.mode
+peVE.Aposticha2.melody = ""
+peVE.Aposticha2.incipit = oc.m5.d2_en_US_goadedes.ocVE.Aposticha1.incipit
+peVE.Aposticha2.text = oc.m5.d2_en_US_goadedes.ocVE.Aposticha1.text
+
+peVE.Aposticha3.mode = oc.m5.d2_en_US_goadedes.ocVE.Aposticha3.mode
+peVE.Aposticha3.melody = ""
+peVE.Aposticha3.incipit = oc.m5.d2_en_US_goadedes.ocVE.Aposticha3.incipit
+peVE.Aposticha3.text = oc.m5.d2_en_US_goadedes.ocVE.Aposticha3.text
+
+peVE.AposGlory.mode = pe.d106_en_US_goadedes.peVE.Stichera10.mode
+peVE.AposGlory.melody = pe.d106_en_US_goadedes.peVE.Stichera10.melody
+peVE.AposGlory.incipit = pe.d106_en_US_goadedes.peVE.Stichera10.incipit
+peVE.AposGlory.text = pe.d106_en_US_goadedes.peVE.Stichera10.text
+
+peMA.Kathisma11.mode = oc.m5.d1_en_US_goadedes.ocMA.Kathisma11.mode
+peMA.Kathisma11.melody = oc.m5.d1_en_US_goadedes.ocMA.Kathisma11.melody
+peMA.Kathisma11.incipit = oc.m5.d1_en_US_goadedes.ocMA.Kathisma11.incipit
+peMA.Kathisma11.text = oc.m5.d1_en_US_goadedes.ocMA.Kathisma11.text
+
+peMA.Kathisma12.mode = oc.m5.d2_en_US_goadedes.ocMA.Kathisma21.mode
+peMA.Kathisma12.melody = ""
+peMA.Kathisma12.incipit = oc.m5.d2_en_US_goadedes.ocMA.Kathisma21.incipit
+peMA.Kathisma12.text = oc.m5.d2_en_US_goadedes.ocMA.Kathisma21.text
+
+peMA.Kathisma13.mode = oc.m5.d5_en_US_goadedes.ocMA.Kathisma32.mode
+peMA.Kathisma13.melody = oc.m5.d5_en_US_goadedes.ocMA.Kathisma32.melody
+peMA.Kathisma13.incipit = oc.m5.d5_en_US_goadedes.ocMA.Kathisma32.incipit
+peMA.Kathisma13.text = oc.m5.d5_en_US_goadedes.ocMA.Kathisma32.text
+
+peMA.Kathisma1T.mode = oc.m5.d2_en_US_goadedes.ocVE.ApolTheotokionVM.mode
+peMA.Kathisma1T.melody = ""
+peMA.Kathisma1T.incipit = oc.m5.d2_en_US_goadedes.ocVE.ApolTheotokionVM.incipit
+peMA.Kathisma1T.text = oc.m5.d2_en_US_goadedes.ocVE.ApolTheotokionVM.text
+
+peMA.Kathisma21.mode = misc_en_US_goadedes.Mode5
+peMA.Kathisma21.melody = he.a.m5_en_US_goadedes.TonSynanarchonLogon.name
+peMA.Kathisma21.incipit = "…"
+peMA.Kathisma21.text = ""
+
+peMA.Lauds1.mode = oc.m5.d1_en_US_goadedes.ocMA.Lauds1.mode
+peMA.Lauds1.melody = ""
+peMA.Lauds1.incipit = oc.m5.d1_en_US_goadedes.ocMA.Lauds1.incipit
+peMA.Lauds1.text = oc.m5.d1_en_US_goadedes.ocMA.Lauds1.text
+
+peMA.Lauds2.mode = oc.m5.d2_en_US_goadedes.ocMA.Aposticha1.mode
+peMA.Lauds2.melody = ""
+peMA.Lauds2.incipit = oc.m5.d2_en_US_goadedes.ocMA.Aposticha1.incipit
+peMA.Lauds2.text = oc.m5.d2_en_US_goadedes.ocMA.Aposticha1.text
+
+peMA.Lauds3.mode = oc.m5.d2_en_US_goadedes.ocMA.Aposticha3.mode
+peMA.Lauds3.melody = ""
+peMA.Lauds3.incipit = oc.m5.d2_en_US_goadedes.ocMA.Aposticha3.incipit
+peMA.Lauds3.text = oc.m5.d2_en_US_goadedes.ocMA.Aposticha3.text
+
+peMA.LaudsGlory.mode = misc_en_US_goadedes.Mode1
+peMA.LaudsGlory.melody = misc_en_US_goadedes.Idiomelon
+peMA.LaudsGlory.incipit = pe.d106_en_US_goadedes.peVE.Stichera10.incipit
+peMA.LaudsGlory.text = pe.d106_en_US_goadedes.peVE.Stichera10.text
+
+peMA.Aposticha1.mode = misc_en_US_goadedes.Mode5
+peMA.Aposticha1.melody = he.a.m5_en_US_goadedes.OsiePater.name
+peMA.Aposticha1.incipit = "…"
+peMA.Aposticha1.text = ""
+
+peMA.Aposticha2.mode = misc_en_US_goadedes.Mode5
+peMA.Aposticha2.melody = he.a.m5_en_US_goadedes.OsiePater.name
+peMA.Aposticha2.incipit = "…"
+peMA.Aposticha2.text = ""
+
+peMA.Aposticha3.mode = misc_en_US_goadedes.Mode5
+peMA.Aposticha3.melody = he.a.m5_en_US_goadedes.OsiePater.name
+peMA.Aposticha3.incipit = "…"
+peMA.Aposticha3.text = ""
+
+peMA.AposGlory.mode = pe.d106_en_US_goadedes.peVE.SticGlory.mode
+peMA.AposGlory.melody = pe.d106_en_US_goadedes.peVE.SticGlory.melody
+peMA.AposGlory.incipit = pe.d106_en_US_goadedes.peVE.SticGlory.incipit
+peMA.AposGlory.text = pe.d106_en_US_goadedes.peVE.SticGlory.text
+

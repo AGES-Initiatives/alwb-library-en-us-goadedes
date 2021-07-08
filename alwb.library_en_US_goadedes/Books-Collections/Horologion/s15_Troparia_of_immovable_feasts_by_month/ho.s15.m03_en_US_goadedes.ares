@@ -1,0 +1,33 @@
+A_Resource_Whose_Name = ho.s15.m03_en_US_goadedes
+
+ho.Month = ""
+ho.Days = ""
+ho.Hours = ""
+
+hoD01.GeneralApolytikion1.name = ""
+
+hoD04.GeneralApolytikion1.name = ""
+
+hoD09.Apolytikion2.title = titles_en_US_goadedes.TonMartyron
+hoD09.Apolytikion2.poet = ""
+hoD09.Apolytikion2.mode = misc_en_US_goadedes.Mode3
+hoD09.Apolytikion2.melody = he.a.m3_en_US_goadedes.TheiasPisteos.name
+hoD09.Apolytikion2.text = ""
+
+hoD12.Apolytikion1.title = titles_en_US_goadedes.TouIerarchou
+hoD12.Apolytikion1.poet = ""
+hoD12.Apolytikion1.mode = misc_en_US_goadedes.Mode3
+hoD12.Apolytikion1.melody = he.a.m3_en_US_goadedes.TheiasPisteos.name
+hoD12.Apolytikion1.incipit = "…"
+hoD12.Apolytikion1.text = ""
+
+hoD12.Kontakion1.title = titles_en_US_goadedes.TouAgiou
+hoD12.Kontakion1.poet = ""
+hoD12.Kontakion1.mode = misc_en_US_goadedes.Mode2
+hoD12.Kontakion1.melody = he.a.m2_en_US_goadedes.TaAnoZiton.name
+hoD12.Kontakion1.incipit = "…"
+hoD12.Kontakion1.text = ""
+
+hoD30.GeneralApolytikion1.name = ""
+
+hoD31.GeneralApolytikion1.name = ""

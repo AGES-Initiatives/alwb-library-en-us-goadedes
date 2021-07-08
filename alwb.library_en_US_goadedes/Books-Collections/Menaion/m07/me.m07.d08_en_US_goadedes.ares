@@ -59,8 +59,8 @@ meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = misc_en_US_goadedes.Mode6
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_goadedes.TriimerosAnestis.name
-meVE.SticStavrotheotokion.incipit = //me.m01.d16_en_US_goadedes.meVE.SticStavrotheotokion.incipit
-meVE.SticStavrotheotokion.text = //me.m01.d16_en_US_goadedes.meVE.SticStavrotheotokion.text
+meVE.SticStavrotheotokion.incipit = me.m01.d16_en_US_goadedes.meVE.SticStavrotheotokion.incipit
+meVE.SticStavrotheotokion.text = me.m01.d16_en_US_goadedes.meVE.SticStavrotheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_goadedes.Mode4
 meVE.Aposticha1.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
@@ -90,8 +90,8 @@ meVE.AposTheotokion.text = "Fiery chariot, we salute you; mystic daybreak, rejoi
 
 meVE.AposStavrotheotokion.mode = misc_en_US_goadedes.Mode8
 meVE.AposStavrotheotokion.melody = he.a.m8_en_US_goadedes.OTouParadoxou.name
-meVE.AposStavrotheotokion.incipit = //me.m01.d15_en_US_goadedes.meMA.AposStavrotheotokion.incipit
-meVE.AposStavrotheotokion.text = //me.m01.d15_en_US_goadedes.meMA.AposStavrotheotokion.text
+meVE.AposStavrotheotokion.incipit = me.m01.d15_en_US_goadedes.meMA.AposStavrotheotokion.incipit
+meVE.AposStavrotheotokion.text = me.m01.d15_en_US_goadedes.meMA.AposStavrotheotokion.text
 
 meVE.Apolytikion1.poet = poets_en_US_goadedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_goadedes.Mode5
@@ -389,8 +389,8 @@ meMA.LaudsGlory.text = ""
 
 meMA.LaudsTheotokion.mode = misc_en_US_goadedes.Mode8
 meMA.LaudsTheotokion.melody = ""
-meMA.LaudsTheotokion.incipit = //oc.m8.d5_en_US_goadedes.ocMA.AposTheotokion.incipit
-meMA.LaudsTheotokion.text = //oc.m8.d5_en_US_goadedes.ocMA.AposTheotokion.text
+meMA.LaudsTheotokion.incipit = oc.m8.d5_en_US_goadedes.ocMA.AposTheotokion.incipit
+meMA.LaudsTheotokion.text = oc.m8.d5_en_US_goadedes.ocMA.AposTheotokion.text
 
 meMA.MM.VeApos1123as3456.text = properties_en_US_goadedes.media.key
 meMA.MM.VeApos1123as5678.text = properties_en_US_goadedes.media.key
