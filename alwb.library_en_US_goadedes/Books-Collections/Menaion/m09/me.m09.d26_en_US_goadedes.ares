@@ -83,11 +83,6 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = me.m05.d08_en_US_goadedes.meVE.SticGlory.incipit
 meVE.SticGlory.text = me.m05.d08_en_US_goadedes.meVE.SticGlory.text
 
-meVE.SticTheotokion.mode = misc_en_US_goadedes.Mode2
-meVE.SticTheotokion.melody = ""
-meVE.SticTheotokion.incipit = oc.m2.d1_en_US_goadedes.ocVE.SticTheotokion.incipit
-meVE.SticTheotokion.text = oc.m2.d1_en_US_goadedes.ocVE.SticTheotokion.text
-
 meVE.Lity1.poet = poets_en_US_goadedes.Germanou
 meVE.Lity1.mode = misc_en_US_goadedes.Mode1
 meVE.Lity1.melody = ""
@@ -102,8 +97,8 @@ meVE.Lity2.text = me.m05.d08_en_US_goadedes.meVE.Lity2.text
 
 meVE.Lity3.mode = misc_en_US_goadedes.Mode1
 meVE.Lity3.melody = ""
-meVE.Lity3.incipit = "…"
-meVE.Lity3.text = ""
+meVE.Lity3.incipit = "O Disciple of the Savior…"
+meVE.Lity3.text = "O Disciple of the Savior, Virgin and Theologian, when Christ our God was hanging on the Cross, He entrusted the Virgin and Theotokos to you as virgin; and you guarded her as the apple of your eye. We pray you intercede for the salvation of our souls."
 
 meVE.Lity4.mode = misc_en_US_goadedes.Mode1
 meVE.Lity4.melody = ""
@@ -124,8 +119,8 @@ meVE.LityGlory.text = me.m05.d08_en_US_goadedes.meVE.LityGlory.text
 
 meVE.LityBoth.mode = misc_en_US_goadedes.Mode4
 meVE.LityBoth.melody = ""
-meVE.LityBoth.incipit = "…"
-meVE.LityBoth.text = ""
+meVE.LityBoth.incipit = "With the Father and the Spirit…"
+meVE.LityBoth.text = "With the Father and the Spirit, the Son is also glorified in the heights by the Cherubim. Wishing to refashion first-created man, He emptied himself wholly and ineffably in your womb, O all-lauded Theotokos. Rising from you like the sun, He illumined the entire world with His divinity, and He freed it from the folly of idolatry. In himself He deified humanity, and He joined it to heaven. He is Christ our God and the Savior of our souls."
 
 meVE.Aposticha1.mode = misc_en_US_goadedes.Mode4
 meVE.Aposticha1.melody = he.a.m4_en_US_goadedes.OExYpsistouKlitheis.name
@@ -147,11 +142,6 @@ meVE.AposGlory.mode = misc_en_US_goadedes.Mode6
 meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = me.m05.d08_en_US_goadedes.meVE.AposGlory.incipit
 meVE.AposGlory.text = me.m05.d08_en_US_goadedes.meVE.AposGlory.text
-
-meVE.AposTheotokion.mode = misc_en_US_goadedes.Mode6
-meVE.AposTheotokion.melody = ""
-meVE.AposTheotokion.incipit = oc.m6.d1_en_US_goadedes.ocVE.AposTheotokion.incipit
-meVE.AposTheotokion.text = oc.m6.d1_en_US_goadedes.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_goadedes.Mode2
 meVE.Apolytikion1.melody = ""
@@ -180,8 +170,8 @@ meMA.Kathisma2T.text = ""
 
 meMA.Kathisma31.mode = misc_en_US_goadedes.Mode8
 meMA.Kathisma31.melody = he.a.m8_en_US_goadedes.TinSofianKaiLogon.name
-meMA.Kathisma31.incipit = "…"
-meMA.Kathisma31.text = ""
+meMA.Kathisma31.incipit = me.m05.d08_en_US_goadedes.meMA.Kathisma21.incipit
+meMA.Kathisma31.text = me.m05.d08_en_US_goadedes.meMA.Kathisma21.text
 
 meMA.Kathisma3T.mode = misc_en_US_goadedes.Mode8
 meMA.Kathisma3T.melody = he.a.m8_en_US_goadedes.TinSofianKaiLogon.name

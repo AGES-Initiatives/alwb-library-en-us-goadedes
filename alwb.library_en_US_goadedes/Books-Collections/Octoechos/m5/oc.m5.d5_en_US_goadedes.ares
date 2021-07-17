@@ -77,18 +77,19 @@ ocMA.Kathisma13.text = ""
 
 ocMA.Kathisma21.mode = misc_en_US_goadedes.Mode5
 ocMA.Kathisma21.melody = he.a.m5_en_US_goadedes.TonSynanarchonLogon.name
-ocMA.Kathisma21.incipit = "…"
-ocMA.Kathisma21.text = ""
+ocMA.Kathisma21.incipit = "Let us extol the Apostles…"
+ocMA.Kathisma21.text = "Let us extol the Apostles in sacred hymns of praise, * those godly preachers and eyewitnesses of the Word of God. * They were spiritual fishermen, by whom the nations were caught. * They are the ones introduced us to the knowledge of Christ; * and they freed from deception * the human race and made us worthy of the Kingdom of God."
 
 ocMA.Kathisma22.mode = misc_en_US_goadedes.Mode5
 ocMA.Kathisma22.melody = he.a.m5_en_US_goadedes.TonSynanarchonLogon.name
-ocMA.Kathisma22.incipit = "…"
-ocMA.Kathisma22.text = ""
+ocMA.Kathisma22.incipit = "I entreat you…"
+ocMA.Kathisma22.text = "I entreat you, the Savior's Disciples and divine * God-inspired Apostles, who sowed the saving Word * everywhere throughout the earth, and who enlightened all * who were sitting in the the darkness and shadow: Shine the light * into my soul that is darkened * by the murkiness of the passions, at your entreaties, O all-wise Saints."
 
 ocMA.Kathisma23.mode = misc_en_US_goadedes.Mode5
 ocMA.Kathisma23.melody = he.a.m5_en_US_goadedes.TonSynanarchonLogon.name
-ocMA.Kathisma23.incipit = "…"
-ocMA.Kathisma23.text = ""
+ocMA.Kathisma23.incipit = "O immaculate Virgin…"
+ocMA.Kathisma23.text = "O immaculate Virgin, in you we place our hope * resolutely, O Maiden, for you protect us all. * We entreat you, keep us free from any injury, * from the various temptations, from danger and from harm, * joining the holy Apostles * imploring your Son, our Savior,
+for the salvation of all who sing your praise."
 
 ocMA.Kathisma31.mode = misc_en_US_goadedes.Mode5
 ocMA.Kathisma31.melody = ""
@@ -555,13 +556,13 @@ ocMA.OdeW9C2T.text = ""
 
 ocMA.Aposticha1.mode = misc_en_US_goadedes.Mode5
 ocMA.Aposticha1.melody = ""
-ocMA.Aposticha1.incipit = "…"
-ocMA.Aposticha1.text = ""
+ocMA.Aposticha1.incipit = ocVE.Aposticha1.incipit
+ocMA.Aposticha1.text = ocVE.Aposticha1.text
 
 ocMA.Aposticha2.mode = misc_en_US_goadedes.Mode5
 ocMA.Aposticha2.melody = ""
-ocMA.Aposticha2.incipit = "…"
-ocMA.Aposticha2.text = ""
+ocMA.Aposticha2.incipit = ocVE.Aposticha2.incipit
+ocMA.Aposticha2.text = ocVE.Aposticha2.text
 
 ocMA.Aposticha3.mode = misc_en_US_goadedes.Mode5
 ocMA.Aposticha3.melody = ""
