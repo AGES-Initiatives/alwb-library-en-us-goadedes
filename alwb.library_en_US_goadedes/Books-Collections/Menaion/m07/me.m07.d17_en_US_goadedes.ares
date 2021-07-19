@@ -123,6 +123,8 @@ meMA.Kathisma2T.melody = he.a.m1_en_US_goadedes.TonTafonSouSotir.name
 meMA.Kathisma2T.incipit = oc.m1.d1_en_US_goadedes.ocMA.Kathisma13.incipit
 meMA.Kathisma2T.text = oc.m1.d1_en_US_goadedes.ocMA.Kathisma13.text
 
+meMA.R01 = ""
+
 meMA.Kathisma31.mode = misc_en_US_goadedes.Mode4
 meMA.Kathisma31.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
 meMA.Kathisma31.text = "" // see Σύστημα Τυπικοῦ
@@ -131,6 +133,8 @@ meMA.Kathisma3T.mode = misc_en_US_goadedes.Mode4
 meMA.Kathisma3T.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
 meMA.Kathisma3T.incipit = "…"
 meMA.Kathisma3T.text = ""
+
+meMA.R02 = ""
 
 meMA.MM.Prokeimenon.text = properties_en_US_goadedes.media.key
 
