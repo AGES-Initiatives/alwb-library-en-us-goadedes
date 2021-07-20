@@ -78,8 +78,8 @@ meVE.LityGlory.text = ""
 
 meVE.LityBoth.mode = misc_en_US_goadedes.Mode2
 meVE.LityBoth.melody = ""
-meVE.LityBoth.incipit = "…"
-meVE.LityBoth.text = ""
+meVE.LityBoth.incipit = oc.m2.d1_en_US_goadedes.ocSV.Dogmatic.incipit
+meVE.LityBoth.text = oc.m2.d1_en_US_goadedes.ocSV.Dogmatic.text
 
 meVE.Aposticha1.mode = misc_en_US_goadedes.Mode2
 meVE.Aposticha1.melody = ""

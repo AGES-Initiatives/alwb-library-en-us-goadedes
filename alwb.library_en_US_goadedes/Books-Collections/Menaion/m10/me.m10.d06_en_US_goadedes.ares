@@ -60,13 +60,13 @@ meVE.Aposticha3.text = ""
 meVE.AposGlory.poet = poets_en_US_goadedes.Anatoliou
 meVE.AposGlory.mode = misc_en_US_goadedes.Mode6
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "v…"
+meVE.AposGlory.text = "You witnessed divine mysteries, O Apostle Thomas, and mystically you became the spiritual wine bowl of the wisdom of Christ, by which the souls of believers are gladdened. With the divine net of the Spirit, you pulled people up from the depths of despair. You came forth from Zion like a river of grace, pouring out your inspired teachings to all of creation. Then you imitated the Passion of Christ, and you were pierced in the side. Now that you have entered the divine darkness of incorruption, implore Him to have mercy on our souls."
 
 meVE.AposTheotokion.mode = misc_en_US_goadedes.Mode6
 meVE.AposTheotokion.melody = he.a.m6_en_US_goadedes.OlinApothemenoi.name
 meVE.AposTheotokion.incipit = "…"
-meVE.AposTheotokion.text = ""
+meVE.AposTheotokion.text = "All-pure Virgin, as I think about the frightful tribunal * and the judgment of the world * by your Son, our Lord and God, when He comes again, * at a loss and afraid, trembling, I am dreading * the examination of my deeds, * all reprehensible, * shameful and despicable, all of them, * indeed deserving odium, * and worthy of darkness and punishment. * See my consternation, see also the contrition of my soul, * and in your pity deliver me * from that painful punishment."
 
 meVE.GeneralApolytikion1.mode = misc_en_US_goadedes.Mode3
 meVE.GeneralApolytikion1.melody = he.ga_en_US_goadedes.ApostoleAgie.name
@@ -86,8 +86,8 @@ meMA.Kathisma21.text = ""
 
 meMA.Kathisma2T.mode = misc_en_US_goadedes.Mode5
 meMA.Kathisma2T.melody = he.a.m5_en_US_goadedes.TonSynanarchonLogon.name
-meMA.Kathisma2T.incipit = "…"
-meMA.Kathisma2T.text = ""
+meMA.Kathisma2T.incipit = "e implore you, O Virgin…"
+meMA.Kathisma2T.text = "We implore you, O Virgin, to pray to God the Lord, * who from you was incarnate for us who have become * corrupted in our many sins, that He have mercy on us, * and that He turn away His anger and wrath from us who pray * to you with faith, gracious Lady, * and never cease to extol you * and your grace's magnificence."
 
 meMA.C1.poet = poets_en_US_goadedes.Theofanous
 meMA.C1.acrostic = ""
@@ -156,8 +156,8 @@ meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = misc_en_US_goadedes.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_US_goadedes.TinSofianKaiLogon.name
-meMA.Ode3KathismaT.incipit = "…"
-meMA.Ode3KathismaT.text = ""
+meMA.Ode3KathismaT.incipit = "Let us sing hymns…"
+meMA.Ode3KathismaT.text = "Let us sing hymns in praise of the holy ark * and the heavenly gate and the shining cloud, * the all-holy mountain, and the bush that was not consumed, * the rational Paradise, and the redemption of Eve, * the magnificent treasure of the entire universe. * For in her and through her for the world was salvation * accomplished and forgiveness of its ancient transgressions. * Let us therefore cry out to her, * \"Intercede with your Son and our God * that remission of offenses be bestowed * on those who piously worship the all-holy Child you bore.\""
 
 meMA.Ode4C11.ode = misc_en_US_goadedes.Ode4
 meMA.Ode4C11.mode = misc_en_US_goadedes.Mode4
@@ -335,8 +335,8 @@ meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = misc_en_US_goadedes.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_goadedes.GynaikesAkoutisthite.name
-meMA.Exaposteilarion2.incipit = "…"
-meMA.Exaposteilarion2.text = ""
+meMA.Exaposteilarion2.incipit = "O wise Apostle…"
+meMA.Exaposteilarion2.text = "O wise Apostle, you were sent * to India by Christ the great * and divine Sun, like a brilliant * ray of sunlight, O St. Thomas; * You went and mightily drove out * the darkness of idolatry * enlightening all to worship * the Trinity in one Godhead, * by which we are all protected."
 
 meMA.ExapTheotokion.mode = misc_en_US_goadedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_goadedes.GynaikesAkoutisthite.name
