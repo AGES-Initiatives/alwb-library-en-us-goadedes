@@ -524,13 +524,12 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 meMegalynarion.text = ""
 
 alt1.meDA.date = ""
-alt1.meDA.commemoration.full = "" //full title of day
-alt1.meDA.commemoration.first_short = ""
-
+alt1.meDA.commemoration.full = "We commemorate the Holy Protection of our Most Holy Lady Theotokos and Ever-Virgin Mary" //full title of day
+alt1.meDA.commemoration.first_short = "Holy Protection of our Most Holy Lady Theotokos"
 alt1.meDA.commemoration.first_title = ""
 alt1.meDA.commemoration.second_title = ""
 alt1.meDA.insert1 = "" //for use in petitions and dismissal
-alt1.meDA.insert2 = "" //for use in petitions and dismissal
+alt1.meDA.insert2 = "the commemoration of whose Holy Protection we celebrate," //for use in petitions and dismissal
 alt1.meDA.note = ""
 alt1.meLE.commemoration1 = ""
 alt1.meLE.commemoration2 = ""
@@ -592,38 +591,38 @@ alt1.meSV.AposBoth.text = ""
 
 alt1.meVE.Stichera01.mode = misc_en_US_goadedes.Mode1
 alt1.meVE.Stichera01.melody = he.a.m1_en_US_goadedes.OTouParadoxouThavmatos.name
-alt1.meVE.Stichera01.incipit = "…"
-alt1.meVE.Stichera01.text = ""
+alt1.meVE.Stichera01.incipit = "Marvel at the wondrous paradox…"
+alt1.meVE.Stichera01.text = "Marvel at the wondrous paradox! * The pure Mother of God, like a glowing cloud of light, * extends her holy protection on us every day; * and famously she protects, * with her maternal awareness and grace from God, * from enemies and assaults * all who rely on her aid and who sing to her, * \"We salute you, Lady full of grace: O rejoice! You are the help * and protection, O Virgin, of the faithful who magnify you.\""
 
 alt1.meVE.Stichera02.mode = misc_en_US_goadedes.Mode1
 alt1.meVE.Stichera02.melody = he.a.m1_en_US_goadedes.OTouParadoxouThavmatos.name
-alt1.meVE.Stichera02.incipit = "…"
-alt1.meVE.Stichera02.text = ""
+alt1.meVE.Stichera02.incipit = "Oh! So impressive…"
+alt1.meVE.Stichera02.text = "Oh! So impressive are your miracles! * You were seen, O Lady, taking off your holy veil * and wondrously covering with it the Queen City; * and presently it was clear * that you, O Virgin, had saved all the Christians there * from looming foreign attack, * by grace divine in your glowing protective veil. * Therefore we commemorate this, * and we celebrate with hymns, * to extol you and thank you * for your many splendid miracles."
 
 alt1.meVE.Stichera03.mode = misc_en_US_goadedes.Mode1
 alt1.meVE.Stichera03.melody = he.a.m1_en_US_goadedes.OTouParadoxouThavmatos.name
-alt1.meVE.Stichera03.incipit = "…"
-alt1.meVE.Stichera03.text = ""
+alt1.meVE.Stichera03.incipit = "We know, O Lady…"
+alt1.meVE.Stichera03.text = "We know, O Lady, you care for us * as a Christian people. We proclaim it far and wide. * We praise and extol your motherly concern for us. * You placed us under your own * direct protection from time immemorial. * With pity you let us all * define ourselves as your people and chosen flock. * Therefore we salute you, Maiden * full of grace, and sing, \"Rejoice!\" * magnifying the graces * of your God-given protective veil."
 
 alt1.meVE.Stichera04.mode = misc_en_US_goadedes.Mode4
 alt1.meVE.Stichera04.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
-alt1.meVE.Stichera04.incipit = "…"
-alt1.meVE.Stichera04.text = ""
+alt1.meVE.Stichera04.incipit = "We commemorate festively…"
+alt1.meVE.Stichera04.text = "We commemorate festively * your protection, O Virgin pure, * and we magnify your sublime benevolence. * In every age you deliver us, * your people, from dire straits * and from enemy attacks. * You provide your abundant grace every day to us, * who extol your magnificence and glory, O all-holy Theotokos, * and the extent of your miracles."
 
 alt1.meVE.Stichera05.mode = misc_en_US_goadedes.Mode4
 alt1.meVE.Stichera05.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
-alt1.meVE.Stichera05.incipit = "…"
-alt1.meVE.Stichera05.text = ""
+alt1.meVE.Stichera05.incipit = "You invisibly laid your veil…"
+alt1.meVE.Stichera05.text = "You invisibly laid your veil * of protection and wondrously * rescued the imperial capital of old. * And even now you are visibly * protecting us, guarding us, *  all-pure one; and you keep * us your people throughout the world * free from all distress. * So we sing hymns in praise of your protection and its benefits, O Virgin, * and your perpetual help and aid."
 
 alt1.meVE.Stichera06.mode = misc_en_US_goadedes.Mode4
 alt1.meVE.Stichera06.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
-alt1.meVE.Stichera06.incipit = "…"
-alt1.meVE.Stichera06.text = ""
+alt1.meVE.Stichera06.incipit = "We have heard and are well aware…"
+alt1.meVE.Stichera06.text = "We have heard and are well aware * and have witnessed it many times * in amazing miracles right before our eyes, * that your all holy protection is indeed real, O Virgin pure. * Singing hymns with ardent tears, * we have glorified your immense goodness shown to us. * For you rescue us when we are in danger, and you give us joy and gladness * when we are troubled and suffering."
 
 alt1.meVE.SticGlory.mode = misc_en_US_goadedes.Mode6
 alt1.meVE.SticGlory.melody = ""
-alt1.meVE.SticGlory.incipit = "…"
-alt1.meVE.SticGlory.text = ""
+alt1.meVE.SticGlory.incipit = "Today, we your faithful people…"
+alt1.meVE.SticGlory.text = "Today, we your faithful people, whom you declared to be a holy nation expressly alloted to you, celebrate the grace of your holy protection, O Theotokos, and we sing you songs of gratitude. You have worked wonderful and marvelous miracles among us, not only in preceding generations, but also now; for you protect us and guide us, and you have rescued us from enemies assailing us; and you have filled our souls with gladness. So we acknowledge your grace, and as we run to your radiant protection, we fervently sing to you: O Queen of all, till the end of time, protect us who wholeheartedly call out to you."
 
 alt1.meVE.Lity1.mode = misc_en_US_goadedes.Mode1
 alt1.meVE.Lity1.melody = ""
@@ -652,43 +651,43 @@ alt1.meVE.LityGlory.text = ""
 
 alt1.meVE.Aposticha1.mode = misc_en_US_goadedes.Mode5
 alt1.meVE.Aposticha1.melody = he.a.m5_en_US_goadedes.ChairoisAskitikon.name
-alt1.meVE.Aposticha1.incipit = "…"
-alt1.meVE.Aposticha1.text = ""
+alt1.meVE.Aposticha1.incipit = "Rejoice! Pure Virgin…"
+alt1.meVE.Aposticha1.text = "Rejoice! Pure Virgin, Mother of God, * the inexhaustible fount of benevolence! * The holy protection, ardent defense, and comfort of all * Orthodox believers who are in distress! * We always rely on you, blameless Maiden, and run to you * for our salvation and our peace and deliverance, * which we do receive as a gift of your grace from God. * Therefore we praise the miracles your holy protective veil * has done for us, and we honor your most compassionate care for us, * by which you have saved us. * And we trust that you protect us from dangers evermore."
 
 alt1.meVE.Aposticha2.mode = misc_en_US_goadedes.Mode5
 alt1.meVE.Aposticha2.melody = he.a.m5_en_US_goadedes.ChairoisAskitikon.name
-alt1.meVE.Aposticha2.incipit = "…"
-alt1.meVE.Aposticha2.text = ""
+alt1.meVE.Aposticha2.incipit = "Andrew, that fool for Christ…"
+alt1.meVE.Aposticha2.text = "Andrew, that fool for Christ, long ago * in church was praying, and a vision was granted him. * He saw you, O all-pure Virgin, as an ethereal Queen, * protecting your people with your holy veil. * We therefore now celebrate and remember this annually, * and we sing praises of your glorious mighty deeds, * all-immaculate Theotokos, and pray to you: * Lady, protect us, keep us safe beneath your protective veil. * We were allotted to your care, as demonstrated by you of old. * And grant joy and gladness, * lasting peace and great mercy to all throughout the world."
 
 alt1.meVE.Aposticha3.mode = misc_en_US_goadedes.Mode5
 alt1.meVE.Aposticha3.melody = he.a.m5_en_US_goadedes.ChairoisAskitikon.name
-alt1.meVE.Aposticha3.incipit = "…"
-alt1.meVE.Aposticha3.text = ""
+alt1.meVE.Aposticha3.incipit = "Pure one, your faithful people…"
+alt1.meVE.Aposticha3.text = "Pure one, your faithful people took heart * in your most luminous protection and in the hope * of constantly being sheltered by your protective veil; * thus they overpowered boastful enemies. * And now in their gratitude they sing praises extolling you; * and celebrating on this day of the splendid feast * of your holy veil of protection, they cry to you: * \"You, holy Virgin, are for us protector and champion * and mighty fortress. We praise you, for by your grace we are safe and sound. * O Lady, we pray you, * ever rescue us from war and adversities to come.\""
 
 alt1.meVE.AposGlory.mode = misc_en_US_goadedes.Mode8
 alt1.meVE.AposGlory.melody = ""
-alt1.meVE.AposGlory.incipit = "…"
-alt1.meVE.AposGlory.text = ""
+alt1.meVE.AposGlory.incipit = "The many manifestations…"
+alt1.meVE.AposGlory.text = "The many manifestations of your saving protection that your people have experienced are astonishing to everyone who hears about them, O immaculate Virgin. For throughout history and even now, you are always there for us, in our every need, and you give us relief when we are in dire straits, as you know best, good and loving as you are. O all-lauded Lady, never cease to shower us with your mercies of old, till the end of time, for we are your flock."
 
 alt1.meVE.Apolytikion1.mode = misc_en_US_goadedes.Mode1
 alt1.meVE.Apolytikion1.melody = he.a.m1_en_US_goadedes.TisErimouPolitis.name
-alt1.meVE.Apolytikion1.incipit = "…"
-alt1.meVE.Apolytikion1.text = ""
+alt1.meVE.Apolytikion1.incipit = "O Virgin, we sing praises…"
+alt1.meVE.Apolytikion1.text = "O Virgin, we sing praises of the gifts of your protection, * which you have extended like a bright cloud ineffably, * invisibly protecting us your flock * from enemy invasions and attacks. * We have you as ardent helper and mighty guard, * and therefore we cry out to you: * Glory to your divinely mighty deeds! * Glory to your protective veil! * Glory to the care you have for us, O immaculate one!"
 
 alt1.meVE.Apolytikion2.mode = misc_en_US_goadedes.Mode8
 alt1.meVE.Apolytikion2.melody = ""
-alt1.meVE.Apolytikion2.incipit = "…"
-alt1.meVE.Apolytikion2.text = ""
+alt1.meVE.Apolytikion2.incipit = "Ever-virgin Theotokos…"
+alt1.meVE.Apolytikion2.text = "Ever-virgin Theotokos, your holy protection, * by which you give shelter to those who rely on you, * is a mighty refuge that you gave to your Christian people; * for you have wondrously saved us, even now as in the past. * You are as if a spiritual cloud surrounding your people. * And therefore we earnestly implore you to inspire peace in our government, * and also on our souls bestow the great mercy."
 
 alt1.meMA.Kathisma11.mode = misc_en_US_goadedes.Mode1
 alt1.meMA.Kathisma11.melody = he.a.m1_en_US_goadedes.TonTafonSouSotir.name
-alt1.meMA.Kathisma11.incipit = "…"
-alt1.meMA.Kathisma11.text = ""
+alt1.meMA.Kathisma11.incipit = "O VIrgin, we extol…"
+alt1.meMA.Kathisma11.text = "O Virgin, we extol your all-holy protection. * In every time and place, you protect us and guard us, * whom you have considered as your own people and chosen lot, * in your goodness and in your maternal compassion. * Lady, we entreat, in any coming disaster, * you keep and preserve us all."
 
 alt1.meMA.Kathisma21.mode = misc_en_US_goadedes.Mode4
 alt1.meMA.Kathisma21.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
-alt1.meMA.Kathisma21.incipit = "…"
-alt1.meMA.Kathisma21.text = ""
+alt1.meMA.Kathisma21.incipit = "St. Andrew the fool for Christ…"
+alt1.meMA.Kathisma21.text = "St. Andrew the fool for Christ of old was praying in church, * where your divine veil and garment had been reverently kept; * and he was amazed to see * how you had held your garment over all who were praying. * Thus you revealed the grace of your all-holy protection, * by which you protect and save us in every adversity."
 
 alt1.meMA.Kathisma31.mode = misc_en_US_goadedes.Mode8
 alt1.meMA.Kathisma31.melody = he.a.m8_en_US_goadedes.TinSofianKaiLogon.name
