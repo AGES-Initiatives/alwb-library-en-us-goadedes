@@ -64,8 +64,8 @@ meVE.LityGlory.text = ""
 
 meVE.LityBoth.mode = misc_en_US_goadedes.Mode1
 meVE.LityBoth.melody = ""
-meVE.LityBoth.incipit = "…"
-meVE.LityBoth.text = ""
+meVE.LityBoth.incipit = me.m12.d20_en_US_goadedes.meVE.Stichera03.incipit
+meVE.LityBoth.text = me.m12.d20_en_US_goadedes.meVE.Stichera03.text
 
 meVE.AposGlory.poet = poets_en_US_goadedes.Kyprianou
 meVE.AposGlory.mode = misc_en_US_goadedes.Mode2
