@@ -41,6 +41,8 @@ ocVE.MM.LIHC2.text = properties_en_US_goadedes.media.key
 
 ocVE.MM.Stichologia.text = properties_en_US_goadedes.media.key
 
+ocBK.ModeNaked = misc_en_US_goadedes.Mode4.naked
+
 ocVE.Stichera1.mode = misc_en_US_goadedes.Mode4
 ocVE.Stichera1.melody = ""
 ocVE.Stichera1.incipit = "…"
@@ -121,197 +123,197 @@ ocMO.acrostic = ""
 
 ocMO.Ode11.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode11.ode = misc_en_US_goadedes.Ode1
-ocMO.Ode11.melody = he.h.m4_en_US_goadedes.ThalassisToErythraion.name
-ocMO.Ode11.incipit = "…"
-ocMO.Ode11.text = ""
+ocMO.Ode11.melody = he.h.m4_en_US_goadedes.ThalassisToErythraion.notmetered
+ocMO.Ode11.incipit = "Let us glorify the Godhead…"
+ocMO.Ode11.text = "Let us glorify the Godhead, Trinity in hypostases, and single nature of the three, co-eternal, equal in majesty. We implore, saying, \"Save us who with faith glorify You!\""
 
 ocMO.Ode12.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode12.ode = misc_en_US_goadedes.Ode1
-ocMO.Ode12.melody = he.h.m4_en_US_goadedes.ThalassisToErythraion.name
-ocMO.Ode12.incipit = "…"
-ocMO.Ode12.text = ""
+ocMO.Ode12.melody = he.h.m4_en_US_goadedes.ThalassisToErythraion.notmetered
+ocMO.Ode12.incipit = "O Son, by the Father …"
+ocMO.Ode12.text = "O Son, by the Father You were anointed with the Spirit, the divine oil of gladness; and You became human, and You taught about the three hypostases of the one Godhead."
 
 ocMO.Ode13.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode13.ode = misc_en_US_goadedes.Ode1
-ocMO.Ode13.melody = he.h.m4_en_US_goadedes.ThalassisToErythraion.name
-ocMO.Ode13.incipit = "…"
-ocMO.Ode13.text = ""
+ocMO.Ode13.melody = he.h.m4_en_US_goadedes.ThalassisToErythraion.notmetered
+ocMO.Ode13.incipit = "The Seraphim cannot bear…"
+ocMO.Ode13.text = "The Seraphim cannot bear to look at the beauty of your unapproachable glory, O tri-solar Monad. They cover themselves with their wings, and they glorify You unceasingly in thrice-holy songs."
 
 ocMO.Ode1T.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode1T.ode = misc_en_US_goadedes.Ode1
-ocMO.Ode1T.melody = he.h.m4_en_US_goadedes.ThalassisToErythraion.name
-ocMO.Ode1T.incipit = "…"
-ocMO.Ode1T.text = ""
+ocMO.Ode1T.melody = he.h.m4_en_US_goadedes.ThalassisToErythraion.notmetered
+ocMO.Ode1T.incipit = "O all-pure Virgin…"
+ocMO.Ode1T.text = "O all-pure Virgin, you have given birth ineffably to the Maker of the universe. He delivers humanity from the primeval curse and the decay of death. Through you we have come to know the one God in three hypostases."
 
 ocMO.Ode31.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode31.ode = misc_en_US_goadedes.Ode3
-ocMO.Ode31.melody = he.h.m4_en_US_goadedes.OukEnSofia.name
-ocMO.Ode31.incipit = "…"
-ocMO.Ode31.text = ""
+ocMO.Ode31.melody = he.h.m4_en_US_goadedes.OukEnSofia.notmetered
+ocMO.Ode31.incipit = "O Christ, once You sent…"
+ocMO.Ode31.text = "O Christ, once You sent to Your holy Apostles power from on high, namely the Paraclete from the Father, You exhibited the one tri-solar divine nature."
 
 ocMO.Ode32.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode32.ode = misc_en_US_goadedes.Ode3
-ocMO.Ode32.melody = he.h.m4_en_US_goadedes.OukEnSofia.name
-ocMO.Ode32.incipit = "…"
-ocMO.Ode32.text = ""
+ocMO.Ode32.melody = he.h.m4_en_US_goadedes.OukEnSofia.notmetered
+ocMO.Ode32.incipit = "O threefold Monad…"
+ocMO.Ode32.text = "O threefold Monad, when You appeared in human form to the Patriarch Abraham, You revealed that the three persons are exactly the same in Your goodness and Your dominion."
 
 ocMO.Ode33.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode33.ode = misc_en_US_goadedes.Ode3
-ocMO.Ode33.melody = he.h.m4_en_US_goadedes.OukEnSofia.name
-ocMO.Ode33.incipit = "…"
-ocMO.Ode33.text = ""
+ocMO.Ode33.melody = he.h.m4_en_US_goadedes.OukEnSofia.notmetered
+ocMO.Ode33.incipit = "We entreat You, O God…"
+ocMO.Ode33.text = "We entreat You, O God, whom we believe to be one nature in three persons, truly uncircumscribed, incomprehensible to all: Rescue our souls from every affliction."
 
 ocMO.Ode3T.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode3T.ode = misc_en_US_goadedes.Ode3
-ocMO.Ode3T.melody = he.h.m4_en_US_goadedes.OukEnSofia.name
-ocMO.Ode3T.incipit = "…"
-ocMO.Ode3T.text = ""
+ocMO.Ode3T.melody = he.h.m4_en_US_goadedes.OukEnSofia.notmetered
+ocMO.Ode3T.incipit = "Grounded in the wise teachings…"
+ocMO.Ode3T.text = "Grounded in the wise teachings of your Son, we glorify the single, thrice-radiant Godhead; and we call you blessed, O ever-virgin Mary."
 
 ocMO.Kathisma11.mode = misc_en_US_goadedes.Mode4
 ocMO.Kathisma11.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
-ocMO.Kathisma11.incipit = "…"
-ocMO.Kathisma11.text = ""
+ocMO.Kathisma11.incipit = "O tri-solar, uncreated…"
+ocMO.Kathisma11.text = "O tri-solar, uncreated, consubstantial one God, * incomprehensible, in three hypostases, * Your servants implore You now. * Pity us and save us * from disaster and danger. * Merciful God, for us You are our only Lord and Savior, * O Master, and we pray to You: Have mercy on us."
 
 ocMO.Kathisma12.mode = misc_en_US_goadedes.Mode4
 ocMO.Kathisma12.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
-ocMO.Kathisma12.incipit = "…"
-ocMO.Kathisma12.text = ""
+ocMO.Kathisma12.incipit = "O Virgin, your servants…"
+ocMO.Kathisma12.text = "O Virgin, your servants frequently succumb to despair, * because of the many tragedies, disasters, and woes * besetting us every day. * All-holy Theotokos, we rely on you solely * for hope and protection and salvation, O Lady. * And therefore with faith we properly pray you to rescue us."
 
 ocMO.Ode41.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode41.ode = misc_en_US_goadedes.Ode4
-ocMO.Ode41.melody = he.h.m4_en_US_goadedes.OKathimenosEnDoxi.name
-ocMO.Ode41.incipit = "…"
-ocMO.Ode41.text = ""
+ocMO.Ode41.melody = he.h.m4_en_US_goadedes.OKathimenosEnDoxi.notmetered
+ocMO.Ode41.incipit = "We join the Seraphim…"
+ocMO.Ode41.text = "We join the Seraphim and glorify You, O incomprehensible God, superessential Dominion and Trinity in unity of Godhead, undivided nature, without confusion, exactly equal in glory."
 
 ocMO.Ode42.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode42.ode = misc_en_US_goadedes.Ode4
-ocMO.Ode42.melody = he.h.m4_en_US_goadedes.OKathimenosEnDoxi.name
-ocMO.Ode42.incipit = "…"
-ocMO.Ode42.text = ""
+ocMO.Ode42.melody = he.h.m4_en_US_goadedes.OKathimenosEnDoxi.notmetered
+ocMO.Ode42.incipit = "We extol You, only Godhead…"
+ocMO.Ode42.text = "We extol You, only Godhead, ineffably divided in persons and identical in one dominion, infinite, uncircumscribed, the Maker of creation all."
 
 ocMO.Ode43.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode43.ode = misc_en_US_goadedes.Ode4
-ocMO.Ode43.melody = he.h.m4_en_US_goadedes.OKathimenosEnDoxi.name
-ocMO.Ode43.incipit = "…"
-ocMO.Ode43.text = ""
+ocMO.Ode43.melody = he.h.m4_en_US_goadedes.OKathimenosEnDoxi.notmetered
+ocMO.Ode43.incipit = "The unoriginate Nous…"
+ocMO.Ode43.text = "The unoriginate Nous ineffably begot the Logos and sent out the divine Spirit who is equal in might. Therefore we profess that the God and Master of all is a consubstantial Trinity."
 
 ocMO.Ode4T.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode4T.ode = misc_en_US_goadedes.Ode4
-ocMO.Ode4T.melody = he.h.m4_en_US_goadedes.OKathimenosEnDoxi.name
-ocMO.Ode4T.incipit = "…"
-ocMO.Ode4T.text = ""
+ocMO.Ode4T.melody = he.h.m4_en_US_goadedes.OKathimenosEnDoxi.notmetered
+ocMO.Ode4T.incipit = "O Virgin, the Logos appeared…"
+ocMO.Ode4T.text = "O Virgin, the Logos appeared to men of old in types and foretold His incarnation from you. Later He appeared to men in reality, and He revealed the one Principle in three hypostases."
 
 ocMO.Ode51.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode51.ode = misc_en_US_goadedes.Ode5
-ocMO.Ode51.melody = he.h.m4_en_US_goadedes.ExestiTaSympanta.name
-ocMO.Ode51.incipit = "…"
-ocMO.Ode51.text = ""
+ocMO.Ode51.melody = he.h.m4_en_US_goadedes.ExestiTaSympanta.notmetered
+ocMO.Ode51.incipit = "From our faith…"
+ocMO.Ode51.text = "From our faith, we are able to understand that there is one unapproachable essence and three consubstantial life-giving hypostases of the omnipotent Godhead; and we worship Father, Son and Holy Spirit, the co-eternal existence."
 
 ocMO.Ode52.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode52.ode = misc_en_US_goadedes.Ode5
-ocMO.Ode52.melody = he.h.m4_en_US_goadedes.ExestiTaSympanta.name
-ocMO.Ode52.incipit = "…"
-ocMO.Ode52.text = ""
+ocMO.Ode52.melody = he.h.m4_en_US_goadedes.ExestiTaSympanta.notmetered
+ocMO.Ode52.incipit = "O single Godhead…"
+ocMO.Ode52.text = "O single Godhead, uncreated nature, illuminating source of every light-giving beam, shine in me the tri-solar light of Your essential splendor, so that I may see the reflection of Your ineffable beauty."
 
 ocMO.Ode53.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode53.ode = misc_en_US_goadedes.Ode5
-ocMO.Ode53.melody = he.h.m4_en_US_goadedes.ExestiTaSympanta.name
-ocMO.Ode53.incipit = "…"
-ocMO.Ode53.text = ""
+ocMO.Ode53.melody = he.h.m4_en_US_goadedes.ExestiTaSympanta.notmetered
+ocMO.Ode53.incipit = "We know that You are…"
+ocMO.Ode53.text = "We know that You are the only all-wise Creator, Sustainer, and Governor of the universe, and the Giver of life. We cry out to You in faith: O tri-solar Master, guard us who sing Your praise."
 
 ocMO.Ode5T.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode5T.ode = misc_en_US_goadedes.Ode5
-ocMO.Ode5T.melody = he.h.m4_en_US_goadedes.ExestiTaSympanta.name
-ocMO.Ode5T.incipit = "…"
-ocMO.Ode5T.text = ""
+ocMO.Ode5T.melody = he.h.m4_en_US_goadedes.ExestiTaSympanta.notmetered
+ocMO.Ode5T.incipit = "O Virgin, in His goodness…"
+ocMO.Ode5T.text = "O Virgin, in His goodness your Son made man in the divine image. When humanity had been corrupted, He wished to deify it. He became man from you, and He proclaimed that there is one Godhead in three persons."
 
 ocMO.Ode61.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode61.ode = misc_en_US_goadedes.Ode6
-ocMO.Ode61.melody = he.h.m4_en_US_goadedes.EvoiseProtypon.name
-ocMO.Ode61.incipit = "…"
-ocMO.Ode61.text = ""
+ocMO.Ode61.melody = he.h.m4_en_US_goadedes.EvoiseProtypon.notmetered
+ocMO.Ode61.incipit = "At the baptism of Christ…"
+ocMO.Ode61.text = "At the baptism of Christ, the Father called Him Son, and the Spirit appeared to Him. Therefore we glorify one Godhead in three hypostases."
 
 ocMO.Ode62.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode62.ode = misc_en_US_goadedes.Ode6
-ocMO.Ode62.melody = he.h.m4_en_US_goadedes.EvoiseProtypon.name
-ocMO.Ode62.incipit = "…"
-ocMO.Ode62.text = ""
+ocMO.Ode62.melody = he.h.m4_en_US_goadedes.EvoiseProtypon.notmetered
+ocMO.Ode62.incipit = "When Isaiah saw You…"
+ocMO.Ode62.text = "When Isaiah saw You seated on an exalted throne and being praised with thrice-holy hymns, he came to know the one Godhead in three hypostases."
 
 ocMO.Ode63.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode63.ode = misc_en_US_goadedes.Ode6
-ocMO.Ode63.melody = he.h.m4_en_US_goadedes.EvoiseProtypon.name
-ocMO.Ode63.incipit = "…"
-ocMO.Ode63.text = ""
+ocMO.Ode63.melody = he.h.m4_en_US_goadedes.EvoiseProtypon.notmetered
+ocMO.Ode63.incipit = "O exalted King…"
+ocMO.Ode63.text = "O exalted King in three hypostases, lift the hearts of your servants, so that we may luminously contemplate the splendor of Your glory."
 
 ocMO.Ode6T.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode6T.ode = misc_en_US_goadedes.Ode6
-ocMO.Ode6T.melody = he.h.m4_en_US_goadedes.EvoiseProtypon.name
-ocMO.Ode6T.incipit = "…"
-ocMO.Ode6T.text = ""
+ocMO.Ode6T.melody = he.h.m4_en_US_goadedes.EvoiseProtypon.notmetered
+ocMO.Ode6T.incipit = "The humane Son of God…"
+ocMO.Ode6T.text = "The humane Son of God was pleased to be conformed to our nature from a Virgin, and He made people partakers of divine glory."
 
 ocMO.Kathisma21.mode = misc_en_US_goadedes.Mode4
 ocMO.Kathisma21.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
-ocMO.Kathisma21.incipit = "…"
-ocMO.Kathisma21.text = ""
+ocMO.Kathisma21.incipit = "The Father is unbegotten…"
+ocMO.Kathisma21.text = "The Father is unbegotten, and begotten is the Son; * the all-holy Spirit from the Father only proceeds. * And thus we proclaim our faith. * Singular is the Godhead, and beginningless the Kingdom, * which we adore and glorify in unison, saying, * \"O consubstantial Trinity, save us, for You are our God!\""
 
 ocMO.Kathisma22.mode = misc_en_US_goadedes.Mode4
 ocMO.Kathisma22.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
-ocMO.Kathisma22.incipit = "…"
-ocMO.Kathisma22.text = ""
+ocMO.Kathisma22.incipit = "O Virgin, your Son is God…"
+ocMO.Kathisma22.text = "O Virgin, your Son is God and man. In flesh within time * you bore Him supernaturally. He is pre-eternal God, * existing beyond all time. * Therefore we all confess it, truly and properly speaking, * that you are Theotokos. And we earnestly pray you * to count us worthy of the glory that never ends."
 
 ocMO.Ode71.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode71.ode = misc_en_US_goadedes.Ode7
-ocMO.Ode71.melody = he.h.m2_en_US_goadedes.EnTiKamino.name
-ocMO.Ode71.incipit = "…"
-ocMO.Ode71.text = ""
+ocMO.Ode71.melody = he.h.m2_en_US_goadedes.EnTiKamino.notmetered
+ocMO.Ode71.incipit = "Imitating the ranks…"
+ocMO.Ode71.text = "Imitating the ranks of celestial beings and angelic orders, all we born of earth with Orthodox beliefs glorify one Godhead in three equivalent hypostases."
 
 ocMO.Ode72.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode72.ode = misc_en_US_goadedes.Ode7
-ocMO.Ode72.melody = he.h.m2_en_US_goadedes.EnTiKamino.name
-ocMO.Ode72.incipit = "…"
-ocMO.Ode72.text = ""
+ocMO.Ode72.melody = he.h.m2_en_US_goadedes.EnTiKamino.notmetered
+ocMO.Ode72.incipit = "Sayings of the holy Prophets…"
+ocMO.Ode72.text = "Sayings of the holy Prophets symbolically revealed of old that You, the Creator of all the ages, are one inexpressible God and Lord in three divine hypostases."
 
 ocMO.Ode7T.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode7T.ode = misc_en_US_goadedes.Ode7
-ocMO.Ode7T.melody = he.h.m2_en_US_goadedes.EnTiKamino.name
-ocMO.Ode7T.incipit = "…"
-ocMO.Ode7T.text = ""
+ocMO.Ode7T.melody = he.h.m2_en_US_goadedes.EnTiKamino.notmetered
+ocMO.Ode7T.incipit = "Invisible in essence…"
+ocMO.Ode7T.text = "Invisible in essence, omnific Logos, You appeared to humanity as a man, born of the pure Mother of God, calling humanity to participation in your divinity."
 
 ocMO.Ode81.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode81.ode = misc_en_US_goadedes.Ode8
-ocMO.Ode81.melody = he.h.m4_en_US_goadedes.CheirasEkpetasasDaniil.name
-ocMO.Ode81.incipit = "…"
-ocMO.Ode81.text = ""
+ocMO.Ode81.melody = he.h.m4_en_US_goadedes.CheirasEkpetasasDaniil.notmetered
+ocMO.Ode81.incipit = "Monarchal and thrice-radiant Light…"
+ocMO.Ode81.text = "Monarchal and thrice-radiant Light, unoriginate Essence, inconceivable beauty, come reside in my heart, and make me to be a clean and luminous temple of Your Divinity, as I sing: \"O all you works of the Lord, bless the Lord!\""
 
 ocMO.Ode82.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode82.ode = misc_en_US_goadedes.Ode8
-ocMO.Ode82.melody = he.h.m4_en_US_goadedes.CheirasEkpetasasDaniil.name
-ocMO.Ode82.incipit = "…"
-ocMO.Ode82.text = ""
+ocMO.Ode82.melody = he.h.m4_en_US_goadedes.CheirasEkpetasasDaniil.notmetered
+ocMO.Ode82.incipit = "O inseparate Trinity…"
+ocMO.Ode82.text = "O inseparate Trinity and unconfused Unity, free me from the various passions and from the darkness of transgressions. Illumine me with Your divine effulgence, that I may contemplate Your glory and extol You, the Lord of glory."
 
 ocMO.Ode8T.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode8T.ode = misc_en_US_goadedes.Ode8
-ocMO.Ode8T.melody = he.h.m4_en_US_goadedes.CheirasEkpetasasDaniil.name
-ocMO.Ode8T.incipit = "…"
-ocMO.Ode8T.text = ""
+ocMO.Ode8T.melody = he.h.m4_en_US_goadedes.CheirasEkpetasasDaniil.notmetered
+ocMO.Ode8T.incipit = "O Nous, the unbegotten Father…"
+ocMO.Ode8T.text = "O Nous, the unbegotten Father, and corresponding Logos, and coequal Spirit! O superessential, inexpressible, magnificent Essence, Power, and Being, Trinity and Unity! We pray You who are naturally humane: Guard your flock, at the intercessions of the Theotokos."
 
 ocMO.Ode91.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode91.ode = misc_en_US_goadedes.Ode9
-ocMO.Ode91.melody = he.h.m4_en_US_goadedes.ApasGigenis.name
-ocMO.Ode91.incipit = "…"
-ocMO.Ode91.text = ""
+ocMO.Ode91.melody = he.h.m4_en_US_goadedes.ApasGigenis.notmetered
+ocMO.Ode91.incipit = "Now I focus all my heart…"
+ocMO.Ode91.text = "Now I focus all my heart and mind and all the faculties of my soul and body on You, my Fashioner and Deliverer, thrice-radiant Monarch, and I sing to You: Save me, Your servant, from temptations and afflictions of every kind."
 
 ocMO.Ode92.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode92.ode = misc_en_US_goadedes.Ode9
-ocMO.Ode92.melody = he.h.m4_en_US_goadedes.ApasGigenis.name
-ocMO.Ode92.incipit = "…"
-ocMO.Ode92.text = ""
+ocMO.Ode92.melody = he.h.m4_en_US_goadedes.ApasGigenis.notmetered
+ocMO.Ode92.incipit = "Raise our mind and reason…"
+ocMO.Ode92.text = "Raise our mind and reason to You, the Most High God. Illumine them with Your immaculate radiance, O Father, Logos, and Paraclete, who dwell in unapproachable light, Sun of glory and Lord of light, so that we may always glorify You, the monarchal God in three hypostases."
 
 ocMO.Ode9T.mode = misc_en_US_goadedes.Mode4
 ocMO.Ode9T.ode = misc_en_US_goadedes.Ode9
-ocMO.Ode9T.melody = he.h.m4_en_US_goadedes.ApasGigenis.name
-ocMO.Ode9T.incipit = "…"
-ocMO.Ode9T.text = ""
+ocMO.Ode9T.melody = he.h.m4_en_US_goadedes.ApasGigenis.notmetered
+ocMO.Ode9T.incipit = "Save those who believe in You…"
+ocMO.Ode9T.text = "Save those who believe in You, O Lord, and who proclaim Your one, unoriginate, eternal Essence, and three divine and consubstantial Persons. Count us worthy of Your divine glory, at the entreaties of the pure Mother of God."
 
 ocMA.MM.GodIsTheLord.text = properties_en_US_goadedes.media.key
 
@@ -971,8 +973,8 @@ ocMA.Lauds8.text = ""
 
 ocMA.ApolTheotokion.mode = misc_en_US_goadedes.Mode4
 ocMA.ApolTheotokion.melody = ""
-ocMA.ApolTheotokion.incipit = ho.s03_en_US_goadedes.hoMA.SunTroparion1.incipit
-ocMA.ApolTheotokion.text = ho.s03_en_US_goadedes.hoMA.SunTroparion1.text
+ocMA.ApolTheotokion.incipit = //ho.s03_en_US_goadedes.hoMA.SunTroparion1.incipit
+ocMA.ApolTheotokion.text = //ho.s03_en_US_goadedes.hoMA.SunTroparion1.text
 
 ocLI.Beatitudes1.mode = misc_en_US_goadedes.Mode4
 ocLI.Beatitudes1.melody = ""

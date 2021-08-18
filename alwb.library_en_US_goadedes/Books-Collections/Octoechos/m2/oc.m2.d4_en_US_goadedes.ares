@@ -1,5 +1,7 @@
 A_Resource_Whose_Name = oc.m2.d4_en_US_goadedes
 
+ocBK.ModeNaked = misc_en_US_goadedes.Mode2.naked
+
 ocVE.Stichera1.mode = misc_en_US_goadedes.Mode2
 ocVE.Stichera1.melody = he.a.m2_en_US_goadedes.OteEkTouXylou.name
 ocVE.Stichera1.incipit = "…"
@@ -22,8 +24,8 @@ ocVE.Stichera4.text = ""
 
 ocVE.Stichera5.mode = misc_en_US_goadedes.Mode2
 ocVE.Stichera5.melody = he.a.m2_en_US_goadedes.OteEkTouXylou.name
-ocVE.Stichera5.incipit = "…"
-ocVE.Stichera5.text = ""
+ocVE.Stichera5.incipit = "Truly rising up over my head…"
+ocVE.Stichera5.text = "Truly rising up over my head * are the many sins and transgressions that I committed indeed; * truly they have multiplied more than the hairs of my head. * O pure Virgin, I have incurred innumerable burdens, * too heavy for me, incorrigible wretch that I am. * Please come quickly, help me and save me, * by your prayers and strong intercession; * for you can restore those who committed sins."
 
 ocVE.Stichera6.mode = misc_en_US_goadedes.Mode2
 ocVE.Stichera6.melody = he.a.m2_en_US_goadedes.OteEkTouXylou.name
