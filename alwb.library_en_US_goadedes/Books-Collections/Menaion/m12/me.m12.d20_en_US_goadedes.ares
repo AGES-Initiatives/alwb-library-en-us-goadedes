@@ -258,21 +258,21 @@ meMA.Ode3C1H.text = he.h.m1_en_US_goadedes.LithonOnApedokimasan.text
 
 meMA.Ode3C11.ode = misc_en_US_goadedes.Ode3
 meMA.Ode3C11.mode = misc_en_US_goadedes.Mode1
-meMA.Ode3C11.melody = he.h.m1_en_US_goadedes.LithonOnApedokimasan.name
-meMA.Ode3C11.incipit = "…"
-meMA.Ode3C11.text = ""
+meMA.Ode3C11.melody = he.h.m1_en_US_goadedes.LithonOnApedokimasan.notmetered
+meMA.Ode3C11.incipit = "Perceiving by the Holy Spirit…"
+meMA.Ode3C11.text = "Perceiving by the Holy Spirit that Christ would become incarnate, Isaiah openly prophesied, that the Lord would be born as a Child from a Virgin, for our regeneration; and the government will be upon His shoulder."
 
 meMA.Ode3C12.ode = misc_en_US_goadedes.Ode3
 meMA.Ode3C12.mode = misc_en_US_goadedes.Mode1
-meMA.Ode3C12.melody = he.h.m1_en_US_goadedes.LithonOnApedokimasan.name
-meMA.Ode3C12.incipit = "…"
-meMA.Ode3C12.text = ""
+meMA.Ode3C12.melody = he.h.m1_en_US_goadedes.LithonOnApedokimasan.notmetered
+meMA.Ode3C12.incipit = "Now a star has risen…"
+meMA.Ode3C12.text = "Now a star has risen from the tribe of Judah. Kings of the Orient make the journey and are anxious to reach Bethlehem, so that they may see Christ who is born in the flesh."
 
 meMA.Ode3C13.ode = misc_en_US_goadedes.Ode3
 meMA.Ode3C13.mode = misc_en_US_goadedes.Mode1
-meMA.Ode3C13.melody = he.h.m1_en_US_goadedes.LithonOnApedokimasan.name
-meMA.Ode3C13.incipit = "…"
-meMA.Ode3C13.text = ""
+meMA.Ode3C13.melody = he.h.m1_en_US_goadedes.LithonOnApedokimasan.notmetered
+meMA.Ode3C13.incipit = "Let all creation sing…"
+meMA.Ode3C13.text = "Let all creation sing a prefestal hymn to the One who was begotten of the Father before the morning star, and who now ineffably emerges from the Virgin, born in the flesh in Bethlehem, because of His great compassion."
 
 meMA.Ode3C21.ode = misc_en_US_goadedes.Ode3
 meMA.Ode3C21.mode = misc_en_US_goadedes.Mode1
@@ -327,7 +327,7 @@ meMA.Kontakion1.melody = misc_en_US_goadedes.Automelon
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "The sacred words of the Prophets are coming to pass. Behold, a Virgin gives birth to God in the flesh, in the city of Bethlehem, inside the Grotto. All creation be enriched! Rejoice exceedingly and dance for joy! The Master of all has come to live among His servants; and from the devil's control He is freeing us, who had succumbed to corruption. He is seen as an infant, wrapped in swaddling clothes lying in a manger, a newborn Child, the pre-eternal God."
 
 meMA.Ode3Kathisma1.mode = misc_en_US_goadedes.Mode8
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_goadedes.TinSofianKaiLogon.name
@@ -484,21 +484,21 @@ meMA.Ode6C1H.text = he.h.m1_en_US_goadedes.TonProfitinIonan.text
 
 meMA.Ode6C11.ode = misc_en_US_goadedes.Ode6
 meMA.Ode6C11.mode = misc_en_US_goadedes.Mode1
-meMA.Ode6C11.melody = he.h.m1_en_US_goadedes.TonProfitinIonan.name
-meMA.Ode6C11.incipit = "…"
-meMA.Ode6C11.text = ""
+meMA.Ode6C11.melody = he.h.m1_en_US_goadedes.TonProfitinIonan.notmetered
+meMA.Ode6C11.incipit = "With a bright star…"
+meMA.Ode6C11.text = "With a bright star, heaven shows Astrologers that the heavenly King is born on earth for us now in the city of David."
 
 meMA.Ode6C12.ode = misc_en_US_goadedes.Ode6
 meMA.Ode6C12.mode = misc_en_US_goadedes.Mode1
-meMA.Ode6C12.melody = he.h.m1_en_US_goadedes.TonProfitinIonan.name
-meMA.Ode6C12.incipit = "…"
-meMA.Ode6C12.text = ""
+meMA.Ode6C12.melody = he.h.m1_en_US_goadedes.TonProfitinIonan.notmetered
+meMA.Ode6C12.incipit = "The Prophet proclaims…"
+meMA.Ode6C12.text = "The Prophet proclaims and openly declares, \"O Bethlehem, House of Ephrathah, where God will come forth from the Virgin, leap and dance for joy!\""
 
 meMA.Ode6C13.ode = misc_en_US_goadedes.Ode6
 meMA.Ode6C13.mode = misc_en_US_goadedes.Mode1
-meMA.Ode6C13.melody = he.h.m1_en_US_goadedes.TonProfitinIonan.name
-meMA.Ode6C13.incipit = "…"
-meMA.Ode6C13.text = ""
+meMA.Ode6C13.melody = he.h.m1_en_US_goadedes.TonProfitinIonan.notmetered
+meMA.Ode6C13.incipit = "In the grotto…"
+meMA.Ode6C13.text = "In the grotto, the Virgin physically gives birth to God the Maker of the universe. She wraps Him in swaddling clothes and lays Him in a manger."
 
 meMA.Ode6C21.ode = misc_en_US_goadedes.Ode6
 meMA.Ode6C21.mode = misc_en_US_goadedes.Mode1
@@ -544,10 +544,10 @@ meMA.Ode6C2T.text = ""
 
 meMA.Kontakion2.mode = misc_en_US_goadedes.Mode3
 meMA.Kontakion2.melody = he.a.m3_en_US_goadedes.IParthenosSimeron.name
-meMA.Kontakion2.incipit = "…"
-meMA.Kontakion2.text = ""
+meMA.Kontakion2.incipit = "This resplendent memory…"
+meMA.Kontakion2.text = "This resplendent memory of your illustrious contests * announces to everyone the Master born of the Virgin. * Longing to delight in Him, with love you proceeded * eagerly to be by wild beasts killed and eaten. * Therefore, glorious Ignatius, you have been given the tile God-bearer."
 
-meMA.Oikos2.text = ""
+meMA.Oikos2.text = "Long ago when Abraham was sacrificing his son, he foreshadowed the slaughter of Him who holds all things and who is now hastening to be born in a cave. You, O godly-minded Saint, wholly offered yourself as a sacrificial victim. You became food for wild beasts, and you appeared as pure wheat for your Creator, truly stored forever in the heavenly silos, where you delight in the One you love. Leaving the whole world behind for His sake, all-blessed, glorious Ignatius, you have been given the tile God-bearer."
 
 meMA.Ode7C1H.ode = misc_en_US_goadedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_goadedes.Mode1
@@ -743,23 +743,23 @@ meMA.Ode9C2T.text = ""
 
 meMA.Exaposteilarion1.mode = misc_en_US_goadedes.Mode3
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_goadedes.EpeskepsatoImas.name
-meMA.Exaposteilarion1.incipit = "…"
-meMA.Exaposteilarion1.text = ""
+meMA.Exaposteilarion1.incipit = "Get ready, O Bethlehem…"
+meMA.Exaposteilarion1.text = "Get ready, O Bethlehem, * and you, O Cave, prepare yourself; * and you, O Manger, receive Him, * our God who is uncircumscribed * and physically now circumscribed. * For He is coming to be born * as He wills in His good pleasure."
 
 meMA.Exaposteilarion2.mode = misc_en_US_goadedes.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_goadedes.ToisMathitaisSynelthomen.name
-meMA.Exaposteilarion2.incipit = "…"
-meMA.Exaposteilarion2.text = ""
+meMA.Exaposteilarion2.incipit = "O St. Ignatius, God-bearer…"
+meMA.Exaposteilarion2.text = "O St. Ignatius, God-bearer, * you wrote in your epistle, * \"I am the wheat of God, my Lord * and Savior. So now let me become the food for the wild beasts. * I must be ground by their teeth, * that I be found the sweet and pure * bread of Christ.\" Please remember us who observe * your most splendid memory, as you stand now * near the all-holy Trinity, * wise Hierarch and Martyr."
 
 meMA.Exaposteilarion3.mode = misc_en_US_goadedes.Mode2
 meMA.Exaposteilarion3.melody = he.a.m2_en_US_goadedes.GynaikesAkoutisthite.name
-meMA.Exaposteilarion3.incipit = "…"
-meMA.Exaposteilarion3.text = ""
+meMA.Exaposteilarion3.incipit = "Ignatius, being wounded…"
+meMA.Exaposteilarion3.text = "Ignatius, being wounded by the love of God your Lord, you said, * \"My love, namely Christ my Savior, * has been crucified of His own will. * I thirst now to be thirsted for; alive, I love to be loved by Him. * I wish to be imitating * His passion and long to join Him * in His everlasting kingdom.\""
 
 meMA.Exaposteilarion4.mode = misc_en_US_goadedes.Mode2
 meMA.Exaposteilarion4.melody = he.a.m2_en_US_goadedes.GynaikesAkoutisthite.name
 meMA.Exaposteilarion4.incipit = "…"
-meMA.Exaposteilarion4.text = ""
+meMA.Exaposteilarion4.text = "Come, all you faithful, let us now with faith anticipating sing * the pre-festal hymns of Christmas. * For Christ our Savior is coming * to Bethlehem, where He will be as human from the Virgin born. * He who is pre-eternal God * will be seen to be an infant * in swaddling clothes in a manger."
 
 meMA.Lauds1.poet = poets_en_US_goadedes.RomanouTouMelodou
 meMA.Lauds1.mode = misc_en_US_goadedes.Mode6
@@ -822,8 +822,8 @@ meMA.Aposticha3.text = me.m11.d30_en_US_goadedes.meVE.SticBoth.text
 meMA.AposGlory.poet = poets_en_US_goadedes.Stouditou
 meMA.AposGlory.mode = misc_en_US_goadedes.Mode1
 meMA.AposGlory.melody = ""
-meMA.AposGlory.incipit = "…"
-meMA.AposGlory.text = ""
+meMA.AposGlory.incipit = me.m01.d29_en_US_goadedes.meMA.AposGlory.incipit
+meMA.AposGlory.text = me.m01.d29_en_US_goadedes.meMA.AposGlory.text
 
 meMA.AposBoth.poet = poets_en_US_goadedes.Vyzantos
 meMA.AposBoth.mode = misc_en_US_goadedes.Mode6
