@@ -213,21 +213,21 @@ meMA.Ode3C1H.text = he.h.m4_en_US_goadedes.OtiSteiraEteken.text
 
 meMA.Ode3C11.ode = misc_en_US_goadedes.Ode3
 meMA.Ode3C11.mode = misc_en_US_goadedes.Mode4
-meMA.Ode3C11.melody = he.h.m4_en_US_goadedes.OtiSteiraEteken.name
-meMA.Ode3C11.incipit = "…"
-meMA.Ode3C11.text = ""
+meMA.Ode3C11.melody = he.h.m4_en_US_goadedes.OtiSteiraEteken.notmetered
+meMA.Ode3C11.incipit = "O Logos, Daniel sees…"
+meMA.Ode3C11.text = "O Logos, Daniel sees You as a stone cut from a virgin mountain and smashing pagan altars by Your might. We therefore glorify You with fear and awe."
 
 meMA.Ode3C12.ode = misc_en_US_goadedes.Ode3
 meMA.Ode3C12.mode = misc_en_US_goadedes.Mode4
-meMA.Ode3C12.melody = he.h.m4_en_US_goadedes.OtiSteiraEteken.name
-meMA.Ode3C12.incipit = "…"
-meMA.Ode3C12.text = ""
+meMA.Ode3C12.melody = he.h.m4_en_US_goadedes.OtiSteiraEteken.notmetered
+meMA.Ode3C12.incipit = "Magi from the Orient…"
+meMA.Ode3C12.text = "Magi from the Orient were led by a star to You the King of all. They marvel at Your condescension, O Christ, and they offer You gifts, gold, frankincense, and myrrh."
 
 meMA.Ode3C13.ode = misc_en_US_goadedes.Ode3
 meMA.Ode3C13.mode = misc_en_US_goadedes.Mode4
-meMA.Ode3C13.melody = he.h.m4_en_US_goadedes.OtiSteiraEteken.name
-meMA.Ode3C13.incipit = "…"
-meMA.Ode3C13.text = ""
+meMA.Ode3C13.melody = he.h.m4_en_US_goadedes.OtiSteiraEteken.notmetered
+meMA.Ode3C13.incipit = "Mary, the land not ploughed…"
+meMA.Ode3C13.text = "Mary, the land not ploughed, bears her Son, the life-bearing stalk. She comes to the city of Bethlehem to give birth to the One who feeds the souls of all who sing: \"Holy are You, O Lord.\""
 
 meMA.Ode3C21.ode = misc_en_US_goadedes.Ode3
 meMA.Ode3C21.mode = misc_en_US_goadedes.Mode4
@@ -378,21 +378,21 @@ meMA.Ode6C1H.text = he.h.m4_en_US_goadedes.IlthonEisTaVathi.text
 
 meMA.Ode6C11.ode = misc_en_US_goadedes.Ode6
 meMA.Ode6C11.mode = misc_en_US_goadedes.Mode4
-meMA.Ode6C11.melody = he.h.m4_en_US_goadedes.IlthonEisTaVathi.name
-meMA.Ode6C11.incipit = "…"
-meMA.Ode6C11.text = ""
+meMA.Ode6C11.melody = he.h.m4_en_US_goadedes.IlthonEisTaVathi.notmetered
+meMA.Ode6C11.incipit = "For us a new Child is born…"
+meMA.Ode6C11.text = "For us a new Child is born on earth. He ineffably shone forth from the Father before the ages. As compassionate Savior, He has freed everyone from the primal disobedience."
 
 meMA.Ode6C12.ode = misc_en_US_goadedes.Ode6
 meMA.Ode6C12.mode = misc_en_US_goadedes.Mode4
-meMA.Ode6C12.melody = he.h.m4_en_US_goadedes.IlthonEisTaVathi.name
-meMA.Ode6C12.incipit = "…"
-meMA.Ode6C12.text = ""
+meMA.Ode6C12.melody = he.h.m4_en_US_goadedes.IlthonEisTaVathi.notmetered
+meMA.Ode6C12.incipit = "O unoriginate Logos…"
+meMA.Ode6C12.text = "O unoriginate Logos, when You were born, strange and marvelous things were heard in the city of Bethlehem; for shepherds and Angels extolled You as their Master."
 
 meMA.Ode6C13.ode = misc_en_US_goadedes.Ode6
 meMA.Ode6C13.mode = misc_en_US_goadedes.Mode4
-meMA.Ode6C13.melody = he.h.m4_en_US_goadedes.IlthonEisTaVathi.name
-meMA.Ode6C13.incipit = "…"
-meMA.Ode6C13.text = ""
+meMA.Ode6C13.melody = he.h.m4_en_US_goadedes.IlthonEisTaVathi.notmetered
+meMA.Ode6C13.incipit = "The star reveals…"
+meMA.Ode6C13.text = "The star reveals to the Magi the Sun of righteousness, who was born ineffably. Let us now greatly rejoice and celebrate the Forefeast of His Nativity."
 
 meMA.Ode6C21.ode = misc_en_US_goadedes.Ode6
 meMA.Ode6C21.mode = misc_en_US_goadedes.Mode4
@@ -426,10 +426,10 @@ meMA.Ode6H.text = he.h.m4_en_US_goadedes.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = misc_en_US_goadedes.Mode2
 meMA.Kontakion1.melody = he.a.m2_en_US_goadedes.TaAnoZiton.name
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.incipit = "As we see the Lord…"
+meMA.Kontakion1.text = "As we see the Lord, who holds the whole world in His hand, * wrapped in swaddling clothes in the city of Bethlehem, * let us bring our forefestal hymns * to the Ever-Virgin who gave birth to Him. * She rejoices maternally, * as she holds in her embraces the Son of God."
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "The Virgin held the Son of God in her arms, and she smothered Him with maternal kisses and said, \"I conceived without having sex, and I gave birth to You and my body is intact. Even after childbirth, I am a virgin as before. So I adore Your great compassion and the ineffable miracle You have done in me, my Child. Therefore I greatly rejoice, as I hold in my embraces the Son of God.\""
 
 meMA.Ode7C1H.ode = misc_en_US_goadedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_goadedes.Mode4
@@ -595,13 +595,13 @@ meMA.Ode9H.text = he.h.m4_en_US_goadedes.LithosAcheirotmitos.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_goadedes.Mode3
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_goadedes.TonNymfonaSouVlepo.name
-meMA.Exaposteilarion1.incipit = "…"
-meMA.Exaposteilarion1.text = ""
+meMA.Exaposteilarion1.incipit = "O Word, Your holy Martyr…"
+meMA.Exaposteilarion1.text = "O Word, Your holy Martyr, * longing for Your bridal chamber, * endured every kind of torture * steadfastly with Your assistance. * At her intercessions, O God, * I entreat You * show tender mercy to my soul."
 
 meMA.Exaposteilarion2.mode = misc_en_US_goadedes.Mode3
 meMA.Exaposteilarion2.melody = he.a.m3_en_US_goadedes.TonNymfonaSouVlepo.name
-meMA.Exaposteilarion2.incipit = "…"
-meMA.Exaposteilarion2.text = ""
+meMA.Exaposteilarion2.incipit = "O Bethlehem, land of Judah…"
+meMA.Exaposteilarion2.text = "O Bethlehem, land of Judah, * prepare your portals of entry; * for the Virgin Theotokos * is now arriving at your gates * to give birth within a Cave * to my God and Lord, * who came as a mortal infant."
 
 meMA.Lauds1.mode = misc_en_US_goadedes.Mode6
 meMA.Lauds1.melody = he.a.m6_en_US_goadedes.AiAngelikai.name
