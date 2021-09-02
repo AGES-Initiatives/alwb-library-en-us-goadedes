@@ -33,9 +33,9 @@ meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = misc_en_US_goadedes.Mode8
-meVE.Stichera04.melody = he.a.m8_en_US_goadedes.OEnEdemParadeisos.name
-meVE.Stichera04.incipit = "…"
-meVE.Stichera04.text = ""
+meVE.Stichera04.melody = he.a.m8_en_US_goadedes.OEnEdemParadeisos.notmetered
+meVE.Stichera04.incipit = "O believers, today as we observe…"
+meVE.Stichera04.text = "O believers, today as we observe the memory of the fathers, let us extol Christ our Redeemer, who magnified them among all nations, and who faithfully performed those extraordinary miracles, as powerful and mighty Lord. From them He produced the rod of power for us, namely Mary, the only perpetually virgin pure Mother of God. From her came forth the flower, namely Christ, who blossomed life for all, never-ending delight, and the salvation of our souls."
 
 meVE.Stichera05.mode = misc_en_US_goadedes.Mode8
 meVE.Stichera05.melody = he.a.m8_en_US_goadedes.OEnEdemParadeisos.name
@@ -59,8 +59,8 @@ meVE.SticBoth.text = me.m12.d06_en_US_goadedes.meVE.SticBoth.text
 
 meVE.LityGlory.mode = misc_en_US_goadedes.Mode1
 meVE.LityGlory.melody = ""
-meVE.LityGlory.incipit = "…"
-meVE.LityGlory.text = ""
+meVE.LityGlory.incipit = "The famous Prophets…"
+meVE.LityGlory.text = "The famous Prophets are forever called blessed, for they shined brilliantly with flashes of God-inspired utterances. They garnered messages from the Spirit, and they proclaimed to all the inexplicable birth of Christ our God. They lived a most marvelous life, and they had a righteous demise."
 
 meVE.LityBoth.mode = misc_en_US_goadedes.Mode1
 meVE.LityBoth.melody = ""
@@ -94,39 +94,39 @@ meMA.C1.verse = prayers_en_US_goadedes.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode6
-meMA.Ode1C11.melody = he.h.m6_en_US_goadedes.KymatiThalassis.name
-meMA.Ode1C11.incipit = "…"
-meMA.Ode1C11.text = ""
+meMA.Ode1C11.melody = he.h.m6_en_US_goadedes.KymatiThalassis.notmetered
+meMA.Ode1C11.incipit = "The gates of death…"
+meMA.Ode1C11.text = "The gates of death open to You in fear, and the eternal bars are shattered. For at Your divine descent, the people who died long ago rose, and with joy they extolled Your resurrection, O Christ."
 
 meMA.Ode1C12.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C12.mode = misc_en_US_goadedes.Mode6
-meMA.Ode1C12.melody = he.h.m6_en_US_goadedes.KymatiThalassis.name
-meMA.Ode1C12.incipit = "…"
-meMA.Ode1C12.text = ""
+meMA.Ode1C12.melody = he.h.m6_en_US_goadedes.KymatiThalassis.notmetered
+meMA.Ode1C12.incipit = "Today, the godly fathers…"
+meMA.Ode1C12.text = "Today, the godly fathers splendidly celebrate, in anticipation of the birth of Christ. They underscore this extraordinary grace; for Abraham and the three Servants are all a symbol of the Law."
 
 meMA.Ode1C13.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C13.mode = misc_en_US_goadedes.Mode6
-meMA.Ode1C13.melody = he.h.m6_en_US_goadedes.KymatiThalassis.name
-meMA.Ode1C13.incipit = "…"
-meMA.Ode1C13.text = ""
+meMA.Ode1C13.melody = he.h.m6_en_US_goadedes.KymatiThalassis.notmetered
+meMA.Ode1C13.incipit = "Long ago, saintly Abraham…"
+meMA.Ode1C13.text = "Long ago, saintly Abraham showed hospitality to the one Godhead in three persons. Now the Logos, the coequal of the Father and the Holy Spirit, appears to the three Servants, and He is greatly glorified."
 
 meMA.Ode1C14.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C14.mode = misc_en_US_goadedes.Mode6
-meMA.Ode1C14.melody = he.h.m6_en_US_goadedes.KymatiThalassis.name
-meMA.Ode1C14.incipit = "…"
-meMA.Ode1C14.text = ""
+meMA.Ode1C14.melody = he.h.m6_en_US_goadedes.KymatiThalassis.notmetered
+meMA.Ode1C14.incipit = "Abraham was rescued…"
+meMA.Ode1C14.text = "Abraham was rescued from unjust treatment; the godly Servants, from the furnace fire; and Prophet Daniel, from the lions in the den. Now they celebrate in anticipation of the birth of Christ."
 
 meMA.Ode1C15.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C15.mode = misc_en_US_goadedes.Mode6
-meMA.Ode1C15.melody = he.h.m6_en_US_goadedes.KymatiThalassis.name
-meMA.Ode1C15.incipit = "…"
-meMA.Ode1C15.text = ""
+meMA.Ode1C15.melody = he.h.m6_en_US_goadedes.KymatiThalassis.notmetered
+meMA.Ode1C15.incipit = "The three Servants…"
+meMA.Ode1C15.text = "The three Servants in the furnace, with faith in the Holy Trinity, stamped out godlessness; and to the world they symbolically revealed the mysteries of God that would come to pass."
 
 meMA.Ode1C1T.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C1T.mode = misc_en_US_goadedes.Mode6
-meMA.Ode1C1T.melody = he.h.m6_en_US_goadedes.KymatiThalassis.name
-meMA.Ode1C1T.incipit = "…"
-meMA.Ode1C1T.text = ""
+meMA.Ode1C1T.melody = he.h.m6_en_US_goadedes.KymatiThalassis.notmetered
+meMA.Ode1C1T.incipit = "O unwedded, undefiled…"
+meMA.Ode1C1T.text = "O unwedded, undefiled, Virgin Mother full of grace, we call you blessed; for you descended from the line of Abraham and from the tribe of David, and you gave birth to Christ, who was proclaimed by the Prophets long before."
 
 meMA.C2.title = titles_en_US_goadedes.KanonProeortios
 meMA.C2.verse = prayers_en_US_goadedes.verse_God.text
@@ -205,8 +205,8 @@ meMA.Ode3C2T.text = ""
 
 meMA.Hypakoe.mode = misc_en_US_goadedes.Mode8
 meMA.Hypakoe.melody = ""
-meMA.Hypakoe.incipit = "…"
-meMA.Hypakoe.text = ""
+meMA.Hypakoe.incipit = "The Angel made the furnace…"
+meMA.Hypakoe.text = "The Angel made the furnace like a moist whistling wind for the three Servants. Now an Angel stops the weeping of the Myrrh-bearing women, saying, \"Why do you bring ointments? Whom do you seed in the sepulcher? Christ God has risen! For He is the life and the salvation of the human race.\""
 
 meMA.Ode4C1H.ode = misc_en_US_goadedes.Ode4
 meMA.Ode4C1H.mode = misc_en_US_goadedes.Mode6
