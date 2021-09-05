@@ -294,7 +294,7 @@ trMA.C1.acrostic = ""
 
 trMA.Ode8C1H.ode = misc_en_US_goadedes.Ode8
 trMA.Ode8C1H.mode = misc_en_US_goadedes.Mode2
-trMA.Ode8C1H.melody = misc_en_US_goadedes.Heirmos
+trMA.Ode8C1H.melody = he.h.m2_en_US_goadedes.ToDogmatiToTyranniko.melody
 trMA.Ode8C1H.incipit = he.h.m2_en_US_goadedes.ToDogmatiToTyranniko.incipit
 trMA.Ode8C1H.text = he.h.m2_en_US_goadedes.ToDogmatiToTyranniko.text
 
@@ -324,7 +324,7 @@ trMA.Ode8K.text = he.h.m2_en_US_goadedes.ToDogmatiToTyranniko.text
 
 trMA.Ode9C1H.ode = misc_en_US_goadedes.Ode9
 trMA.Ode9C1H.mode = misc_en_US_goadedes.Mode2
-trMA.Ode9C1H.melody = misc_en_US_goadedes.Heirmos
+trMA.Ode9C1H.melody = he.h.m2_en_US_goadedes.ITonAchoritonTheon.melody
 trMA.Ode9C1H.incipit = he.h.m2_en_US_goadedes.ITonAchoritonTheon.incipit
 trMA.Ode9C1H.text = he.h.m2_en_US_goadedes.ITonAchoritonTheon.text
 

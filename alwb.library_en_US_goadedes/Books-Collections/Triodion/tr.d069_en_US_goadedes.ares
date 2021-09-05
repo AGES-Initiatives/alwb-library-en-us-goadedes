@@ -432,7 +432,7 @@ trMA.C1.acrostic = ""
 
 trMA.Ode5C1H.ode = misc_en_US_goadedes.Ode5
 trMA.Ode5C1H.mode = misc_en_US_goadedes.Mode6
-trMA.Ode5C1H.melody = misc_en_US_goadedes.Heirmos
+trMA.Ode5C1H.melody = he.h.m6_en_US_goadedes.ProsSeOrthrizo.melody
 trMA.Ode5C1H.incipit = he.h.m6_en_US_goadedes.ProsSeOrthrizo.incipit
 trMA.Ode5C1H.text = he.h.m6_en_US_goadedes.ProsSeOrthrizo.text
 
@@ -479,7 +479,7 @@ trSY.lastline = ""
 
 trMA.Ode8C1H.ode = misc_en_US_goadedes.Ode8
 trMA.Ode8C1H.mode = misc_en_US_goadedes.Mode6
-trMA.Ode8C1H.melody = misc_en_US_goadedes.Heirmos
+trMA.Ode8C1H.melody = he.h.m6_en_US_goadedes.StilinKakiasAntitheou.melody
 trMA.Ode8C1H.incipit = he.h.m6_en_US_goadedes.StilinKakiasAntitheou.incipit
 trMA.Ode8C1H.text = he.h.m6_en_US_goadedes.StilinKakiasAntitheou.text
 
@@ -515,7 +515,7 @@ trMA.Ode8K.text = he.h.m6_en_US_goadedes.StilinKakiasAntitheou.text
 
 trMA.Ode9C1H.ode = misc_en_US_goadedes.Ode9
 trMA.Ode9C1H.mode = misc_en_US_goadedes.Mode6
-trMA.Ode9C1H.melody = misc_en_US_goadedes.Heirmos
+trMA.Ode9C1H.melody = he.h.m6_en_US_goadedes.TinTimioteran.melody
 trMA.Ode9C1H.incipit = he.h.m6_en_US_goadedes.TinTimioteran.incipit
 trMA.Ode9C1H.text = he.h.m6_en_US_goadedes.TinTimioteran.text
 

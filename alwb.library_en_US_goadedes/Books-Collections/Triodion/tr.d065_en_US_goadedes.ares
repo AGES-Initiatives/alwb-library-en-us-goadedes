@@ -276,7 +276,7 @@ trMA.C1.acrostic = ""
 
 trMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 trMA.Ode1C1H.mode = misc_en_US_goadedes.Mode2
-trMA.Ode1C1H.melody = misc_en_US_goadedes.Heirmos
+trMA.Ode1C1H.melody = he.h.m2_en_US_goadedes.ToTinAvaton.melody
 trMA.Ode1C1H.incipit = he.h.m2_en_US_goadedes.ToTinAvaton.incipit
 trMA.Ode1C1H.text = he.h.m2_en_US_goadedes.ToTinAvaton.text
 
@@ -327,7 +327,7 @@ trSY.lastline = ""
 
 trMA.Ode8C1H.ode = misc_en_US_goadedes.Ode8
 trMA.Ode8C1H.mode = misc_en_US_goadedes.Mode2
-trMA.Ode8C1H.melody = misc_en_US_goadedes.Heirmos
+trMA.Ode8C1H.melody = he.h.m2_en_US_goadedes.EfrixePaidonEvagon.melody
 trMA.Ode8C1H.incipit = he.h.m2_en_US_goadedes.EfrixePaidonEvagon.incipit
 trMA.Ode8C1H.text = he.h.m2_en_US_goadedes.EfrixePaidonEvagon.text
 
@@ -351,7 +351,7 @@ trMA.Ode8K.text = he.h.m2_en_US_goadedes.EfrixePaidonEvagon.text
 
 trMA.Ode9C1H.ode = misc_en_US_goadedes.Ode9
 trMA.Ode9C1H.mode = misc_en_US_goadedes.Mode2
-trMA.Ode9C1H.melody = misc_en_US_goadedes.Heirmos
+trMA.Ode9C1H.melody = he.h.m2_en_US_goadedes.EmegalynasChriste.melody
 trMA.Ode9C1H.incipit = he.h.m2_en_US_goadedes.EmegalynasChriste.incipit
 trMA.Ode9C1H.text = he.h.m2_en_US_goadedes.EmegalynasChriste.text
 

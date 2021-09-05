@@ -867,7 +867,7 @@ trMA.C1.poet = poets_en_US_goadedes.Iosif
 
 trMA.Ode4C1H.ode = misc_en_US_goadedes.Ode4
 trMA.Ode4C1H.mode = misc_en_US_goadedes.Mode8
-trMA.Ode4C1H.melody = misc_en_US_goadedes.Heirmos
+trMA.Ode4C1H.melody = he.h.m8_en_US_goadedes.EisakikoaKyrie.melody
 trMA.Ode4C1H.incipit = he.h.m8_en_US_goadedes.EisakikoaKyrie.incipit
 trMA.Ode4C1H.text = he.h.m8_en_US_goadedes.EisakikoaKyrie.text
 
@@ -899,7 +899,7 @@ trMA.C2.poet = poets_en_US_goadedes.Theodorou
 
 trMA.Ode4C2H.ode = misc_en_US_goadedes.Ode4
 trMA.Ode4C2H.mode = misc_en_US_goadedes.Mode8
-trMA.Ode4C2H.melody = misc_en_US_goadedes.Heirmos
+trMA.Ode4C2H.melody = he.h.m8_en_US_goadedes.EisakikoaKyrieTinAkoinSou.melody
 trMA.Ode4C2H.incipit = he.h.m8_en_US_goadedes.EisakikoaKyrieTinAkoinSou.incipit
 trMA.Ode4C2H.text = he.h.m8_en_US_goadedes.EisakikoaKyrieTinAkoinSou.text
 
@@ -1682,7 +1682,7 @@ trGC.Ode7C2T.text = ""
 
 trMA.Ode8C1H.ode = misc_en_US_goadedes.Ode8
 trMA.Ode8C1H.mode = misc_en_US_goadedes.Mode8
-trMA.Ode8C1H.melody = misc_en_US_goadedes.Heirmos
+trMA.Ode8C1H.melody = he.h.m8_en_US_goadedes.TonAnarchonVasilea.melody
 trMA.Ode8C1H.incipit = he.h.m8_en_US_goadedes.TonAnarchonVasilea.incipit
 trMA.Ode8C1H.text = he.h.m8_en_US_goadedes.TonAnarchonVasilea.text
 
@@ -1908,7 +1908,7 @@ trGC.Ode8C2H.text = he.h.m6_en_US_goadedes.OnStratiaiOuranon.text
 
 trMA.Ode9C1H.ode = misc_en_US_goadedes.Ode9
 trMA.Ode9C1H.mode = misc_en_US_goadedes.Mode8
-trMA.Ode9C1H.melody = misc_en_US_goadedes.Heirmos
+trMA.Ode9C1H.melody = he.h.m8_en_US_goadedes.KyriosTheotokon.melody
 trMA.Ode9C1H.incipit = he.h.m8_en_US_goadedes.KyriosTheotokon.incipit
 trMA.Ode9C1H.text = he.h.m8_en_US_goadedes.KyriosTheotokon.text
 
@@ -1938,7 +1938,7 @@ trMA.Ode9C1T.text = ""
 
 trMA.Ode9C2H.ode = misc_en_US_goadedes.Ode9
 trMA.Ode9C2H.mode = misc_en_US_goadedes.Mode8
-trMA.Ode9C2H.melody = misc_en_US_goadedes.Heirmos
+trMA.Ode9C2H.melody = he.h.m8_en_US_goadedes.SeTinOuranou.melody
 trMA.Ode9C2H.incipit = he.h.m8_en_US_goadedes.SeTinOuranou.incipit
 trMA.Ode9C2H.text = he.h.m8_en_US_goadedes.SeTinOuranou.text
 

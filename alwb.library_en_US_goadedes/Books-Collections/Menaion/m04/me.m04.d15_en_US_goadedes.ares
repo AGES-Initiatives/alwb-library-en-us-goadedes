@@ -58,7 +58,7 @@ meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode4
-meMA.Ode1C1H.melody = misc_en_US_goadedes.Heirmos
+meMA.Ode1C1H.melody = he.h.m4_en_US_goadedes.ThalassisToErythraion.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_goadedes.ThalassisToErythraion.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_goadedes.ThalassisToErythraion.text
 
@@ -91,7 +91,7 @@ meMA.Ode1C1T.text = ""
 
 meMA.Ode3C1H.ode = misc_en_US_goadedes.Ode3
 meMA.Ode3C1H.mode = misc_en_US_goadedes.Mode4
-meMA.Ode3C1H.melody = misc_en_US_goadedes.Heirmos
+meMA.Ode3C1H.melody = he.h.m4_en_US_goadedes.EffrainetaiEpiSoi.melody
 meMA.Ode3C1H.incipit = he.h.m4_en_US_goadedes.EffrainetaiEpiSoi.incipit
 meMA.Ode3C1H.text = he.h.m4_en_US_goadedes.EffrainetaiEpiSoi.text
 
@@ -136,7 +136,7 @@ meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C1H.ode = misc_en_US_goadedes.Ode4
 meMA.Ode4C1H.mode = misc_en_US_goadedes.Mode4
-meMA.Ode4C1H.melody = misc_en_US_goadedes.Heirmos
+meMA.Ode4C1H.melody = he.h.m4_en_US_goadedes.EparthentaSeIdousa.melody
 meMA.Ode4C1H.incipit = he.h.m4_en_US_goadedes.EparthentaSeIdousa.incipit
 meMA.Ode4C1H.text = he.h.m4_en_US_goadedes.EparthentaSeIdousa.text
 
@@ -160,7 +160,7 @@ meMA.Ode4C1T.text = ""
 
 meMA.Ode5C1H.ode = misc_en_US_goadedes.Ode4
 meMA.Ode5C1H.mode = misc_en_US_goadedes.Mode4
-meMA.Ode5C1H.melody = misc_en_US_goadedes.Heirmos
+meMA.Ode5C1H.melody = he.h.m4_en_US_goadedes.SyKyrieMouFos.melody
 meMA.Ode5C1H.incipit = he.h.m4_en_US_goadedes.SyKyrieMouFos.incipit
 meMA.Ode5C1H.text = he.h.m4_en_US_goadedes.SyKyrieMouFos.text
 
@@ -190,7 +190,7 @@ meMA.Ode5C1T.text = ""
 
 meMA.Ode6C1H.ode = misc_en_US_goadedes.Ode6
 meMA.Ode6C1H.mode = misc_en_US_goadedes.Mode4
-meMA.Ode6C1H.melody = misc_en_US_goadedes.Heirmos
+meMA.Ode6C1H.melody = he.h.m4_en_US_goadedes.ThysoSoiMetaFonis.melody
 meMA.Ode6C1H.incipit = he.h.m4_en_US_goadedes.ThysoSoiMetaFonis.incipit
 meMA.Ode6C1H.text = he.h.m4_en_US_goadedes.ThysoSoiMetaFonis.text
 
@@ -232,7 +232,7 @@ meMA.Kontakion2.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_goadedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_goadedes.Mode4
-meMA.Ode7C1H.melody = misc_en_US_goadedes.Heirmos
+meMA.Ode7C1H.melody = he.h.m4_en_US_goadedes.EnTiKaminoAvramiaioi.melody
 meMA.Ode7C1H.incipit = he.h.m4_en_US_goadedes.EnTiKaminoAvramiaioi.incipit
 meMA.Ode7C1H.text = he.h.m4_en_US_goadedes.EnTiKaminoAvramiaioi.text
 
@@ -262,7 +262,7 @@ meMA.Ode7C1T.text = ""
 
 meMA.Ode8C1H.ode = misc_en_US_goadedes.Ode8
 meMA.Ode8C1H.mode = misc_en_US_goadedes.Mode4
-meMA.Ode8C1H.melody = misc_en_US_goadedes.Heirmos
+meMA.Ode8C1H.melody = he.h.m4_en_US_goadedes.CheirasEkpetasasDaniil.melody
 meMA.Ode8C1H.incipit = he.h.m4_en_US_goadedes.CheirasEkpetasasDaniil.incipit
 meMA.Ode8C1H.text = he.h.m4_en_US_goadedes.CheirasEkpetasasDaniil.text
 
@@ -298,7 +298,7 @@ meMA.Ode8C1T.text = ""
 
 meMA.Ode9C1H.ode = misc_en_US_goadedes.Ode9
 meMA.Ode9C1H.mode = misc_en_US_goadedes.Mode4
-meMA.Ode9C1H.melody = misc_en_US_goadedes.Heirmos
+meMA.Ode9C1H.melody = he.h.m4_en_US_goadedes.LithosAcheirotmitos.melody
 meMA.Ode9C1H.incipit = he.h.m4_en_US_goadedes.LithosAcheirotmitos.incipit
 meMA.Ode9C1H.text = he.h.m4_en_US_goadedes.LithosAcheirotmitos.text
 

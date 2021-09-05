@@ -69,7 +69,7 @@ trMA.Kathisma32.text = ""
 
 trMA.Ode2C1H.ode = misc_en_US_goadedes.Ode2
 trMA.Ode2C1H.mode = misc_en_US_goadedes.Mode2
-trMA.Ode2C1H.melody = misc_en_US_goadedes.Heirmos
+trMA.Ode2C1H.melody = he.h.m2_en_US_goadedes.IdeteIdeteOEnThalassi.melody
 trMA.Ode2C1H.incipit = he.h.m2_en_US_goadedes.IdeteIdeteOEnThalassi.incipit
 trMA.Ode2C1H.text = he.h.m2_en_US_goadedes.IdeteIdeteOEnThalassi.text
 
@@ -129,7 +129,7 @@ trMA.Ode2C2A1.text = ""
 
 trMA.Ode2C2H.ode = misc_en_US_goadedes.Ode2
 trMA.Ode2C2H.mode = misc_en_US_goadedes.Mode5
-trMA.Ode2C2H.melody = misc_en_US_goadedes.Heirmos
+trMA.Ode2C2H.melody = he.h.m5_en_US_goadedes.IdeteIdete.melody
 trMA.Ode2C2H.incipit = he.h.m5_en_US_goadedes.IdeteIdete.incipit
 trMA.Ode2C2H.text = he.h.m5_en_US_goadedes.IdeteIdete.text
 
@@ -189,7 +189,7 @@ trMA.Ode8C2A1.text = ""
 
 trMA.Ode8C2H.ode = misc_en_US_goadedes.Ode8
 trMA.Ode8C2H.mode = misc_en_US_goadedes.Mode5
-trMA.Ode8C2H.melody = misc_en_US_goadedes.Heirmos
+trMA.Ode8C2H.melody = he.h.m5_en_US_goadedes.TonPoiitinTisKtiseos.melody
 trMA.Ode8C2H.incipit = he.h.m5_en_US_goadedes.TonPoiitinTisKtiseos.incipit
 trMA.Ode8C2H.text = he.h.m5_en_US_goadedes.TonPoiitinTisKtiseos.text
 
@@ -249,7 +249,7 @@ trMA.Ode9C2A1.text = ""
 
 trMA.Ode9C2H.ode = misc_en_US_goadedes.Ode9
 trMA.Ode9C2H.mode = misc_en_US_goadedes.Mode5
-trMA.Ode9C2H.melody = misc_en_US_goadedes.Heirmos
+trMA.Ode9C2H.melody = he.h.m5_en_US_goadedes.IsaiaChoreve.melody
 trMA.Ode9C2H.incipit = he.h.m5_en_US_goadedes.IsaiaChoreve.incipit
 trMA.Ode9C2H.text = he.h.m5_en_US_goadedes.IsaiaChoreve.text
 
