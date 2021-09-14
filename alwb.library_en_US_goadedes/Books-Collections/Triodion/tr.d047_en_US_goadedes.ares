@@ -270,7 +270,7 @@ trMA.AposTheotokion.text = ""
 
 trTE.Troparion.mode = misc_en_US_goadedes.Mode6
 trTE.Troparion.melody = ""
-trTE.Troparion.incipit = "…"
-trTE.Troparion.text = ""
+trTE.Troparion.incipit = ho.s07_en_US_goadedes.hoLI.TonStavronSou.incipit
+trTE.Troparion.text = ho.s07_en_US_goadedes.hoLI.TonStavronSou.text
 trTE.Troparion2.incipit = "…"
 trTE.Troparion2.text = ""
