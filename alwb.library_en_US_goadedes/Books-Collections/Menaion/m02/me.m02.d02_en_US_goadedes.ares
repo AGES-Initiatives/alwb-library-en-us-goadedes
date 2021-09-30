@@ -339,9 +339,9 @@ meMA.Ode6C13.text = "\"Son of the Most High, Son of the Virgin, * You are my God
 meMA.Kontakion1.mode = misc_en_US_goadedes.Mode1
 meMA.Kontakion1.melody = ""
 meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.text = "You sanctified the virginal womb by Your birth, O Lord, and blessed the hands of Symeon fittingly, O Christ God; and even now You came and saved us. Now, give peace to our Nation in time of war, and empower our Leaders, so loved by You, the only One who loves humanity."
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "To the Theotokos let us run, we who wish to see her Son be presented to Symeon. From heaven, the bodiless watched in amazement and said, \"What we see now is marvelous, paradoxical, inconceivable, inexpressible! He who made Adam is held as a babe. Uncontainable God fits in the Elder's embrace. He, who without circumscription exists in His Father's bosom, is circumscribed, not in divinity, but physically, willingly, the only One who loves humanity.\""
 
 meMA.Ode7C1H.ode = misc_en_US_goadedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_goadedes.Mode3
@@ -354,9 +354,7 @@ meMA.Ode7C11.mode = misc_en_US_goadedes.Mode3
 meMA.Ode7C11.melody = he.h.m3_en_US_goadedes.SeTonEnPyri.name
 meMA.Ode7C11.incipit = "I depart now…"
 meMA.Ode7C11.text = "\"I depart now for the nether world, * to see Adam, who is dwelling there, * and deliver the good news to Eve and everyone,
-and to dance with the Prophets.\"
-So did Symeon cry out,
-\"Blessed are You, O Lord, the God of our fathers.\""
+and to dance with the Prophets.\" * So did Symeon cry out, * \"Blessed are You, O Lord, the God of our fathers.\""
 
 meMA.Ode7C12.ode = misc_en_US_goadedes.Ode7
 meMA.Ode7C12.mode = misc_en_US_goadedes.Mode3
@@ -386,7 +384,7 @@ meMA.Ode8C12.ode = misc_en_US_goadedes.Ode8
 meMA.Ode8C12.mode = misc_en_US_goadedes.Mode3
 meMA.Ode8C12.melody = he.h.m3_en_US_goadedes.AstektoPyri.name
 meMA.Ode8C12.incipit = "Behold, said Symeon…"
-meMA.Ode8C12.text = "\"Behold,\" said Symeon, \"this Child * is God and is set for the fall and rising of many * and a sign spoken against. Let us praise Him faithfully. * All you works of the Lord, bless the Lord, * and exalt Him beyond measure unto all the ages.\""
+meMA.Ode8C12.text = "\"Behold,\" said Symeon, \"this Child * is God and is set for a sign that is spoken against and destined to be opposed. * Let us praise Him faithfully. * All you works of the Lord, bless the Lord, * and exalt Him beyond measure unto all the ages.\""
 
 meMA.Ode8C13.ode = misc_en_US_goadedes.Ode8
 meMA.Ode8C13.mode = misc_en_US_goadedes.Mode3
@@ -394,38 +392,38 @@ meMA.Ode8C13.melody = he.h.m3_en_US_goadedes.AstektoPyri.name
 meMA.Ode8C13.incipit = "This Child is indeed…"
 meMA.Ode8C13.text = "\"This Child is indeed God the Logos, * who is life inherently, the fall of unbelievers, * and the resurrection of all who praise Him faithfully. * All you works of the Lord, bless the Lord, * and exalt Him beyond measure unto all the ages.\""
 
-meMA.Ode9C1M01.incipit = "…"
-meMA.Ode9C1M01.text = ""
-meMA.Ode9C1M02.incipit = "…"
-meMA.Ode9C1M02.text = ""
-meMA.Ode9C1M03.incipit = "…"
-meMA.Ode9C1M03.text = ""
-meMA.Ode9C1M04.incipit = "…"
-meMA.Ode9C1M04.text = ""
-meMA.Ode9C1M05.incipit = "…"
-meMA.Ode9C1M05.text = ""
-meMA.Ode9C1M06.incipit = "…"
-meMA.Ode9C1M06.text = ""
-meMA.Ode9C1M07.incipit = "…"
-meMA.Ode9C1M07.text = ""
-meMA.Ode9C1M08.incipit = "…"
-meMA.Ode9C1M08.text = ""
-meMA.Ode9C1M09.incipit = "…"
-meMA.Ode9C1M09.text = ""
-meMA.Ode9C1M10.incipit = "…"
-meMA.Ode9C1M10.text = ""
-meMA.Ode9C1M11.incipit = "…"
-meMA.Ode9C1M11.text = ""
-meMA.Ode9C1M12.incipit = "…"
-meMA.Ode9C1M12.text = ""
-meMA.Ode9C1M13.incipit = "…"
-meMA.Ode9C1M13.text = ""
-meMA.Ode9C1M14.incipit = "…"
-meMA.Ode9C1M14.text = ""
-meMA.Ode9C1MTr.incipit = "…"
-meMA.Ode9C1MTr.text = ""
-meMA.Ode9C1MTh.incipit = "…"
-meMA.Ode9C1MTh.text = ""
+meMA.Ode9C1M01.incipit = "Angels and the human race…"
+meMA.Ode9C1M01.text = "Angels and the human race cannot fully understand * what has taken place in you, Lady, virgin Mother pure."
+meMA.Ode9C1M02.incipit = "Aged Symeon…"
+meMA.Ode9C1M02.text = "Aged Symeon the priest, in his arms embraces You, * the Creator of the Law and the Ruler over all."
+meMA.Ode9C1M03.incipit = "Blessed Maiden…"
+meMA.Ode9C1M03.text = "Blessed Maiden, Virgin pure, the Creator wished to save * Adam and the human race, so He dwelt inside your womb."
+meMA.Ode9C1M04.incipit = "Calling all the human race…"
+meMA.Ode9C1M04.text = "Come now all humanity, call the virgin Maiden blessed! * Glorify her faithfully, as the Mother of our God!"
+meMA.Ode9C1M05.incipit = "Dear believers, come and see…"
+meMA.Ode9C1M05.text = "Dear believers, come and see Christ our God, the Lord of all, * in the Temple held today in the arms of Symeon."
+meMA.Ode9C1M06.incipit = "Earth is made to tremble…"
+meMA.Ode9C1M06.text = "Earth is made to tremble when You but look upon it, Lord. * How then can a weary, old man contain You in his arms?"
+meMA.Ode9C1M07.incipit = "For so long had Symeon…"
+meMA.Ode9C1M07.text = "For so long had Symeon lived until he saw the Christ. * Then he said to Him, \"I pray, let me now depart in peace.\""
+meMA.Ode9C1M08.incipit = "Gracious Mary…"
+meMA.Ode9C1M08.text = "Gracious Mary, you conceived in your womb the Savior Christ. * Thus you are the mystical tongs that held the burning coal."
+meMA.Ode9C1M09.incipit = "Holy, pre-eternal God…"
+meMA.Ode9C1M09.text = "Holy, pre-eternal God, willing You became a man. * To the Temple You were brought as a babe of forty days."
+meMA.Ode9C1M10.incipit = "In His love for man…"
+meMA.Ode9C1M10.text = "In His love for man, the Lord of the universe came down * from the heavens and was met by St. Symeon the priest."
+meMA.Ode9C1M11.incipit = "Lord, illumine…"
+meMA.Ode9C1M11.text = "Lord, illumine both my soul and the vision of my eyes * so that I may clearly see and proclaim that You are God."
+meMA.Ode9C1M12.incipit = "Mary, virgin Mother…"
+meMA.Ode9C1M12.text = "Mary, virgin Mother pure, why do you present the babe * in the Temple and you lay Him into Symeon's arms?"
+meMA.Ode9C1M13.incipit = "Now I pray to You…"
+meMA.Ode9C1M13.text = "Now I pray to You, my Lord and Creator, that You let * me depart, for I have seen You, my saving light, O Christ."
+meMA.Ode9C1M14.incipit = "On the earth…"
+meMA.Ode9C1M14.text = "On the earth now Symeon holds in his embrace the Lord, * whom the ministers on high serve with trembling and entreat."
+meMA.Ode9C1MTr.incipit = "Guard Your servants…"
+meMA.Ode9C1MTr.text = "Guard Your servants, who believe and confess You to be God, * one in nature, Trinity in divine hypostases."
+meMA.Ode9C1MTh.incipit = "Theotokos, as the hope…"
+meMA.Ode9C1MTh.text = "Theotokos, as the hope of us Christians, one and all, * guard and shelter and protect those who put their hope in you."
 
 meMA.Ode9C1H.ode = misc_en_US_goadedes.Ode9
 meMA.Ode9C1H.mode = misc_en_US_goadedes.Mode3
@@ -436,20 +434,20 @@ meMA.Ode9C1H.text = he.h.m3_en_US_goadedes.EnNomoSkia.text
 meMA.Ode9C11.ode = misc_en_US_goadedes.Ode9
 meMA.Ode9C11.mode = misc_en_US_goadedes.Mode3
 meMA.Ode9C11.melody = he.h.m3_en_US_goadedes.EnNomoSkia.name
-meMA.Ode9C11.incipit = "…"
-meMA.Ode9C11.text = ""
+meMA.Ode9C11.incipit = "A pair of turtledoves…"
+meMA.Ode9C11.text = "A pair of turtledoves, or two young pigeons, were required before. * And now the godly Elder and the chaste prophetess Anna * are ministering to the Virgin's infant, the Father's Son, * as He is brought and presented in the Temple; and they magnify Him."
 
 meMA.Ode9C12.ode = misc_en_US_goadedes.Ode9
 meMA.Ode9C12.mode = misc_en_US_goadedes.Mode3
 meMA.Ode9C12.melody = he.h.m3_en_US_goadedes.EnNomoSkia.name
-meMA.Ode9C12.incipit = "…"
-meMA.Ode9C12.text = ""
+meMA.Ode9C12.incipit = "Symeon said…"
+meMA.Ode9C12.text = "Symeon said, \"You have restored to me the joy of Your salvation, O Christ. * I Your servant, who am old and weary of the shadow, * pray You now to receive me * as a new disciple and sacred herald of Your grace, * as I sing Your praise and magnify You.\""
 
 meMA.Ode9C13.ode = misc_en_US_goadedes.Ode9
 meMA.Ode9C13.mode = misc_en_US_goadedes.Mode3
 meMA.Ode9C13.melody = he.h.m3_en_US_goadedes.EnNomoSkia.name
-meMA.Ode9C13.incipit = "…"
-meMA.Ode9C13.text = ""
+meMA.Ode9C13.incipit = "The chaste and devout…"
+meMA.Ode9C13.text = "The chaste and devout and elderly Anna, * coming up in the Temple inspired by God, explicitly explained the prophecies * and with sacred reverence gave thanks to the Master. * And to all who were there she proclaimed * the Theotokos and magnified her."
 
 meMA.Exaposteilarion1.mode = misc_en_US_goadedes.Mode3
 meMA.Exaposteilarion1.melody = misc_en_US_goadedes.Automelon
