@@ -304,13 +304,13 @@ ProsSeOrthrizo.mode = misc_en_US_goadedes.Mode6
 ProsSeOrthrizo.ode = misc_en_US_goadedes.Ode5
 ProsSeOrthrizo.text = "Early in the morning, I rise to You, who emptied yourself without changing and submitted to the Passion impassibly, for the sake of fallen Adam, in Your tender mercy, O Logos of God. Grant me Your peace, O Lord who loves mankind."
 
-ProsSeOrthrizo_Epiphany.notmetered = "N/M ()"
-ProsSeOrthrizo_Epiphany.name = ""
-ProsSeOrthrizo_Epiphany.incipit = "…"
-ProsSeOrthrizo_Epiphany.melody = misc_en_US_goadedes.Heirmos
+ProsSeOrthrizo_Epiphany.notmetered = "N/M (Early in the morning.)"
+ProsSeOrthrizo_Epiphany.name = "Early in the morning."
+ProsSeOrthrizo_Epiphany.incipit = "Early in the morning…"
+ProsSeOrthrizo_Epiphany.melody = misc_en_US_goadedes.HeirmosNotMetered
 ProsSeOrthrizo_Epiphany.mode = misc_en_US_goadedes.Mode6
 ProsSeOrthrizo_Epiphany.ode = misc_en_US_goadedes.Ode5
-ProsSeOrthrizo_Epiphany.text = ""
+ProsSeOrthrizo_Epiphany.text = "Early in the morning, I rise to You, who emptied yourself without changing and willingly were baptized at Your servant's hand, for the sake of fallen Adam, in Your tender mercy, O Logos of God. Grant me Your peace, O Lord who loves mankind."
 
 ProsecheOurane.notmetered = "N/M ()"
 ProsecheOurane.name = ""
@@ -352,13 +352,13 @@ StilinKakiasAntitheou.mode = misc_en_US_goadedes.Mode6
 StilinKakiasAntitheou.ode = misc_en_US_goadedes.Ode8
 StilinKakiasAntitheou.text = "The godly Servants ridiculed the monument of ungodly wickedness. But the unlawful council rages now and meditates on vain things, against the Lord's Anointed, and plots to put to death the One who holds life in His hand. All creation blesses Him and glorifies Him unto the ages."
 
-StilinKakiasTouDeinou.notmetered = "N/M ()"
-StilinKakiasTouDeinou.name = ""
-StilinKakiasTouDeinou.incipit = "…"
-StilinKakiasTouDeinou.melody = misc_en_US_goadedes.Heirmos
+StilinKakiasTouDeinou.notmetered = "N/M (O believers, having ridiculed.)"
+StilinKakiasTouDeinou.name = "O believers, having ridiculed."
+StilinKakiasTouDeinou.incipit = "O believers, having ridiculed…"
+StilinKakiasTouDeinou.melody = misc_en_US_goadedes.HeirmosNotMetered
 StilinKakiasTouDeinou.mode = misc_en_US_goadedes.Mode6
 StilinKakiasTouDeinou.ode = misc_en_US_goadedes.Ode8
-StilinKakiasTouDeinou.text = ""
+StilinKakiasTouDeinou.text = "O believers, having ridiculed the monument of Herod's wickedness, let us proceed to the Jordan, to see Christ our Redeemer physically baptized by the Forerunner in the river. All creation blesses Him and glorifies Him unto the ages."
 
 SyneschethiAllOuKateschethi.notmetered = "N/M (Prophet Jonah was in.)"
 SyneschethiAllOuKateschethi.name = "Prophet Jonah was in."

@@ -56,8 +56,8 @@ meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_goadedes.Mode4
 meVE.AposTheotokion.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
-meVE.AposTheotokion.incipit = "…"
-meVE.AposTheotokion.text = ""
+meVE.AposTheotokion.incipit = "O all-holy one…"
+meVE.AposTheotokion.text = "O all-holy one, Bride of God, * I implore you to rescue me * from a guilty verdict; and free my sorry soul * from all my terrible sins and death; * and pray that I might receive * vindication in the end, * at my trial on Judgment Day, * as the hosts of saints * have attained through repentance. May I also have the will before my last breath * to cleanse myself with a flood of tears."
 
 meVE.AposStavrotheotokion.mode = misc_en_US_goadedes.Mode4
 meVE.AposStavrotheotokion.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
@@ -100,27 +100,27 @@ meMA.Ode1C1T.text = ""
 
 meMA.Ode3C11.ode = misc_en_US_goadedes.Ode3
 meMA.Ode3C11.mode = misc_en_US_goadedes.Mode6
-meMA.Ode3C11.melody = he.h.m6_en_US_goadedes.OukEstinAgios.name
-meMA.Ode3C11.incipit = "…"
-meMA.Ode3C11.text = ""
+meMA.Ode3C11.melody = he.h.m6_en_US_goadedes.OukEstinAgios.notmetered
+meMA.Ode3C11.incipit = "You made yourself…"
+meMA.Ode3C11.text = "You made yourself into a veritable vessel of virtues and a receptacle of the gifts of grace of the Holy Spirit, when you purged yourself of all impurity of passions."
 
 meMA.Ode3C12.ode = misc_en_US_goadedes.Ode3
 meMA.Ode3C12.mode = misc_en_US_goadedes.Mode6
-meMA.Ode3C12.melody = he.h.m6_en_US_goadedes.OukEstinAgios.name
-meMA.Ode3C12.incipit = "…"
-meMA.Ode3C12.text = ""
+meMA.Ode3C12.melody = he.h.m6_en_US_goadedes.OukEstinAgios.notmetered
+meMA.Ode3C12.incipit = "Blessed Saint…"
+meMA.Ode3C12.text = "Blessed Saint, you gave no sleep to your eyes, until you became a house of the Holy Trinity and a treasury of wisdom. As such, you enriched the world with your golden teachings."
 
 meMA.Ode3C13.ode = misc_en_US_goadedes.Ode3
 meMA.Ode3C13.mode = misc_en_US_goadedes.Mode6
-meMA.Ode3C13.melody = he.h.m6_en_US_goadedes.OukEstinAgios.name
-meMA.Ode3C13.incipit = "…"
-meMA.Ode3C13.text = ""
+meMA.Ode3C13.melody = he.h.m6_en_US_goadedes.OukEstinAgios.notmetered
+meMA.Ode3C13.incipit = "O St. Ephraim…"
+meMA.Ode3C13.text = "O St. Ephraim, the holy Church of Christ sees in you a second Euphrates River, overflowing with golden streams of wise teachings and irrigating the entire world."
 
 meMA.Ode3C1T.ode = misc_en_US_goadedes.Ode3
 meMA.Ode3C1T.mode = misc_en_US_goadedes.Mode6
-meMA.Ode3C1T.melody = he.h.m6_en_US_goadedes.OukEstinAgios.name
-meMA.Ode3C1T.incipit = "…"
-meMA.Ode3C1T.text = ""
+meMA.Ode3C1T.melody = he.h.m6_en_US_goadedes.OukEstinAgios.notmetered
+meMA.Ode3C1T.incipit = "O all-pure Lady…"
+meMA.Ode3C1T.text = "O all-pure Lady, one of the Holy Trinity came forth from your pure body, incarnate and in two natures, in a manner fitting God, in His goodness rescuing the descendants of Adam."
 
 meMA.Ode3H.ode = misc_en_US_goadedes.Ode3
 meMA.Ode3H.mode = misc_en_US_goadedes.Mode6
@@ -199,27 +199,27 @@ meMA.Ode5C1T.text = ""
 
 meMA.Ode6C11.ode = misc_en_US_goadedes.Ode6
 meMA.Ode6C11.mode = misc_en_US_goadedes.Mode6
-meMA.Ode6C11.melody = he.h.m6_en_US_goadedes.TouViouTinThalassan.name
-meMA.Ode6C11.incipit = "…"
-meMA.Ode6C11.text = ""
+meMA.Ode6C11.melody = he.h.m6_en_US_goadedes.TouViouTinThalassan.notmetered
+meMA.Ode6C11.incipit = "The God-bearing father…"
+meMA.Ode6C11.text = "The God-bearing father was built not on a foundation of sand but on unbreakable faith. So he remained unshaken by any of the enemy's assaults, because he was governed by invincible power."
 
 meMA.Ode6C12.ode = misc_en_US_goadedes.Ode6
 meMA.Ode6C12.mode = misc_en_US_goadedes.Mode6
-meMA.Ode6C12.melody = he.h.m6_en_US_goadedes.TouViouTinThalassan.name
-meMA.Ode6C12.incipit = "…"
-meMA.Ode6C12.text = ""
+meMA.Ode6C12.melody = he.h.m6_en_US_goadedes.TouViouTinThalassan.notmetered
+meMA.Ode6C12.incipit = "O father, your tongue…"
+meMA.Ode6C12.text = "O father, your tongue became like the pen of a swift-writing scribe, teaching completely Orthodox knowledge, and inscribing the law of the Spirit on hearts as if on tablets."
 
 meMA.Ode6C13.ode = misc_en_US_goadedes.Ode6
 meMA.Ode6C13.mode = misc_en_US_goadedes.Mode6
-meMA.Ode6C13.melody = he.h.m6_en_US_goadedes.TouViouTinThalassan.name
-meMA.Ode6C13.incipit = "…"
-meMA.Ode6C13.text = ""
+meMA.Ode6C13.melody = he.h.m6_en_US_goadedes.TouViouTinThalassan.notmetered
+meMA.Ode6C13.incipit = "O godly-minded St. Ephraim…"
+meMA.Ode6C13.text = "O godly-minded St. Ephraim, those who follow your teachings are like those who sail on a calm sea. They are delivered from soul destroying waves, they rise above the storm of heresies, and they are saved by faith."
 
 meMA.Ode6C1T.ode = misc_en_US_goadedes.Ode6
 meMA.Ode6C1T.mode = misc_en_US_goadedes.Mode6
-meMA.Ode6C1T.melody = he.h.m6_en_US_goadedes.TouViouTinThalassan.name
-meMA.Ode6C1T.incipit = "…"
-meMA.Ode6C1T.text = ""
+meMA.Ode6C1T.melody = he.h.m6_en_US_goadedes.TouViouTinThalassan.notmetered
+meMA.Ode6C1T.incipit = "O Bride of God…"
+meMA.Ode6C1T.text = "O Bride of God, He who as God is above all visible and invisible creation assumed flesh and came forth from your womb; and He kept you a virgin, as you were before childbirth."
 
 meMA.Ode6H.ode = misc_en_US_goadedes.Ode6
 meMA.Ode6H.mode = misc_en_US_goadedes.Mode6
@@ -229,10 +229,10 @@ meMA.Ode6H.text = he.h.m6_en_US_goadedes.TouViouTinThalassan.text
 
 meMA.Kontakion1.mode = misc_en_US_goadedes.Mode2
 meMA.Kontakion1.melody = he.a.m2_en_US_goadedes.TaAnoZiton.name
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.incipit = "Ephraim, you preferred…"
+meMA.Kontakion1.text = "Ephraim, you preferred to live as a contemplative, * and always foreseeing the trial of Judgment Day, * you lamented bitterly. By your deeds, you were a teacher of the active life. * Therefore, O universal father, you ever rouse the careless to penitence."
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "O father, you wished to follow in the steps of the Forerunner, so you secluded yourself, away from the world, and lived in the wilderness. When the enemy saw you, the righteous one, living in this manner, he incited a brazen and shameless woman against you, thinking to conquer your manliness with the ancient weapon and to ruin your purity, so that you might no longer rouse the careless to penitence."
 
 meMA.Ode7C11.ode = misc_en_US_goadedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_goadedes.Mode6
