@@ -105,8 +105,8 @@ meMA.Kathisma21.text = ""
 
 meMA.Kathisma2T.mode = misc_en_US_goadedes.Mode4
 meMA.Kathisma2T.melody = he.a.m4_en_US_goadedes.OYpsotheisEnToStavro.name
-meMA.Kathisma2T.incipit = "…"
-meMA.Kathisma2T.text = ""
+meMA.Kathisma2T.incipit = me.m01.d21_en_US_goadedes.meMA.Ode3KathismaT.incipit
+meMA.Kathisma2T.text = me.m01.d21_en_US_goadedes.meMA.Ode3KathismaT.text
 
 meMA.Kathisma31.mode = misc_en_US_goadedes.Mode4
 meMA.Kathisma31.melody = he.a.m4_en_US_goadedes.KateplagiIosif.name

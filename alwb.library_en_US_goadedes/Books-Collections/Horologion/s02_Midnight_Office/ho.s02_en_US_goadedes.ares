@@ -8,17 +8,17 @@ hoMO.StEphraimPrayerRubrics2.text = ""
 hoMO.StEphraimPrayerLentenRubrics1.text = ""
 hoMO.StEphraimPrayerLentenRubrics2.text = ""
 
-ho.MO.StMardariosPrayer.title = ""
-ho.MO.StMardariosPrayer.text = ho.s05_en_US_goadedes.hoH3.Prayer.text
-ho.MO.StMardariosPrayer.rubric = ""
+hoMO.StMardariosPrayer.title = ""
+hoMO.StMardariosPrayer.text = ho.s05_en_US_goadedes.hoH3.Prayer.text
+hoMO.StMardariosPrayer.rubric = ""
 
-ho.MO.StBasilPrayer1.rubric = "Note: The following prayer is use from 22 September until Palm Sunday."
-ho.MO.StBasilPrayer1.title = ""
-ho.MO.StBasilPrayer1.text = ""
+hoMO.StBasilPrayer1.rubric = "Note: The following prayer is use from 22 September until Palm Sunday."
+hoMO.StBasilPrayer1.title = ""
+hoMO.StBasilPrayer1.text = ""
 
-ho.MO.StBasilPrayer2.rubric = ""
-ho.MO.StBasilPrayer2.title = ""
-ho.MO.StBasilPrayer2.text = ""
+hoMO.StBasilPrayer2.rubric = ""
+hoMO.StBasilPrayer2.title = ""
+hoMO.StBasilPrayer2.text = ""
 
 hoMO.PrayerForDeceased.rubric = ""
 hoMO.PrayerForDeceased.title = ""
@@ -43,6 +43,6 @@ hoMO.SaturdayTroparion2.text = "" //oc.m2.d2_en_US_goadedes.octrMA.Triadic1.text
 hoMO.SaturdayTroparion3.incipit = "…"
 hoMO.SaturdayTroparion3.text = "" //oc.m2.d2_en_US_goadedes.octrMA.Triadic3.text
 
-ho.MO.StEfstratiosPrayer.rubric = ""
-ho.MO.StEfstratiosPrayer.title = ""
-ho.MO.StEfstratiosPrayer.text = ""
+hoMO.StEfstratiosPrayer.rubric = ""
+hoMO.StEfstratiosPrayer.title = ""
+hoMO.StEfstratiosPrayer.text = ""
