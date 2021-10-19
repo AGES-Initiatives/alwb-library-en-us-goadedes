@@ -40,13 +40,13 @@ AperripsasMe.mode = misc_en_US_goadedes.Mode1
 AperripsasMe.ode = misc_en_US_goadedes.Ode6
 AperripsasMe.text = ""
 
-AsomenPantesLaoi.notmetered = "N/M ()"
-AsomenPantesLaoi.name = ""
-AsomenPantesLaoi.incipit = "…"
+AsomenPantesLaoi.notmetered = "N/M (All people, sing to the Lord.)"
+AsomenPantesLaoi.name = "All people, sing to the Lord."
+AsomenPantesLaoi.incipit = "All people, sing to the Lord…"
 AsomenPantesLaoi.melody = misc_en_US_goadedes.Heirmos
 AsomenPantesLaoi.mode = misc_en_US_goadedes.Mode1
 AsomenPantesLaoi.ode = misc_en_US_goadedes.Ode1
-AsomenPantesLaoi.text = ""
+AsomenPantesLaoi.text = "All people, sing to the Lord — * who from their bitter bondage * to the Pharaoh freed the people of Israel * and led them through the Red Sea * and kept their feet from being splashed by it  — * a victory song, for He is greatly glorified."
 
 AvramiaioiPaides.notmetered = "N/M ()"
 AvramiaioiPaides.name = ""
@@ -88,13 +88,13 @@ DeftePomaPiomen.mode = misc_en_US_goadedes.Mode1
 DeftePomaPiomen.ode = misc_en_US_goadedes.Ode3
 DeftePomaPiomen.text = "Come and let us drink a new drink, * not one marvelously issuing from a barren rock, * but one that Christ from the tomb * pours out, incorruption's very source. * For we are established in Him."
 
-EikoniLatrevein.notmetered = "N/M ()"
-EikoniLatrevein.name = ""
-EikoniLatrevein.incipit = "…"
+EikoniLatrevein.notmetered = "N/M (The sound of the music.)"
+EikoniLatrevein.name = "The sound of the music"
+EikoniLatrevein.incipit = "The sound of the music…"
 EikoniLatrevein.melody = misc_en_US_goadedes.Heirmos
 EikoniLatrevein.mode = misc_en_US_goadedes.Mode1
 EikoniLatrevein.ode = misc_en_US_goadedes.Ode7
-EikoniLatrevein.text = ""
+EikoniLatrevein.text = "The sound of the music called the peoples to worship the golden image of old. * The Servants, scions of David, sang * a song of Zion in defiance of the despicable decree of the tyrant, * and the flame in the furnace became for them dewy, as they sang the hymn, * \"Exalted beyond measure are You, O God of our fathers. Blessed are You, our God!\""
 
 EisakikoaKyrieTinAkoin.notmetered = "N/M ()"
 EisakikoaKyrieTinAkoin.name = ""
@@ -124,6 +124,14 @@ EkNyktosOrthrizontes.melody = misc_en_US_goadedes.HeirmosNotMetered
 EkNyktosOrthrizontes.mode = misc_en_US_goadedes.Mode1
 EkNyktosOrthrizontes.ode = misc_en_US_goadedes.Ode5
 EkNyktosOrthrizontes.text = "Rising early in the morning, we extol You, O Christ our God, who for us became poor, and endured the Cross and death in the flesh."
+
+EkNyktosOrthrizontesYmnoumenSe.notmetered = "N/M (Rising from the night, we sing.)"
+EkNyktosOrthrizontesYmnoumenSe.name = "Rising from the night, we sing."
+EkNyktosOrthrizontesYmnoumenSe.incipit = "Rising from the night, we sing…"
+EkNyktosOrthrizontesYmnoumenSe.melody = misc_en_US_goadedes.Heirmos
+EkNyktosOrthrizontesYmnoumenSe.mode = misc_en_US_goadedes.Mode1
+EkNyktosOrthrizontesYmnoumenSe.ode = misc_en_US_goadedes.Ode5
+EkNyktosOrthrizontesYmnoumenSe.text = "Rising from the night, we sing extolling You, O Christ, * the Father's coeternal Son * and the Savior of our souls, O Lord. * Grant Your peace to the world, in Your love for humanity."
 
 EkyklosenImas.notmetered = "N/M (The lowest depth encircles us.)"
 EkyklosenImas.name = "The lowest depth encircles us."
@@ -311,13 +319,13 @@ LithonOnApedokimasan.mode = misc_en_US_goadedes.Mode1
 LithonOnApedokimasan.ode = misc_en_US_goadedes.Ode3
 LithonOnApedokimasan.text = "As the Psalmist said, the stone that the builders had rejected * has itself become now the head of the corner. * And furthermore the same is the rock on which Christ our God * firmly established His own Church, * which from the Gentiles He redeemed for himself."
 
-MegaToMystirion.notmetered = "N/M ()"
-MegaToMystirion.name = ""
-MegaToMystirion.incipit = "…"
+MegaToMystirion.notmetered = "N/M (God-inspired Habakkuk.)"
+MegaToMystirion.name = "God-inspired Habakkuk."
+MegaToMystirion.incipit = "God-inspired Habakkuk…"
 MegaToMystirion.melody = misc_en_US_goadedes.Heirmos
 MegaToMystirion.mode = misc_en_US_goadedes.Mode1
 MegaToMystirion.ode = misc_en_US_goadedes.Ode4
-MegaToMystirion.text = ""
+MegaToMystirion.text = "God-inspired Habakkuk of old foresaw a great mystery, * namely Your plan for our salvation, and he cried out to You, O Christ, * \"You went forth for the salvation of Your people, in Your love for man.\""
 
 MitranAflektos.notmetered = "N/M (Standing in fire.)"
 MitranAflektos.name = "Standing in fire."
@@ -566,13 +574,13 @@ SeNoitin.mode = misc_en_US_goadedes.Mode1
 SeNoitin.ode = misc_en_US_goadedes.Ode7
 SeNoitin.text = "We who believe know you as the spiritual * furnace, O Mother of our God. * For your highly exalted Son, who once saved those servants three, * in your womb refashioned me and humanity entirely. * He is the God of our fathers, supremely praised and glorious."
 
-SeTinFaeinin.notmetered = "N/M (Mother of our God, we see you.)"
-SeTinFaeinin.name = "Mother of our God, we see you."
-SeTinFaeinin.incipit = "Mother of our God, we see you…"
+SeTinFaeinin.notmetered = "N/M (Mother of our God, we praise you.)"
+SeTinFaeinin.name = "Mother of our God, we praise you."
+SeTinFaeinin.incipit = "Mother of our God, we praise you…"
 SeTinFaeinin.melody = misc_en_US_goadedes.Heirmos
 SeTinFaeinin.mode = misc_en_US_goadedes.Mode1
 SeTinFaeinin.ode = misc_en_US_goadedes.Ode9
-SeTinFaeinin.text = "Mother of our God, we see you: a brightly shining lamp, * your conspicuous glory. * You are the highest of everything created. * We sing your praise and magnify you."
+SeTinFaeinin.text = "Mother of our God, we praise you * as the brightly shining lamp, * the illustrious glory * of all creation, of which you are the highest. * With sacred hymns we magnify you."
 
 SeTinOratheisan.notmetered = "N/M ()"
 SeTinOratheisan.name = "N/M ()"
@@ -622,13 +630,13 @@ StereosonKyrie.mode = misc_en_US_goadedes.Mode1
 StereosonKyrie.ode = misc_en_US_goadedes.Ode3
 StereosonKyrie.text = ""
 
-StereosonMeChriste.notmetered = "N/M (Establish me firmly.)"
-StereosonMeChriste.name = "Establish me firmly."
-StereosonMeChriste.incipit = "Establish me firmly…"
+StereosonMeChriste.notmetered = "N/M (Establish me on the rock.)"
+StereosonMeChriste.name = "Establish me on the rock."
+StereosonMeChriste.incipit = "Establish me on the rock…"
 StereosonMeChriste.melody = misc_en_US_goadedes.Heirmos
 StereosonMeChriste.mode = misc_en_US_goadedes.Mode1
 StereosonMeChriste.ode = misc_en_US_goadedes.Ode3
-StereosonMeChriste.text = "Establish me firmly, O Christ, * on the unshakable rock of Your commandments; * and with the light of Your face, Lord, illumine me. * No one is holy but You who love humanity."
+StereosonMeChriste.text = "Establish me on the rock * of Your commandments, O Christ, I pray You; * and with the light of Your face, Lord, illumine me. * No one is holy but You who love humanity."
 
 StereothitoIKardiaMou.notmetered = "N/M (Firmly established be.)"
 StereothitoIKardiaMou.name = "Firmly established be my heart."
@@ -752,13 +760,13 @@ ToVoithisantiTheo.mode = misc_en_US_goadedes.Mode1
 ToVoithisantiTheo.ode = misc_en_US_goadedes.Ode1
 ToVoithisantiTheo.text = "To God who helped Moses in Egypt, and through him drowned Pharaoh with his entire army, let us sing a song of victory, for He is glorified."
 
-TonEnFlogiPyros.notmetered = "N/M ()"
-TonEnFlogiPyros.name = ""
-TonEnFlogiPyros.incipit = "…"
+TonEnFlogiPyros.notmetered = "N/M (Let us extol the Lord.)"
+TonEnFlogiPyros.name = "Let us extol the Lord."
+TonEnFlogiPyros.incipit = "Let us extol the Lord…"
 TonEnFlogiPyros.melody = misc_en_US_goadedes.Heirmos
 TonEnFlogiPyros.mode = misc_en_US_goadedes.Mode1
 TonEnFlogiPyros.ode = misc_en_US_goadedes.Ode8
-TonEnFlogiPyros.text = ""
+TonEnFlogiPyros.text = "Let us extol the Lord, who went down to the Servants * inside the fiery furnace, * in the form of an Angel, and guarded them from the flames; and let us sing to Him * and exalt Him beyond measure, unto all the ages."
 
 TonEnSinaTinVaton.notmetered = "N/M ()"
 TonEnSinaTinVaton.name = ""
@@ -776,13 +784,13 @@ TonEnSofiaTousOuranous.mode = misc_en_US_goadedes.Mode1
 TonEnSofiaTousOuranous.ode = misc_en_US_goadedes.Ode8
 TonEnSofiaTousOuranous.text = ""
 
-TonProfitinDiesosas.notmetered = "N/M (As You saved Prophet Jonah.)"
-TonProfitinDiesosas.name = "As You saved Prophet Jonah."
-TonProfitinDiesosas.incipit = "As You saved Prophet Jonah…"
+TonProfitinDiesosas.notmetered = "N/M (As You rescued the Prophet.)"
+TonProfitinDiesosas.name = "As You rescued the Prophet."
+TonProfitinDiesosas.incipit = "As You rescued the Prophet…"
 TonProfitinDiesosas.melody = misc_en_US_goadedes.Heirmos
 TonProfitinDiesosas.mode = misc_en_US_goadedes.Mode1
 TonProfitinDiesosas.ode = misc_en_US_goadedes.Ode6
-TonProfitinDiesosas.text = "As You saved Prophet Jonah from the belly of the whale of old, * I pray raise me up from the sea of my sins, in Your love for man."
+TonProfitinDiesosas.text = "As You rescued the Prophet from the belly of the whale of old, * I pray bring me up from the sea of my sins, in Your love for man."
 
 TonProfitinIonan.notmetered = "N/M (Imitating the inspired Prophet.)"
 TonProfitinIonan.name = "Imitating the inspired Prophet."
