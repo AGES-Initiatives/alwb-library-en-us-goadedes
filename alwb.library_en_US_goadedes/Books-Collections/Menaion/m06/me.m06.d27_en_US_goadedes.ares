@@ -35,8 +35,8 @@ meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_goadedes.Mode1
 meVE.SticTheotokion.melody = he.a.m1_en_US_goadedes.PaneffimoiMartyres.name
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.incipit = oc.m1.d2_en_US_goadedes.ocVE.SticTheotokion.incipit
+meVE.SticTheotokion.text = oc.m1.d2_en_US_goadedes.ocVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_goadedes.Mode1
 meVE.SticStavrotheotokion.melody = he.a.m1_en_US_goadedes.PaneffimoiMartyres.name
