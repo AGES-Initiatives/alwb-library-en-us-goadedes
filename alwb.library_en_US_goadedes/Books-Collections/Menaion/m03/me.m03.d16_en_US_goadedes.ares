@@ -126,14 +126,14 @@ meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = misc_en_US_goadedes.Mode3
-meMA.Ode3KathismaT.melody = he.a.m3_en_US_goadedes.IParthenosSimeron.name
-meMA.Ode3KathismaT.incipit = "…"
-meMA.Ode3KathismaT.text = ""
+meMA.Ode3KathismaT.melody = ""
+meMA.Ode3KathismaT.incipit = oc.m3.d3_en_US_goadedes.ocMA.Kathisma33.incipit
+meMA.Ode3KathismaT.text = oc.m3.d3_en_US_goadedes.ocMA.Kathisma33.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_goadedes.Mode3
-meMA.Ode3KathismaSt.melody = he.a.m3_en_US_goadedes.IParthenosSimeron.name
-meMA.Ode3KathismaSt.incipit = "…"
-meMA.Ode3KathismaSt.text = ""
+meMA.Ode3KathismaSt.melody = ""
+meMA.Ode3KathismaSt.incipit = oc.m3.d4_en_US_goadedes.ocMA.Kathisma13.incipit
+meMA.Ode3KathismaSt.text = oc.m3.d4_en_US_goadedes.ocMA.Kathisma13.text
 
 meMA.Ode4C1H.ode = misc_en_US_goadedes.Ode4
 meMA.Ode4C1H.mode = misc_en_US_goadedes.Mode8
