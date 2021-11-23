@@ -537,3 +537,435 @@ meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
 meMegalynarion.text = ""
 
+//__________________
+
+alt1.meDA.date = "November 26"
+alt1.meDA.commemoration.full = "Memory of our Devout and God-bearing Father Stylianos the Wonderworker" // full title of day
+alt1.meDA.commemoration.first_short = "Memory of St. Stylianos"
+alt1.meDA.commemoration.first_title = "For St. Stylianos."
+alt1.meDA.commemoration.second_title = ""
+alt1.meDA.insert1 = "and our devout and God-bearing father Stylianos the Wonderworker," // for use in petitions and dismissal
+alt1.meDA.insert2 = "whose memory we celebrate," // for use in petitions and dismissal
+alt1.meDA.note = ""
+alt1.meLE.commemoration1 = ""
+alt1.meLE.commemoration2 = ""
+alt1.meHO.number = ""
+alt1.meHO.rank = ""
+alt1.meHO.commemorations = ""
+alt1.meHO.note1 = ""
+alt1.meHO.note2 = ""
+alt1.meDA.dismissal = ""
+alt1.meDA.poet = poets_en_US_goadedes.GerasimouMonachouMikragiannanitou
+
+alt1.meVE.Stichera01.mode = misc_en_US_goadedes.Mode4
+alt1.meVE.Stichera01.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.notmetered
+alt1.meVE.Stichera01.incipit = "O devout father…"
+alt1.meVE.Stichera01.text = "O devout father, like Samuel the inspired Prophet, you were sanctified in the womb, as a God-given child.
+And you followed Christ with a mature frame of mind, even from an early age, and you displayed an angelic manner of life.
+Therefore you were right glorified, by the power of the Spirit, O all-blessed Stylianos."
+
+alt1.meVE.Stichera02.mode = misc_en_US_goadedes.Mode4
+alt1.meVE.Stichera02.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.notmetered
+alt1.meVE.Stichera02.incipit = "God received you…"
+alt1.meVE.Stichera02.text = "God received you from an early age, for He foreknew the goodness of your life. You worthily excelled in moral purity, and in sacred labors for perfection in virtue, like an Angel. By your intense asceticism, you glorified Him who glorified you, O Stylianos, with the grace to work miracles."
+
+alt1.meVE.Stichera03.mode = misc_en_US_goadedes.Mode4
+alt1.meVE.Stichera03.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.notmetered
+alt1.meVE.Stichera03.incipit = "You distributed your property…"
+alt1.meVE.Stichera03.text = "You distributed your property to those in need, and with a higher intention, you embraced the poverty of Christ the King of all who made you rich, O devout St. Stylianos. He gave you a wealth of divine gifts, for you were His genuine friend, tried and true, who fulfilled His commandments. And you became famous for your blameless life."
+
+alt1.meVE.Stichera04.mode = misc_en_US_goadedes.Mode4
+alt1.meVE.Stichera04.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.notmetered
+alt1.meVE.Stichera04.incipit = "You completely despised…"
+alt1.meVE.Stichera04.text = "You completely despised the delights of the world, for you prided yourself on the love of God. You completely discarded any regard for your body, living in a cave as you did, O wise Saint, as if having no body at all. You were led up to God through holy elevations, and you received heavenly bread at the hands of a holy Angel."
+
+alt1.meVE.Stichera05.mode = misc_en_US_goadedes.Mode4
+alt1.meVE.Stichera05.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.notmetered
+alt1.meVE.Stichera05.incipit = "All-lauded Stylianos…"
+alt1.meVE.Stichera05.text = "All-lauded Stylianos, you are like a monument on which God engraved a record of your inspired asceticism, and a bright dwelling of the Spirit. You abundantly pour out the ever-flowing grace of miracles, and you heal the sick. You are especially quick to treat the ailments of the babies and infants of those who rely on your protection."
+
+alt1.meVE.Stichera06.mode = misc_en_US_goadedes.Mode4
+alt1.meVE.Stichera06.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.notmetered
+alt1.meVE.Stichera06.incipit = "O devout father…"
+alt1.meVE.Stichera06.text = "O devout father, protect and rescue from any trouble the faithful who rely on your ardent protection. At all times be a sympathetic patron saint of those who bear your holy name. Always give strength and vigor and good health to newborns and infants, as their ardent protector, O Stylianos whom God has glorified."
+
+alt1.meVE.SticGlory.mode = misc_en_US_goadedes.Mode6
+alt1.meVE.SticGlory.melody = ""
+alt1.meVE.SticGlory.incipit = "Your luminous memory…"
+alt1.meVE.SticGlory.text = "Your luminous memory has arrived today, O God-bearing St. Stylianos. It is an occasion for the faithful to come to church, to praise and glorify Christ God. So we celebrate it and moved by the Spirit we salute you and say: Rejoice! You were sanctified from your mother's womb, much like the famous Prophet Jeremiah, and by your deeds you demonstrated a diligence worthy of your calling. Rejoice! You are a model of virtuous living and a notable monument of ascetic feats. Rejoice! You are a faucet of miracles from God and a most ardent patron saint of young children. We entreat you, O father, to intercede with Christ, for the salvation of our souls."
+
+alt1.meVE.Lity1.mode = misc_en_US_goadedes.Mode1
+alt1.meVE.Lity1.melody = ""
+alt1.meVE.Lity1.incipit = "…"
+alt1.meVE.Lity1.text = ""
+
+alt1.meVE.Lity2.mode = misc_en_US_goadedes.Mode2
+alt1.meVE.Lity2.melody = ""
+alt1.meVE.Lity2.incipit = "…"
+alt1.meVE.Lity2.text = ""
+
+alt1.meVE.LityGlory.mode = misc_en_US_goadedes.Mode4
+alt1.meVE.LityGlory.melody = ""
+alt1.meVE.LityGlory.incipit = "…"
+alt1.meVE.LityGlory.text = ""
+
+alt1.meVE.Aposticha1.mode = misc_en_US_goadedes.Mode5
+alt1.meVE.Aposticha1.melody = he.a.m5_en_US_goadedes.ChairoisAskitikon.notmetered
+alt1.meVE.Aposticha1.incipit = "Rejoice! O marvelous Stylianos…"
+alt1.meVE.Aposticha1.text = "Rejoice! O marvelous Stylianos, you were like the prophet Samuel, in that you were dedicated to God from an early age, and you pleased Him by your illustrious life. You did not deviate from divine love, but you distanced yourself from worldly deception. You lived as one bodiless in the wilderness. And so you received the grace of the Holy Spirit. You became the helper of those in need and in trouble. We entreat you to implore Christ to give our souls the great mercy."
+
+alt1.meVE.Aposticha2.mode = misc_en_US_goadedes.Mode5
+alt1.meVE.Aposticha2.melody = he.a.m5_en_US_goadedes.ChairoisAskitikon.notmetered
+alt1.meVE.Aposticha2.incipit = "O devout Saint…"
+alt1.meVE.Aposticha2.text = "O devout Saint, as one on par with angels, you miraculously received bread from heaven at the hands of an Angel, by divine command; and this demonstrated to all your love for God and friendship with Him. You completely abhorred the feeling of things corruptible, but rather you treasured the experience of the ineffable and incorruptible gifts of divine grace. We implore you, O all-blessed Stylianos, to share a drop of those gifts with all who extol you and glorify Christ, who glorified you."
+
+alt1.meVE.Aposticha3.mode = misc_en_US_goadedes.Mode5
+alt1.meVE.Aposticha3.melody = he.a.m5_en_US_goadedes.ChairoisAskitikon.notmetered
+alt1.meVE.Aposticha3.incipit = "Rejoice, O son Paphlagonia…"
+alt1.meVE.Aposticha3.text = "Rejoice, O son Paphlagonia! You are an unsetting bright star of the Church, and you illumine the entire earth with rays of your ascetic feats and the light of your miracles. You are a living monument to both contemplation and the active life, a genuine model of self-control, and a treasure of gentleness and love. You are the most sympathetic guardian of infants and babies, and the helper and ready physician of the newborn. We entreat you to implore Christ to give our souls the great mercy."
+
+alt1.meVE.AposGlory.mode = misc_en_US_goadedes.Mode8
+alt1.meVE.AposGlory.melody = ""
+alt1.meVE.AposGlory.incipit = "When you took the mind…"
+alt1.meVE.AposGlory.text = "When you took the mind set on the flesh and subordinated it to the spirit, you lived on earth like an angel, O devout Saint. Oh! So impressive are the gifts of grace that God granted you! Not only did you receive heavenly bread, but you also worked many miracles in the Spirit. We implore you, O blessed Stylianos, intercede with our Savior on behalf of our souls."
+
+alt1.meVE.Apolytikion1.mode = misc_en_US_goadedes.Mode3
+alt1.meVE.Apolytikion1.melody = he.a.m3_en_US_goadedes.TheiasPisteos.name
+alt1.meVE.Apolytikion1.incipit = "You were styled…"
+alt1.meVE.Apolytikion1.text = "You were styled as a sturdy column * of the Church or Christ, and as pillar * of self-control, and protector of children and babes, * Stylianos, for from youth, as if bodiless, * you were practicing ascetical discipline. * Holy father now beseech Christ our God fervently, * entreating that He grant us His great mercy."
+
+alt1.meVE.Apolytikion2.mode = misc_en_US_goadedes.Mode1
+alt1.meVE.Apolytikion2.melody = he.a.m1_en_US_goadedes.TisErimouPolitis.name
+alt1.meVE.Apolytikion2.incipit = "You desired the angelical life…"
+alt1.meVE.Apolytikion2.text = "You desired the angelical life from an early age, * and you became a sacred vessel of the Comforter. * And therefore you abundantly pour out * the gift of grace of miracles and cures * to the faithful who reverently cry to you, * O God-bearing Stylianos: * Glory to Him who gave His might to you! * Glory to Him who placed a crown on you! * Glory to Him who operates through you, providing cures to all!"
+
+alt1.meMA.Kathisma11.mode = misc_en_US_goadedes.Mode1
+alt1.meMA.Kathisma11.melody = he.a.m1_en_US_goadedes.TonTafonSouSotir.name
+alt1.meMA.Kathisma11.incipit = "O godly-minded man…"
+alt1.meMA.Kathisma11.text = "O godly-minded man, from a young age devoted * to God, you carried out His divine ordinances, * O father, without reproach, and your life was illustrious. * O God-bearing St. Stylianos, who are dwelling * with the bodiless on high, join them interceding * for us who now honor you."
+
+alt1.meMA.Kathisma1T.mode = misc_en_US_goadedes.Mode1
+alt1.meMA.Kathisma1T.melody = he.a.m1_en_US_goadedes.TonTafonSouSotir.name
+alt1.meMA.Kathisma1T.incipit = "Since you gave birth…"
+alt1.meMA.Kathisma1T.text = "Since you gave birth to Christ, the supremely divine Logos, * who put on human flesh from your blood without changing, * O Virgin, ineffable is your glory, and you surpass * the angelic hosts, for you became and are styled * Mother of the Master over all and the helper * of us who are in the world."
+
+alt1.meMA.Kathisma21.mode = misc_en_US_goadedes.Mode4
+alt1.meMA.Kathisma21.melody = he.a.m4_en_US_goadedes.KateplagiIosif.notmetered
+alt1.meMA.Kathisma21.incipit = "Those who saw you…"
+alt1.meMA.Kathisma21.text = "Those who saw you leading an incorporeal life in the flesh, driven by your love for God, were amazed by your ascetic endeavors, O wise Saint. And Christ magnified you, giving you much grace and divine miracles; and He showed the world that you are the protector of newborns and infants. O father Stylianos, implore Him to grant us divine mercy."
+
+alt1.meMA.Kathisma2T.mode = misc_en_US_goadedes.Mode4
+alt1.meMA.Kathisma2T.melody = he.a.m4_en_US_goadedes.KateplagiIosif.notmetered
+alt1.meMA.Kathisma2T.incipit = "The hosts of Angels…"
+alt1.meMA.Kathisma2T.text = "The hosts of Angels were amazed by your grandeur and exceeding glory, O pure Virgin; and they extol you as the Lady of all. Here on earth, human congregations ever sing of your goodness and the abundance of your tender mercies, O all-blameless Lady, by which you unceasingly save from dangers and troubles those who rely on your protection, O Mother of God."
+
+alt1.meMA.Kathisma31.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Kathisma31.melody = he.a.m8_en_US_goadedes.TinSofianKaiLogon.name
+alt1.meMA.Kathisma31.incipit = "…"
+alt1.meMA.Kathisma31.text = ""
+
+alt1.meMA.Kathisma3T.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Kathisma3T.melody = he.a.m8_en_US_goadedes.TinSofianKaiLogon.name
+alt1.meMA.Kathisma3T.incipit = "…"
+alt1.meMA.Kathisma3T.text = ""
+
+alt1.meMA.MM.Prokeimenon.text = properties_en_US_goadedes.media.key
+
+alt1.meMA.PostGospelGlory.mode = misc_en_US_goadedes.Mode2
+alt1.meMA.PostGospelGlory.melody = ""
+alt1.meMA.PostGospelGlory.incipit = ho.s03_en_US_goadedes.hoMA.PostGospelMonastic.incipit
+alt1.meMA.PostGospelGlory.text = ho.s03_en_US_goadedes.hoMA.PostGospelMonastic.text
+
+alt1.meMA.PostGospelBoth.mode = misc_en_US_goadedes.Mode2
+alt1.meMA.PostGospelBoth.melody = ""
+alt1.meMA.PostGospelBoth.incipit = ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.incipit
+alt1.meMA.PostGospelBoth.text = ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.text
+
+alt1.meMA.PostGospelIdiomelon.mode = misc_en_US_goadedes.Mode6
+alt1.meMA.PostGospelIdiomelon.melody = ""
+alt1.meMA.PostGospelIdiomelon.incipit = "You led a spiritual life…"
+alt1.meMA.PostGospelIdiomelon.text = "You led a spiritual life in a godly manner, and you glorified the Lord of glory with your ascetic feasts, and thus you became a pillar and support of the faithful, and a sure comfort for those in trouble. We entreat you, O wonderworker Stylianos, never cease guarding us who observe your memory."
+
+alt1.meMA.C1.poet = poets_en_US_goadedes.GerasimouMonachouMikragiannanitou
+alt1.meMA.C1.acrostic = ""
+
+alt1.meMA.C1.title = titles_en_US_goadedes.KanonATouAgiou
+alt1.meMA.C1.verse = prayers_en_US_goadedes.verse_SaintM.text
+
+alt1.meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
+alt1.meMA.Ode1C11.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode1C11.melody = he.h.m8_en_US_goadedes.YgranDiodefsas.name
+alt1.meMA.Ode1C11.incipit = "…"
+alt1.meMA.Ode1C11.text = ""
+
+alt1.meMA.Ode1C12.ode = misc_en_US_goadedes.Ode1
+alt1.meMA.Ode1C12.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode1C12.melody = he.h.m8_en_US_goadedes.YgranDiodefsas.name
+alt1.meMA.Ode1C12.incipit = "…"
+alt1.meMA.Ode1C12.text = ""
+
+alt1.meMA.Ode1C13.ode = misc_en_US_goadedes.Ode1
+alt1.meMA.Ode1C13.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode1C13.melody = he.h.m8_en_US_goadedes.YgranDiodefsas.name
+alt1.meMA.Ode1C13.incipit = "…"
+alt1.meMA.Ode1C13.text = ""
+
+alt1.meMA.Ode1C1T.ode = misc_en_US_goadedes.Ode1
+alt1.meMA.Ode1C1T.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode1C1T.melody = he.h.m8_en_US_goadedes.YgranDiodefsas.name
+alt1.meMA.Ode1C1T.incipit = "…"
+alt1.meMA.Ode1C1T.text = ""
+
+alt1.meMA.Ode3C11.ode = misc_en_US_goadedes.Ode3
+alt1.meMA.Ode3C11.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode3C11.melody = he.h.m8_en_US_goadedes.SyEiToStereoma.name
+alt1.meMA.Ode3C11.incipit = "…"
+alt1.meMA.Ode3C11.text = ""
+
+alt1.meMA.Ode3C12.ode = misc_en_US_goadedes.Ode3
+alt1.meMA.Ode3C12.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode3C12.melody = he.h.m8_en_US_goadedes.SyEiToStereoma.name
+alt1.meMA.Ode3C12.incipit = "…"
+alt1.meMA.Ode3C12.text = ""
+
+alt1.meMA.Ode3C13.ode = misc_en_US_goadedes.Ode3
+alt1.meMA.Ode3C13.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode3C13.melody = he.h.m8_en_US_goadedes.SyEiToStereoma.name
+alt1.meMA.Ode3C13.incipit = "…"
+alt1.meMA.Ode3C13.text = ""
+
+alt1.meMA.Ode3C1T.ode = misc_en_US_goadedes.Ode3
+alt1.meMA.Ode3C1T.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode3C1T.melody = he.h.m8_en_US_goadedes.SyEiToStereoma.name
+alt1.meMA.Ode3C1T.incipit = "…"
+alt1.meMA.Ode3C1T.text = ""
+
+alt1.meMA.Ode3Kathisma1.mode = misc_en_US_goadedes.Mode3
+alt1.meMA.Ode3Kathisma1.melody = he.a.m3_en_US_goadedes.TheiasPisteos.name
+alt1.meMA.Ode3Kathisma1.incipit = "…"
+alt1.meMA.Ode3Kathisma1.text = ""
+
+alt1.meMA.Ode3KathismaT.mode = misc_en_US_goadedes.Mode3
+alt1.meMA.Ode3KathismaT.melody = he.a.m3_en_US_goadedes.TheiasPisteos.name
+alt1.meMA.Ode3KathismaT.incipit = "…"
+alt1.meMA.Ode3KathismaT.text = ""
+
+alt1.meMA.Ode4C11.ode = misc_en_US_goadedes.Ode4
+alt1.meMA.Ode4C11.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode4C11.melody = he.h.m8_en_US_goadedes.EisakikoaKyrie.name
+alt1.meMA.Ode4C11.incipit = "…"
+alt1.meMA.Ode4C11.text = ""
+
+alt1.meMA.Ode4C12.ode = misc_en_US_goadedes.Ode4
+alt1.meMA.Ode4C12.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode4C12.melody = he.h.m8_en_US_goadedes.EisakikoaKyrie.name
+alt1.meMA.Ode4C12.incipit = "…"
+alt1.meMA.Ode4C12.text = ""
+
+alt1.meMA.Ode4C13.ode = misc_en_US_goadedes.Ode4
+alt1.meMA.Ode4C13.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode4C13.melody = he.h.m8_en_US_goadedes.EisakikoaKyrie.name
+alt1.meMA.Ode4C13.incipit = "…"
+alt1.meMA.Ode4C13.text = ""
+
+alt1.meMA.Ode4C14.ode = misc_en_US_goadedes.Ode4
+alt1.meMA.Ode4C14.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode4C14.melody = he.h.m8_en_US_goadedes.EisakikoaKyrie.name
+alt1.meMA.Ode4C14.incipit = "…"
+alt1.meMA.Ode4C14.text = ""
+
+alt1.meMA.Ode4C1T.ode = misc_en_US_goadedes.Ode4
+alt1.meMA.Ode4C1T.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode4C1T.melody = he.h.m8_en_US_goadedes.EisakikoaKyrie.name
+alt1.meMA.Ode4C1T.incipit = "…"
+alt1.meMA.Ode4C1T.text = ""
+
+alt1.meMA.Ode5C11.ode = misc_en_US_goadedes.Ode5
+alt1.meMA.Ode5C11.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode5C11.melody = he.h.m8_en_US_goadedes.OrthrizontesVoomenSoi.name
+alt1.meMA.Ode5C11.incipit = "…"
+alt1.meMA.Ode5C11.text = ""
+
+alt1.meMA.Ode5C12.ode = misc_en_US_goadedes.Ode5
+alt1.meMA.Ode5C12.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode5C12.melody = he.h.m8_en_US_goadedes.OrthrizontesVoomenSoi.name
+alt1.meMA.Ode5C12.incipit = "…"
+alt1.meMA.Ode5C12.text = ""
+
+alt1.meMA.Ode5C13.ode = misc_en_US_goadedes.Ode5
+alt1.meMA.Ode5C13.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode5C13.melody = he.h.m8_en_US_goadedes.OrthrizontesVoomenSoi.name
+alt1.meMA.Ode5C13.incipit = "…"
+alt1.meMA.Ode5C13.text = ""
+
+alt1.meMA.Ode5C14.ode = misc_en_US_goadedes.Ode5
+alt1.meMA.Ode5C14.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode5C14.melody = he.h.m8_en_US_goadedes.OrthrizontesVoomenSoi.name
+alt1.meMA.Ode5C14.incipit = "…"
+alt1.meMA.Ode5C14.text = ""
+
+alt1.meMA.Ode5C1T.ode = misc_en_US_goadedes.Ode5
+alt1.meMA.Ode5C1T.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode5C1T.melody = he.h.m8_en_US_goadedes.OrthrizontesVoomenSoi.name
+alt1.meMA.Ode5C1T.incipit = "…"
+alt1.meMA.Ode5C1T.text = ""
+
+alt1.meMA.Ode6C11.ode = misc_en_US_goadedes.Ode6
+alt1.meMA.Ode6C11.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode6C11.melody = he.h.m8_en_US_goadedes.IlasthitiMoiSotir.name
+alt1.meMA.Ode6C11.incipit = "…"
+alt1.meMA.Ode6C11.text = ""
+
+alt1.meMA.Ode6C12.ode = misc_en_US_goadedes.Ode6
+alt1.meMA.Ode6C12.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode6C12.melody = he.h.m8_en_US_goadedes.IlasthitiMoiSotir.name
+alt1.meMA.Ode6C12.incipit = "…"
+alt1.meMA.Ode6C12.text = ""
+
+alt1.meMA.Ode6C13.ode = misc_en_US_goadedes.Ode6
+alt1.meMA.Ode6C13.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode6C13.melody = he.h.m8_en_US_goadedes.IlasthitiMoiSotir.name
+alt1.meMA.Ode6C13.incipit = "…"
+alt1.meMA.Ode6C13.text = ""
+
+alt1.meMA.Ode6C1T.ode = misc_en_US_goadedes.Ode6
+alt1.meMA.Ode6C1T.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode6C1T.melody = he.h.m8_en_US_goadedes.IlasthitiMoiSotir.name
+alt1.meMA.Ode6C1T.incipit = "…"
+alt1.meMA.Ode6C1T.text = ""
+
+alt1.meMA.Kontakion1.mode = misc_en_US_goadedes.Mode4
+alt1.meMA.Kontakion1.melody = he.a.m4_en_US_goadedes.OYpsotheisEnToStavro.notmetered
+alt1.meMA.Kontakion1.incipit = "You were sanctified…"
+alt1.meMA.Kontakion1.text = "You were sanctified from your mother's womb, like godly Samuel, O God-bearing Saint; and you glorified Christ our God by your asceticism. Then you became a treasury of healing, and the protector of newborns and infants. For Christ famously glorifies you, O Stylianos, for you glorified Him from infancy."
+
+alt1.meMA.Oikos1.text = "From childhood you were dedicated to God the Benefactor, much like the great Baptist John. You emulated him, and you imitated his example in your chaste life and virtuous manners. As he did, you also dwelt in the wilderness, O father, and you purified your mind through fasting and vigilance, and through unceasing prayer you were united to the Lord. Then you were filled with incomprehensible light, and you became widely known for the gifts of grace that God gave you. You were especially famous as a most ardent protector of newborns and infants, and as a ready healer of ailments. For Christ famously glorifies you, O Stylianos, for you glorified Him from infancy."
+
+alt1.meMA.Ode7C11.ode = misc_en_US_goadedes.Ode7
+alt1.meMA.Ode7C11.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode7C11.melody = he.h.m8_en_US_goadedes.PaidesEvraion.name
+alt1.meMA.Ode7C11.incipit = "…"
+alt1.meMA.Ode7C11.text = ""
+
+alt1.meMA.Ode7C12.ode = misc_en_US_goadedes.Ode7
+alt1.meMA.Ode7C12.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode7C12.melody = he.h.m8_en_US_goadedes.PaidesEvraion.name
+alt1.meMA.Ode7C12.incipit = "…"
+alt1.meMA.Ode7C12.text = ""
+
+alt1.meMA.Ode7C13.ode = misc_en_US_goadedes.Ode7
+alt1.meMA.Ode7C13.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode7C13.melody = he.h.m8_en_US_goadedes.PaidesEvraion.name
+alt1.meMA.Ode7C13.incipit = "…"
+alt1.meMA.Ode7C13.text = ""
+
+alt1.meMA.Ode7C14.ode = misc_en_US_goadedes.Ode7
+alt1.meMA.Ode7C14.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode7C14.melody = he.h.m8_en_US_goadedes.PaidesEvraion.name
+alt1.meMA.Ode7C14.incipit = "…"
+alt1.meMA.Ode7C14.text = ""
+
+alt1.meMA.Ode7C1T.ode = misc_en_US_goadedes.Ode7
+alt1.meMA.Ode7C1T.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode7C1T.melody = he.h.m8_en_US_goadedes.PaidesEvraion.name
+alt1.meMA.Ode7C1T.incipit = "…"
+alt1.meMA.Ode7C1T.text = ""
+
+alt1.meMA.Ode8C11.ode = misc_en_US_goadedes.Ode8
+alt1.meMA.Ode8C11.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode8C11.melody = he.h.m8_en_US_goadedes.TonVasileaTonOuranon.name
+alt1.meMA.Ode8C11.incipit = "…"
+alt1.meMA.Ode8C11.text = ""
+
+alt1.meMA.Ode8C12.ode = misc_en_US_goadedes.Ode8
+alt1.meMA.Ode8C12.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode8C12.melody = he.h.m8_en_US_goadedes.TonVasileaTonOuranon.name
+alt1.meMA.Ode8C12.incipit = "…"
+alt1.meMA.Ode8C12.text = ""
+
+alt1.meMA.Ode8C13.ode = misc_en_US_goadedes.Ode8
+alt1.meMA.Ode8C13.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode8C13.melody = he.h.m8_en_US_goadedes.TonVasileaTonOuranon.name
+alt1.meMA.Ode8C13.incipit = "…"
+alt1.meMA.Ode8C13.text = ""
+
+alt1.meMA.Ode8C1T.ode = misc_en_US_goadedes.Ode8
+alt1.meMA.Ode8C1T.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode8C1T.melody = he.h.m8_en_US_goadedes.TonVasileaTonOuranon.name
+alt1.meMA.Ode8C1T.incipit = "…"
+alt1.meMA.Ode8C1T.text = ""
+
+alt1.meMA.Ode9C11.ode = misc_en_US_goadedes.Ode9
+alt1.meMA.Ode9C11.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode9C11.melody = he.h.m8_en_US_goadedes.KyriosTheotokon.name
+alt1.meMA.Ode9C11.incipit = "…"
+alt1.meMA.Ode9C11.text = ""
+
+alt1.meMA.Ode9C12.ode = misc_en_US_goadedes.Ode9
+alt1.meMA.Ode9C12.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode9C12.melody = he.h.m8_en_US_goadedes.KyriosTheotokon.name
+alt1.meMA.Ode9C12.incipit = "…"
+alt1.meMA.Ode9C12.text = ""
+
+alt1.meMA.Ode9C13.ode = misc_en_US_goadedes.Ode9
+alt1.meMA.Ode9C13.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode9C13.melody = he.h.m8_en_US_goadedes.KyriosTheotokon.name
+alt1.meMA.Ode9C13.incipit = "…"
+alt1.meMA.Ode9C13.text = ""
+
+alt1.meMA.Ode9C14.ode = misc_en_US_goadedes.Ode9
+alt1.meMA.Ode9C14.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode9C14.melody = he.h.m8_en_US_goadedes.KyriosTheotokon.name
+alt1.meMA.Ode9C14.incipit = "…"
+alt1.meMA.Ode9C14.text = ""
+
+alt1.meMA.Ode9C1T.ode = misc_en_US_goadedes.Ode9
+alt1.meMA.Ode9C1T.mode = misc_en_US_goadedes.Mode8
+alt1.meMA.Ode9C1T.melody = he.h.m8_en_US_goadedes.KyriosTheotokon.name
+alt1.meMA.Ode9C1T.incipit = "…"
+alt1.meMA.Ode9C1T.text = ""
+
+alt1.meMA.Exaposteilarion1.mode = misc_en_US_goadedes.Mode3
+alt1.meMA.Exaposteilarion1.melody = he.a.m3_en_US_goadedes.OOuranonToisAstrois.name
+alt1.meMA.Exaposteilarion1.incipit = "With sacred hymns…"
+alt1.meMA.Exaposteilarion1.text = "With sacred hymns we honor * the great and holy Stylianos, * the pillar of monastics * and the lantern of the Church; * for he flashes on the whole world * the rays of his many wonders."
+
+alt1.meMA.ExapTheotokion.mode = misc_en_US_goadedes.Mode3
+alt1.meMA.ExapTheotokion.melody = he.a.m3_en_US_goadedes.OOuranonToisAstrois.name
+alt1.meMA.ExapTheotokion.incipit = "O immaculate Virgin…"
+alt1.meMA.ExapTheotokion.text = "O immaculate Virgin, * Mother of God and Queen of all, * you are the world's protection, * the believers' salvation. * Guard our life from disasters * and from dangers, we pray you."
+
+alt1.meMA.Lauds1.mode = misc_en_US_goadedes.Mode1
+alt1.meMA.Lauds1.melody = he.a.m1_en_US_goadedes.TonOuranionTagmaton.notmetered
+alt1.meMA.Lauds1.incipit = "Stylianos, like the famous…"
+alt1.meMA.Lauds1.text = "Stylianos, like the famous Baptist, from childhood you were dedicated to the Lord, with all your mind, O godly-minded father; you led your life devoutly and blamelessly, and you excelled in ascetic labors and became a vessel of the Holy Spirit."
+
+alt1.meMA.Lauds2.mode = misc_en_US_goadedes.Mode1
+alt1.meMA.Lauds2.melody = he.a.m1_en_US_goadedes.TonOuranionTagmaton.notmetered
+alt1.meMA.Lauds2.incipit = "Christ the Lord glorified…"
+alt1.meMA.Lauds2.text = "Christ the Lord glorified your life in a cave, by sending you food from heaven through an Angel, as you were His faithful servant, O father Stylianos; and He made you wondrous in all the earth, by giving the power to do miracles."
+
+alt1.meMA.Lauds3.mode = misc_en_US_goadedes.Mode1
+alt1.meMA.Lauds3.melody = he.a.m1_en_US_goadedes.TonOuranionTagmaton.notmetered
+alt1.meMA.Lauds3.incipit = "Since you are the guardian…"
+alt1.meMA.Lauds3.text = "Since you are the guardian of newborns and infants, we pray you always keep the babies safe from any abuse, intact from any deformity, and unharmed; and grant to those who rely on your protection that they may have good children."
+
+alt1.meMA.Lauds4.mode = misc_en_US_goadedes.Mode1
+alt1.meMA.Lauds4.melody = he.a.m1_en_US_goadedes.TonOuranionTagmaton.notmetered
+alt1.meMA.Lauds4.incipit = "All-blessed sympathetic father…"
+alt1.meMA.Lauds4.text = "All-blessed sympathetic father Stylianos, you are illumined by the spiritual brilliance of the Holy Trinity. Unceasingly protect those who bear your name, and abundantly give them the manifestations of your grace."
+
+alt1.meMA.LaudsGlory.mode = misc_en_US_goadedes.Mode5
+alt1.meMA.LaudsGlory.melody = ""
+alt1.meMA.LaudsGlory.incipit = "O devout father…"
+alt1.meMA.LaudsGlory.text = "O devout father, you followed in the steps of Christ, for you denied yourself and lived a worthy life. You seemed to be an angel in the flesh, for you were adorned with angelic manners, and you confirmed the grace by your godly asceticism. Therefore you are styled a pillar and support of the Church of Christ, O blessed St. Stylianos, and our intercessor to the Lord."
+
+alt1.meLI.Kontakion1.mode = alt1.meMA.Kontakion1.mode
+alt1.meLI.Kontakion1.melody = alt1.meMA.Kontakion1.melody
+alt1.meLI.Kontakion1.incipit = alt1.meMA.Kontakion1.incipit
+alt1.meLI.Kontakion1.text = alt1.meMA.Kontakion1.text
+
+alt1.meMegalynarion.text = ""
+
+alt1.meCoupletv1.text = ""
+alt1.meCoupletv2.text = ""
