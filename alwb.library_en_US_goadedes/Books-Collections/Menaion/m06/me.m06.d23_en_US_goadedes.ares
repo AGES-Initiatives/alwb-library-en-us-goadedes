@@ -40,8 +40,8 @@ meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = misc_en_US_goadedes.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_goadedes.EdokasSimeiosin.name
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.incipit = me.m06.d06_en_US_goadedes.meVE.SticStavrotheotokion.incipit
+meVE.SticStavrotheotokion.text = me.m06.d06_en_US_goadedes.meVE.SticStavrotheotokion.text
 
 meVE.Apolytikion1.poet = poets_en_US_goadedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_goadedes.Mode3
