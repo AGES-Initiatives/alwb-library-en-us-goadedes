@@ -253,9 +253,6 @@ pet07Sa = ""
 pet08.incipit = "For this city, and for…"
 pet08 = "For this city, and for every city and land, and for the faithful who live in them, let us pray to the Lord."
 
-pet08_GOA.incipit = "For the Great and Holy Church…"
-pet08_GOA = "For the Great and Holy Church of Christ, for our Holy Archdiocese, for this city and parish, for every city and land, and for the faithful who live in them, let us pray to the Lord."
-
 pet09.incipit = "For favorable weather, for an…"
 pet09 = "For favorable weather, for an abundance of the fruits of the earth, and for peaceful times, let us pray to the Lord."
 
@@ -299,6 +296,9 @@ pet19a.incipit = "Again we pray for…"
 pet19a = "Again we pray for"
 pet19b.incipit = "and all our brotherhood in…"
 pet19b = "and all our brotherhood in Christ."
+
+pet19m.incipit = "Again we pray for…" //for monastery
+pet19m = "Again we pray for"
 
 pet20.incipit = "Again we pray for our…"
 pet20 = "Again we pray for our brethren: the priests, the hieromonks, the hierodeacons, the monastics, and all our brotherhood in Christ."
