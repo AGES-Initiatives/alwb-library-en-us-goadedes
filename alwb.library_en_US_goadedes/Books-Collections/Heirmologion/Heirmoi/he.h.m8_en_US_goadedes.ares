@@ -144,13 +144,13 @@ EnPedioDeeira.mode = misc_en_US_goadedes.Mode8
 EnPedioDeeira.ode = misc_en_US_goadedes.Ode7
 EnPedioDeeira.text = ""
 
-EpevisEfIppous.notmetered = "N/M ()"
-EpevisEfIppous.name = ""
-EpevisEfIppous.incipit = "…"
-EpevisEfIppous.melody = misc_en_US_goadedes.Heirmos
+EpevisEfIppous.notmetered = "N/M (O Lord, You rode.)"
+EpevisEfIppous.name = "O Lord, You rode."
+EpevisEfIppous.incipit = "O Lord, You rode…"
+EpevisEfIppous.melody = misc_en_US_goadedes.HeirmosNotMetered
 EpevisEfIppous.mode = misc_en_US_goadedes.Mode8
 EpevisEfIppous.ode = misc_en_US_goadedes.Ode4
-EpevisEfIppous.text = ""
+EpevisEfIppous.text = "O Lord, You rode Your Apostles, as if they were horses, and You held their reins in You hands. And Your horsemanship became salvation to those who faithfully sing to You: Glory to Your strength, O Lord."
 
 EptaplasiosKaminon.notmetered = "N/M (The tyrant king.)"
 EptaplasiosKaminon.name = "The tyrant king."
@@ -456,13 +456,13 @@ OiTisChaldaiasKaminou.mode = misc_en_US_goadedes.Mode8
 OiTisChaldaiasKaminou.ode = misc_en_US_goadedes.Ode7
 OiTisChaldaiasKaminou.text = ""
 
-OrousParilthes.notmetered = "N/M ()"
-OrousParilthes.name = ""
-OrousParilthes.incipit = "…"
-OrousParilthes.melody = misc_en_US_goadedes.Heirmos
+OrousParilthes.notmetered = "N/M (When you conceived.)"
+OrousParilthes.name = "When you conceived."
+OrousParilthes.incipit = "When you conceived…"
+OrousParilthes.melody = misc_en_US_goadedes.HeirmosNotMetered
 OrousParilthes.mode = misc_en_US_goadedes.Mode8
 OrousParilthes.ode = misc_en_US_goadedes.Ode9
-OrousParilthes.text = ""
+OrousParilthes.text = "When you conceived your Creator and Lord, you eluded the norms of nature; and you became a gate to salvation for the world. Therefore we never cease to magnify you, O Theotokos."
 
 OrthrizeiToPnevmaMou.notmetered = "N/M ()"
 OrthrizeiToPnevmaMou.name = "N/M ()"
@@ -696,13 +696,13 @@ TonChaldaionIKaminos.mode = misc_en_US_goadedes.Mode8
 TonChaldaionIKaminos.ode = misc_en_US_goadedes.Ode7
 TonChaldaionIKaminos.text = "All ablaze with a raging fire was the Chaldean furnace, * through which blew a dew-laden breeze at God's almighty order. * The three holy Servants sang, * \"You are the God of our fathers, and blessed are You.\""
 
-TonEkNyktosAgnosias.notmetered = "N/M ()"
-TonEkNyktosAgnosias.name = ""
-TonEkNyktosAgnosias.incipit = "…"
-TonEkNyktosAgnosias.melody = misc_en_US_goadedes.Heirmos
+TonEkNyktosAgnosias.notmetered = "N/M (From the night of ignorance.)"
+TonEkNyktosAgnosias.name = "From the night of ignorance."
+TonEkNyktosAgnosias.incipit = "From the night of ignorance…"
+TonEkNyktosAgnosias.melody = misc_en_US_goadedes.HeirmosNotMetered
 TonEkNyktosAgnosias.mode = misc_en_US_goadedes.Mode8
 TonEkNyktosAgnosias.ode = misc_en_US_goadedes.Ode5
-TonEkNyktosAgnosias.text = ""
+TonEkNyktosAgnosias.text = "From the night of ignorance, I am ever wandering on the highway, where my soul might be captured. I pray You guide me to the light of the knowledge of You, O Lord, and lead me on the path of Your commandments."
 
 TonEkPatrosProAionon.notmetered = "N/M ()"
 TonEkPatrosProAionon.name = ""
@@ -720,13 +720,13 @@ TonEnOreiAgio.mode = misc_en_US_goadedes.Mode8
 TonEnOreiAgio.ode = misc_en_US_goadedes.Ode8
 TonEnOreiAgio.text = "O extol Him, who on the holy mountain * showed His glory, as Lord, * and in the bush with fire * revealed to Moses knowledge of the mystery * of the Ever-Virgin, supremely exalting Him unto all the ages."
 
-TonFovonSouKyrie.notmetered = "N/M ()"
-TonFovonSouKyrie.name = ""
-TonFovonSouKyrie.incipit = "…"
-TonFovonSouKyrie.melody = misc_en_US_goadedes.Heirmos
+TonFovonSouKyrie.notmetered = "N/M (Plant the fear of You.)"
+TonFovonSouKyrie.name = "Plant the fear of You."
+TonFovonSouKyrie.incipit = "Plant the fear of You…"
+TonFovonSouKyrie.melody = misc_en_US_goadedes.HeirmosNotMetered
 TonFovonSouKyrie.mode = misc_en_US_goadedes.Mode8
 TonFovonSouKyrie.ode = misc_en_US_goadedes.Ode3
-TonFovonSouKyrie.text = ""
+TonFovonSouKyrie.text = "Plant the fear of You in the hearts of Your servants, O Lord; and be a firm support to those who in truth call upon You."
 
 TonIonanEnToKitei.notmetered = "N/M (O Lord, You made Prophet Jonah.)"
 TonIonanEnToKitei.name = "O Lord, You made Prophet Jonah."

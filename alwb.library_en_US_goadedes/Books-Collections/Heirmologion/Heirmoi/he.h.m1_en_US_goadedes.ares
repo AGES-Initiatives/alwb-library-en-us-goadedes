@@ -438,13 +438,13 @@ OPaidasEkKaminou.mode = misc_en_US_goadedes.Mode1
 OPaidasEkKaminou.ode = misc_en_US_goadedes.Ode7
 OPaidasEkKaminou.text = "The same One who delivered the Lads from fire, becoming a mortal man, * suffers in the flesh; and by His Passion He arrays * mortal nature with majesty, free of all * corruption, the only God of the fathers, * blessed and supremely glorious."
 
-OTonAnoVython.notmetered = "N/M ()"
-OTonAnoVython.name = ""
-OTonAnoVython.incipit = "…"
-OTonAnoVython.melody = misc_en_US_goadedes.Heirmos
+OTonAnoVython.notmetered = "N/M (O all-blessed Father.)"
+OTonAnoVython.name = "N/M (O all-blessed Father.)"
+OTonAnoVython.incipit = "O all-blessed Father…"
+OTonAnoVython.melody = misc_en_US_goadedes.HeirmosNotMetered
 OTonAnoVython.mode = misc_en_US_goadedes.Mode1
 OTonAnoVython.ode = misc_en_US_goadedes.Ode9
-OTonAnoVython.text = ""
+OTonAnoVython.text = "O all-blessed Father, you reverently swam up into the ocean of divine incomprehensibility on high, and you supported your mind on the divine Trinity, as on an incomprehensible rock. Therefore we magnify you."
 
 OdinEpinikion.notmetered = "N/M (An anthem of victory.)"
 OdinEpinikion.name = "An anthem of victory."
