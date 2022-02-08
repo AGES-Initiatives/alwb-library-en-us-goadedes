@@ -60,8 +60,8 @@ meVE.SticTheotokion.text = oc.m6.d3_en_US_goadedes.ocMA.AposTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_goadedes.Mode6
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_goadedes.OlinApothemenoi.name
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.incipit = me.m02.d17_en_US_goadedes.meMA.LaudsStavrotheotokion.incipit
+meVE.SticStavrotheotokion.text = me.m02.d17_en_US_goadedes.meMA.LaudsStavrotheotokion.text
 
 meVE.AposGlory.mode = misc_en_US_goadedes.Mode8
 meVE.AposGlory.melody = ""

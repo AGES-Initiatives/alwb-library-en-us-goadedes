@@ -60,8 +60,8 @@ meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = misc_en_US_goadedes.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.incipit = me.m10.d05_en_US_goadedes.meVE.SticStavrotheotokion.incipit
+meVE.SticStavrotheotokion.text = me.m10.d05_en_US_goadedes.meVE.SticStavrotheotokion.text
 
 meVE.AposGlory.mode = misc_en_US_goadedes.Mode5
 meVE.AposGlory.melody = ""
@@ -95,7 +95,6 @@ meVE.Apolytikion2.text = ""
 
 meVE.MM.GeneralApolytikion3.text = properties_en_US_goadedes.media.key
 
-meMA.C1.notice = rubrical_en_US_goadedes.DifferentMenaionCanonInEnglish
 meMA.C1.poet = poets_en_US_goadedes.Theofanous
 meMA.C1.acrostic = ""
 
