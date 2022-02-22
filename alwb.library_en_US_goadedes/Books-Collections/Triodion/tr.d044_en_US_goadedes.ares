@@ -15,18 +15,19 @@ trCO.header = ""
 
 trVE.Stichera01.mode = misc_en_US_goadedes.Mode8
 trVE.Stichera01.melody = he.a.m8_en_US_goadedes.KyrieEiKaiKritirio.name
-trVE.Stichera01.incipit = "…"
-trVE.Stichera01.text = ""
+trVE.Stichera01.incipit = "Lord our God…"
+trVE.Stichera01.text = "Lord our God, willingly You spread Your divine hands * to be nailed on the holy Cross. * Count us worthy to venerate it * with a heart contrite and penitent, * and with our bodies and souls * aglow through self-control and prayer * and good deeds and from fasting,
+for You are good and love humanity."
 
 trVE.Stichera02.mode = misc_en_US_goadedes.Mode8
 trVE.Stichera02.melody = he.a.m8_en_US_goadedes.KyrieEiKaiKritirio.name
-trVE.Stichera02.incipit = "…"
-trVE.Stichera02.text = ""
+trVE.Stichera02.incipit = "Lord, I pray…"
+trVE.Stichera02.text = "Lord, I pray, blot out my abundant transgressions * according to the abundance of * Your compassion, merciful Savior. * And in Your love for humanity, * account me worthy to see * and venerate You holy Cross, * during this fourth week of Lenten fasting, * with my soul and body purified."
 
 trVE.Stichera03.mode = misc_en_US_goadedes.Mode3
-trVE.Stichera03.melody = ""
-trVE.Stichera03.incipit = "…"
-trVE.Stichera03.text = ""
+trVE.Stichera03.melody = "Truly amazing."
+trVE.Stichera03.incipit = "Truly amazing…"
+trVE.Stichera03.text = "Truly amazing! On view is the Tree on which Christ was physically crucified. * The world venerates it, and illumined cries out: * \"How great is the Cross's power! * When demons simply look at it, it burns them. * We make the sign of it, and indeed it scorches them. * O immaculate Tree, I extol you; * with fear I venerate and honor. * And I send up glory to God my Savior, who through you to me has granted never-ending life."
 
 trVE.AposIdiomelon1.mode = misc_en_US_goadedes.Mode8
 trVE.AposIdiomelon1.melody = misc_en_US_goadedes.Idiomelon
