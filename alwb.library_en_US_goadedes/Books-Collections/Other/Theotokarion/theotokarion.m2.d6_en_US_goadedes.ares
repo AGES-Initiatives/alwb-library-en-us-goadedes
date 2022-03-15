@@ -3,7 +3,8 @@ A_Resource_Whose_Name = theotokarion.m2.d6_en_US_goadedes
 thCA.title1 = "On Saturday Evening"
 thCA.title2 = "Canon to the Most Holy Theotokos"
 thCA.poet = "A Poem by St. Theodore the Studite"
-thCA.translator = "Fr. Serapim Dedes"
+thCA.translator1 = "Fr. Serapim Dedes"
+thCA.translator2 = "Nuns of the Holy Monastery of the Life Giving Spring"
 thCA.media.text = properties_en_US_goadedes.media.key
 
 thCA.verse = prayers_en_US_goadedes.verse_Theotokos.text
@@ -82,9 +83,13 @@ thCA.Ode44.text = ""
 
 thCA.Ode51.ode = misc_en_US_goadedes.Ode5
 thCA.Ode51.mode = misc_en_US_goadedes.Mode2
-thCA.Ode51.melody = ""
+thCA.Ode51.melody = "As the night of the passions."
 thCA.Ode51.incipit = "…"
 thCA.Ode51.text = ""
+
+thCA.Ode52.ode = misc_en_US_goadedes.Ode5
+thCA.Ode52.mode = misc_en_US_goadedes.Mode2
+thCA.Ode52.melody = "As the night of the passions."
 thCA.Ode52.incipit = "…"
 thCA.Ode52.text = ""
 
@@ -131,7 +136,7 @@ thCA.Kathisma11.text = ""
 
 thCA.Ode71.ode = misc_en_US_goadedes.Ode7
 thCA.Ode71.mode = misc_en_US_goadedes.Mode2
-thCA.Ode71.melody = ""
+thCA.Ode71.melody = "In the fiery furnace."
 thCA.Ode71.incipit = "…"
 thCA.Ode71.text = ""
 
