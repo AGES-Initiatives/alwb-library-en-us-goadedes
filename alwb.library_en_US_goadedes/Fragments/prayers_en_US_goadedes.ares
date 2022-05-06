@@ -528,6 +528,9 @@ petConsecration01 = ""
 petConsecration02.incipit = "…"
 petConsecration02 = ""
 
+petConsecration13a = "Commemorating our most holy, pure, blessed, and glorious Lady, the Theotokos and ever-virgin Mary, "
+petConsecration13b = "with all the saints, let us commend ourselves and one another and our whole life to Christ our God."
+
 petCross05.incipit = "…"
 petCross05 = ""
 
@@ -1022,8 +1025,11 @@ gos03b = ""
 gos04.incipit = "Peace be with you…"
 gos04 = "Peace be with you."
 
-gos05.incipit = "…"
-gos05 = ""
+gos05.incipit = "Peace be to you who proclaim…"
+gos05 = "Peace be to you who proclaim the Gospel."
+
+gos06.incipit = "…"
+gos06 = "Peace be to you who proclaim the Gospel and to all the people."
 
 otr01a.incipit = "The reading is from…"
 otr01a = "The reading is from"
