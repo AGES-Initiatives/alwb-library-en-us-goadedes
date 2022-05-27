@@ -58,6 +58,10 @@ trMA.PostGospelIdiomelon.incipit = "…"
 trMA.PostGospelIdiomelon.text = ""
 
 trMA.C1.poet = poets_en_US_goadedes.Georgiou
+trMA.C1.acrostic.title = ""
+trMA.C1.acrostic.notice1 = ""
+trMA.C1.acrostic.text = ""
+//trMA.C1.acrostic.notice2 = ""
 trMA.C1.acrostic = ""
 
 trMA.C1.title = titles_en_US_goadedes.KanonTouTriodiou

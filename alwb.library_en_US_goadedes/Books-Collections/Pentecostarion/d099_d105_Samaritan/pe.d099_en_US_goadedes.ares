@@ -98,17 +98,19 @@ peMA.Kathisma23.melody = misc_en_US_goadedes.Automelon
 peMA.Kathisma23.incipit = oc.m4.d1_en_US_goadedes.ocMA.Kathisma13.incipit
 peMA.Kathisma23.text = oc.m4.d1_en_US_goadedes.ocMA.Kathisma13.text
 
+peMA.C1.acrostic.title = ""
+peMA.C1.acrostic.notice1 = ""
+peMA.C1.acrostic.text = ""
+peMA.C1.acrostic.notice2 = ""
 peMA.C1.poet = poets_en_US_goadedes.IosifThessalonikis
-peMA.C1.acrostic = ""
+peMA.C1.title = titles_en_US_goadedes.KanonTisSamaritidos
+peMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 peMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 peMA.Ode1C1H.mode = misc_en_US_goadedes.Mode4
 peMA.Ode1C1H.melody = he.h.m4_en_US_goadedes.OPataxasAigypton.melody
 peMA.Ode1C1H.incipit = he.h.m4_en_US_goadedes.OPataxasAigypton.incipit
 peMA.Ode1C1H.text = he.h.m4_en_US_goadedes.OPataxasAigypton.text
-
-peMA.C1.title = titles_en_US_goadedes.KanonTisSamaritidos
-peMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 peMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 peMA.Ode1C11.mode = misc_en_US_goadedes.Mode4

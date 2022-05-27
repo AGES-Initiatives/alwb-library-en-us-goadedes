@@ -258,8 +258,11 @@ alt1.peMA.PostGospelIdiomelon.melody = ""
 alt1.peMA.PostGospelIdiomelon.incipit = "…"
 alt1.peMA.PostGospelIdiomelon.text = ""
 
-alt1.peMA.C1.acrostic = ""
-
+alt1.peMA.C1.acrostic.title = ""
+alt1.peMA.C1.acrostic.notice1 = ""
+alt1.peMA.C1.acrostic.text = ""
+alt1.peMA.C1.acrostic.notice2 = ""
+alt1.peMA.C1.poet = poets_en_US_goadedes.GerasimouMonachouMikragiannanitou
 alt1.peMA.C1.title = titles_en_US_goadedes.KanonTonAgion
 alt1.peMA.C1.verse = prayers_en_US_goadedes.verse_SaintsM.text
 

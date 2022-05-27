@@ -43,6 +43,10 @@ meVE.SticStavrotheotokion.melody = he.a.m1_en_US_goadedes.PaneffimoiMartyres.nam
 meVE.SticStavrotheotokion.incipit = oc.m1.d4_en_US_goadedes.ocVE.SticTheotokion.incipit
 meVE.SticStavrotheotokion.text = oc.m1.d4_en_US_goadedes.ocVE.SticTheotokion.text
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = ""
 
 meMA.C1.title = titles_en_US_goadedes.KanonTonAgion

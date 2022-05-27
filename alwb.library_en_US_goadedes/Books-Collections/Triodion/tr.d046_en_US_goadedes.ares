@@ -86,6 +86,10 @@ trMA.Kathisma32.incipit = "…"
 trMA.Kathisma32.text = ""
 
 trMA.C1.poet = poets_en_US_goadedes.KyriouTheofanous
+trMA.C1.acrostic.title = ""
+trMA.C1.acrostic.notice1 = ""
+trMA.C1.acrostic.text = ""
+//trMA.C1.acrostic.notice2 = ""
 trMA.C1.acrostic = ""
 
 trMA.C2.poet = poets_en_US_goadedes.Iosif

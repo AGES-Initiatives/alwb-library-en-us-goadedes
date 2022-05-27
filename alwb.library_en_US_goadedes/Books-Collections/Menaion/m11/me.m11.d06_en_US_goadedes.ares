@@ -77,6 +77,10 @@ meVE.Apolytikion1.incipit = he.a.m3_en_US_goadedes.TheiasPisteos.incipit
 meVE.Apolytikion1.text = he.a.m3_en_US_goadedes.TheiasPisteos.text
 
 meMA.C1.poet = poets_en_US_goadedes.Theofanous
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = ""
 
 meMA.C1.title = titles_en_US_goadedes.KanonTouAgiou

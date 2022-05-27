@@ -56,6 +56,10 @@ trVE.ApolTheotokion.text = oc.m2.d1_en_US_goadedes.ocVE.ApolTheotokionVM.text
 
 //Supplicatory Canon to St. Theodore
 
+trCA.acrostic.title = ""
+trCA.acrostic.notice1 = ""
+trCA.acrostic.text = ""
+//trCA.acrostic.notice2 = ""
 trCA.poet = poets_en_US_goadedes.IoannouTouDamaskinou
 
 trCA.Ode11.ode = misc_en_US_goadedes.Ode1
@@ -292,6 +296,10 @@ trMA.Kathisma23.incipit = "…"
 trMA.Kathisma23.text = ""
 
 trMA.C1.poet = poets_en_US_goadedes.IoannouEfchaiton
+trMA.C1.acrostic.title = ""
+trMA.C1.acrostic.notice1 = ""
+trMA.C1.acrostic.text = ""
+//trMA.C1.acrostic.notice2 = ""
 trMA.C1.acrostic = ""
 
 trMA.C2.poet = poets_en_US_goadedes.IoannouEfchaiton

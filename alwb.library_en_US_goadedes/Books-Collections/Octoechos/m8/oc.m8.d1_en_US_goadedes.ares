@@ -118,8 +118,10 @@ ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.incipit = "…"
 ocVE.ApolTheotokionVM.text = ""
 
+ocMO.title = "Canon for the Trinity"
 ocMO.poet = poets_en_US_goadedes.MitrofanousSmirnis
-ocMO.acrostic = ""
+ocMO.acrostic.notice = ""
+ocMO.acrostic.text = ""
 
 ocMO.Ode11.mode = misc_en_US_goadedes.Mode8
 ocMO.Ode11.ode = misc_en_US_goadedes.Ode1
@@ -422,6 +424,10 @@ ocMA.Antiphon43.text = ""
 
 ocMA.MM.Prokeimenon.text = properties_en_US_goadedes.media.key
 
+ocMA.C3.acrostic.title = ""
+ocMA.C3.acrostic.notice1 = ""
+ocMA.C3.acrostic.text = ""
+//ocMA.C3.acrostic.notice2 = ""
 ocMA.C3.acrostic = ""
 
 ocMA.OdeS1C1H.mode = misc_en_US_goadedes.Mode8

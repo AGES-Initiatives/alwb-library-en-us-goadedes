@@ -138,11 +138,22 @@ peMA.PostGospelIdiomelon.melody = misc_en_US_goadedes.Idiomelon
 peMA.PostGospelIdiomelon.incipit = peVE.Aposticha3.incipit
 peMA.PostGospelIdiomelon.text = peVE.Aposticha3.text
 
+peMA.C1.acrostic.title = "The Canon in Grave Mode."
+peMA.C1.acrostic.notice1 = ""
+peMA.C1.acrostic.text = ""
+peMA.C1.acrostic.notice2 = ""
 peMA.C1.poet = poets_en_US_goadedes.KosmaMonachou
-peMA.C1.acrostic = ""
+peMA.C1.title = titles_en_US_goadedes.KanonATisEortis
+peMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
+peMA.C2.acrostic.title = "Another Canon."
+peMA.C2.acrostic.notice1 = "The Acrostic formed by the first letter of each line is as follows:"
+peMA.C2.acrostic.text = "Logos Son of God, You sent the Spirit, another Advocate, from the Father's bosom to those on earth in fiery tongues, sign of inherent Godhead, and grace to the translator."
+peMA.C2.acrostic.notice2 = ""
 peMA.C2.poet = poets_en_US_goadedes.KyriouIoannouArkla
-peMA.C2.acrostic = "Acrostic: \"Logos Son of God, You sent the Spirit, another Advocate, from the Father's bosom to those on earth in fiery tongues, sign of inherent Godhead, and grace to the translator.\""
+peMA.C2.title = titles_en_US_goadedes.KanonBTisEortis
+peMA.C2.verse = prayers_en_US_goadedes.verse_God.text
+
 peMA.C2.Acrostic1.acrostic = "The Acrostic formed by the first letter of each line is as follows:"
 peMA.C2.Acrostic2.acrostic = "Logos Son of God, You sent the Spirit,"
 peMA.C2.Acrostic3.acrostic = "another Advocate, from the Father's bosom"
@@ -154,9 +165,6 @@ peMA.Ode1C1H.mode = misc_en_US_goadedes.Mode7
 peMA.Ode1C1H.melody = he.h.m7_en_US_goadedes.PontoEkalypse.melody
 peMA.Ode1C1H.incipit = he.h.m7_en_US_goadedes.PontoEkalypse.incipit
 peMA.Ode1C1H.text = he.h.m7_en_US_goadedes.PontoEkalypse.text
-
-peMA.C1.title = titles_en_US_goadedes.KanonATisEortis
-peMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 peMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 peMA.Ode1C11.mode = misc_en_US_goadedes.Mode7
@@ -180,9 +188,6 @@ peMA.Ode1C2H2.text = he.h.m4_en_US_goadedes.TheioKalyftheis2.text
 peMA.Ode1C2H3.text = he.h.m4_en_US_goadedes.TheioKalyftheis3.text
 peMA.Ode1C2H4.text = he.h.m4_en_US_goadedes.TheioKalyftheis4.text
 peMA.Ode1C2H5.text = he.h.m4_en_US_goadedes.TheioKalyftheis5.text
-
-peMA.C2.title = titles_en_US_goadedes.KanonBTisEortis
-peMA.C2.verse = prayers_en_US_goadedes.verse_God.text
 
 peMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 peMA.Ode1C21.mode = misc_en_US_goadedes.Mode4

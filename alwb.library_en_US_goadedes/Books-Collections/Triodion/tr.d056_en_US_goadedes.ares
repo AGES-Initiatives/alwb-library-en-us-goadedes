@@ -131,6 +131,10 @@ trAK.Oikos121.text = trAK.Refrain2.text
 
 trMA.C1.title = ""
 trMA.C1.poet = poets_en_US_goadedes.IosifTouYmnografou
+trMA.C1.acrostic.title = ""
+trMA.C1.acrostic.notice1 = ""
+trMA.C1.acrostic.text = ""
+//trMA.C1.acrostic.notice2 = ""
 trMA.C1.acrostic = ""
 
 trMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
@@ -375,6 +379,10 @@ trMA.Ode6C14.incipit = "…"
 trMA.Ode6C14.text = ""
 
 trMA.C2.poet = poets_en_US_goadedes.Iosif
+trMA.C2.acrostic.title = ""
+trMA.C2.acrostic.notice1 = ""
+trMA.C2.acrostic.text = ""
+//trMA.C2.acrostic.notice2 = ""
 trMA.C2.acrostic = ""
 trMA.C2.title = ""
 trMA.C2.verse = prayers_en_US_goadedes.verse_SaintsM.text

@@ -219,9 +219,17 @@ meMA.PostGospelIdiomelon.incipit = "…"
 meMA.PostGospelIdiomelon.text = ""
 
 meMA.C1.poet = poets_en_US_goadedes.IoannouTouDamaskinou
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = ""
 
 meMA.C2.poet = poets_en_US_goadedes.Georgiou
+meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.notice1 = ""
+meMA.C2.acrostic.text = ""
+//meMA.C2.acrostic.notice2 = ""
 meMA.C2.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1

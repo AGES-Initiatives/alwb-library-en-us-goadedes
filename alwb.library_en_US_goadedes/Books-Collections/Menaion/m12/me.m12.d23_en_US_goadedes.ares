@@ -104,6 +104,10 @@ meVE.Apolytikion3.text = ""
 meCO.C1.title = ""
 meCO.C1.verse = prayers_en_US_goadedes.verse_God.text
 
+meCO.C1.acrostic.title = ""
+meCO.C1.acrostic.notice1 = ""
+meCO.C1.acrostic.text = ""
+//meCO.C1.acrostic.notice2 = ""
 meCO.C1.acrostic = ""
 
 meCO.Ode5C1H.ode = misc_en_US_goadedes.Ode5
@@ -195,6 +199,10 @@ meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
 meMA.C1.poet = poets_en_US_goadedes.Iosif
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1

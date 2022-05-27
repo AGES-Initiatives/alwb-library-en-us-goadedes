@@ -114,9 +114,17 @@ meVE.Apolytikion3.incipit = "…"
 meVE.Apolytikion3.text = ""
 
 meMA.C1.poet = poets_en_US_goadedes.Theofanous
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = ""
 
 meMA.C2.poet = poets_en_US_goadedes.Theofanous
+meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.notice1 = ""
+meMA.C2.acrostic.text = ""
+//meMA.C2.acrostic.notice2 = ""
 meMA.C2.acrostic = ""
 
 meMA.C1.title = titles_en_US_goadedes.KanonTouAgiou

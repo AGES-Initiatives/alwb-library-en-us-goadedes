@@ -117,6 +117,10 @@ meMA.C1.poet = poets_en_US_goadedes.IoannouMonachou
 
 meMA.C2.poet = poets_en_US_goadedes.AndreouKritis
 
+meMA.C3.acrostic.title = ""
+meMA.C3.acrostic.notice1 = ""
+meMA.C3.acrostic.text = ""
+//meMA.C3.acrostic.notice2 = ""
 meMA.C3.acrostic = ""
 
 meMA.C1.title = titles_en_US_goadedes.KanonTonEnkainion

@@ -108,8 +108,16 @@ meMA.Kathisma22.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
 meMA.Kathisma22.incipit = me.m01.d06_en_US_goadedes.meMA.Kathisma31.incipit
 meMA.Kathisma22.text = me.m01.d06_en_US_goadedes.meMA.Kathisma31.text
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = ""
 
+meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.notice1 = ""
+meMA.C2.acrostic.text = ""
+//meMA.C2.acrostic.notice2 = ""
 meMA.C2.acrostic = ""
 
 meMA.C1.title = ""

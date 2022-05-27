@@ -132,9 +132,12 @@ peMA.Kathisma22.melody = ""
 peMA.Kathisma22.incipit = tr.d014_en_US_goadedes.trMA.Kathisma22.incipit
 peMA.Kathisma22.text = tr.d014_en_US_goadedes.trMA.Kathisma22.text
 
-peMA.C1.acrostic = ""
-
-peMA.C1.title = titles_en_US_goadedes.KanonTouPentikostariou
+peMA.C1.acrostic.title = ""
+peMA.C1.acrostic.notice1 = ""
+peMA.C1.acrostic.text = ""
+peMA.C1.acrostic.notice2 = ""
+peMA.C1.poet = ""
+peMA.C1.title = titles_en_US_goadedes.KanonNekrosimos
 peMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 peMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1

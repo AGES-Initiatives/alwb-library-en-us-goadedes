@@ -235,9 +235,17 @@ meMA.PostGospelIdiomelon.incipit = me.m01.d18_en_US_goadedes.meMA.PostGospelIdio
 meMA.PostGospelIdiomelon.text = me.m01.d18_en_US_goadedes.meMA.PostGospelIdiomelon.text
 
 meMA.C1.poet = poets_en_US_goadedes.IoannouEfchaiton
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = ""
 
 meMA.C2.poet = poets_en_US_goadedes.IoannouEfchaiton
+meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.notice1 = ""
+meMA.C2.acrostic.text = ""
+//meMA.C2.acrostic.notice2 = ""
 meMA.C2.acrostic = ""
 
 meMA.C3.poet = poets_en_US_goadedes.IoannouEfchaiton

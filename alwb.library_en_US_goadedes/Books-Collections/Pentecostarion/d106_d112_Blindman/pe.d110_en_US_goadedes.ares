@@ -180,19 +180,24 @@ peMA.PostGospelIdiomelon.melody = misc_en_US_goadedes.Idiomelon
 peMA.PostGospelIdiomelon.incipit = "…"
 peMA.PostGospelIdiomelon.text = ""
 
+peMA.C1.acrostic.title = "The Canon in Mode pl. 1."
 peMA.C1.poet = poets_en_US_goadedes.IoannouMonachou
+peMA.C1.title = titles_en_US_goadedes.KanonATisEortis
+peMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
+peMA.C2.acrostic.title = "The Canon in Mode 4."
+peMA.C2.acrostic.notice1 = ""
+peMA.C2.acrostic.text = ""
+peMA.C2.acrostic.notice2 = ""
 peMA.C2.poet = poets_en_US_goadedes.IosifThessalonikis
-peMA.C2.acrostic = ""
+peMA.C2.title = titles_en_US_goadedes.KanonBTisEortis
+peMA.C2.verse = prayers_en_US_goadedes.verse_God.text
 
 peMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 peMA.Ode1C1H.mode = misc_en_US_goadedes.Mode5
 peMA.Ode1C1H.melody = he.h.m5_en_US_goadedes.ToSotiriTheo.melody
 peMA.Ode1C1H.incipit = he.h.m5_en_US_goadedes.ToSotiriTheo.incipit
 peMA.Ode1C1H.text = he.h.m5_en_US_goadedes.ToSotiriTheo.text
-
-peMA.C1.title = titles_en_US_goadedes.KanonATisEortis
-peMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 peMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 peMA.Ode1C11.mode = misc_en_US_goadedes.Mode5
@@ -224,9 +229,6 @@ peMA.Ode1C2H.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou.melody
 peMA.Ode1C2H.incipit = he.h.m4_en_US_goadedes.AnoixoToStomaMou.incipit
 peMA.Ode1C2H.text = he.h.m4_en_US_goadedes.AnoixoToStomaMou.text
 
-peMA.C2.title = titles_en_US_goadedes.KanonBTisEortis
-peMA.C2.verse = prayers_en_US_goadedes.verse_God.text
-
 peMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 peMA.Ode1C21.mode = misc_en_US_goadedes.Mode4
 peMA.Ode1C21.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou.name
@@ -249,8 +251,7 @@ peMA.Ode1C2T.ode = misc_en_US_goadedes.Ode1
 peMA.Ode1C2T.mode = misc_en_US_goadedes.Mode4
 peMA.Ode1C2T.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou.name
 peMA.Ode1C2T.incipit = "All-spotless…"
-peMA.Ode1C2T.text = "All-spotless and blameless Lady, you gave birth to the Lord of all, * who deigned for our sakes to suffer voluntarily. * After He arose, He ascended to His Father, * 
-from whom He had never left, even though incarnate."
+peMA.Ode1C2T.text = "All-spotless and blameless Lady, you gave birth to the Lord of all, * who deigned for our sakes to suffer voluntarily. * After He arose, He ascended to His Father, * from whom He had never left, even though incarnate."
 
 peMA.Ode3C1H.ode = misc_en_US_goadedes.Ode3
 peMA.Ode3C1H.mode = misc_en_US_goadedes.Mode5
@@ -310,8 +311,7 @@ peMA.Ode3C23.ode = misc_en_US_goadedes.Ode3
 peMA.Ode3C23.mode = misc_en_US_goadedes.Mode4
 peMA.Ode3C23.melody = he.h.m4_en_US_goadedes.TousSousYmnologous.name
 peMA.Ode3C23.incipit = "The feast of the glorious…"
-peMA.Ode3C23.text = "The feast of the glorious Ascension of Christ the Creator of the world
-is celebrated joyfully * in heaven and on earth today; * for by His will He visibly unites what used to be separate."
+peMA.Ode3C23.text = "The feast of the glorious Ascension of Christ the Creator of the world * is celebrated joyfully * in heaven and on earth today; * for by His will He visibly unites what used to be separate."
 
 peMA.Ode3C2T.ode = misc_en_US_goadedes.Ode3
 peMA.Ode3C2T.mode = misc_en_US_goadedes.Mode4

@@ -260,6 +260,10 @@ trMA.Ode8C1T.melody = he.h.m2_en_US_goadedes.TonEnTiVatoMosi.name
 trMA.Ode8C1T.incipit = "…"
 trMA.Ode8C1T.text = ""
 
+trMA.C1.acrostic.title = ""
+trMA.C1.acrostic.notice1 = ""
+trMA.C1.acrostic.text = ""
+//trMA.C1.acrostic.notice2 = ""
 trMA.C1.acrostic = "" //Acrostic for Ode 9
 trMA.Ode9C11.ode = misc_en_US_goadedes.Ode9
 trMA.Ode9C11.mode = misc_en_US_goadedes.Mode2

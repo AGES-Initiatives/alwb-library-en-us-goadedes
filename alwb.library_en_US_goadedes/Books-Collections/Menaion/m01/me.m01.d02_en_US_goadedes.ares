@@ -82,12 +82,20 @@ meVE.Apolytikion1.melody = he.a.m4_en_US_goadedes.KateplagiIosif.name
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
-meCO.C1Poet = poets_en_US_goadedes.SymeonTouLogothetou
+meCO.C1.poet = poets_en_US_goadedes.SymeonTouLogothetou
+meCO.C1.acrostic.title = ""
+meCO.C1.acrostic.notice1 = ""
+meCO.C1.acrostic.text = ""
+//meCO.C1.acrostic.notice2 = ""
 meCO.C1.acrostic = ""
 meCO.C1.title = ""
 meCO.C1.verse = prayers_en_US_goadedes.verse_God.text
 
-meCO.C2Poet = ""
+meCO.C2.poet = ""
+meCO.C2.acrostic.title = ""
+meCO.C2.acrostic.notice1 = ""
+meCO.C2.acrostic.text = ""
+//meCO.C2.acrostic.notice2 = ""
 meCO.C2.acrostic = ""
 meCO.C2.title = ""
 meCO.C2.verse = prayers_en_US_goadedes.verse_God.text
@@ -215,8 +223,16 @@ meMA.Kathisma22.incipit = "…"
 meMA.Kathisma22.text = ""
 
 meMA.C1.poet = poets_en_US_goadedes.Iosif
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = ""
 
+meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.notice1 = ""
+meMA.C2.acrostic.text = ""
+//meMA.C2.acrostic.notice2 = ""
 meMA.C2.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1

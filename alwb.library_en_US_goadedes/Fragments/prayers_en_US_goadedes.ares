@@ -244,14 +244,20 @@ pet06b = "for the honorable presbyterate, for the diaconate in Christ, and for a
 pet07L.incipit = "…"
 pet07L = ""
 
+pet07L_goa.incipit = "For our country…"
+pet07L_goa = "For our country, the president, all those in public service, and for our armed forces everywhere, let us pray to the Lord."
+
 pet07S.incipit = "For our country, for the…"
 pet07S = "For our country, for the president, and for all in public service, let us pray to the Lord."
 
 pet07Sa.incipit = "…"
 pet07Sa = ""
 
-pet08.incipit = "For this city, and for…"
+pet08.incipit = "For this city…"
 pet08 = "For this city, and for every city and land, and for the faithful who live in them, let us pray to the Lord."
+
+pet08_goa.incipit = "For the Great and Holy Church…"
+pet08_goa = "For the Great and Holy Church of Christ, for our Holy Archdiocese, for this Holy Metropolis, for this city and parish, for every city and land, and for the faithful who live in them, let us pray to the Lord."
 
 pet09.incipit = "For favorable weather, for an…"
 pet09 = "For favorable weather, for an abundance of the fruits of the earth, and for peaceful times, let us pray to the Lord."
@@ -363,8 +369,11 @@ pet31 = "Peace be with all."
 pet32.incipit = "Let us bow our heads…"
 pet32 = "Let us bow our heads to the Lord."
 
-pet33.incipit = "Again we pray for the…"
-pet33 = "Again we pray for the protection of the holy Great Church of Christ, our sacred Archdiocese (and this sacred Metropolis), this city and every city and land, from wrath, famine, pestilence, earthquake, flood, fire, sword, foreign invasion, civil strife, and accidental death. That our good and loving God may be merciful, gracious and kindly-disposed, and may divert and disperse all anger and disease coming against us, and deliver us from His own just threat hanging over us, and have mercy on us."
+pet33.incipit = "Again we pray for the protection…"
+pet33 = "Again we pray for the protection of this holy Church, this city and every city and land, from wrath, famine, pestilence, earthquake, flood, fire, sword, foreign invasion, civil strife, and accidental death. That our good and loving God may be merciful, gracious and kindly-disposed, and may divert and disperse all anger and disease coming against us, and deliver us from His own just threat hanging over us, and have mercy on us."
+
+pet33_goa.incipit = "Again we pray for the protection…"
+pet33_goa = "Again we pray for the protection of the holy Great Church of Christ, our sacred Archdiocese (and this sacred Metropolis), this city and every city and land, from wrath, famine, pestilence, earthquake, flood, fire, sword, foreign invasion, civil strife, and accidental death. That our good and loving God may be merciful, gracious and kindly-disposed, and may divert and disperse all anger and disease coming against us, and deliver us from His own just threat hanging over us, and have mercy on us."
 
 pet34.incipit = "Again we pray that the…"
 pet34 = "Again we pray that the Lord our God may hear the prayer of us sinners, and have mercy on us."
@@ -375,11 +384,17 @@ pet35 = "Hear us, O God our Savior, the hope of all those who live everywhere on
 pet36.incipit = "Accept our prayer; grant us…"
 pet36 = "Accept our prayer; grant us forgiveness of our transgressions; protect us under the shelter of Your wings; drive away from us every enemy and adversary; grant peace to our life; Lord, have mercy on us and on Your world; and save our souls as a good and loving God."
 
-pet37.incipit = "May the blessing and the…"
+pet37.incipit = "May the blessing and the mercy…"
 pet37 = "May the blessing and the mercy of the Lord come upon you by His divine grace and love for mankind, always, now and forever and to the ages of ages." // Dismissal
 
-pet37a.incipit = "May the blessing and the…"
+pet37_goa.incipit = "May the blessing and the mercy…"
+pet37_goa = "May the blessing and the mercy of the Lord come upon you by His divine grace and love for mankind, always, now and forever and to the ages of ages." // Dismissal
+
+pet37a.incipit = "May the blessing and the mercy…"
 pet37a = "May the blessing and the mercy of the Lord come upon you."
+
+pet37a_goa.incipit = "May the blessing and the mercy…"
+pet37a_goa = "May the blessing and the mercy of the Lord come upon you."
 
 pet37b.incipit = "By His divine grace and…"
 pet37b = "By His divine grace and love for mankind, now and forever and to the ages of ages. Amen."
@@ -1037,87 +1052,86 @@ otr01a = "The reading is from"
 otr01b.incipit = "…"
 otr01b = "" // leave blank in English
 
-verse_Angels.incipit = "…"
-verse_Angels.text = ""
+verse_Angels.incipit = "Holy Angels of God…"
+verse_Angels.text = "Holy Angels of God, intercede for us."
 
-verse_Apostle.incipit = "…"
-verse_Apostle.text = ""
+verse_Apostle.incipit = "Apostle of Christ…"
+verse_Apostle.text = "Apostle of Christ, intercede for us."
 
-verse_Apostles.incipit = "…"
-verse_Apostles.text = ""
+verse_Apostles.incipit = "Apostles of Christ…"
+verse_Apostles.text = "Apostles of Christ, intercede for us."
 
-verse_ApostlesMartyrs.incipit = "…"
-verse_ApostlesMartyrs.text = ""
+verse_ApostlesMartyrs.incipit = "Apostles and Martyrs…"
+verse_ApostlesMartyrs.text = "Apostles and Martyrs of Christ, intercede for us."
 
-verse_Archangel.incipit = "…"
-verse_Archangel.text = ""
+verse_Archangel.incipit = "Archangel of God…"
+verse_Archangel.text = "Archangel of God, intercede for us."
 
-verse_Archangels.incipit = "…"
-verse_Archangels.text = ""
+verse_Archangels.incipit = "Archangels of God…"
+verse_Archangels.text = "Archangels of God, intercede for us."
 
-verse_Baptist.incipit = "…"
-verse_Baptist.text = ""
+verse_Baptist.incipit = "Baptist of Christ…"
+verse_Baptist.text = "Baptist of Christ, intercede for us."
 
-verse_Cross.incipit = "…"
-verse_Cross.text = ""
+verse_Cross.incipit = "[All-holy] Cross of Christ…"
+verse_Cross.text = "[All-holy] Cross of Christ, guard us by your power."
 
-verse_Crucifixion.incipit = "…"
-verse_Crucifixion.text = ""
+verse_Crucifixion.incipit = "Glory to Your holy Crucifixion…"
+verse_Crucifixion.text = "Glory to Your holy Crucifixion, O Lord."
 
-verse_DevoutMan.incipit = "…"
-verse_DevoutMan.text = ""
+verse_DevoutMan.incipit = "Devout Saint of God, intercede…"
+verse_DevoutMan.text = "Devout Saint of God, intercede for us."
 
-verse_DevoutMen.incipit = "…"
-verse_DevoutMen.text = ""
+verse_DevoutMen.incipit = "Devout Saints of God…"
+verse_DevoutMen.text = "Devout Saints of God, intercede for us"
 
-verse_DevoutWoman.incipit = "…"
-verse_DevoutWoman.text = ""
+verse_DevoutWoman.incipit = "Devout Saint…"
+verse_DevoutWoman.text = "Devout Saint of God, intercede for us"
 
-verse_God.incipit = "…"
-verse_God.text = ""
+verse_God.incipit = "Glory to You, our God…"
+verse_God.text = "Glory to You, our God, glory to You."
 
-verse_GreatMartyrs.incipit = "…"
-verse_GreatMartyrs.text = ""
+verse_GreatMartyrs.incipit = "Holy Great Martyrs…"
+verse_GreatMartyrs.text = "Holy Great Martyrs of Christ, intercede for us."
 
-verse_Hierarchs.incipit = "…"
-verse_Hierarchs.text = ""
+verse_Hierarchs.incipit = "Holy Hierarchs…"
+verse_Hierarchs.text = "Holy Hierarchs and Teachers of the whole world, intercede for us."
 
-verse_Nicholas.incipit = "…"
-verse_Nicholas.text = ""
+verse_Nicholas.incipit = "Saint Nicholas…"
+verse_Nicholas.text = "Saint Nicholas, Hierarch of Christ, intercede for us."
 
-verse_Panteleimon.incipit = "…"
-verse_Panteleimon.text = ""
+verse_Panteleimon.incipit = "Holy and glorious Great Martyr…"
+verse_Panteleimon.text = "Holy and glorious Great Martyr of Christ and healer Panteleimon, intercede for us."
 
-verse_Prophet.incipit = "…"
-verse_Prophet.text = ""
+verse_Prophet.incipit = "Prophet of God…"
+verse_Prophet.text = "Prophet of God, intercede for us."
 
-verse_Resurrection.incipit = "…"
-verse_Resurrection.text = ""
+verse_Resurrection.incipit = "Glory to Your holy Resurrection…"
+verse_Resurrection.text = "Glory to Your holy Resurrection, O Lord."
 
-verse_Righteous.incipit = "…"
-verse_Righteous.text = ""
+verse_Righteous.incipit = "Holy Forefathers of Christ…"
+verse_Righteous.text = "Holy Forefathers of Christ, intercede for us."
 
-verse_SaintM.incipit = "…"
+verse_SaintM.incipit = "Saint of God…"
 verse_SaintM.text = "Saint of God, intercede for us."
 
-verse_SaintW.incipit = "…"
-verse_SaintW.text = ""
+verse_SaintW.incipit = "Saint of God…"
+verse_SaintW.text = "Saint of God, intercede for us."
 
 verse_SaintsM.incipit = "Saints of God…"
 verse_SaintsM.text = "Saints of God, intercede for us."
 
-verse_SaintsW.incipit = "…"
-verse_SaintsW.text = ""
+verse_SaintsW.incipit = "Saints of God…"
+verse_SaintsW.text = "Saints of God, intercede for us."
 
-verse_SoulSaturday.incipit = "…"
-verse_SoulSaturday.text = ""
+verse_SoulSaturday.incipit = "By the intercessions…"
+verse_SoulSaturday.text = "By the intercessions of Your Martyrs, O Lord, grant rest to the souls of Your servants."
 
-verse_Theotokos.incipit = "…"
-verse_Theotokos.text = ""
+verse_Theotokos.incipit = "Most-holy Theotokos…"
+verse_Theotokos.text = "Most-holy Theotokos, save us."
 
-verse_Trinity.incipit = "…"
-verse_Trinity.text = ""
+verse_Trinity.incipit = "Holy Trinity, our God…"
+verse_Trinity.text = "Holy Trinity, our God, have mercy on us and save us."
 
-verse_Unmercenaries.incipit = "…"
-verse_Unmercenaries.text = ""
-
+verse_Unmercenaries.incipit = "Holy Unmercenaries…"
+verse_Unmercenaries.text = "Holy Unmercenaries and miracle-workers, intercede for us."

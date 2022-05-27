@@ -109,7 +109,15 @@ meMA.Kathisma32.melody = he.a.m3_en_US_goadedes.TinOraiotita.name
 meMA.Kathisma32.incipit = me.m12.d20_en_US_goadedes.meMA.Ode3Kathisma3.incipit
 meMA.Kathisma32.text = me.m12.d20_en_US_goadedes.meMA.Ode3Kathisma3.text
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = ""
+meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.notice1 = ""
+meMA.C2.acrostic.text = ""
+//meMA.C2.acrostic.notice2 = ""
 meMA.C2.acrostic = ""
 
 meMA.C1.title = titles_en_US_goadedes.KanonATouAgiou

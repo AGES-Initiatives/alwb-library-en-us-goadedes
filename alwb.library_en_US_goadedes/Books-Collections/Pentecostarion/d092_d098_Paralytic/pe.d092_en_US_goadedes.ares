@@ -89,17 +89,19 @@ peMA.Kathisma23.melody = he.a.m3_en_US_goadedes.TinOraiotita.name
 peMA.Kathisma23.incipit = "…"
 peMA.Kathisma23.text = ""
 
+peMA.C1.acrostic.title = ""
+peMA.C1.acrostic.notice1 = ""
+peMA.C1.acrostic.text = ""
+peMA.C1.acrostic.notice2 = ""
 peMA.C1.poet = poets_en_US_goadedes.IosifThessalonikis
-peMA.C1.acrostic = ""
+peMA.C1.title = titles_en_US_goadedes.KanonTouParalytou
+peMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 peMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 peMA.Ode1C1H.mode = misc_en_US_goadedes.Mode3
 peMA.Ode1C1H.melody = he.h.m3_en_US_goadedes.ThavmastosEndoxos.melody
 peMA.Ode1C1H.incipit = he.h.m3_en_US_goadedes.ThavmastosEndoxos.incipit
 peMA.Ode1C1H.text = he.h.m3_en_US_goadedes.ThavmastosEndoxos.text
-
-peMA.C1.title = titles_en_US_goadedes.KanonTouParalytou
-peMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 peMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 peMA.Ode1C11.mode = misc_en_US_goadedes.Mode3

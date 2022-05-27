@@ -118,8 +118,11 @@ peMA.Kathisma23.melody = ""
 peMA.Kathisma23.incipit = oc.m6.d1_en_US_goadedes.ocMA.Kathisma23.incipit
 peMA.Kathisma23.text = oc.m6.d1_en_US_goadedes.ocMA.Kathisma23.text
 
-peMA.C1.acrostic = ""
-
+peMA.C1.acrostic.title = "Canon for the Holy Fathers."
+peMA.C1.acrostic.notice1 = ""
+peMA.C1.acrostic.text = ""
+peMA.C1.acrostic.notice2 = ""
+peMA.C1.poet = ""
 peMA.C1.title = titles_en_US_goadedes.KanonTonPateron
 peMA.C1.verse = prayers_en_US_goadedes.verse_SaintsM.text
 

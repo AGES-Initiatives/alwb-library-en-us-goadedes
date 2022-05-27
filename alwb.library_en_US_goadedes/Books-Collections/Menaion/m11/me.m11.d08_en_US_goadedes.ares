@@ -185,6 +185,10 @@ meMA.PostGospelIdiomelon.text = meVE.Lity4.text
 meMA.C1.poet = poets_en_US_goadedes.IoannouMonachou
 
 meMA.C2.poet = poets_en_US_goadedes.IoannouMonachou
+meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.notice1 = ""
+meMA.C2.acrostic.text = ""
+//meMA.C2.acrostic.notice2 = ""
 meMA.C2.acrostic = ""
 
 meMA.C1.title = titles_en_US_goadedes.KanonATonAsomaton

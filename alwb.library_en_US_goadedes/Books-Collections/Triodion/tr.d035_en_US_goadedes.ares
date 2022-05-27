@@ -51,6 +51,10 @@ trMA.Kathisma22.incipit = tr.d014_en_US_goadedes.trMA.Kathisma22.incipit
 trMA.Kathisma22.text = tr.d014_en_US_goadedes.trMA.Kathisma22.text
 
 trMA.C1.poet = poets_en_US_goadedes.Iosif
+trMA.C1.acrostic.title = ""
+trMA.C1.acrostic.notice1 = ""
+trMA.C1.acrostic.text = ""
+//trMA.C1.acrostic.notice2 = ""
 trMA.C1.acrostic = ""
 
 trMA.C2.poet = poets_en_US_goadedes.Theodorou

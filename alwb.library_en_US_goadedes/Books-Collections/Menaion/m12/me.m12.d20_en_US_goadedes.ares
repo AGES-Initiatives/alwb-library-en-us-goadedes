@@ -108,6 +108,10 @@ meVE.Apolytikion2.text = ""
 meCO.C1.title = ""
 meCO.C1.verse = prayers_en_US_goadedes.verse_God.text
 
+meCO.C1.acrostic.title = ""
+meCO.C1.acrostic.notice1 = ""
+meCO.C1.acrostic.text = ""
+//meCO.C1.acrostic.notice2 = ""
 meCO.C1.acrostic = ""
 
 meCO.Ode1C1H.ode = misc_en_US_goadedes.Ode1
@@ -174,6 +178,10 @@ meMA.Kathisma21.melody = he.a.m1_en_US_goadedes.TonTafonSouSotir.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = ""
 
 meMA.C2.poet = poets_en_US_goadedes.AndreouKritis

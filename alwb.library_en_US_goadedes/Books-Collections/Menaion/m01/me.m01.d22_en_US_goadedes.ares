@@ -93,6 +93,10 @@ meVE.Apolytikion2.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
 meVE.Apolytikion2.incipit = he.ga_en_US_goadedes.OMartysSouKyrie.incipit
 meVE.Apolytikion2.text = he.ga_en_US_goadedes.OMartysSouKyrie.text
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = ""
 
 meMA.C1.title = titles_en_US_goadedes.KanonTouApostolou

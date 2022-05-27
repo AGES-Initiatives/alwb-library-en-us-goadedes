@@ -119,8 +119,10 @@ ocVE.ApolTheotokionVM.melody = he.a.m1_en_US_goadedes.TouLithouSfragisthentos.na
 ocVE.ApolTheotokionVM.incipit = "…"
 ocVE.ApolTheotokionVM.text = ""
 
+ocMO.title = "Canon for the Trinity"
 ocMO.poet = poets_en_US_goadedes.MitrofanousSmirnis
-ocMO.acrostic = ""
+ocMO.acrostic.notice = ""
+ocMO.acrostic.text = ""
 
 ocMO.Ode11.mode = misc_en_US_goadedes.Mode1
 ocMO.Ode11.ode = misc_en_US_goadedes.Ode1

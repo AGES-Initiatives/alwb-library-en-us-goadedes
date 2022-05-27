@@ -58,6 +58,10 @@ meVE.SticStavrotheotokion.incipit = me.m03.d12_en_US_goadedes.meVE.SticStavrothe
 meVE.SticStavrotheotokion.text = me.m03.d12_en_US_goadedes.meVE.SticStavrotheotokion.text
 
 meMA.C2.poet = poets_en_US_goadedes.Theofanous
+meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.notice1 = ""
+meMA.C2.acrostic.text = ""
+//meMA.C2.acrostic.notice2 = ""
 meMA.C2.acrostic = ""
 
 meMA.C1.title = titles_en_US_goadedes.KanonTonAgion
