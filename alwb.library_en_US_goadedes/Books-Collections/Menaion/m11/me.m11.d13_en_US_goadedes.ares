@@ -223,21 +223,21 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = me.m01.d01_en_US_goadedes.meVE.LityGlory.incipit
 meMA.PostGospelIdiomelon.text = me.m01.d01_en_US_goadedes.meVE.LityGlory.text
 
-meMA.C2.poet = poets_en_US_goadedes.Theofanous
+meMA.C1.title = titles_en_US_goadedes.KanonTisTheotokou
+meMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
+
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
+meMA.C2.poet = poets_en_US_goadedes.Theofanous
+meMA.C2.title = titles_en_US_goadedes.KanonTouAgiou
+meMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode8
 meMA.Ode1C1H.melody = he.h.m8_en_US_goadedes.YgranDiodefsas.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_US_goadedes.YgranDiodefsas.incipit
 meMA.Ode1C1H.text = he.h.m8_en_US_goadedes.YgranDiodefsas.text
-
-meMA.C1.title = titles_en_US_goadedes.KanonTisTheotokou
-meMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode8
@@ -268,9 +268,6 @@ meMA.Ode1C15.mode = misc_en_US_goadedes.Mode8
 meMA.Ode1C15.melody = he.h.m8_en_US_goadedes.YgranDiodefsas.name
 meMA.Ode1C15.incipit = "…"
 meMA.Ode1C15.text = ""
-
-meMA.C2.title = titles_en_US_goadedes.KanonTouAgiou
-meMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode8

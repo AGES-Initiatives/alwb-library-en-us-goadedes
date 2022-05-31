@@ -97,11 +97,11 @@ meMA.Kathisma21.text = me.m09.d07_en_US_goadedes.meMA.Kathisma21.text
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
 meMA.C1.title = titles_en_US_goadedes.KanonTonTheopatoron
 meMA.C1.verse = prayers_en_US_goadedes.verse_SaintsM.text
+
+meMA.C2.title = titles_en_US_goadedes.KanonTouMartyros
+meMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode2
@@ -126,9 +126,6 @@ meMA.Ode1C14.mode = misc_en_US_goadedes.Mode2
 meMA.Ode1C14.melody = he.h.m2_en_US_goadedes.EnVythoKatestrose.name
 meMA.Ode1C14.incipit = "…"
 meMA.Ode1C14.text = ""
-
-meMA.C2.title = titles_en_US_goadedes.KanonTouMartyros
-meMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode8

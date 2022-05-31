@@ -59,14 +59,14 @@ meVE.Apolytikion1.melody = he.a.m5_en_US_goadedes.TonSynanarchonLogon.name
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
+meMA.C1.title = titles_en_US_goadedes.KanonATisOsias
+meMA.C1.verse = prayers_en_US_goadedes.verse_DevoutWoman.text
+
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
-
-meMA.C1.title = titles_en_US_goadedes.KanonATisOsias
-meMA.C1.verse = prayers_en_US_goadedes.verse_DevoutWoman.text
+meMA.C2.title = titles_en_US_goadedes.KanonBTisOsias
+meMA.C2.verse = prayers_en_US_goadedes.verse_DevoutWoman.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode8
@@ -91,9 +91,6 @@ meMA.Ode1C1T.mode = misc_en_US_goadedes.Mode8
 meMA.Ode1C1T.melody = he.h.m8_en_US_goadedes.ArmatilatinFarao.name
 meMA.Ode1C1T.incipit = "God-bearing Martyrs…"
 meMA.Ode1C1T.text = "God-bearing Martyrs, who believed inspired words of holy Prophets, confessed * that the Son and Logos of God truly has become * incarnate by assuming flesh from an all-spotless Virgin, * whom we call blest and we glorify * as the Theotokos in sacred songs."
-
-meMA.C2.title = titles_en_US_goadedes.KanonBTisOsias
-meMA.C2.verse = prayers_en_US_goadedes.verse_DevoutWoman.text
 
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode5
@@ -129,15 +126,13 @@ meMA.Ode3C12.ode = misc_en_US_goadedes.Ode3
 meMA.Ode3C12.mode = misc_en_US_goadedes.Mode8
 meMA.Ode3C12.melody = he.h.m8_en_US_goadedes.OStereosasKatArchas.name
 meMA.Ode3C12.incipit = "O Euphrosyne, you took…"
-meMA.Ode3C12.text = "O Euphrosyne, you took off * the ugly garment of passions, * and you wisely and in Christ donned the garment * of dispassion, and you lived * with men and were illustrious * in your ascetic labors, for you were covered by grace divine.
-"
+meMA.Ode3C12.text = "O Euphrosyne, you took off * the ugly garment of passions, * and you wisely and in Christ donned the garment * of dispassion, and you lived * with men and were illustrious * in your ascetic labors, for you were covered by grace divine."
 
 meMA.Ode3C13.ode = misc_en_US_goadedes.Ode3
 meMA.Ode3C13.mode = misc_en_US_goadedes.Mode8
 meMA.Ode3C13.melody = he.h.m8_en_US_goadedes.OStereosasKatArchas.name
 meMA.Ode3C13.incipit = "Using the bridle…"
-meMA.Ode3C13.text = "Using the bridle, bit, and reins * of self-control, holy Mother, * you threw off the uncontrollable urges * of the flesh and overcame * all hurdles, and you steered your heart * to virtue, in the good race of the most sacred ascetic life.
-"
+meMA.Ode3C13.text = "Using the bridle, bit, and reins * of self-control, holy Mother, * you threw off the uncontrollable urges * of the flesh and overcame * all hurdles, and you steered your heart * to virtue, in the good race of the most sacred ascetic life."
 
 meMA.Ode3C1T.ode = misc_en_US_goadedes.Ode3
 meMA.Ode3C1T.mode = misc_en_US_goadedes.Mode8

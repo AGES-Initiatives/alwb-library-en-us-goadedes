@@ -92,25 +92,27 @@ meMA.Kathisma21.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
-meMA.C1.poet = poets_en_US_goadedes.Iosif
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for the Forefeast."
 meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_US_goadedes.Iosif
+meMA.C1.title = titles_en_US_goadedes.KanonProeortios
+meMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
 
+meMA.C2.acrostic.title = "Canon for St. Gregory."
 meMA.C2.poet = poets_en_US_goadedes.Iosif
+meMA.C2.title = "Canon for St. Gregory."
+meMA.C2.verse = prayers_en_US_goadedes.verse_DevoutMan.text
 
+meMA.C3.acrostic.title = "Canon for St. Proclus."
 meMA.C3.poet = poets_en_US_goadedes.Theofanous
+meMA.C3.title = "Canon for St. Proclus."
+meMA.C3.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode4
 meMA.Ode1C1H.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou_Eisodia.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_goadedes.AnoixoToStomaMou_Eisodia.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_goadedes.AnoixoToStomaMou_Eisodia.text
-
-meMA.C1.title = titles_en_US_goadedes.KanonProeortios
-meMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode4
@@ -136,9 +138,6 @@ meMA.Ode1C14.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou_Eisodia.name
 meMA.Ode1C14.incipit = "…"
 meMA.Ode1C14.text = ""
 
-meMA.C2.title = titles_en_US_goadedes.KanonTouOsiou
-meMA.C2.verse = prayers_en_US_goadedes.verse_DevoutMan.text
-
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode8
 meMA.Ode1C21.melody = he.h.m8_en_US_goadedes.ArmatilatinFarao.name
@@ -162,9 +161,6 @@ meMA.Ode1C2T.mode = misc_en_US_goadedes.Mode8
 meMA.Ode1C2T.melody = he.h.m8_en_US_goadedes.ArmatilatinFarao.name
 meMA.Ode1C2T.incipit = "…"
 meMA.Ode1C2T.text = ""
-
-meMA.C3.title = ""
-meMA.C3.verse = ""
 
 meMA.Ode1C31.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C31.mode = misc_en_US_goadedes.Mode1

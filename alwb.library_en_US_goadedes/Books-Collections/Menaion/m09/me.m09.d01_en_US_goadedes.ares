@@ -184,28 +184,27 @@ meMA.PostGospelIdiomelon.incipit = meVE.Aposticha4.incipit
 meMA.PostGospelIdiomelon.text = meVE.Aposticha4.text
 
 meMA.C1.poet = poets_en_US_goadedes.IoannouMonachou
+meMA.C1.title = "Canon for the Indiction."
+meMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
+meMA.C2.title = "Canon for the holy Women."
+meMA.C2.verse = prayers_en_US_goadedes.verse_SaintsW.text
 
-meMA.C3.poet = poets_en_US_goadedes.IoannouMonachou
 meMA.C3.acrostic.title = ""
 meMA.C3.acrostic.notice1 = ""
 meMA.C3.acrostic.text = ""
-//meMA.C3.acrostic.notice2 = ""
-meMA.C3.acrostic = ""
+meMA.C3.poet = poets_en_US_goadedes.IoannouMonachou
+meMA.C3.title = titles_en_US_goadedes.KanonTouOsiou
+meMA.C3.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode1
 meMA.Ode1C1H.melody = he.h.m1_en_US_goadedes.AsomenPantesLaoi.melody
 meMA.Ode1C1H.incipit = he.h.m1_en_US_goadedes.AsomenPantesLaoi.incipit
 meMA.Ode1C1H.text = he.h.m1_en_US_goadedes.AsomenPantesLaoi.text
-
-meMA.C1.title = ""
-meMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode1
@@ -231,9 +230,6 @@ meMA.Ode1C1T.melody = he.h.m1_en_US_goadedes.AsomenPantesLaoi.name
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
 
-meMA.C2.title = ""
-meMA.C2.verse = prayers_en_US_goadedes.verse_SaintsW.text
-
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode4
 meMA.Ode1C21.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou.name
@@ -257,9 +253,6 @@ meMA.Ode1C2T.mode = misc_en_US_goadedes.Mode4
 meMA.Ode1C2T.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou.name
 meMA.Ode1C2T.incipit = "…"
 meMA.Ode1C2T.text = ""
-
-meMA.C3.title = titles_en_US_goadedes.KanonTouOsiou
-meMA.C3.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.Ode1C31.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C31.mode = misc_en_US_goadedes.Mode8

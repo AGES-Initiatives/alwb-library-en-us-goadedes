@@ -91,16 +91,16 @@ meVE.Apolytikion1.text = ""
 meVE.GeneralApolytikion2.name = ""
 meVE.MM.GeneralApolytikion2.text = properties_en_US_goadedes.media.key
 
-meMA.C1.poet = poets_en_US_goadedes.Theofanous
+meMA.C1.poet = ""
+meMA.C1.title = titles_en_US_goadedes.KanonTouIeromartyros
+meMA.C1.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
-
-meMA.C1.title = titles_en_US_goadedes.KanonTouIeromartyros
-meMA.C1.verse = prayers_en_US_goadedes.verse_SaintM.text
+meMA.C2.acrostic.notice2 = ""
+meMA.C2.title = titles_en_US_goadedes.KanonTouProfitou
+meMA.C2.verse = prayers_en_US_goadedes.verse_Prophet.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode6
@@ -125,9 +125,6 @@ meMA.Ode1C1T.mode = misc_en_US_goadedes.Mode6
 meMA.Ode1C1T.melody = he.h.m6_en_US_goadedes.OsEnIpeiroPezefsas.name
 meMA.Ode1C1T.incipit = "As your own Maker…"
 meMA.Ode1C1T.text = "As your own Maker so willed, you gave birth to Him, * when He was incarnate in your womb without seed of man, * O Virgin, incomprehensibly, * truly making you the Lady of creation all."
-
-meMA.C2.title = titles_en_US_goadedes.KanonTouProfitou
-meMA.C2.verse = prayers_en_US_goadedes.verse_Prophet.text
 
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode4

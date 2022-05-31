@@ -57,15 +57,15 @@ meVE.SticStavrotheotokion.melody = he.a.m8_en_US_goadedes.OTouParadoxou.name
 meVE.SticStavrotheotokion.incipit = me.m03.d12_en_US_goadedes.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m03.d12_en_US_goadedes.meVE.SticStavrotheotokion.text
 
-meMA.C2.poet = poets_en_US_goadedes.Theofanous
+meMA.C1.title = titles_en_US_goadedes.KanonTonMartyron
+meMA.C1.verse = prayers_en_US_goadedes.verse_SaintsM.text
+
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
-
-meMA.C1.title = titles_en_US_goadedes.KanonTonAgion
-meMA.C1.verse = prayers_en_US_goadedes.verse_SaintsM.text
+meMA.C2.poet = poets_en_US_goadedes.Theofanous
+meMA.C2.title = titles_en_US_goadedes.KanonTouOsiou
+meMA.C2.verse = prayers_en_US_goadedes.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode4
@@ -90,9 +90,6 @@ meMA.Ode1C1T.mode = misc_en_US_goadedes.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou.name
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
-
-meMA.C2.title = titles_en_US_goadedes.KanonTouOsiou
-meMA.C2.verse = prayers_en_US_goadedes.verse_DevoutMan.text
 
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode2
@@ -715,18 +712,23 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "Today, the all-lauded Virgin…"
 alt1.meMA.PostGospelIdiomelon.text = "Today, the all-lauded Virgin unfolded her radiant protective veil, and she very clearly demonstrated her abundant concern for the faithful, in good times and in bad. So let us who are covered by her extol her grace and sing to her joyfully: \"We salute you, O Theotokos full of grace, and say, Rejoice! For you rescue us, your people, and you keep us safe, and you guide us on the way to salvation.\""
 
-alt1.meMA.C1.acrostic = ""
+alt1.meMA.C1.acrostic.title = "First Canon."
+alt1.meMA.C1.acrostic.notice1 = ""
+alt1.meMA.C1.acrostic.text = ""
+alt1.meMA.C1.title = titles_en_US_goadedes.KanonATisTheotokou
+alt1.meMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
 
-alt1.meMA.C2.acrostic = ""
+alt1.meMA.C2.acrostic.title = "Second Canon."
+alt1.meMA.C2.acrostic.notice1 = ""
+alt1.meMA.C2.acrostic.text = ""
+alt1.meMA.C2.title = titles_en_US_goadedes.KanonBTisTheotokou
+alt1.meMA.C2.verse = prayers_en_US_goadedes.verse_Theotokos.text
 
 alt1.meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 alt1.meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode4
 alt1.meMA.Ode1C1H.melody = misc_en_US_goadedes.Heirmos
 alt1.meMA.Ode1C1H.incipit = he.h.m4_en_US_goadedes.AnoixoToStomaMou.incipit
 alt1.meMA.Ode1C1H.text = he.h.m4_en_US_goadedes.AnoixoToStomaMou.text
-
-alt1.meMA.C1.title = titles_en_US_goadedes.KanonATisTheotokou
-alt1.meMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 alt1.meMA.Ode1C11.mode = misc_en_US_goadedes.Mode4
@@ -751,9 +753,6 @@ alt1.meMA.Ode1C14.mode = misc_en_US_goadedes.Mode4
 alt1.meMA.Ode1C14.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou.name
 alt1.meMA.Ode1C14.incipit = "The army of Greece…"
 alt1.meMA.Ode1C14.text = "The army of Greece, of old, was given might unassailable * beneath your protective veil. They beat the enemy, * and the victory was famous. Now, O Lady, * remembering this, the faithful sing your mighty deeds. "
-
-alt1.meMA.C2.title = titles_en_US_goadedes.KanonBTisTheotokou
-alt1.meMA.C2.verse = prayers_en_US_goadedes.verse_Theotokos.text
 
 alt1.meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 alt1.meMA.Ode1C21.mode = misc_en_US_goadedes.Mode8
