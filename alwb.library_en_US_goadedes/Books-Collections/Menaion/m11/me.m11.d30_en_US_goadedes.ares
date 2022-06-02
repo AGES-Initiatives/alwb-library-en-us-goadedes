@@ -155,16 +155,21 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = meVE.Lity1.incipit
 meMA.PostGospelIdiomelon.text = meVE.Lity1.text
 
+meMA.C1.title = titles_en_US_goadedes.KanonTisTheotokou
+meMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
+
 meMA.C2.poet = poets_en_US_goadedes.IoannouMonachou
+meMA.C2.title = titles_en_US_goadedes.KanonATouApostolou
+meMA.C2.verse = prayers_en_US_goadedes.verse_Apostle.text
+
+meMA.C3.title = titles_en_US_goadedes.KanonBTouApostolou
+meMA.C3.verse = prayers_en_US_goadedes.verse_Apostle.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode1
 meMA.Ode1C1H.melody = he.h.m1_en_US_goadedes.OdinEpinikion.melody
 meMA.Ode1C1H.incipit = he.h.m1_en_US_goadedes.OdinEpinikion.incipit
 meMA.Ode1C1H.text = he.h.m1_en_US_goadedes.OdinEpinikion.text
-
-meMA.C1.title = titles_en_US_goadedes.KanonTisTheotokou
-meMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode1
@@ -190,9 +195,6 @@ meMA.Ode1C14.melody = he.h.m1_en_US_goadedes.OdinEpinikion.name
 meMA.Ode1C14.incipit = "…"
 meMA.Ode1C14.text = ""
 
-meMA.C2.title = titles_en_US_goadedes.KanonATouApostolou
-meMA.C2.verse = prayers_en_US_goadedes.verse_Apostle.text
-
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode1
 meMA.Ode1C21.melody = he.h.m1_en_US_goadedes.SouITropaiouchos.name
@@ -216,9 +218,6 @@ meMA.Ode1C2T.mode = misc_en_US_goadedes.Mode1
 meMA.Ode1C2T.melody = he.h.m1_en_US_goadedes.SouITropaiouchos.name
 meMA.Ode1C2T.incipit = "…"
 meMA.Ode1C2T.text = ""
-
-meMA.C3.title = titles_en_US_goadedes.KanonBTouApostolou
-meMA.C3.verse = prayers_en_US_goadedes.verse_Apostle.text
 
 meMA.Ode1C31.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C31.mode = misc_en_US_goadedes.Mode1

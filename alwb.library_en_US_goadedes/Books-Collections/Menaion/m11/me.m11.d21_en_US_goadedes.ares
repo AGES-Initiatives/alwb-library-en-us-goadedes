@@ -175,23 +175,22 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = me.m11.d08_en_US_goadedes.meVE.LityBoth.incipit
 meMA.PostGospelIdiomelon.text = me.m11.d08_en_US_goadedes.meVE.LityBoth.text
 
-meMA.C1.poet = poets_en_US_goadedes.KyriouGeorgiou
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_US_goadedes.KyriouGeorgiou
+meMA.C1.title = titles_en_US_goadedes.KanonATisEortis
+meMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
 
 meMA.C2.poet = poets_en_US_goadedes.KyriouVasileiou
+meMA.C2.title = titles_en_US_goadedes.KanonBTisEortis
+meMA.C2.verse = prayers_en_US_goadedes.verse_Theotokos.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode4
 meMA.Ode1C1H.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou_Eisodia.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_goadedes.AnoixoToStomaMou_Eisodia.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_goadedes.AnoixoToStomaMou_Eisodia.text
-
-meMA.C1.title = titles_en_US_goadedes.KanonATisEortis
-meMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode4
@@ -216,9 +215,6 @@ meMA.Ode1C14.mode = misc_en_US_goadedes.Mode4
 meMA.Ode1C14.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou_Eisodia.name
 meMA.Ode1C14.incipit = "…"
 meMA.Ode1C14.text = ""
-
-meMA.C2.title = titles_en_US_goadedes.KanonBTisEortis
-meMA.C2.verse = prayers_en_US_goadedes.verse_Theotokos.text
 
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode1

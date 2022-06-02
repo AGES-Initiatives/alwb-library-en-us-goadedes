@@ -105,14 +105,11 @@ meVE.Apolytikion2.melody = he.a.m3_en_US_goadedes.TheiasPisteos.name
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
-meCO.C1.title = ""
-meCO.C1.verse = prayers_en_US_goadedes.verse_God.text
-
 meCO.C1.acrostic.title = ""
 meCO.C1.acrostic.notice1 = ""
 meCO.C1.acrostic.text = ""
-//meCO.C1.acrostic.notice2 = ""
-meCO.C1.acrostic = ""
+meCO.C1.title = "Three-ode Canon of the Forefeast"
+meCO.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 meCO.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 meCO.Ode1C1H.mode = misc_en_US_goadedes.Mode2
@@ -181,19 +178,18 @@ meMA.Kathisma21.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.title = titles_en_US_goadedes.KanonProeortios
+meMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 meMA.C2.poet = poets_en_US_goadedes.AndreouKritis
+meMA.C2.title = titles_en_US_goadedes.KanonTouAgiou
+meMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode1
 meMA.Ode1C1H.melody = he.h.m1_en_US_goadedes.OdinEpinikion.melody
 meMA.Ode1C1H.incipit = he.h.m1_en_US_goadedes.OdinEpinikion.incipit
 meMA.Ode1C1H.text = he.h.m1_en_US_goadedes.OdinEpinikion.text
-
-meMA.C1.title = titles_en_US_goadedes.KanonProeortios
-meMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode1
@@ -218,9 +214,6 @@ meMA.Ode1C14.mode = misc_en_US_goadedes.Mode1
 meMA.Ode1C14.melody = he.h.m1_en_US_goadedes.OdinEpinikion.name
 meMA.Ode1C14.incipit = "…"
 meMA.Ode1C14.text = ""
-
-meMA.C2.title = titles_en_US_goadedes.KanonTouAgiou
-meMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode1

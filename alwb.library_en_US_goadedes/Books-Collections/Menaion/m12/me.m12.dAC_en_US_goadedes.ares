@@ -59,13 +59,13 @@ meVE.Apolytikion1.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
-meMA.C2.poet = poets_en_US_goadedes.KosmaMonachou
-
 meMA.C1.title = ""
 meMA.C1.verse = prayers_en_US_goadedes.verse_SaintM.text
+
+meMA.C2.acrostic.title = ""
+meMA.C2.poet = poets_en_US_goadedes.KosmaMonachou
+meMA.C2.title = titles_en_US_goadedes.KanonTonAgion
+meMA.C2.verse = prayers_en_US_goadedes.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode1
@@ -90,9 +90,6 @@ meMA.Ode1C1T.mode = misc_en_US_goadedes.Mode1
 meMA.Ode1C1T.melody = he.h.m1_en_US_goadedes.ChristosGennatai.name
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
-
-meMA.C2.title = ""
-meMA.C2.verse = prayers_en_US_goadedes.verse_SaintsM.text
 
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode4

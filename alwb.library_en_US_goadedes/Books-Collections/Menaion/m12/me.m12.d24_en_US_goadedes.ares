@@ -84,14 +84,10 @@ meVE.Apolytikion2.melody = he.a.m3_en_US_goadedes.TheiasPisteos.name
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
-meCO.C1.title = ""
-meCO.C1.verse = prayers_en_US_goadedes.verse_God.text
-
-meCO.C1.acrostic.title = ""
+meCO.C1.acrostic.title = "Forefestal Canon."
 meCO.C1.acrostic.notice1 = ""
-meCO.C1.acrostic.text = ""
-//meCO.C1.acrostic.notice2 = ""
-meCO.C1.acrostic = ""
+meCO.C1.title = titles_en_US_goadedes.KanonProeortios
+meCO.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 meCO.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 meCO.Ode1C1H.mode = misc_en_US_goadedes.Mode6
@@ -298,31 +294,27 @@ meMA.Kathisma21.text = he.a.m8_en_US_goadedes.AvlonPoimenikon.text
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.acrostic.notice2 = ""
+meMA.C1.title = titles_en_US_goadedes.KanonProeortios
+meMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
-meMA.C2.poet = poets_en_US_goadedes.Iosif
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
+meMA.C2.title = ""
+meMA.C2.verse = prayers_en_US_goadedes.verse_God.text
 
-meMA.C3.poet = poets_en_US_goadedes.Theofanous
 meMA.C3.acrostic.title = ""
 meMA.C3.acrostic.notice1 = ""
 meMA.C3.acrostic.text = ""
-//meMA.C3.acrostic.notice2 = ""
-meMA.C3.acrostic = ""
+meMA.C3.poet = poets_en_US_goadedes.Theofanous
+meMA.C3.title = titles_en_US_goadedes.KanonTisAgias
+meMA.C3.verse = prayers_en_US_goadedes.verse_SaintW.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode6
 meMA.Ode1C1H.melody = he.h.m6_en_US_goadedes.KymatiThalassis.name
 meMA.Ode1C1H.incipit = "…"
 meMA.Ode1C1H.text = ""
-
-meMA.C1.title = ""
-meMA.C1.verse = ""
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode6
@@ -342,9 +334,6 @@ meMA.Ode1C13.melody = he.h.m6_en_US_goadedes.KymatiThalassis.name
 meMA.Ode1C13.incipit = "…"
 meMA.Ode1C13.text = ""
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
-
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode2
 meMA.Ode1C21.melody = he.h.m2_en_US_goadedes.EnVythoKatestrose.name
@@ -362,9 +351,6 @@ meMA.Ode1C23.mode = misc_en_US_goadedes.Mode2
 meMA.Ode1C23.melody = he.h.m2_en_US_goadedes.EnVythoKatestrose.name
 meMA.Ode1C23.incipit = "…"
 meMA.Ode1C23.text = ""
-
-meMA.C3.title = ""
-meMA.C3.verse = ""
 
 meMA.Ode1C31.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C31.mode = misc_en_US_goadedes.Mode2

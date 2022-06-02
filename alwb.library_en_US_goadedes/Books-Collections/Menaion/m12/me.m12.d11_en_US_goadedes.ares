@@ -55,10 +55,7 @@ meVE.MM.GeneralApolytikion1.text = "" // for media
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
+meMA.C1.acrostic.text = "."
 meMA.C1.title = titles_en_US_goadedes.KanonTouOsiou
 meMA.C1.verse = prayers_en_US_goadedes.verse_DevoutMan.text
 

@@ -83,14 +83,11 @@ meVE.Apolytikion2.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
-meCO.C1.title = ""
-meCO.C1.verse = prayers_en_US_goadedes.verse_God.text
-
 meCO.C1.acrostic.title = ""
 meCO.C1.acrostic.notice1 = ""
 meCO.C1.acrostic.text = ""
-//meCO.C1.acrostic.notice2 = ""
-meCO.C1.acrostic = ""
+meCO.C1.title = ""
+meCO.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 meCO.Ode8C1H.ode = misc_en_US_goadedes.Ode8
 meCO.Ode8C1H.mode = misc_en_US_goadedes.Mode2
@@ -150,27 +147,23 @@ meMA.Kathisma21.melody = he.a.m3_en_US_goadedes.TinOraiotita.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
-meMA.C1.poet = poets_en_US_goadedes.Iosif
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_US_goadedes.Iosif
+meMA.C1.title = titles_en_US_goadedes.KanonProeortios
+meMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
+meMA.C2.title = titles_en_US_goadedes.KanonTisAgias
+meMA.C2.verse = prayers_en_US_goadedes.verse_SaintW.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode4
 meMA.Ode1C1H.melody = he.h.m4_en_US_goadedes.TristatasKrataious.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_goadedes.TristatasKrataious.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_goadedes.TristatasKrataious.text
-
-meMA.C1.title = titles_en_US_goadedes.KanonProeortios
-meMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode4
@@ -189,9 +182,6 @@ meMA.Ode1C13.mode = misc_en_US_goadedes.Mode4
 meMA.Ode1C13.melody = he.h.m4_en_US_goadedes.TristatasKrataious.name
 meMA.Ode1C13.incipit = "…"
 meMA.Ode1C13.text = ""
-
-meMA.C2.title = titles_en_US_goadedes.KanonTisAgias
-meMA.C2.verse = prayers_en_US_goadedes.verse_SaintW.text
 
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode4

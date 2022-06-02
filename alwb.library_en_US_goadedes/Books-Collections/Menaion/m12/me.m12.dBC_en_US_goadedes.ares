@@ -92,6 +92,9 @@ meMA.Ode1C1H.text = he.h.m6_en_US_goadedes.KymatiThalassis.text
 meMA.C1.title = titles_en_US_goadedes.KanonTonPateron
 meMA.C1.verse = prayers_en_US_goadedes.verse_SaintsM.text
 
+meMA.C2.title = titles_en_US_goadedes.KanonProeortios
+meMA.C2.verse = prayers_en_US_goadedes.verse_God.text
+
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode6
 meMA.Ode1C11.melody = he.h.m6_en_US_goadedes.KymatiThalassis.notmetered
@@ -127,9 +130,6 @@ meMA.Ode1C1T.mode = misc_en_US_goadedes.Mode6
 meMA.Ode1C1T.melody = he.h.m6_en_US_goadedes.KymatiThalassis.notmetered
 meMA.Ode1C1T.incipit = "O unwedded, undefiled…"
 meMA.Ode1C1T.text = "O unwedded, undefiled, Virgin Mother full of grace, we call you blessed; for you descended from the line of Abraham and from the tribe of David, and you gave birth to Christ, who was proclaimed by the Prophets long before."
-
-meMA.C2.title = titles_en_US_goadedes.KanonProeortios
-meMA.C2.verse = prayers_en_US_goadedes.verse_God.text
 
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode1
