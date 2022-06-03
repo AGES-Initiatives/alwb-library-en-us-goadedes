@@ -75,12 +75,10 @@ meVE.Apolytikion1.melody = he.ga_en_US_goadedes.KaiTroponMetochos.name
 meVE.GeneralApolytikion1.name = "" // name of saint for General Apolytikia
 meVE.MM.GeneralApolytikion1.text = properties_en_US_goadedes.media.key
 
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
+meMA.C1.poet = poets_en_US_goadedes.Theofanous
 meMA.C1.title = titles_en_US_goadedes.KanonTouAgiou
 meMA.C1.verse = prayers_en_US_goadedes.verse_SaintM.text
 

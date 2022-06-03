@@ -225,17 +225,16 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = "…"
 meMA.PostGospelIdiomelon.text = ""
 
-meMA.C1.poet = poets_en_US_goadedes.Theofanous
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
-meMA.C2.poet = ""
-
+meMA.C1.poet = poets_en_US_goadedes.Theofanous
 meMA.C1.title = titles_en_US_goadedes.KanonATouAgiou
 meMA.C1.verse = prayers_en_US_goadedes.verse_SaintM.text
+
+meMA.C2.poet = poets_en_US_goadedes.AgiouKosma
+meMA.C2.title = titles_en_US_goadedes.KanonBTouAgiou
+meMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode1
@@ -266,9 +265,6 @@ meMA.Ode1C2H.mode = misc_en_US_goadedes.Mode1
 meMA.Ode1C2H.melody = he.h.m1_en_US_goadedes.EpainonOTheoptis.melody
 meMA.Ode1C2H.incipit = he.h.m1_en_US_goadedes.EpainonOTheoptis.incipit
 meMA.Ode1C2H.text = he.h.m1_en_US_goadedes.EpainonOTheoptis.text
-
-meMA.C2.title = titles_en_US_goadedes.KanonBTouAgiou
-meMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode1

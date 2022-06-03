@@ -84,20 +84,18 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for St. Clement."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
-
+meMA.C1.poet = poets_en_US_goadedes.Theofanous
 meMA.C1.title = "Canon for St. Clement."
 meMA.C1.verse = prayers_en_US_goadedes.verse_SaintM.text
+
+meMA.C2.acrostic.title = "Canon for St. Agathangelos."
+meMA.C2.acrostic.notice1 = ""
+meMA.C2.acrostic.text = ""
+meMA.C2.title = "Canon for St. Agathangelos."
+meMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode6
@@ -122,9 +120,6 @@ meMA.Ode1C1T.mode = misc_en_US_goadedes.Mode6
 meMA.Ode1C1T.melody = he.h.m6_en_US_goadedes.OsEnIpeiroPezefsas.notmetered
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = "O immaculate Mother of God, adorned and embroidered with beauty of virtue, you conceived the true God in a manner past understanding, and you made the fountain of blessings spring up for us."
-
-meMA.C2.title = "Canon for St. Agathangelos."
-meMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode4

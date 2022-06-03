@@ -83,20 +83,17 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for the Apostle."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
-
 meMA.C1.title = titles_en_US_goadedes.KanonATouApostolou
 meMA.C1.verse = prayers_en_US_goadedes.verse_Apostle.text
+
+meMA.C2.acrostic.title = "Another Canon."
+meMA.C2.acrostic.notice1 = ""
+meMA.C2.acrostic.text = ""
+meMA.C2.title = titles_en_US_goadedes.KanonBTouApostolou
+meMA.C2.verse = prayers_en_US_goadedes.verse_Apostle.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode4
@@ -127,9 +124,6 @@ meMA.Ode1C1T.mode = misc_en_US_goadedes.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou.notmetered
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = "O ever-virgin Lady, I am defiled and impure, and therefore I am unable to sing of you, the all-pure dwelling of purity. Please cleanse me by the Spirit, as in blast furnace, and I will glorify you."
-
-meMA.C2.title = titles_en_US_goadedes.KanonBTouApostolou
-meMA.C2.verse = prayers_en_US_goadedes.verse_Apostle.text
 
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode4

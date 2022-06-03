@@ -212,28 +212,25 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = me.m01.d15_en_US_goadedes.meVE.AposGlory.incipit
 meMA.PostGospelIdiomelon.text = me.m01.d15_en_US_goadedes.meVE.AposGlory.text
 
-meMA.C1.poet = poets_en_US_goadedes.IoannouTouDamaskinou
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "First Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_US_goadedes.IoannouTouDamaskinou
+meMA.C1.title = titles_en_US_goadedes.KanonATouOsiou
+meMA.C1.verse = prayers_en_US_goadedes.verse_DevoutMan.text
 
-meMA.C2.poet = poets_en_US_goadedes.Theofanous
-meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.title = "Second Canon."
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
+meMA.C2.poet = poets_en_US_goadedes.Theofanous
+meMA.C2.title = titles_en_US_goadedes.KanonBTouOsiou
+meMA.C2.verse = prayers_en_US_goadedes.verse_DevoutMan.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode4
 meMA.Ode1C1H.melody = he.h.m4_en_US_goadedes.OukEstiSoiOmoios.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_goadedes.OukEstiSoiOmoios.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_goadedes.OukEstiSoiOmoios.text
-
-meMA.C1.title = titles_en_US_goadedes.KanonATouOsiou
-meMA.C1.verse = prayers_en_US_goadedes.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode4
@@ -246,9 +243,6 @@ meMA.Ode1C12.mode = misc_en_US_goadedes.Mode4
 meMA.Ode1C12.melody = he.h.m4_en_US_goadedes.OukEstiSoiOmoios.name
 meMA.Ode1C12.incipit = "…"
 meMA.Ode1C12.text = ""
-
-meMA.C2.title = titles_en_US_goadedes.KanonBTouOsiou
-meMA.C2.verse = prayers_en_US_goadedes.verse_DevoutMan.text
 
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode8
