@@ -51,8 +51,6 @@ meVE.Apolytikion1.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
 meMA.C1.title = titles_en_US_goadedes.KanonTouApostolou
 meMA.C1.verse = prayers_en_US_goadedes.verse_Apostle.text
 
@@ -489,18 +487,23 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "…"
 alt1.meMA.PostGospelIdiomelon.text = ""
 
-alt1.meMA.C1.acrostic = ""
+alt1.meMA.C1.acrostic.title = ""
+alt1.meMA.C1.acrostic.notice1 = ""
+alt1.meMA.C1.acrostic.text = ""
+alt1.meMA.C1.title = titles_en_US_goadedes.KanonTisTheotokou
+alt1.meMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
 
-alt1.meMA.C2.acrostic = ""
+alt1.meMA.C2.acrostic.title = ""
+alt1.meMA.C2.acrostic.notice1 = ""
+alt1.meMA.C2.acrostic.text = ""
+alt1.meMA.C2.title = titles_en_US_goadedes.KanonTisOsias
+alt1.meMA.C2.verse = prayers_en_US_goadedes.verse_DevoutWoman.text
 
 alt1.meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 alt1.meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode8
 alt1.meMA.Ode1C1H.melody = misc_en_US_goadedes.Heirmos
 alt1.meMA.Ode1C1H.incipit = he.h.m8_en_US_goadedes.ArmatilatinFarao.incipit
 alt1.meMA.Ode1C1H.text = he.h.m8_en_US_goadedes.ArmatilatinFarao.text
-
-alt1.meMA.C1.title = titles_en_US_goadedes.KanonTisTheotokou
-alt1.meMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 alt1.meMA.Ode1C11.mode = misc_en_US_goadedes.Mode8
@@ -525,9 +528,6 @@ alt1.meMA.Ode1C14.mode = misc_en_US_goadedes.Mode8
 alt1.meMA.Ode1C14.melody = he.h.m8_en_US_goadedes.ArmatilatinFarao.name
 alt1.meMA.Ode1C14.incipit = "…"
 alt1.meMA.Ode1C14.text = ""
-
-alt1.meMA.C2.title = titles_en_US_goadedes.KanonTisOsias
-alt1.meMA.C2.verse = prayers_en_US_goadedes.verse_DevoutWoman.text
 
 alt1.meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 alt1.meMA.Ode1C21.mode = misc_en_US_goadedes.Mode4
