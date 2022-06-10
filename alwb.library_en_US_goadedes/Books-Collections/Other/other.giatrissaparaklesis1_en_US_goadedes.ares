@@ -3,29 +3,25 @@ A_Resource_Whose_Name = other.giatrissaparaklesis1_en_US_goadedes
 hoCA.title = "Supplication Service"
 hoCA.title2 = "to Our Lady the Physician"
 hoCA.poet = poets_en_US_goadedes.AthanasiouSimonopetritou
-hoCA.translator = "Translated by Fr. Seraphim Dedes"
+hoCA.translation.name = "Translated by Fr. Seraphim Dedes"
+hoCA.translation.year = "2022"
 hoCA.Insert1 = ""
 
-hoCA.media.text = "" //for complete music
+hoCA.media.text = properties_en_US_goadedes.media.key
 
 hoCA.Apolytikion1.mode = misc_en_US_goadedes.Mode4
 hoCA.Apolytikion1.melody = he.a.m4_en_US_goadedes.OYpsotheisEnToStavro.name
-hoCA.Apolytikion1.incipit = "…"
-hoCA.Apolytikion1.text = ""
+hoCA.Apolytikion1.incipit = "We are afflicted…"
+hoCA.Apolytikion1.text = "We are afflicted by diseases and ailments * of soul and body, and we suffer in anguish. * As children to their mother, we now come to you with faith. * As the Mother of our God, the Physician and Savior, * heal all the infirmities and the pain of your servants. * Lady physician, we will ever sing in praise * of your maternal intercession with Christ the Lord."
 
 hoCA.Apolytikion2.mode = misc_en_US_goadedes.Mode4
 hoCA.Apolytikion2.melody = he.a.m4_en_US_goadedes.OYpsotheisEnToStavro.name
-hoCA.Apolytikion2.incipit = "…"
-hoCA.Apolytikion2.text = ""
+hoCA.Apolytikion2.incipit = "When we are lying…"
+hoCA.Apolytikion2.text = "When we are lying sick in bed, we imagine * that we are venerating your sacred icon, * Our Lady the Physician, as if it were you alive. * Please lift up your holy hands and entreat Christ our Savior, * your Son who loves humanity, that He make us all healthy, * as we implore you earnestly and say: * All-holy Mother, forever take care of us."
 
-hoCA.Apolytikion3.mode = ho.s23_en_US_goadedes.hoCA.Apolytikion2.mode
-hoCA.Apolytikion3.melody = ho.s23_en_US_goadedes.hoCA.Apolytikion2.melody
-hoCA.Apolytikion3.incipit = ho.s23_en_US_goadedes.hoCA.Apolytikion2.incipit
-hoCA.Apolytikion3.text = ho.s23_en_US_goadedes.hoCA.Apolytikion2.text
-
-hoCA.acrostic.title = ""
-hoCA.acrostic.notice1 = ""
-hoCA.acrostic.text = ""
+hoCA.acrostic.title = "The Canon,"
+hoCA.acrostic.notice1 = "which in Odes viii and ix has the Acrostic:"
+hoCA.acrostic.text = "Seraphim."
 hoCA.verse = prayers_en_US_goadedes.verse_Theotokos.text
 
 hoCA.Ode1H.ode = misc_en_US_goadedes.Ode1
@@ -38,25 +34,25 @@ hoCA.Ode11.ode = misc_en_US_goadedes.Ode1
 hoCA.Ode11.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode11.melody = he.h.m8_en_US_goadedes.YgranDiodefsas.name
 hoCA.Ode11.incipit = "Good Lady physician…"
-hoCA.Ode11.text = "Good Lady physician, we pray you treat * our physical ailments * and diseases that plague our souls, * entreating your Son, our Lord and Master, * the true Physician who cares for humanity."
+hoCA.Ode11.text = "Good Lady physician, we pray you treat * our physical ailments and diseases that plague our souls, * entreating your Son, our Lord and Master, * the true Physician who cares for humanity."
 
 hoCA.Ode12.ode = misc_en_US_goadedes.Ode1
 hoCA.Ode12.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode12.melody = he.h.m8_en_US_goadedes.YgranDiodefsas.name
 hoCA.Ode12.incipit = "Our Lady physician…"
-hoCA.Ode12.text = "Our Lady physician, open to us * the streams of your kindness. * Show how great is your tender love * for us who are sick, as we sincerely * implore you: Come to us quickly and rescue us."
+hoCA.Ode12.text = "Our Lady physician, open to us * the streams of your kindness. Show how great is your tender love * for us who are sick, as we sincerely * implore you: Come to us quickly and rescue us."
 
 hoCA.Ode13.ode = misc_en_US_goadedes.Ode1
 hoCA.Ode13.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode13.melody = he.h.m8_en_US_goadedes.YgranDiodefsas.name
 hoCA.Ode13.incipit = "In pain, I am bedridden…"
-hoCA.Ode13.text = "In pain, I am bedridden, yet I hold * your all-holy icon, * and I pray as if you were here. * Say the word to Christ your Son, O Lady, * and I believe He will cure me without delay."
+hoCA.Ode13.text = "In pain, I am bedridden, yet I hold * your all-holy icon, and I pray as if you were here. * Say the word to Christ your Son, O Lady, * and I believe He will cure me without delay."
 
 hoCA.Ode14.ode = misc_en_US_goadedes.Ode1
 hoCA.Ode14.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode14.melody = he.h.m8_en_US_goadedes.YgranDiodefsas.name
 hoCA.Ode14.incipit = "I senselessly kept not…"
-hoCA.Ode14.text = "I senselessly kept not the Master's Law. * Breaking His commandments, * I am now stricken with disease. * O Lady physician, I implore you * to intercede with your Son to deliver me. "
+hoCA.Ode14.text = "I senselessly kept not the Master's Law. * Breaking His commandments, I am now stricken with disease. * O Lady physician, I implore you * to intercede with your Son to deliver me. "
 
 hoCA.Ode3H.ode = misc_en_US_goadedes.Ode3
 hoCA.Ode3H.mode = misc_en_US_goadedes.Mode8
@@ -86,22 +82,17 @@ hoCA.Ode34.ode = misc_en_US_goadedes.Ode3
 hoCA.Ode34.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode34.melody = he.h.m8_en_US_goadedes.OuraniasApsidos.name
 hoCA.Ode34.incipit = "Holy Lady physician…"
-hoCA.Ode34.text = "Holy Lady physician,you see the great misery * of your servants brought on by cancer and all their suffering. * In your maternal love, show them to be in remission. * You can do this, for you have from God the grace to cure."
+hoCA.Ode34.text = "Holy Lady physician, you see the great misery * of your servants brought on by cancer and all the suffering. * In your maternal love, show them to be in remission. * You can do this, for have God-given grace to cure."
 
 hoCA.Troparion31.mode = misc_en_US_goadedes.Mode8
 hoCA.Troparion31.melody = ""
 hoCA.Troparion31.incipit = "Deliver us…"
 hoCA.Troparion31.text = "Deliver us from every danger, O holy Lady physician. * We your servants with ardent faith sincerely rely on you * and wholeheartedly implore you for the cure of our diseases."
 
-hoCA.Troparion32.mode = misc_en_US_goadedes.Mode8
-hoCA.Troparion32.melody = ""
-hoCA.Troparion32.incipit = ho.s23_en_US_goadedes.hoCA.Troparion32.incipit
-hoCA.Troparion32.text = ho.s23_en_US_goadedes.hoCA.Troparion32.text
-
 hoCA.Kathisma11.mode = misc_en_US_goadedes.Mode2
 hoCA.Kathisma11.melody = he.a.m2_en_US_goadedes.TaAnoZiton.name
-hoCA.Kathisma11.incipit = "…"
-hoCA.Kathisma11.text = "Exhausted are we by illness and adversities. * Like children we run to you, and we venerate * your holy icon with a kiss, * Lady our physician, and we beg * that you pray to Jesus, your Son, * to grant us a speedy recovery."
+hoCA.Kathisma11.incipit = "Exhausted are we…"
+hoCA.Kathisma11.text = "Exhausted are we by illness and adversity. * Like children we run to you, and we venerate * your holy icon with a kiss, * Lady our physician, and we beg * that you pray to Jesus, your Son, * to grant us a speedy recovery."
 
 hoCA.Ode4H.ode = misc_en_US_goadedes.Ode4
 hoCA.Ode4H.mode = misc_en_US_goadedes.Mode8
@@ -113,7 +104,7 @@ hoCA.Ode41.ode = misc_en_US_goadedes.Ode4
 hoCA.Ode41.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode41.melody = he.h.m8_en_US_goadedes.EisakikoaKyrie.name
 hoCA.Ode41.incipit = "We who sin…"
-hoCA.Ode41.text = "We who sin voluntarily * and involuntarily, Lady, pray to you, * our physician: Heal the injuries * of our souls, restoring us through penitence."
+hoCA.Ode41.text = "We who sin voluntarily * and involuntarily, faithfully entreat * you, Our Lady the Physician, * to heal our souls, restoring us through penitence."
 
 hoCA.Ode42.ode = misc_en_US_goadedes.Ode4
 hoCA.Ode42.mode = misc_en_US_goadedes.Mode8
@@ -125,13 +116,13 @@ hoCA.Ode43.ode = misc_en_US_goadedes.Ode4
 hoCA.Ode43.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode43.melody = he.h.m8_en_US_goadedes.EisakikoaKyrie.name
 hoCA.Ode43.incipit = "Rescue us…"
-hoCA.Ode43.text = "Rescue us who request your prayers, * Lady our physician, from the anxiety * that distractions and the many cares * of mundane and worldly life have brought on us."
+hoCA.Ode43.text = "Rescue us who request your prayers, * Lady our physician, from the anxiety * that distractions and the many cares * of mundane and worldly life impose on us."
 
 hoCA.Ode44.ode = misc_en_US_goadedes.Ode4
 hoCA.Ode44.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode44.melody = he.h.m8_en_US_goadedes.EisakikoaKyrie.name
 hoCA.Ode44.incipit = "I offended…"
-hoCA.Ode44.text = "I offended your Son and God. * Lady our physician, pray Him to pardon me, * It was due to my own foolishness * that I fell into so many traps of sin."
+hoCA.Ode44.text = "I offended your Son and God. * Lady our physician, pray Him to pardon me. * It was due to my own foolishness * that I fell into so many traps of sin."
 
 hoCA.Ode5H.ode = misc_en_US_goadedes.Ode5
 hoCA.Ode5H.mode = misc_en_US_goadedes.Mode8
@@ -149,7 +140,7 @@ hoCA.Ode52.ode = misc_en_US_goadedes.Ode5
 hoCA.Ode52.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode52.melody = he.h.m8_en_US_goadedes.FotisonImas.name
 hoCA.Ode52.incipit = "Bearing in myself…"
-hoCA.Ode52.text = "Bearing in myself * awful stigmas as a consequence * of my sinful deeds, and suffering, I pray: * O physician, cleanse my conscience of that malady."
+hoCA.Ode52.text = "Bearing in myself * awful stigmas as a consequence * of my sinful deeds, I suffer now and pray: * O physician, cleanse my conscience of that malady."
 
 hoCA.Ode53.ode = misc_en_US_goadedes.Ode5
 hoCA.Ode53.mode = misc_en_US_goadedes.Mode8
@@ -161,7 +152,7 @@ hoCA.Ode54.ode = misc_en_US_goadedes.Ode5
 hoCA.Ode54.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode54.melody = he.h.m8_en_US_goadedes.FotisonImas.name
 hoCA.Ode54.incipit = "Sordid thoughts…"
-hoCA.Ode54.text = "Sordid thoughts oppress * and weigh down my soul and intellect, * and my conscience is reproaching me for this. * O my Lady and physician, quickly rescue me."
+hoCA.Ode54.text = "Sordid thoughts oppress * and weigh down my soul and intellect; * and my conscience is reproaching me for this. * O my Lady and physician, quickly rescue me."
 
 hoCA.Ode6H.ode = misc_en_US_goadedes.Ode6
 hoCA.Ode6H.mode = misc_en_US_goadedes.Mode8
@@ -179,7 +170,7 @@ hoCA.Ode62.ode = misc_en_US_goadedes.Ode6
 hoCA.Ode62.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode62.melody = he.h.m8_en_US_goadedes.TinDeisinEkcheo.name
 hoCA.Ode62.incipit = "My sorry soul…"
-hoCA.Ode62.text = "My sorry soul * is depressed in hopelessness. * O my Lady and physician, uplift it. * For there is no human cure I can hope for. * I have exhausted all treatments of my disease. * So now I venerate and kiss * your most ven'rable icon with love and tears."
+hoCA.Ode62.text = "My sorry soul * is depressed in hopelessness. * O my Lady and physician, uplift it. * For there is no human cure I can hope for. * I have exhausted all treatments of my disease. * So now I venerate and kiss * your sublime holy icon with love and tears."
 
 hoCA.Ode63.ode = misc_en_US_goadedes.Ode6
 hoCA.Ode63.mode = misc_en_US_goadedes.Mode8
@@ -198,30 +189,20 @@ hoCA.Troparion61.melody = ""
 hoCA.Troparion61.incipit = hoCA.Troparion31.incipit
 hoCA.Troparion61.text = hoCA.Troparion31.text
 
-hoCA.Troparion62.mode = misc_en_US_goadedes.Mode8
-hoCA.Troparion62.melody = ""
-hoCA.Troparion62.incipit = ho.s23_en_US_goadedes.hoCA.Troparion62.incipit
-hoCA.Troparion62.text = ho.s23_en_US_goadedes.hoCA.Troparion62.text
-
 hoCA.Kontakion.mode = misc_en_US_goadedes.Mode2
-hoCA.Kontakion.melody = ""
-hoCA.Kontakion.incipit = "…"
-hoCA.Kontakion.text = ""
+hoCA.Kontakion.melody = "O protection of Christians."
+hoCA.Kontakion.incipit = "Tribulations of life…"
+hoCA.Kontakion.text = "Tribulations of life are afflicting us, * and the pains of our illnesses weigh us down. * Holy Mother, to you we turn the eyes of our heart. * Alas! Laid up with anxiety and in excruciating pain, * as we suffer, we cry to you: * Heal us your lowly servants, * and cure us of all diseases. * Lady physician, give our souls * lasting peace, O all-blameless one."
 
 hoCA.PostGospelGlory.mode = misc_en_US_goadedes.Mode2
 hoCA.PostGospelGlory.melody = ""
-hoCA.PostGospelGlory.incipit = "…"
-hoCA.PostGospelGlory.text = ho.s03_en_US_goadedes.hoMA.PostGospelTrinity.text
-
-hoCA.PostGospelBoth.mode = misc_en_US_goadedes.Mode2
-hoCA.PostGospelBoth.melody = ""
-hoCA.PostGospelBoth.incipit = "…"
-hoCA.PostGospelBoth.text = ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.text
+hoCA.PostGospelGlory.incipit = "At the intercession…"
+hoCA.PostGospelGlory.text = "At the intercession of our Lady physician, O Lord of mercy, blot out our many offences."
 
 hoCA.PostGospelHymn1.mode = misc_en_US_goadedes.Mode6
 hoCA.PostGospelHymn1.melody = he.a.m6_en_US_goadedes.OlinApothemenoi.name
 hoCA.PostGospelHymn1.incipit = "…"
-hoCA.PostGospelHymn1.text = ""
+hoCA.PostGospelHymn1.text = "As you saved the universe by your unusual childbirth, * O all-holy Virgin pure, * by your intercessions now to your Son and God, * save us and deliver us, for we are in anguish. * Give us health and full recovery; * drive away illnesses, * and relieve our souls with tranquility. * Except for you, immaculate * Lady our physician, who pray for us, * no one else can save us. * So please provide us your maternal care, * and we will honor your ven'rable * icon with a faithful kiss."
 
 hoCA.Ode7H.ode = misc_en_US_goadedes.Ode7
 hoCA.Ode7H.mode = misc_en_US_goadedes.Mode8
@@ -232,26 +213,26 @@ hoCA.Ode7H.text = he.h.m8_en_US_goadedes.OiEkTisIoudaias.text
 hoCA.Ode71.ode = misc_en_US_goadedes.Ode7
 hoCA.Ode71.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode71.melody = he.h.m8_en_US_goadedes.OiEkTisIoudaias.name
-hoCA.Ode71.incipit = "…"
-hoCA.Ode71.text = ""
+hoCA.Ode71.incipit = "Having sown…"
+hoCA.Ode71.text = "Having sown many passions, * I am reaping the fruits of diseases they produce. * And therefore I implore you, * O Lady, my physician, * for relief from my suffering. * Cure me, and I will revere your venerable icon."
 
 hoCA.Ode72.ode = misc_en_US_goadedes.Ode7
 hoCA.Ode72.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode72.melody = he.h.m8_en_US_goadedes.OiEkTisIoudaias.name
-hoCA.Ode72.incipit = "…"
-hoCA.Ode72.text = ""
+hoCA.Ode72.incipit = "Holy Mother…"
+hoCA.Ode72.text = "Holy Mother, my Lady * and physician, my soul suffers from anxiety. * I am your lowly servant. * Give peace to me, I pray you, * and enduring tranquility; * and with a kiss I will venerate your holy icon."
 
 hoCA.Ode73.ode = misc_en_US_goadedes.Ode7
 hoCA.Ode73.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode73.melody = he.h.m8_en_US_goadedes.OiEkTisIoudaias.name
-hoCA.Ode73.incipit = "…"
-hoCA.Ode73.text = ""
+hoCA.Ode73.incipit = "O my Lady…"
+hoCA.Ode73.text = "O my Lady physician, * I implore you to cure me, for I am paralyzed * by gravity of illness, * rendering me unable * to stand up or get out of bed. * I pray you give me your gift as medicine to heal me."
 
 hoCA.Ode74.ode = misc_en_US_goadedes.Ode7
 hoCA.Ode74.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode74.melody = he.h.m8_en_US_goadedes.OiEkTisIoudaias.name
-hoCA.Ode74.incipit = "…"
-hoCA.Ode74.text = ""
+hoCA.Ode74.incipit = "O my Lady physician…"
+hoCA.Ode74.text = "O my Lady physician, * my unhappy existence has suffered the effects * of hopelessness and sorrow. * My life on earth is gloomy, * very bleak like the darkest night. * Grant me the light of the hope of Christ my Lord and Savior."
 
 hoCA.Ode8H.ode = misc_en_US_goadedes.Ode8
 hoCA.Ode8H.mode = misc_en_US_goadedes.Mode8
@@ -262,26 +243,26 @@ hoCA.Ode8H.text = he.h.m8_en_US_goadedes.TonVasileaTonOuranon.text
 hoCA.Ode81.ode = misc_en_US_goadedes.Ode8
 hoCA.Ode81.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode81.melody = he.h.m8_en_US_goadedes.TonVasileaTonOuranon.name
-hoCA.Ode81.incipit = "…"
-hoCA.Ode81.text = ""
+hoCA.Ode81.incipit = "Set right my thinking…"
+hoCA.Ode81.text = "Set right my thinking, * which leans contrary to nature, * that my actions be according to nature, * by your supplications, O Lady my physician."
 
 hoCA.Ode82.ode = misc_en_US_goadedes.Ode8
 hoCA.Ode82.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode82.melody = he.h.m8_en_US_goadedes.TonVasileaTonOuranon.name
-hoCA.Ode82.incipit = "…"
-hoCA.Ode82.text = ""
+hoCA.Ode82.incipit = "Erase the sinful…"
+hoCA.Ode82.text = "Erase the sinful * ideas crippling my thinking, * and deliver me from scandals, O physician, * so that I may live single-heartedly, O Lady."
 
 hoCA.Ode83.ode = misc_en_US_goadedes.Ode8
 hoCA.Ode83.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode83.melody = he.h.m8_en_US_goadedes.TonVasileaTonOuranon.name
-hoCA.Ode83.incipit = "…"
-hoCA.Ode83.text = ""
+hoCA.Ode83.incipit = "Remove the searing…"
+hoCA.Ode83.text = "Remove the searing * constant reproach of my conscience. * O my Lady and physician, count me worthy * to receive the peace of Christ that comes through virtue."
 
 hoCA.Ode84.ode = misc_en_US_goadedes.Ode8
 hoCA.Ode84.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode84.melody = he.h.m8_en_US_goadedes.TonVasileaTonOuranon.name
-hoCA.Ode84.incipit = "…"
-hoCA.Ode84.text = ""
+hoCA.Ode84.incipit = "All-holy Lady…"
+hoCA.Ode84.text = "All-holy Lady * and my physician, embrace me * with your prayers, and guarantee my salvation, * for I am in pain and in serious condition."
 
 hoCA.Ode9H.ode = misc_en_US_goadedes.Ode9
 hoCA.Ode9H.mode = misc_en_US_goadedes.Mode8
@@ -292,55 +273,48 @@ hoCA.Ode9H.text = he.h.m8_en_US_goadedes.KyriosTheotokon.text
 hoCA.Ode91.ode = misc_en_US_goadedes.Ode9
 hoCA.Ode91.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode91.melody = he.h.m8_en_US_goadedes.KyriosTheotokon.name
-hoCA.Ode91.incipit = "…"
-hoCA.Ode91.text = ""
+hoCA.Ode91.incipit = "Physician of the faithful…"
+hoCA.Ode91.text = "Physician of the faithful * who extol you, Lady, * expel diseases and every infirmity * of soul and body and grant us the health we all desire."
 
 hoCA.Ode92.ode = misc_en_US_goadedes.Ode9
 hoCA.Ode92.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode92.melody = he.h.m8_en_US_goadedes.KyriosTheotokon.name
-hoCA.Ode92.incipit = "…"
-hoCA.Ode92.text = ""
+hoCA.Ode92.incipit = "Humanely, my physician…"
+hoCA.Ode92.text = "Humanely, my physician, * pray for me, O Lady, * and from my soul drive away clouds of hopelessness, * so that the joy of the Master forever gladden me."
 
 hoCA.Ode93.ode = misc_en_US_goadedes.Ode9
 hoCA.Ode93.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode93.melody = he.h.m8_en_US_goadedes.KyriosTheotokon.name
-hoCA.Ode93.incipit = "…"
-hoCA.Ode93.text = ""
+hoCA.Ode93.incipit = "I pray you…"
+hoCA.Ode93.text = "I pray you, my physician, * make it beneficial * to bear the cross of my illness with gratitude. * O Lady, grant us to worship and praise the Lord of all."
 
 hoCA.Ode94.ode = misc_en_US_goadedes.Ode9
 hoCA.Ode94.mode = misc_en_US_goadedes.Mode8
 hoCA.Ode94.melody = he.h.m8_en_US_goadedes.KyriosTheotokon.name
-hoCA.Ode94.incipit = "…"
-hoCA.Ode94.text = ""
+hoCA.Ode94.incipit = "My Lady and physician…"
+hoCA.Ode94.text = "My Lady and physician * and our loving Mother, * cure all diseases of body and soul alike; * and grant that we, as your children, may dwell in Paradise."
 
-hoCA.Meg00.incipit = "…"
-hoCA.Meg00.text = ho.s03_en_US_goadedes.hoMA.Ode9.Meg00.text
-hoCA.Meg01.melody = misc_en_US_goadedes.Heirmos
-hoCA.Meg01.incipit = he.h.m6_en_US_goadedes.TinTimioteran.incipit
-hoCA.Meg01.text = he.h.m6_en_US_goadedes.TinTimioteran.text
 hoCA.Meg02.melody = he.h.m6_en_US_goadedes.TinTimioteran.name
-hoCA.Meg02.incipit = "…"
-hoCA.Meg02.text = ""
+hoCA.Meg02.incipit = "Lady our physician…"
+hoCA.Meg02.text = "Lady our physician, like baby birds * we your servants hasten to find comfort beneath your wings; * and we seek the cures of our various diseases, * and also quick relief from crippling distress and pain."
 hoCA.Meg03.melody = he.h.m6_en_US_goadedes.TinTimioteran.name
-hoCA.Meg03.incipit = "…"
-hoCA.Meg03.text = ""
+hoCA.Meg03.incipit = "Cure the grievous…"
+hoCA.Meg03.text = "Cure the grievous illnesses of our souls, * and give us, who suffer pain, that coveted peace of mind, * by your intercessions, O Virgin our physician, * that we may venerate your icon with gratitude."
 hoCA.Meg04.melody = he.h.m6_en_US_goadedes.TinTimioteran.name
-hoCA.Meg04.incipit = "…"
-hoCA.Meg04.text = ""
+hoCA.Meg04.incipit = "Lovingly give grace…"
+hoCA.Meg04.text = "Lovingly give grace to those who succumb * to substance dependence, who wholeheartedly pray to you. * O Lady physician, by your mighty intervention, * help them, and from the darkness quickly deliver them."
 hoCA.Meg05.melody = he.h.m6_en_US_goadedes.TinTimioteran.name
-hoCA.Meg05.incipit = "…"
-hoCA.Meg05.text = ""
+hoCA.Meg05.incipit = "Lying sick in bed…"
+hoCA.Meg05.text = "Lying sick in bed, we lift up the eyes * of our hearts to you, Lady physician, and we implore: * Save us from the terrible ravages of cancer * of every kind, and cure us all of our illnesses."
 hoCA.Meg06.melody = he.h.m6_en_US_goadedes.TinTimioteran.name
-hoCA.Meg06.incipit = "…"
-hoCA.Meg06.text = ""
-hoCA.Meg0F.incipit = ho.s23_en_US_goadedes.hoCA.Meg0F.incipit
-hoCA.Meg0F.text = ho.s23_en_US_goadedes.hoCA.Meg0F.text
+hoCA.Meg06.incipit = "Mentally we venerate…"
+hoCA.Meg06.text = "Mentally we venerate your divine * icon of Our Lady the Physician, O Virgin pure. * Never cease imploring your Son and sweetest Jesus, * to grant us all the privilege to enter Paradise."
 
 hoCA.Troparion1.mode = misc_en_US_goadedes.Mode2
 hoCA.Troparion1.melody = he.a.m2_en_US_goadedes.OteEkTouXylou.name
-hoCA.Troparion1.incipit = "…"
-hoCA.Troparion1.text = ""
+hoCA.Troparion1.incipit = "Free us…"
+hoCA.Troparion1.text = "Free us, who are kissing your sublime * icon, Our Lady the Physician, from every illness, we pray. * Grant good health to everyone who humbly asks you with faith. * Bless their lives and their families, by your intercessions * to your Son, our Savior Christ who loves humanity, * so that we may gratefully honor * you, who's womb was wider than heaven, * and who are a haven for us Christians all."
 
 hoCA.couplet1.title = titles_en_US_goadedes.Distichon
-hoCA.couplet1.verse1 = ""
-hoCA.couplet1.verse2 = ""
+hoCA.couplet1.verse1 = "Our Lady the Physician, implore the Physician"
+hoCA.couplet1.verse2 = "of souls and bodies, Jesus Christ."
