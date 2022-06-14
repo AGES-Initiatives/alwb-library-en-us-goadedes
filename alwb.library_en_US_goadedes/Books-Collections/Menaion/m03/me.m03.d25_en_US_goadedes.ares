@@ -170,12 +170,11 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = me.m03.d24_en_US_goadedes.meVE.SticGlory.incipit
 meMA.PostGospelIdiomelon.text = me.m03.d24_en_US_goadedes.meVE.SticGlory.text
 
-meMA.C1.poet = poets_en_US_goadedes.IoannouMonachou
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_US_goadedes.IoannouMonachou
+meMA.C1.title = titles_en_US_goadedes.KanonTisEortis
+meMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
 
 //Titles needed for the canon troparia
 meMA.Ode9C1M02.incipit = "…"
@@ -188,9 +187,6 @@ meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode4
 meMA.Ode1C1H.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou_Syllipsis.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_goadedes.AnoixoToStomaMou_Syllipsis.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_goadedes.AnoixoToStomaMou_Syllipsis.text
-
-meMA.C1.title = titles_en_US_goadedes.KanonTisEortis
-meMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode4

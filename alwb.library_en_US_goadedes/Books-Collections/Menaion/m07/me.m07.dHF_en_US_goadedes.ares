@@ -65,14 +65,15 @@ meVE.Apolytikion2.melody = he.a.m1_en_US_goadedes.TisErimouPolitis.name
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "First Canon for the Fathers."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
+meMA.C1.acrostic.notice2 = ""
 meMA.C1.title = titles_en_US_goadedes.KanonATonPateron
 meMA.C1.verse = prayers_en_US_goadedes.verse_SaintsM.text
+
+meMA.C2.title = titles_en_US_goadedes.KanonBTonPateron
+meMA.C2.verse = prayers_en_US_goadedes.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode1
@@ -103,9 +104,6 @@ meMA.Ode1C1T.mode = misc_en_US_goadedes.Mode1
 meMA.Ode1C1T.melody = he.h.m1_en_US_goadedes.SouITropaiouchos.name
 meMA.Ode1C1T.incipit = "Lady, you have held…"
 meMA.Ode1C1T.text = "Lady, you contained within your womb * the triple-radiant Light by an act of God. * Please illumine hearts and minds * of all who piously extol you, gracious one. * You are light and glory * and our salvation forevermore."
-
-meMA.C2.title = ""
-meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode8

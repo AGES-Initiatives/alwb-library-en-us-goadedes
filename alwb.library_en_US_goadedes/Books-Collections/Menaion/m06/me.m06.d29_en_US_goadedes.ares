@@ -211,17 +211,18 @@ meMA.PostGospelIdiomelon.incipit = meVE.Lity3.incipit
 meMA.PostGospelIdiomelon.text = meVE.Lity3.text
 
 meMA.C1.poet = poets_en_US_goadedes.IoannouMonachou
+meMA.C1.title = "Canon for St. Peter."
+meMA.C1.verse = prayers_en_US_goadedes.verse_Apostle.text
 
 meMA.C2.poet = poets_en_US_goadedes.IoannouMonachou
+meMA.C2.title = "Canon for St. Paul."
+meMA.C2.verse = prayers_en_US_goadedes.verse_Apostle.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode4
 meMA.Ode1C1H.melody = he.h.m4_en_US_goadedes.OukEstiSoiOmoios.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_goadedes.OukEstiSoiOmoios.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_goadedes.OukEstiSoiOmoios.text
-
-meMA.C1.title = ""
-meMA.C1.verse = prayers_en_US_goadedes.verse_Apostle.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode4
@@ -246,9 +247,6 @@ meMA.Ode1C1T.mode = misc_en_US_goadedes.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_goadedes.OukEstiSoiOmoios.name
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
-
-meMA.C2.title = ""
-meMA.C2.verse = prayers_en_US_goadedes.verse_Apostle.text
 
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode8
