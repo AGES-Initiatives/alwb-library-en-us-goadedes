@@ -79,21 +79,16 @@ meVE.Apolytikion1.melody = me.m01.d02_en_US_goadedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.incipit = me.m01.d02_en_US_goadedes.meVE.Apolytikion1.incipit
 meVE.Apolytikion1.text = me.m01.d02_en_US_goadedes.meVE.Apolytikion1.text
 
-meCO.C1.poet = poets_en_US_goadedes.SymeonTouLogothetou
-meCO.C1.acrostic.title = ""
+meCO.C1.acrostic.title = "Three-Ode Canon."
 meCO.C1.acrostic.notice1 = ""
 meCO.C1.acrostic.text = ""
-//meCO.C1.acrostic.notice2 = ""
-meCO.C1.acrostic = ""
+meCO.C1.poet = poets_en_US_goadedes.SymeonTouLogothetou
 meCO.C1.title = ""
 meCO.C1.verse = prayers_en_US_goadedes.verse_God.text
 
-meCO.C2.poet = ""
-meCO.C2.acrostic.title = ""
+meCO.C2.acrostic.title = "Another three-ode Canon."
 meCO.C2.acrostic.notice1 = ""
 meCO.C2.acrostic.text = ""
-//meCO.C2.acrostic.notice2 = ""
-meCO.C2.acrostic = ""
 meCO.C2.title = ""
 meCO.C2.verse = prayers_en_US_goadedes.verse_God.text
 
@@ -263,30 +258,29 @@ meMA.Kathisma22.text = ""
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C.acrostic.notice2 = ""
+meMA.C1.title = titles_en_US_goadedes.KanonProeortios
+meMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
+meMA.C2.poet = poets_en_US_goadedes.Theofanous
+meMA.C2.title = titles_en_US_goadedes.KanonTouProfitou
+meMA.C2.verse = prayers_en_US_goadedes.verse_Prophet.text
 
 meMA.C3.acrostic.title = ""
 meMA.C3.acrostic.notice1 = ""
 meMA.C3.acrostic.text = ""
-//meMA.C3.acrostic.notice2 = ""
-meMA.C3.acrostic = ""
+meMA.C3.poet = poets_en_US_goadedes.Theofanous
+meMA.C3.title = titles_en_US_goadedes.KanonTouMartyros
+meMA.C3.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode4
 meMA.Ode1C1H.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_goadedes.AnoixoToStomaMou.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_goadedes.AnoixoToStomaMou.text
-
-meMA.C1.title = titles_en_US_goadedes.KanonProeortios
-meMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode4
@@ -312,9 +306,6 @@ meMA.Ode1C14.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou.name
 meMA.Ode1C14.incipit = "…"
 meMA.Ode1C14.text = ""
 
-meMA.C2.title = titles_en_US_goadedes.KanonTouProfitou
-meMA.C2.verse = prayers_en_US_goadedes.verse_Prophet.text
-
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode8
 meMA.Ode1C21.melody = he.h.m8_en_US_goadedes.IKekommeni.name
@@ -338,9 +329,6 @@ meMA.Ode1C2T.mode = misc_en_US_goadedes.Mode8
 meMA.Ode1C2T.melody = he.h.m8_en_US_goadedes.IKekommeni.name
 meMA.Ode1C2T.incipit = "…"
 meMA.Ode1C2T.text = ""
-
-meMA.C3.title = titles_en_US_goadedes.KanonTouMartyros
-meMA.C3.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.Ode1C31.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C31.mode = misc_en_US_goadedes.Mode8

@@ -135,21 +135,18 @@ meMA.Kathisma2T.text = oc.m1.d1_en_US_goadedes.ocMA.Kathisma23.text
 
 meR01 = ""
 
-meMA.C1.poet = poets_en_US_goadedes.IoannouMonachou
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_US_goadedes.IoannouMonachou
+meMA.C1.title = titles_en_US_goadedes.KanonATouProfitou
+meMA.C1.verse = prayers_en_US_goadedes.verse_Prophet.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
-
-meMA.C1.title = titles_en_US_goadedes.KanonATouProfitou
-meMA.C1.verse = prayers_en_US_goadedes.verse_Prophet.text
+meMA.C2.title = titles_en_US_goadedes.KanonBTouProfitou
+meMA.C2.verse = prayers_en_US_goadedes.verse_Prophet.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode2
@@ -174,9 +171,6 @@ meMA.Ode1C1T.mode = misc_en_US_goadedes.Mode2
 meMA.Ode1C1T.melody = he.h.m2_en_US_goadedes.AsomenToKyrio.name
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
-
-meMA.C2.title = titles_en_US_goadedes.KanonBTouProfitou
-meMA.C2.verse = prayers_en_US_goadedes.verse_Prophet.text
 
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode8

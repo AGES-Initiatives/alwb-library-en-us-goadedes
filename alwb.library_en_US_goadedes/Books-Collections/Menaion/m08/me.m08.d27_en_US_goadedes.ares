@@ -49,8 +49,7 @@ meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meMA.C1.poet = poets_en_US_goadedes.Theofanous
-
-meMA.C1.title = titles_en_US_goadedes.KanonTouOsiou
+meMA.C1.title = titles_en_US_goadedes.KanonTouAgiou
 meMA.C1.verse = prayers_en_US_goadedes.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
@@ -530,9 +529,10 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "For publicly crushing…"
 alt1.meMA.PostGospelIdiomelon.text = "For publicly crushing the enemy, by your resistance in martyrdom, you have been glorified in heaven, now for all to see, O holy athlete Phanourios. For many years, the world was unaware of your glory. But when your holy icon was unearthed, your glory became known. And now everywhere on earth, the faithful splendidly celebrate your holy memory. On this festive day, we pray you intercede with Christ, to grant us what we need for our salvation."
 
-alt1.meMA.C1.acrostic = ""
-
-alt1.meMA.C1.title = titles_en_US_goadedes.KanonTouMartyros
+alt1.meMA.C1.acrostic.title = "Canon for the Saint."
+alt1.meMA.C1.acrostic.notice1 = ""
+alt1.meMA.C1.acrostic.text = ""
+alt1.meMA.C1.title = titles_en_US_goadedes.KanonTouAgiou
 alt1.meMA.C1.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1

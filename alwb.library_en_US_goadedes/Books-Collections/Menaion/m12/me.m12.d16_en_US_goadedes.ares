@@ -495,7 +495,6 @@ alt1.meMA.Kathisma32.incipit = "…"
 alt1.meMA.Kathisma32.text = ""
 
 alt1.meMA.MM.Prokeimenon.text = properties_en_US_goadedes.media.key
-// copied from 12b
 
 alt1.meMA.PostGospelGlory.mode = misc_en_US_goadedes.Mode2
 alt1.meMA.PostGospelGlory.melody = ""
@@ -512,7 +511,11 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "…"
 alt1.meMA.PostGospelIdiomelon.text = ""
 
-alt1.meMA.C1.acrostic = ""
+alt1.meMA.C1.acrostic.title = ""
+alt1.meMA.C1.acrostic.notice1 = ""
+alt1.meMA.C1.acrostic.text = ""
+alt1.meMA.C1.title = titles_en_US_goadedes.KanonTouAgiou
+alt1.meMA.C1.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 alt1.meMA.Ode1C11.mode = misc_en_US_goadedes.Mode1

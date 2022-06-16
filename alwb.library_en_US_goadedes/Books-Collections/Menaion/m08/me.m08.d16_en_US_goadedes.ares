@@ -87,15 +87,15 @@ meMA.Kathisma21.melody = he.a.m4_en_US_goadedes.KateplagiIosif.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
-meMA.C1.poet = poets_en_US_goadedes.GermanouPatriarchou
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
+meMA.C1.poet = poets_en_US_goadedes.GermanouPatriarchou
 meMA.C1.title = ""
 meMA.C1.verse = prayers_en_US_goadedes.verse_God.text
+
+meMA.C2.title = titles_en_US_goadedes.KanonTouAgiou
+meMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode6
@@ -120,9 +120,6 @@ meMA.Ode1C1T.mode = misc_en_US_goadedes.Mode6
 meMA.Ode1C1T.melody = he.h.m6_en_US_goadedes.OsEnIpeiroPezefsas.name
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
-
-meMA.C2.title = titles_en_US_goadedes.KanonTouAgiou
-meMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_goadedes.Mode4
@@ -804,11 +801,14 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "…"
 alt1.meMA.PostGospelIdiomelon.text = ""
 
-alt1.meMA.C1.poet = ""
-alt1.meMA.C1.acrostic = ""
-
 alt1.meMA.C1.title = titles_en_US_goadedes.KanonATouAgiou
 alt1.meMA.C1.verse = prayers_en_US_goadedes.verse_SaintM.text
+
+alt1.meMA.C2.acrostic.title = ""
+alt1.meMA.C2.acrostic.notice1 = ""
+alt1.meMA.C2.acrostic.text = ""
+alt1.meMA.C2.title = titles_en_US_goadedes.KanonBTouAgiou
+alt1.meMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 alt1.meMA.Ode1C11.mode = misc_en_US_goadedes.Mode4
@@ -833,12 +833,6 @@ alt1.meMA.Ode1C14.mode = misc_en_US_goadedes.Mode4
 alt1.meMA.Ode1C14.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou.name
 alt1.meMA.Ode1C14.incipit = "…"
 alt1.meMA.Ode1C14.text = ""
-
-alt1.meMA.C2.poet = ""
-alt1.meMA.C2.acrostic = ""
-
-alt1.meMA.C2.title = titles_en_US_goadedes.KanonBTouAgiou
-alt1.meMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 alt1.meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 alt1.meMA.Ode1C21.mode = misc_en_US_goadedes.Mode8

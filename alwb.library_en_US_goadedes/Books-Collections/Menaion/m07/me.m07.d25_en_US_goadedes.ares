@@ -113,12 +113,6 @@ meMA.Kathisma21.melody = he.a.m1_en_US_goadedes.TonTafonSouSotir.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
 meMA.C1.title = titles_en_US_goadedes.KanonTisAgias
 meMA.C1.verse = prayers_en_US_goadedes.verse_SaintW.text
 
@@ -395,14 +389,11 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "…"
 alt1.meMA.PostGospelIdiomelon.text = ""
 
-alt1.meMA.C1.poet = ""
-alt1.meMA.C1.acrostic = ""
-
-alt1.meMA.C2.poet = ""
-alt1.meMA.C2.acrostic = ""
-
 alt1.meMA.C1.title = titles_en_US_goadedes.KanonATisAgias
 alt1.meMA.C1.verse = prayers_en_US_goadedes.verse_SaintW.text
+
+alt1.meMA.C2.title = titles_en_US_goadedes.KanonBTisAgias
+alt1.meMA.C2.verse = prayers_en_US_goadedes.verse_SaintW.text
 
 alt1.meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 alt1.meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode4
@@ -439,9 +430,6 @@ alt1.meMA.Ode1C1T.mode = misc_en_US_goadedes.Mode4
 alt1.meMA.Ode1C1T.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou.name
 alt1.meMA.Ode1C1T.incipit = meMA.Ode1C1T.incipit
 alt1.meMA.Ode1C1T.text = meMA.Ode1C1T.text
-
-alt1.meMA.C2.title = titles_en_US_goadedes.KanonBTisAgias
-alt1.meMA.C2.verse = prayers_en_US_goadedes.verse_SaintW.text
 
 alt1.meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 alt1.meMA.Ode1C21.mode = misc_en_US_goadedes.Mode8

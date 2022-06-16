@@ -731,8 +731,11 @@ meMA.Exaposteilarion2.melody = he.a.m2_en_US_goadedes.GynaikesAkoutisthite.name
 meMA.Exaposteilarion2.incipit = "…"
 meMA.Exaposteilarion2.text = ""
 
-meMA.Lauds1.poet = poets_en_US_goadedes.Theofanous
-meMA.Lauds1.acrostic = ""
+meMA.Lauds.acrostic.title = ""
+meMA.Lauds.acrostic.notice1 = ""
+meMA.Lauds.acrostic.text = ""
+meMA.Lauds.poet = poets_en_US_goadedes.Theofanous
+
 meMA.Lauds1.mode = misc_en_US_goadedes.Mode6
 meMA.Lauds1.melody = he.a.m6_en_US_goadedes.AiAngelikai.name
 meMA.Lauds1.incipit = "…"
