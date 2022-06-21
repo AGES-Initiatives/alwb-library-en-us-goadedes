@@ -129,21 +129,18 @@ trAK.Oikos117.text = trAK.Refrain1.text
 trAK.Oikos120.text = ""
 trAK.Oikos121.text = trAK.Refrain2.text
 
-trMA.C1.title = ""
-trMA.C1.poet = poets_en_US_goadedes.IosifTouYmnografou
 trMA.C1.acrostic.title = ""
 trMA.C1.acrostic.notice1 = ""
 trMA.C1.acrostic.text = ""
-//trMA.C1.acrostic.notice2 = ""
-trMA.C1.acrostic = ""
+trMA.C1.poet = poets_en_US_goadedes.IosifTouYmnografou
+trMA.C1.title = ""
+trMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
 
 trMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 trMA.Ode1C1H.mode = misc_en_US_goadedes.Mode4
 trMA.Ode1C1H.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou.melody
 trMA.Ode1C1H.incipit = he.h.m4_en_US_goadedes.AnoixoToStomaMou.incipit
 trMA.Ode1C1H.text = he.h.m4_en_US_goadedes.AnoixoToStomaMou.text
-
-trMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
 
 trMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 trMA.Ode1C11.mode = misc_en_US_goadedes.Mode4
@@ -378,14 +375,16 @@ trMA.Ode6C14.melody = he.h.m4_en_US_goadedes.TinTheianTaftin.name
 trMA.Ode6C14.incipit = "…"
 trMA.Ode6C14.text = ""
 
-trMA.C2.poet = poets_en_US_goadedes.Iosif
-trMA.C2.acrostic.title = ""
+trMA.C2.acrostic.title = "The four-ode Canon."
 trMA.C2.acrostic.notice1 = ""
 trMA.C2.acrostic.text = ""
-//trMA.C2.acrostic.notice2 = ""
-trMA.C2.acrostic = ""
-trMA.C2.title = ""
+trMA.C2.poet = poets_en_US_goadedes.Iosif
+trMA.C2.title = "First four-ode Canon."
 trMA.C2.verse = prayers_en_US_goadedes.verse_SaintsM.text
+
+trMA.C3.poet = poets_en_US_goadedes.TheodorouTouStouditou
+trMA.C3.title = "Second four-ode Canon."
+trMA.C3.verse = prayers_en_US_goadedes.verse_SaintsM.text
 
 trMA.Ode6C21.ode = misc_en_US_goadedes.Ode6
 trMA.Ode6C21.mode = misc_en_US_goadedes.Mode6
@@ -410,10 +409,6 @@ trMA.Ode6C2T.mode = misc_en_US_goadedes.Mode6
 trMA.Ode6C2T.melody = he.h.m6_en_US_goadedes.TouViouTinThalassan.name
 trMA.Ode6C2T.incipit = "…"
 trMA.Ode6C2T.text = ""
-
-trMA.C3.poet = poets_en_US_goadedes.TheodorouTouStouditou
-trMA.C3.title = ""
-trMA.C3.verse = prayers_en_US_goadedes.verse_SaintsM.text
 
 trMA.Ode6C31.ode = misc_en_US_goadedes.Ode6
 trMA.Ode6C31.mode = misc_en_US_goadedes.Mode5

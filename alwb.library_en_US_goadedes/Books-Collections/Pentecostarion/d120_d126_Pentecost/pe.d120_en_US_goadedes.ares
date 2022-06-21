@@ -154,11 +154,10 @@ peMA.C2.poet = poets_en_US_goadedes.KyriouIoannouArkla
 peMA.C2.title = titles_en_US_goadedes.KanonBTisEortis
 peMA.C2.verse = prayers_en_US_goadedes.verse_God.text
 
-peMA.C2.Acrostic1.acrostic = "The Acrostic formed by the first letter of each line is as follows:"
-peMA.C2.Acrostic2.acrostic = "Logos Son of God, You sent the Spirit,"
-peMA.C2.Acrostic3.acrostic = "another Advocate, from the Father's bosom"
-peMA.C2.Acrostic4.acrostic = "to those on earth in fiery tongues, sign of"
-peMA.C2.Acrostic5.acrostic = "inherent Godhead, and grace to the translator."
+peMA.C2.acrostic.line1.text = "Logos Son of God, You sent the Spirit,"
+peMA.C2.acrostic.line2.text = "another Advocate, from the Father's bosom"
+peMA.C2.acrostic.line3.text = "to those on earth in fiery tongues, sign of"
+peMA.C2.acrostic.line4.text = "inherent Godhead, and grace to the translator."
 
 peMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 peMA.Ode1C1H.mode = misc_en_US_goadedes.Mode7

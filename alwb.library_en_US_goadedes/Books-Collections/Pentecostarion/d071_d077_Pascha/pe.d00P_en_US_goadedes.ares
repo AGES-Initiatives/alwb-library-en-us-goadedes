@@ -46,17 +46,21 @@ pePA.ChristIsRisenShort.text = "" //for media
 
 pePA.C1.poet = poets_en_US_goadedes.IoannouTouDamaskinou
 pePA.C1.text = "" //for media
+pePA.C1.title = titles_en_US_goadedes.KanonTouPascha
+pePA.C1.verse = prayers_en_US_goadedes.verse_Resurrection.text
 
-pePA.CTh.acrostic = ""
+pePA.CTh.acrostic.title = "Canon for the Theotokos."
+pePA.CTh.acrostic.notice1 = ""
+pePA.CTh.acrostic.text = ""
+pePA.CTh.acrostic.notice2 = ""
+pePA.CTh.poet = "Some manuscripts say that only the first troparion of each ode is by Theophanes, and the rest are by Joseph of Thessalonica."
+pePA.CTh.title = titles_en_US_goadedes.KanonTisTheotokou
 
 pePA.Ode1H.ode = misc_en_US_goadedes.Ode1
 pePA.Ode1H.mode = misc_en_US_goadedes.Mode1
 pePA.Ode1H.melody = misc_en_US_goadedes.Heirmos
 pePA.Ode1H.incipit = he.h.m1_en_US_goadedes.AnastaseosImera.incipit
 pePA.Ode1H.text = he.h.m1_en_US_goadedes.AnastaseosImera.text
-
-pePA.C1.title = titles_en_US_goadedes.KanonTouPascha
-pePA.C1.verse = prayers_en_US_goadedes.verse_Resurrection.text
 
 pePA.Ode11.ode = misc_en_US_goadedes.Ode1
 pePA.Ode11.mode = misc_en_US_goadedes.Mode1
@@ -69,13 +73,6 @@ pePA.Ode12.mode = misc_en_US_goadedes.Mode1
 pePA.Ode12.melody = he.h.m1_en_US_goadedes.AnastaseosImera.name
 pePA.Ode12.incipit = "…"
 pePA.Ode12.text = ""
-
-pePA.CTh.acrostic.title = "Canon for the Theotokos."
-pePA.CTh.acrostic.notice1 = ""
-pePA.CTh.acrostic.text = ""
-pePA.CTh.acrostic.notice2 = ""
-pePA.CTh.poet = "Some manuscripts say that only the first troparion of each ode is by Theophanes, and the rest are by Joseph of Thessalonica."
-pePA.CTh.title = titles_en_US_goadedes.KanonTisTheotokou
 
 pePA.Ode1T1.ode = misc_en_US_goadedes.Ode1
 pePA.Ode1T1.mode = misc_en_US_goadedes.Mode1

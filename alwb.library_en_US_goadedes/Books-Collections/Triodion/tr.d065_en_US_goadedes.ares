@@ -272,21 +272,17 @@ trMA.Kathisma31.melody = he.a.m8_en_US_goadedes.TinSofianKaiLogon.name
 trMA.Kathisma31.incipit = "…"
 trMA.Kathisma31.text = ""
 
-trMA.C1.poet = poets_en_US_goadedes.KosmaMonachou
 trMA.C1.acrostic.title = ""
 trMA.C1.acrostic.notice1 = ""
 trMA.C1.acrostic.text = ""
-//trMA.C1.acrostic.notice2 = ""
-trMA.C1.acrostic = ""
+trMA.C1.poet = poets_en_US_goadedes.KosmaMonachou
+trMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 trMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 trMA.Ode1C1H.mode = misc_en_US_goadedes.Mode2
 trMA.Ode1C1H.melody = he.h.m2_en_US_goadedes.ToTinAvaton.melody
 trMA.Ode1C1H.incipit = he.h.m2_en_US_goadedes.ToTinAvaton.incipit
 trMA.Ode1C1H.text = he.h.m2_en_US_goadedes.ToTinAvaton.text
-
-trMA.C1.title = ""
-trMA.C1.verse = ""
 
 trMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 trMA.Ode1C11.mode = misc_en_US_goadedes.Mode2

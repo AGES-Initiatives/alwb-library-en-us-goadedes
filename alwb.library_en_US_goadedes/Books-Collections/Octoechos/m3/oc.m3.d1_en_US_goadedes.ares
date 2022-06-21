@@ -392,17 +392,13 @@ ocMA.Antiphon33.text = ""
 ocMA.MM.Prokeimenon.text = properties_en_US_goadedes.media.key
 
 ocMA.C2.poet = poets_en_US_goadedes.IoannouMonachou
-ocMA.C2.acrostic.title = ""
+ocMA.C2.acrostic.title = "Canon for the Cross and Resurrection."
 ocMA.C2.acrostic.notice1 = ""
 ocMA.C2.acrostic.text = ""
-//ocMA.C2.acrostic.notice2 = ""
-ocMA.C2.acrostic = ""
 
-ocMA.C3.acrostic.title = ""
+ocMA.C3.acrostic.title = "Canon for the Theotokos."
 ocMA.C3.acrostic.notice1 = ""
 ocMA.C3.acrostic.text = ""
-//ocMA.C3.acrostic.notice2 = ""
-ocMA.C3.acrostic = ""
 
 ocMA.OdeS1C1H.mode = misc_en_US_goadedes.Mode3
 ocMA.OdeS1C1H.ode = misc_en_US_goadedes.Ode1

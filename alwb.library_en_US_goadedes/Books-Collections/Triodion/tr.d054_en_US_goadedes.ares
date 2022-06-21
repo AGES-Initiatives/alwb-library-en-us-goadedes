@@ -42,7 +42,7 @@ trVE.Stichera03.incipit = "…"
 trVE.Stichera03.text = ""
 
 trGC.Stichera.poet = poets_en_US_goadedes.SymeonTouMetafrastou
-trGC.Stichera.acrostic = ""
+trGC.Stichera.acrostic.title = ""
 
 trGC.Stichera01.mode = misc_en_US_goadedes.Mode4
 trGC.Stichera01.melody = he.a.m4_en_US_goadedes.IthelonDakrysinExaleipsai.name
@@ -867,6 +867,10 @@ trMA.Ode3Kathisma3.text = ""
 // Ode 4 Triodion
 
 trMA.C1.poet = poets_en_US_goadedes.Iosif
+trMA.C1.title = "Three-ode Canon."
+
+trMA.C2.poet = poets_en_US_goadedes.Theodorou
+trMA.C2.title = "Another three-ode Canon."
 
 trMA.Ode4C1H.ode = misc_en_US_goadedes.Ode4
 trMA.Ode4C1H.mode = misc_en_US_goadedes.Mode8
@@ -897,8 +901,6 @@ trMA.Ode4C1T.mode = misc_en_US_goadedes.Mode8
 trMA.Ode4C1T.melody = he.h.m8_en_US_goadedes.EisakikoaKyrie.name
 trMA.Ode4C1T.incipit = "…"
 trMA.Ode4C1T.text = ""
-
-trMA.C2.poet = poets_en_US_goadedes.Theodorou
 
 trMA.Ode4C2H.ode = misc_en_US_goadedes.Ode4
 trMA.Ode4C2H.mode = misc_en_US_goadedes.Mode8

@@ -201,21 +201,18 @@ trMA.PostGospelIdiomelon.melody = misc_en_US_goadedes.Idiomelon
 trMA.PostGospelIdiomelon.incipit = trVE.Stichera01.incipit
 trMA.PostGospelIdiomelon.text = trVE.Stichera01.text
 
-trMA.C1.poet = poets_en_US_goadedes.KosmaMonachou
 trMA.C1.acrostic.title = ""
 trMA.C1.acrostic.notice1 = ""
 trMA.C1.acrostic.text = ""
-//trMA.C1.acrostic.notice2 = ""
-trMA.C1.acrostic = ""
+trMA.C1.poet = poets_en_US_goadedes.KosmaMonachou
+trMA.C1.title = titles_en_US_goadedes.KanonTisEortis
+trMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 trMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 trMA.Ode1C1H.mode = misc_en_US_goadedes.Mode4
 trMA.Ode1C1H.melody = he.h.m4_en_US_goadedes.OfthisanAiPigai.melody
 trMA.Ode1C1H.incipit = he.h.m4_en_US_goadedes.OfthisanAiPigai.incipit
 trMA.Ode1C1H.text = he.h.m4_en_US_goadedes.OfthisanAiPigai.text
-
-trMA.C1.title = titles_en_US_goadedes.KanonTisEortis
-trMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 trMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 trMA.Ode1C11.mode = misc_en_US_goadedes.Mode4
