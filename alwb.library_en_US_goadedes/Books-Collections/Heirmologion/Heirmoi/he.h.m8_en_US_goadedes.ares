@@ -40,13 +40,13 @@ AseveiasOrgana.mode = misc_en_US_goadedes.Mode8
 AseveiasOrgana.ode = misc_en_US_goadedes.Ode8
 AseveiasOrgana.text = ""
 
-AsmaAnapempsomen.notmetered = "N/M ()"
-AsmaAnapempsomen.name = "N/M ()"
-AsmaAnapempsomen.incipit = "People, let us send up a song…"
-AsmaAnapempsomen.melody = misc_en_US_goadedes.HeirmosNotMetered
+AsmaAnapempsomen.notmetered = "N/M (All you people.)"
+AsmaAnapempsomen.name = "All you people."
+AsmaAnapempsomen.incipit = "All you people…"
+AsmaAnapempsomen.melody = misc_en_US_goadedes.Heirmos
 AsmaAnapempsomen.mode = misc_en_US_goadedes.Mode8
 AsmaAnapempsomen.ode = misc_en_US_goadedes.Ode1
-AsmaAnapempsomen.text = "People, let us send up a song to our marvelous God, who freed Israel from bondage; and let us sing a triumphal hymn and cry aloud, \"Let us sing to You, our only Master!\""
+AsmaAnapempsomen.text = "All you people, come and let us sing unto our God most wonderful, * who rescued Israel and freed it from its bondage, * an anthem of victory, singing to Him and saying, * \"We shall sing to You, our only Master.\""
 
 AsmaAsmaton.notmetered = "N/M ()"
 AsmaAsmaton.name = ""
@@ -144,13 +144,13 @@ EnPedioDeeira.mode = misc_en_US_goadedes.Mode8
 EnPedioDeeira.ode = misc_en_US_goadedes.Ode7
 EnPedioDeeira.text = ""
 
-EpevisEfIppous.notmetered = "N/M (O Lord, You rode.)"
-EpevisEfIppous.name = "O Lord, You rode."
-EpevisEfIppous.incipit = "O Lord, You rode…"
-EpevisEfIppous.melody = misc_en_US_goadedes.HeirmosNotMetered
+EpevisEfIppous.notmetered = "N/M (You mounted Your horses.)"
+EpevisEfIppous.name = "You mounted Your horses."
+EpevisEfIppous.incipit = "You mounted Your horses…"
+EpevisEfIppous.melody = misc_en_US_goadedes.Heirmos
 EpevisEfIppous.mode = misc_en_US_goadedes.Mode8
 EpevisEfIppous.ode = misc_en_US_goadedes.Ode4
-EpevisEfIppous.text = "O Lord, You rode Your Apostles, as if they were horses, and You held their reins in You hands. And Your horsemanship became salvation to those who faithfully sing to You: Glory to Your strength, O Lord."
+EpevisEfIppous.text = "You mounted Your horses, namely Your holy Apostles, O Lord, * and You guided them, holding their reins in Your hands. * And thus Your chariot became salvation for us all, * who are faithfully singing * unto You: Glory to Your strength, O Lord!"
 
 EptaplasiosKaminon.notmetered = "N/M (The tyrant king.)"
 EptaplasiosKaminon.name = "The tyrant king."
@@ -728,13 +728,13 @@ TonEnOreiAgio.mode = misc_en_US_goadedes.Mode8
 TonEnOreiAgio.ode = misc_en_US_goadedes.Ode8
 TonEnOreiAgio.text = "O extol Him, who on the holy mountain * showed His glory, as Lord, * and in the bush with fire * revealed to Moses knowledge of the mystery * of the Ever-Virgin, supremely exalting Him unto all the ages."
 
-TonFovonSouKyrie.notmetered = "N/M (Plant the fear of You.)"
-TonFovonSouKyrie.name = "Plant the fear of You."
-TonFovonSouKyrie.incipit = "Plant the fear of You…"
-TonFovonSouKyrie.melody = misc_en_US_goadedes.HeirmosNotMetered
+TonFovonSouKyrie.notmetered = "N/M (O Lord, we Your servants.)"
+TonFovonSouKyrie.name = "O Lord, we Your servants."
+TonFovonSouKyrie.incipit = "O Lord, we Your servants…"
+TonFovonSouKyrie.melody = misc_en_US_goadedes.Heirmos
 TonFovonSouKyrie.mode = misc_en_US_goadedes.Mode8
 TonFovonSouKyrie.ode = misc_en_US_goadedes.Ode3
-TonFovonSouKyrie.text = "Plant the fear of You in the hearts of Your servants, O Lord; and be a firm support to those who in truth call upon You."
+TonFovonSouKyrie.text = "O Lord, we Your servants pray You plant Your fear * in our hearts, and become for us * who wholeheartedly in truth invoke * Your holy name, O Savior, strength and confirmation."
 
 TonIonanEnToKitei.notmetered = "N/M (O Lord, You made Prophet Jonah.)"
 TonIonanEnToKitei.name = "O Lord, You made Prophet Jonah."
