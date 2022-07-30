@@ -1384,8 +1384,16 @@ alt1.meLI.Kontakion1.text = alt1.meMA.Kontakion1.text
 alt1.meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
 alt1.meMegalynarion.text = ""
-
 alt1.meMegalynarion2.text = ""
 
 alt1.meCoupletv1.text = ""
 alt1.meCoupletv2.text = ""
+
+alt1.meMegalynarion3.text = ""
+
+alt2.meDA.date = "October 20" // date
+alt2.meDA.commemoration.full = "" //full title of day
+alt2.meDA.commemoration.first_short = "Memory of St. Matrona"
+alt2.meDA.commemoration.first_title = ""
+
+alt2.meMegalynarion.text = ""

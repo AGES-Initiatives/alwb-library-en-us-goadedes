@@ -319,7 +319,7 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
-meMegalynarion.text = ""
+meMegalynarion.text = "Holy Mary Magdalene, as you came * early in the morning to the sepulcher of the Lord, * you saw Him arisen. O Myrrh-bearer, He sent you * announcing the good tidings to His Apostles and friends."
 
 alt1.meDA.date = ""
 alt1.meDA.commemoration.full = "" //full title of day
@@ -711,3 +711,5 @@ alt1.meMegalynarion.text = ""
 alt1.meMegalynarion2.text = ""
 
 alt1.meMegalynarion3.text = ""
+
+alt1.meMegalynarion4.text = ""
