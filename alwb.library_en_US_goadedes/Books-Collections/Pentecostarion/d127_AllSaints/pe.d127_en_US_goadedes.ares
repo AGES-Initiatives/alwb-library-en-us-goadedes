@@ -2,6 +2,7 @@ A_Resource_Whose_Name = pe.d127_en_US_goadedes
 
 peDA.commemoration.full = "" //full title of day
 peDA.commemoration.short = ""
+peDA.commemoration.name = "All Saints"
 peDA.insert1 = "" //for use in petitions and dismissal
 peDA.insert2 = "" //for use in petitions and dismissal
 peDA.note = ""
