@@ -2,6 +2,7 @@ A_Resource_Whose_Name = pe.d071_en_US_goadedes
 
 peDA.commemoration.full = "" //full title of day
 peDA.commemoration.short = ""
+peDA.commemoration.name = "Holy Resurrection"
 peDA.insert1 = "" //for use in petitions and dismissal
 peDA.insert2 = "" //for use in petitions and dismissal
 peDA.note = ""
@@ -46,4 +47,4 @@ peMA.Lauds4.melody = ""
 peMA.Lauds4.incipit = oc.m1.d1_en_US_goadedes.ocMA.Lauds4.incipit
 peMA.Lauds4.text = oc.m1.d1_en_US_goadedes.ocMA.Lauds4.text
 
-peMegalynarion.text = "The Cherubim shudder in awe of You, * and the hosts of heaven offer hymns glorifying You, * for Your resurrection within three days, O Savior. * With fear we glorify You, Christ the Giver of Life."
+peMegalynarion.text = "Truly resurrected is Christ our God. * The Cherubim shudder as they tremble in awe of Him. * Hosts of heaven sing hymns of glory to extol Him. * Come let us glorify Him the risen Giver of life."
