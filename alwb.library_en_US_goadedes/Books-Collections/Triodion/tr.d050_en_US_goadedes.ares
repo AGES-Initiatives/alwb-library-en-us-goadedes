@@ -66,8 +66,6 @@ trMA.PostGospelIdiomelon.melody = ""
 trMA.PostGospelIdiomelon.incipit = tr.d001_en_US_goadedes.trMA.PostGospelIdiomelon.incipit
 trMA.PostGospelIdiomelon.text = tr.d001_en_US_goadedes.trMA.PostGospelIdiomelon.text
 
-trMA.C2.poet = ""
-
 trMA.C1.title = titles_en_US_goadedes.KanonTouTriodiou
 trMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
@@ -97,6 +95,7 @@ trMA.Ode1C1T.text = ""
 
 trMA.C2.title = titles_en_US_goadedes.KanonTouOsiou
 trMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
+trMA.C2.notice1 = "The service of St. John of the Ladder is sung (or read) here this year, because it coincided with the leave-taking of the feast of the Annunciation."
 
 trMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 trMA.Ode1C21.mode = misc_en_US_goadedes.Mode8
