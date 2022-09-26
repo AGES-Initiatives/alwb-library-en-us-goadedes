@@ -63,10 +63,10 @@ peVE.AposBoth.melody = pe.d110_en_US_goadedes.peVE.AposGlory.melody
 peVE.AposBoth.incipit = pe.d110_en_US_goadedes.peVE.AposGlory.incipit
 peVE.AposBoth.text = pe.d110_en_US_goadedes.peVE.AposGlory.text
 
-peMA.Kathisma11.mode = pe.d112_en_US_goadedes.peMA.Kathisma11.mode
-peMA.Kathisma11.melody = pe.d112_en_US_goadedes.peMA.Kathisma11.melody
-peMA.Kathisma11.incipit = pe.d112_en_US_goadedes.peMA.Kathisma11.incipit
-peMA.Kathisma11.text = pe.d112_en_US_goadedes.peMA.Kathisma11.text
+peMA.Kathisma11.mode = pe.d110_en_US_goadedes.peMA.Kathisma11.mode
+peMA.Kathisma11.melody = pe.d110_en_US_goadedes.peMA.Kathisma11.melody
+peMA.Kathisma11.incipit = pe.d110_en_US_goadedes.peMA.Kathisma11.incipit
+peMA.Kathisma11.text = pe.d110_en_US_goadedes.peMA.Kathisma11.text
 
 peMA.Kathisma21.mode = pe.d112_en_US_goadedes.peMA.Kathisma21.mode
 peMA.Kathisma21.melody = pe.d112_en_US_goadedes.peMA.Kathisma21.melody
