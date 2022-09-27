@@ -60,8 +60,8 @@ meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_goadedes.Mode6
 meVE.SticTheotokion.melody = he.a.m6_en_US_goadedes.TriimerosAnestis.name
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.incipit = me.m06.d12_en_US_goadedes.meVE.SticTheotokion.incipit
+meVE.SticTheotokion.text = me.m06.d12_en_US_goadedes.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_goadedes.Mode6
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_goadedes.TriimerosAnestis.name
