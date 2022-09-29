@@ -14,7 +14,9 @@ peHO.note1 = ""
 peHO.note2 = ""
 peDA.dismissal = dismissals_en_US_goadedes.dis00.resurrection
 
-peVE.MM.Stichera1234as3456.text = "" //for media with saint
+peVE.MM.Stichera123as123.text = properties_en_US_goadedes.media.key
+peVE.MM.Stichera1234as3456.text = properties_en_US_goadedes.media.key
+peVE.MM.Stichera789as456.text = properties_en_US_goadedes.media.key
 
 peVE.Stichera01.mode = misc_en_US_goadedes.Mode6
 peVE.Stichera01.melody = ""
@@ -75,8 +77,6 @@ peVE.SticBoth.mode = misc_en_US_goadedes.Mode6
 peVE.SticBoth.melody = ""
 peVE.SticBoth.incipit = oc.m6.d1_en_US_goadedes.ocVE.SticTheotokion.incipit
 peVE.SticBoth.text = oc.m6.d1_en_US_goadedes.ocVE.SticTheotokion.text
-
-peVE.MM.GreatProkeimenon.text = properties_en_US_goadedes.media.key
 
 peVE.Aposticha1.mode = misc_en_US_goadedes.Mode6
 peVE.Aposticha1.melody = ""

@@ -22,30 +22,38 @@ hoVE.FosIlaron.text = ""
 R11 = ""
 
 hoVE.SundayEvening.title = ""
-hoVE.SundayProkeimenon.text = properties_en_US_goadedes.media.key
+hoVE.MM.SundayProkeimenon.text = properties_en_US_goadedes.media.key
 
 hoVE.MondayEvening.title = ""
-hoVE.MondayProkeimenon.text = properties_en_US_goadedes.media.key
+hoVE.MM.MondayProkeimenon.text = properties_en_US_goadedes.media.key
 
 hoVE.TuesdayEvening.title = ""
-hoVE.TuesdayProkeimenon.text = properties_en_US_goadedes.media.key
+hoVE.MM.TuesdayProkeimenon.text = properties_en_US_goadedes.media.key
 
 hoVE.WednesdayEvening.title = ""
-hoVE.WednesdayProkeimenon.text = properties_en_US_goadedes.media.key
+hoVE.MM.WednesdayProkeimenon.text = properties_en_US_goadedes.media.key
 
 hoVE.ThursdayEvening.title = ""
-hoVE.ThursdayProkeimenon.text = properties_en_US_goadedes.media.key
+hoVE.MM.ThursdayProkeimenon.text = properties_en_US_goadedes.media.key
 
 hoVE.FridayEvening.title = ""
-hoVE.FridayProkeimenon.text = properties_en_US_goadedes.media.key
+hoVE.MM.FridayProkeimenon.text = properties_en_US_goadedes.media.key
 
 hoVE.SaturdayEvening.title = ""
-hoVE.SaturdayProkeimenon.text = properties_en_US_goadedes.media.key
+hoVE.MM.SaturdayProkeimenon.text = properties_en_US_goadedes.media.key
 
-hoVE.GreatProkeimenonTisTheosMegas.text = properties_en_US_goadedes.media.key
-hoVE.GreatProkeimenonOTheosImon.text = properties_en_US_goadedes.media.key
-hoVE.GreatProkeimenonLent1.text = properties_en_US_goadedes.media.key
-hoVE.GreatProkeimenonLent2.text = properties_en_US_goadedes.media.key
+hoVE.MM.GreatProkeimenonTisTheosMegas.text = properties_en_US_goadedes.media.key
+hoVE.MM.GreatProkeimenonOTheosImon.text = properties_en_US_goadedes.media.key
+hoVE.MM.GreatProkeimenonLent1.text = properties_en_US_goadedes.media.key
+hoVE.MM.GreatProkeimenonLent2.text = properties_en_US_goadedes.media.key
+
+hoVE.MM.GoodFridayProkeimenon.text = properties_en_US_goadedes.media.key
+hoVE.MM.EasterSundayEveningProkeimenon.text = ""
+hoVE.MM.BrightMondayEveningProkeimenon.text = properties_en_US_goadedes.media.key
+hoVE.MM.BrightTuesdayEveningProkeimenon.text = properties_en_US_goadedes.media.key
+hoVE.MM.BrightWednesdayEveningProkeimenon.text = properties_en_US_goadedes.media.key
+hoVE.MM.BrightThursdayEveningProkeimenon.text = properties_en_US_goadedes.media.key
+hoVE.MM.BrightFridayEveningProkeimenon.text = properties_en_US_goadedes.media.key
 
 R12 = ""
 R13 = ""
