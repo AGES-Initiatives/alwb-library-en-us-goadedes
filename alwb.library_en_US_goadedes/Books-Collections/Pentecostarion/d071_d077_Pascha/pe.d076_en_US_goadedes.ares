@@ -55,18 +55,13 @@ peVE.Stichera07.text = ""
 
 peVE.Stichera08.mode = misc_en_US_goadedes.Mode6
 peVE.Stichera08.melody = he.a.m6_en_US_goadedes.OlinApothemenoi.name
-peVE.Stichera08.incipit = pe.d076_en_US_goadedes.peVE.Stichera07.incipit
-peVE.Stichera08.text = pe.d076_en_US_goadedes.peVE.Stichera07.text
+peVE.Stichera08.incipit = "…"
+peVE.Stichera08.text = ""
 
 peVE.Stichera09.mode = misc_en_US_goadedes.Mode6
 peVE.Stichera09.melody = he.a.m6_en_US_goadedes.OlinApothemenoi.name
 peVE.Stichera09.incipit = "…"
 peVE.Stichera09.text = ""
-
-peVE.Stichera10.mode = misc_en_US_goadedes.Mode6
-peVE.Stichera10.melody = he.a.m6_en_US_goadedes.OlinApothemenoi.name
-peVE.Stichera10.incipit = "…"
-peVE.Stichera10.text = ""
 
 peVE.SticGlory.mode = misc_en_US_goadedes.Mode8
 peVE.SticGlory.melody = ""
