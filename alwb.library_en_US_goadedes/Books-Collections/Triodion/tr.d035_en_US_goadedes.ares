@@ -15,6 +15,8 @@ trCO.header = ""
 trVL.header = "" //for pdf headers of presanctified and vesperal liturgies
 trDA.dismissal = ""
 
+trR001 = "This year, the memory of St. Gregory Palamas is also celebrated today, because the feast of the Annunciation falls on the second Sunday of Lent."
+
 trVE.AposIdiomelon1.mode = misc_en_US_goadedes.Mode4
 trVE.AposIdiomelon1.melody = ""
 trVE.AposIdiomelon1.incipit = "…"
