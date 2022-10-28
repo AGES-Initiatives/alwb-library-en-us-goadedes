@@ -4,7 +4,7 @@ meDA.date = ""
 meDA.commemoration.full = "" //full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = ""
+meDA.commemoration.first_title = titles_en_US_goadedes.TonAgion
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -52,6 +52,21 @@ meVE.SticStavrotheotokion.melody = he.a.m6_en_US_goadedes.OlinApothemenoi.name
 meVE.SticStavrotheotokion.incipit = me.m02.d17_en_US_goadedes.meMA.LaudsStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m02.d17_en_US_goadedes.meMA.LaudsStavrotheotokion.text
 
+meVE.Aposticha1.mode = misc_en_US_goadedes.Mode6
+meVE.Aposticha1.melody = he.a.m6_en_US_goadedes.TriimerosAnestis.name
+meVE.Aposticha1.incipit = "…"
+meVE.Aposticha1.text = ""
+
+meVE.Aposticha2.mode = misc_en_US_goadedes.Mode6
+meVE.Aposticha2.melody = he.a.m6_en_US_goadedes.TriimerosAnestis.name
+meVE.Aposticha2.incipit = "…"
+meVE.Aposticha2.text = ""
+
+meVE.Aposticha3.mode = misc_en_US_goadedes.Mode6
+meVE.Aposticha3.melody = he.a.m6_en_US_goadedes.TriimerosAnestis.name
+meVE.Aposticha3.incipit = "…"
+meVE.Aposticha3.text = ""
+
 meVE.AposGlory.mode = misc_en_US_goadedes.Mode2
 meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "…"
@@ -77,6 +92,56 @@ meVE.Apolytikion2.mode = misc_en_US_goadedes.Mode4
 meVE.Apolytikion2.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
+
+meVE.Apolytikion3.mode = misc_en_US_goadedes.Mode4
+meVE.Apolytikion3.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
+meVE.Apolytikion3.incipit = "O steadfast and mighty…"
+meVE.Apolytikion3.text = "O steadfast and mighty Witnesses and Martyrs of Christ, * glorious Pegasios and wise Acindynos * and strong Anempodistos, * blessed Afthonios and divine Elpidophoros, * you five medaled Athletes ever guard us and save us * from perils and disasters when we pray to you."
+
+meMA.Kathisma11.mode = misc_en_US_goadedes.Mode1
+meMA.Kathisma11.melody = he.a.m1_en_US_goadedes.TonTafonSouSotir.name
+meMA.Kathisma11.incipit = "Today let us extol…"
+meMA.Kathisma11.text = "Today let us extol holy Elpidophoros, * Acindynos as well, and Pegasios also, * and holy Aphthonios and divine Anempodistos. * They competed well against the tyrants as martyrs. * They dispelled the gloom of godless pagan religion. * The faithful now honor them."
+
+meMA.Kathisma1T.mode = misc_en_US_goadedes.Mode1
+meMA.Kathisma1T.melody = he.a.m1_en_US_goadedes.TonTafonSouSotir.name
+meMA.Kathisma1T.incipit = oc.m1.d1_en_US_goadedes.ocMA.Kathisma13.incipit
+meMA.Kathisma1T.text = oc.m1.d1_en_US_goadedes.ocMA.Kathisma13.text
+
+meMA.Kathisma21.mode = misc_en_US_goadedes.Mode4
+meMA.Kathisma21.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
+meMA.Kathisma21.incipit = "The choir of martyr Saints…"
+meMA.Kathisma21.text = "The choir of martyr Saints that was assembled by God * invites us to celebrate their sacred feast now with joy * and sing of their miracles. * They were invigorated by the might of the Most High; * thus for their Maker's glory and in tribute to faith in Him, * they performed many wonderful feats in their martyrdom."
+
+meMA.Kathisma2T.mode = misc_en_US_goadedes.Mode4
+meMA.Kathisma2T.melody = misc_en_US_goadedes.Automelon
+meMA.Kathisma2T.incipit = he.a.m4_en_US_goadedes.TachyProkatalave.incipit
+meMA.Kathisma2T.text = he.a.m4_en_US_goadedes.TachyProkatalave.text
+
+meMA.Kathisma31.mode = misc_en_US_goadedes.Mode5
+meMA.Kathisma31.melody = he.a.m5_en_US_goadedes.TonSynanarchonLogon.name
+meMA.Kathisma31.incipit = "…"
+meMA.Kathisma31.text = "All aflame with a love for correct belief in God, * you brought down the delusions of Persian king Shapur; * and you were not afraid when he interrogated you, * but rather you attracted many to believe the truth of Christ, * O God-bearing holy Martyrs * Pegasios and Anempodistos * and godly-minded Acindynos."
+
+meMA.Kathisma3T.mode = misc_en_US_goadedes.Mode5
+meMA.Kathisma3T.melody = he.a.m5_en_US_goadedes.TonSynanarchonLogon.name
+meMA.Kathisma3T.incipit = oc.m5.d3_en_US_goadedes.ocVE.ApolTheotokionVM.incipit
+meMA.Kathisma3T.text = oc.m5.d3_en_US_goadedes.ocVE.ApolTheotokionVM.text
+
+meMA.PostGospelGlory.mode = misc_en_US_goadedes.Mode2
+meMA.PostGospelGlory.melody = ""
+meMA.PostGospelGlory.incipit = ho.s03_en_US_goadedes.hoMA.PostGospelMartyrs.incipit
+meMA.PostGospelGlory.text = ho.s03_en_US_goadedes.hoMA.PostGospelMartyrs.text
+
+meMA.PostGospelBoth.mode = misc_en_US_goadedes.Mode2
+meMA.PostGospelBoth.melody = ""
+meMA.PostGospelBoth.incipit = ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.incipit
+meMA.PostGospelBoth.text = ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.text
+
+meMA.PostGospelIdiomelon.mode = misc_en_US_goadedes.Mode2
+meMA.PostGospelIdiomelon.melody = ""
+meMA.PostGospelIdiomelon.incipit = meMA.Aposticha4.incipit
+meMA.PostGospelIdiomelon.text = meMA.Aposticha4.text
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
@@ -356,10 +421,30 @@ meMA.ExapTheotokion.melody = he.a.m2_en_US_goadedes.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
+meMA.Lauds1.mode = misc_en_US_goadedes.Mode8
+meMA.Lauds1.melody = he.a.m8_en_US_goadedes.OTouParadoxou.name
+meMA.Lauds1.incipit = "What a paradoxal miracle…"
+meMA.Lauds1.text = "What a paradoxal miracle! * For Anempodistos * and the great St. Acindynos * and the wise Pegasios, * bravely entered the contest of faith, * and they at once drew to Christianity * Elpidophoros and Afthonios. * They all competed well, * being fellow martyrs. By the grace of Christ, * being full of wisdom, they proclaimed the true faith in Him."
+
+meMA.Lauds2.mode = misc_en_US_goadedes.Mode8
+meMA.Lauds2.melody = he.a.m8_en_US_goadedes.OTouParadoxou.name
+meMA.Lauds2.incipit = "What a paradoxal…"
+meMA.Lauds2.text = "What a paradoxal miracle! * How the victorious Saints * were so steadfast in martyrdom; * how they drew to faith in Christ * such a numerous multitude; * how they endured the painful dismemberment; * how they rejoiced together in martyrdom! * Even as they were thrown * into prison and finally burned to death, * by the grace of Christ, the Martyrs were unfaltering."
+
+meMA.Lauds3.mode = misc_en_US_goadedes.Mode8
+meMA.Lauds3.melody = he.a.m8_en_US_goadedes.OTouParadoxou.name
+meMA.Lauds3.incipit = "Everyone in heaven…"
+meMA.Lauds3.text = "Everyone in heaven and on earth * is celebrating today, * and the orders of martyr saints * with the faithful Christians all * are together exultant in soul. * For the illustrious, solemn memory * of the all-holy Martyrs is here at last. * Come, fans of holidays, * see how Christ from heaven splendidly bestows * crowns of victory upon the holy Martyrs of Christ."
+
+meMA.LaudsGlory.mode = misc_en_US_goadedes.Mode5
+meMA.LaudsGlory.melody = ""
+meMA.LaudsGlory.incipit = "In Shapur the Second's kingdom…"
+meMA.LaudsGlory.text = "In Shapur the Second's kingdom, and the homeland of the Athletes, a marvelous wonder occurred. For there the brutal king tormented the Martyrs, whereas in heaven Christ cemented their martyrdom. At that time the famous Saints took part in the grueling ordeal, and now they ceaselessly sing the hymn of Sabaoth. The sea of godlessness has completely vanished, though it seemed interminable, whereas remaining intact is the blameless and divine faith of Emmanuel. O God, the One who is and ever was, at the entreaties of Your Saints, have mercy on us."
+
 meMA.Aposticha4.mode = misc_en_US_goadedes.Mode2
 meMA.Aposticha4.melody = ""
-meMA.Aposticha4.incipit = "…"
-meMA.Aposticha4.text = ""
+meMA.Aposticha4.incipit = "With your body dyed red…"
+meMA.Aposticha4.text = "With your body dyed red in the streams of your blood, you unhazardously proceeded down the path of martyrdom, O medaled martyr Acindynos. Girded as your were with divine strength, you broke the devices of the enemy. And now you intercede with Christ God on our behalf, entreating Him to save our souls."
 
 meMA.AposGlory.mode = misc_en_US_goadedes.Mode4
 meMA.AposGlory.melody = ""
