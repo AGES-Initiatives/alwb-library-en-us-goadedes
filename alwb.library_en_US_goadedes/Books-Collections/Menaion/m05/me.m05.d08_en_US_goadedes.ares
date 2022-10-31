@@ -116,6 +116,11 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
+meMA.Kathisma11.mode = misc_en_US_goadedes.Mode8
+meMA.Kathisma11.melody = he.a.m8_en_US_goadedes.TinSofianKaiLogon.name
+meMA.Kathisma11.incipit = me.m09.d26_en_US_goadedes.meMA.Kathisma11.incipit
+meMA.Kathisma11.text = me.m09.d26_en_US_goadedes.meMA.Kathisma11.text
+
 meMA.Kathisma21.mode = misc_en_US_goadedes.Mode8
 meMA.Kathisma21.melody = he.a.m8_en_US_goadedes.TinSofianKaiLogon.name
 meMA.Kathisma21.incipit = "…"
@@ -125,8 +130,6 @@ meMA.Kathisma31.mode = misc_en_US_goadedes.Mode4
 meMA.Kathisma31.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
-
-meMA.MM.Prokeimenon.text = properties_en_US_goadedes.media.key
 
 meMA.PostGospelGlory.mode = misc_en_US_goadedes.Mode2
 meMA.PostGospelGlory.melody = ""
