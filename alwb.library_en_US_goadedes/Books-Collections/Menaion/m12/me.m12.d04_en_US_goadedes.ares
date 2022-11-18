@@ -551,8 +551,8 @@ meMA.Lauds3.text = ""
 meMA.Lauds4.poet = poets_en_US_goadedes.Vyzantiou
 meMA.Lauds4.mode = misc_en_US_goadedes.Mode2
 meMA.Lauds4.melody = misc_en_US_goadedes.Idiomelon
-meMA.Lauds4.incipit = "…"
-meMA.Lauds4.text = ""
+meMA.Lauds4.incipit = meVE.LityGlory.incipit
+meMA.Lauds4.text = meVE.LityGlory.text
 
 meMA.LaudsGlory.poet = poets_en_US_goadedes.IoannouMonachou
 meMA.LaudsGlory.mode = misc_en_US_goadedes.Mode6
