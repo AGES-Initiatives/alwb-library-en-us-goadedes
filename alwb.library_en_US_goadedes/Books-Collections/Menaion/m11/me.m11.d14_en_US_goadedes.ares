@@ -4,7 +4,7 @@ meDA.date = ""
 meDA.commemoration.full = "" // full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = titles_en_US_goadedes.TouApostolou
+meDA.commemoration.first_title = titles_en_US_goadedes.ti.Apostle
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -92,7 +92,7 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.poet = poets_en_US_goadedes.Theofanous
-meMA.C1.title = titles_en_US_goadedes.KanonTouApostolou
+meMA.C1.title = titles_en_US_goadedes.ti.CanonApostle
 meMA.C1.verse = prayers_en_US_goadedes.verse_Apostle.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
@@ -606,14 +606,14 @@ alt1.meMA.C1.acrostic.title = ""
 alt1.meMA.C1.acrostic.notice1 = ""
 alt1.meMA.C1.acrostic.text = ""
 alt1.meMA.C1.acrostic.notice2 = ""
-alt1.meMA.C1.title = titles_en_US_goadedes.KanonATouAgiou
+alt1.meMA.C1.title = titles_en_US_goadedes.ti.Canon1SaintM
 alt1.meMA.C1.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 alt1.meMA.C2.acrostic.title = ""
 alt1.meMA.C2.acrostic.notice1 = ""
 alt1.meMA.C2.acrostic.text = ""
 alt1.meMA.C2.acrostic.notice2 = ""
-alt1.meMA.C2.title = titles_en_US_goadedes.KanonBTouAgiou
+alt1.meMA.C2.title = titles_en_US_goadedes.ti.Canon2SaintM
 alt1.meMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
@@ -921,7 +921,7 @@ alt1.meMA.Oikos17.text = tr.d036_en_US_goadedes.trMA.Oikos17.text
 alt1.meMA.Oikos18.text = tr.d036_en_US_goadedes.trMA.Oikos18.text
 
 alt1.meMA.Synaxarion.text = ""
-alt1.meMA.couplet1.title = titles_en_US_goadedes.Stichoi
+alt1.meMA.couplet1.title = titles_en_US_goadedes.ti.Verses
 alt1.meMA.couplet1.verse1 = ""
 alt1.meMA.couplet1.verse2 = ""
 alt1.meMA.couplet2.verse1 = ""

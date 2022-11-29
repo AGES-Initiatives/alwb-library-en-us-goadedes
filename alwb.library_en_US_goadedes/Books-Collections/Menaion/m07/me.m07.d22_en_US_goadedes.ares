@@ -4,7 +4,7 @@ meDA.date = ""
 meDA.commemoration.full = "" // full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = titles_en_US_goadedes.TisAgias
+meDA.commemoration.first_title = titles_en_US_goadedes.ti.SaintW
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -90,7 +90,7 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.poet = poets_en_US_goadedes.Theofanous
-meMA.C1.title = titles_en_US_goadedes.KanonTisMyroforou
+meMA.C1.title = titles_en_US_goadedes.ti.CanonMyrrhbearerW
 meMA.C1.verse = prayers_en_US_goadedes.verse_SaintW.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
@@ -456,7 +456,7 @@ alt1.meMA.PostGospelIdiomelon.incipit = alt1.meVE.AposGlory.incipit
 alt1.meMA.PostGospelIdiomelon.text = alt1.meVE.AposGlory.text
 
 alt1.meMA.C1.poet = poets_en_US_goadedes.NikiforouChiou
-alt1.meMA.C1.title = titles_en_US_goadedes.KanonTisMartyros
+alt1.meMA.C1.title = titles_en_US_goadedes.ti.CanonMartyrW
 alt1.meMA.C1.verse = prayers_en_US_goadedes.verse_SaintW.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1

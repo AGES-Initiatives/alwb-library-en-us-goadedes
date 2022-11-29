@@ -144,7 +144,7 @@ peMA.C1.acrostic.notice1 = ""
 peMA.C1.acrostic.text = ""
 peMA.C1.acrostic.notice2 = ""
 peMA.C1.poet = poets_en_US_goadedes.KosmaMonachou
-peMA.C1.title = titles_en_US_goadedes.KanonATisEortis
+peMA.C1.title = titles_en_US_goadedes.ti.Canon1Feast
 peMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 peMA.C2.acrostic.title = "Another Canon."
@@ -152,7 +152,7 @@ peMA.C2.acrostic.notice1 = "The Acrostic formed by the first letter of each line
 peMA.C2.acrostic.text = "Logos Son of God, You sent the Spirit, another Advocate, from the Father's bosom to those on earth in fiery tongues, sign of inherent Godhead, and grace to the translator."
 peMA.C2.acrostic.notice2 = ""
 peMA.C2.poet = poets_en_US_goadedes.KyriouIoannouArkla
-peMA.C2.title = titles_en_US_goadedes.KanonBTisEortis
+peMA.C2.title = titles_en_US_goadedes.ti.Canon2Feast
 peMA.C2.verse = prayers_en_US_goadedes.verse_God.text
 
 peMA.C2.acrostic.line1.text = "Logos Son of God, You sent the Spirit,"
@@ -422,7 +422,7 @@ peMA.Oikos1.incipit = "…"
 peMA.Oikos1.text = ""
 
 peSY.commemoration.text = ""
-peSY.commemoration.couplet1.title = titles_en_US_goadedes.Stichoi
+peSY.commemoration.couplet1.title = titles_en_US_goadedes.ti.Verses
 peSY.commemoration.couplet1.verse1 = ""
 peSY.commemoration.couplet1.verse2 = ""
 peSY.commemoration.single1 = ""

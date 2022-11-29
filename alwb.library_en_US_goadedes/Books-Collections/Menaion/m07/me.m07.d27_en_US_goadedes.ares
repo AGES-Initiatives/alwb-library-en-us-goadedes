@@ -4,7 +4,7 @@ meDA.date = ""
 meDA.commemoration.full = "" // full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = titles_en_US_goadedes.TouAgiou
+meDA.commemoration.first_title = titles_en_US_goadedes.ti.SaintM
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -167,7 +167,7 @@ meMA.PostGospelIdiomelon.text = ""
 meMA.C1.acrostic.title = "Canon for the Theotokos."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.poet = poets_en_US_goadedes.Theofanous
-meMA.C1.title = titles_en_US_goadedes.KanonTisTheotokou
+meMA.C1.title = titles_en_US_goadedes.ti.CanonTheotokos
 meMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
 // Canon 1 is similar to oc.m2.d4 canon 2, attributed to John of Euchaita
 
@@ -175,7 +175,7 @@ meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
 meMA.C2.poet = poets_en_US_goadedes.Theofanous
-meMA.C2.title = titles_en_US_goadedes.KanonTouAgiou
+meMA.C2.title = titles_en_US_goadedes.ti.CanonSaintM
 meMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1

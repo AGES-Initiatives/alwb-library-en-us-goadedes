@@ -115,7 +115,7 @@ meMA.Kathisma21.melody = he.a.m1_en_US_goadedes.TonTafonSouSotir.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
-meMA.C1.title = titles_en_US_goadedes.KanonTisAgias
+meMA.C1.title = titles_en_US_goadedes.ti.CanonSaintW
 meMA.C1.verse = prayers_en_US_goadedes.verse_SaintW.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
@@ -391,10 +391,10 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "…"
 alt1.meMA.PostGospelIdiomelon.text = ""
 
-alt1.meMA.C1.title = titles_en_US_goadedes.KanonATisAgias
+alt1.meMA.C1.title = titles_en_US_goadedes.ti.Canon1SaintW
 alt1.meMA.C1.verse = prayers_en_US_goadedes.verse_SaintW.text
 
-alt1.meMA.C2.title = titles_en_US_goadedes.KanonBTisAgias
+alt1.meMA.C2.title = titles_en_US_goadedes.ti.Canon2SaintW
 alt1.meMA.C2.verse = prayers_en_US_goadedes.verse_SaintW.text
 
 alt1.meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
@@ -794,7 +794,7 @@ alt1.meMA.Kontakion1.text = ""
 alt1.meMA.Oikos1.text = ""
 
 alt1.meMA.Synaxarion.text = ""
-alt1.meMA.couplet1.title = titles_en_US_goadedes.Stichoi
+alt1.meMA.couplet1.title = titles_en_US_goadedes.ti.Verses
 alt1.meMA.couplet1.verse1 = ""
 alt1.meMA.couplet1.verse2 = ""
 alt1.meMA.single1.text = ""

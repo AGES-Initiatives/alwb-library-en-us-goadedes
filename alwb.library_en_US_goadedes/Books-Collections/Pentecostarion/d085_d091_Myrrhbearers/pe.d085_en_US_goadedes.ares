@@ -114,7 +114,7 @@ peMA.Kathisma23.melody = ""
 peMA.Kathisma23.incipit = oc.m2.d1_en_US_goadedes.ocMA.Kathisma13.incipit
 peMA.Kathisma23.text = oc.m2.d1_en_US_goadedes.ocMA.Kathisma13.text
 
-peMA.C1.title = titles_en_US_goadedes.KanonTonMyroforon
+peMA.C1.title = titles_en_US_goadedes.ti.CanonMyrrhbearers
 peMA.C1.poet = poets_en_US_goadedes.AndreouKritis
 peMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
@@ -466,7 +466,7 @@ peMA.Kontakion1.text = ""
 peMA.Oikos1.text = ""
 
 peSY.commemoration.text = ""
-peSY.commemoration.couplet1.title = titles_en_US_goadedes.Stichoi
+peSY.commemoration.couplet1.title = titles_en_US_goadedes.ti.Verses
 peSY.commemoration.couplet1.verse1 = ""
 peSY.commemoration.couplet1.verse2 = ""
 peSY.commemoration.narration.p01 = ""

@@ -4,7 +4,7 @@ meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 1
 meDA.commemoration.full = "" // full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = titles_en_US_goadedes.TonAgion
+meDA.commemoration.first_title = titles_en_US_goadedes.ti.Saints
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -240,18 +240,18 @@ meMA.C1.acrostic.title = "Canon for the Theotokos."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.poet = poets_en_US_goadedes.IoannouEfchaiton
-meMA.C1.title = titles_en_US_goadedes.KanonTisTheotokou
+meMA.C1.title = titles_en_US_goadedes.ti.CanonTheotokos
 meMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
 
 meMA.C2.acrostic.title = "Canon for the Saints."
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
 meMA.C2.poet = poets_en_US_goadedes.IoannouEfchaiton
-meMA.C2.title = titles_en_US_goadedes.KanonATonAgion
+meMA.C2.title = titles_en_US_goadedes.ti.Canon1Saints
 meMA.C2.verse = prayers_en_US_goadedes.verse_SaintsM.text
 
 meMA.C3.poet = poets_en_US_goadedes.IoannouEfchaiton
-meMA.C3.title = titles_en_US_goadedes.KanonBTonAgion
+meMA.C3.title = titles_en_US_goadedes.ti.Canon2Saints
 meMA.C3.verse = prayers_en_US_goadedes.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
@@ -965,7 +965,7 @@ meMegalynarion.text = "Holy father Basil, and most divine * John, and godly-mind
 alt1.meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt1.meDA.commemoration.full = "" //full title of day
 alt1.meDA.commemoration.first_short = ""
-alt1.meDA.commemoration.first_title = titles_en_US_goadedes.TouAgiou
+alt1.meDA.commemoration.first_title = titles_en_US_goadedes.ti.SaintM
 alt1.meDA.commemoration.first_name = ""
 alt1.meDA.commemoration.second_title = ""
 alt1.meDA.commemoration.second_name = ""
@@ -981,7 +981,7 @@ alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
 
 alt1.meMA.C1.poet = poets_en_US_goadedes.IoannouMonachou
-alt1.meMA.C1.title = titles_en_US_goadedes.KanonTouAgiou
+alt1.meMA.C1.title = titles_en_US_goadedes.ti.CanonSaintM
 alt1.meMA.C1.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1

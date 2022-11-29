@@ -126,7 +126,7 @@ peMA.C1.acrostic.notice1 = ""
 peMA.C1.acrostic.text = ""
 peMA.C1.acrostic.notice2 = ""
 peMA.C1.poet = ""
-peMA.C1.title = titles_en_US_goadedes.KanonTonAgion
+peMA.C1.title = titles_en_US_goadedes.ti.CanonSaints
 peMA.C1.verse = prayers_en_US_goadedes.verse_SaintsM.text
 
 peMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
@@ -279,7 +279,7 @@ peMA.Kontakion1.text = he.a.m8_en_US_goadedes.OsAparchas.text
 peMA.Oikos1.text = ""
 
 peSY.commemoration.text = ""
-peSY.commemoration.couplet1.title = titles_en_US_goadedes.Stichoi
+peSY.commemoration.couplet1.title = titles_en_US_goadedes.ti.Verses
 peSY.commemoration.couplet1.verse1 = ""
 peSY.commemoration.couplet1.verse2 = ""
 peSY.commemoration.narration.p01 = ""

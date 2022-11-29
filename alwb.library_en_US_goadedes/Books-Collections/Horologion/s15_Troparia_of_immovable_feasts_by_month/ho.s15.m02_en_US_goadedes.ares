@@ -4,7 +4,7 @@ ho.Month = ""
 ho.Days = ""
 ho.Hours = ""
 
-hoD01.Apolytikion2.title = titles_en_US_goadedes.TouMartyros
+hoD01.Apolytikion2.title = titles_en_US_goadedes.ti.Martyr
 hoD01.Apolytikion2.poet = ""
 hoD01.Apolytikion2.mode = misc_en_US_goadedes.Mode4
 hoD01.Apolytikion2.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
@@ -17,7 +17,7 @@ hoD06.GeneralApolytikion1.name = ""
 hoD08.GeneralApolytikion2.name = ""
 hoD08.GeneralApolytikion2.text = properties_en_US_goadedes.media.key
 
-hoD10.Kontakion1.title = titles_en_US_goadedes.TouIeromartyros
+hoD10.Kontakion1.title = titles_en_US_goadedes.ti.Hieromartyr
 hoD10.Kontakion1.poet = ""
 hoD10.Kontakion1.mode = misc_en_US_goadedes.Mode4
 hoD10.Kontakion1.melody = he.a.m4_en_US_goadedes.EpefanisSimeron.name

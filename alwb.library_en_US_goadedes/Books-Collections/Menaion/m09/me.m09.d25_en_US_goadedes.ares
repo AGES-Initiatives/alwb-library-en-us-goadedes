@@ -4,7 +4,7 @@ meDA.date = ""
 meDA.commemoration.full = "" //full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = titles_en_US_goadedes.TisAgias
+meDA.commemoration.first_title = titles_en_US_goadedes.ti.SaintW
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -61,13 +61,13 @@ meVE.Apolytikion1.melody = he.a.m5_en_US_goadedes.TonSynanarchonLogon.name
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
-meMA.C1.title = titles_en_US_goadedes.KanonATisOsias
+meMA.C1.title = titles_en_US_goadedes.ti.Canon1DevoutW
 meMA.C1.verse = prayers_en_US_goadedes.verse_DevoutWoman.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-meMA.C2.title = titles_en_US_goadedes.KanonBTisOsias
+meMA.C2.title = titles_en_US_goadedes.ti.Canon2DevoutW
 meMA.C2.verse = prayers_en_US_goadedes.verse_DevoutWoman.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1

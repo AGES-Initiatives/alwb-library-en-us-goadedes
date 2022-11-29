@@ -2,7 +2,7 @@ A_Resource_Whose_Name = tr.d057_en_US_goadedes
 
 trDA.commemoration.full = "" //full title of day
 trDA.commemoration.short = ""
-trDA.title = titles_en_US_goadedes.TisAgias
+trDA.title = titles_en_US_goadedes.ti.SaintW
 trDA.insert1 = "" //for use in petitions and dismissal
 trDA.insert2 = "" //for use in petitions and dismissal
 trDA.note = ""
@@ -72,7 +72,7 @@ trMA.PostGospelIdiomelon.melody = ""
 trMA.PostGospelIdiomelon.incipit = tr.d001_en_US_goadedes.trMA.PostGospelIdiomelon.incipit
 trMA.PostGospelIdiomelon.text = tr.d001_en_US_goadedes.trMA.PostGospelIdiomelon.text
 
-trMA.C1.title = titles_en_US_goadedes.KanonTouTriodiou
+trMA.C1.title = titles_en_US_goadedes.ti.CanonTriodion
 trMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 trMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
@@ -99,7 +99,7 @@ trMA.Ode1C1T.melody = he.h.m8_en_US_goadedes.YgranDiodefsas.name
 trMA.Ode1C1T.incipit = "…"
 trMA.Ode1C1T.text = ""
 
-trMA.C2.title = titles_en_US_goadedes.KanonTisOsias
+trMA.C2.title = titles_en_US_goadedes.ti.CanonDevoutW
 trMA.C2.verse = prayers_en_US_goadedes.verse_DevoutWoman.text
 trMA.C2.notice1 = "The service of St. Mary of Egypt is sung (or read) here this year, because it coincided with the leave-taking of the feast of the Annunciation."
 
@@ -338,7 +338,7 @@ trMA.Oikos1.text = ""
 
 trSY.commemoration.text = ""
 trSY.commemoration.onotherday.text = ""
-trSY.commemoration.couplet1.title = titles_en_US_goadedes.Stichoi
+trSY.commemoration.couplet1.title = titles_en_US_goadedes.ti.Verses
 trSY.commemoration.couplet1.verse1 = ""
 trSY.commemoration.couplet1.verse2 = ""
 trSY.commemoration.narration.p01 = ""

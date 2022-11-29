@@ -4,7 +4,7 @@ meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 1
 meDA.commemoration.full = "" // full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = titles_en_US_goadedes.TouMartyros
+meDA.commemoration.first_title = titles_en_US_goadedes.ti.Martyr
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -75,7 +75,7 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.poet = poets_en_US_goadedes.Theofanous
-meMA.C1.title = titles_en_US_goadedes.KanonTouAgiou
+meMA.C1.title = titles_en_US_goadedes.ti.CanonSaintM
 meMA.C1.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1

@@ -4,9 +4,9 @@ meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 1
 meDA.commemoration.full = "" // full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = titles_en_US_goadedes.Proeortia
+meDA.commemoration.first_title = titles_en_US_goadedes.ti.Forefestal_hymns
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_en_US_goadedes.TouAgiou
+meDA.commemoration.second_title = titles_en_US_goadedes.ti.SaintM
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
@@ -222,13 +222,13 @@ meMA.Kathisma22.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.poet = poets_en_US_goadedes.Iosif
-meMA.C1.title = titles_en_US_goadedes.KanonProeortios
+meMA.C1.title = titles_en_US_goadedes.ti.CanonForefeast
 meMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-meMA.C2.title = titles_en_US_goadedes.KanonTouAgiou
+meMA.C2.title = titles_en_US_goadedes.ti.CanonSaintM
 meMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1

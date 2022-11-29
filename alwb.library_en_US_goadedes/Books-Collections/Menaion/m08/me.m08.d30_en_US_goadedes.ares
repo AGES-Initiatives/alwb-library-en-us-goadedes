@@ -4,9 +4,9 @@ meDA.date = ""
 meDA.commemoration.full = "" //full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = titles_en_US_goadedes.TouProdromou
+meDA.commemoration.first_title = titles_en_US_goadedes.ti.Forerunner
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_en_US_goadedes.TonAgion
+meDA.commemoration.second_title = titles_en_US_goadedes.ti.Saints
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" //for use in petitions and dismissal
 meDA.insert2 = "" //for use in petitions and dismissal
@@ -82,10 +82,10 @@ meVE.Apolytikion2.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = titles_en_US_goadedes.KanonTouProdromou
+meMA.C1.title = titles_en_US_goadedes.ti.CanonForerunner
 meMA.C1.verse = prayers_en_US_goadedes.verse_Baptist.text
 
-meMA.C2.title = titles_en_US_goadedes.KanonTonAgion
+meMA.C2.title = titles_en_US_goadedes.ti.CanonSaints
 meMA.C2.verse = prayers_en_US_goadedes.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1

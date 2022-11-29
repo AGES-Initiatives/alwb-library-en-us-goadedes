@@ -2,7 +2,7 @@ A_Resource_Whose_Name = tr.d036_en_US_goadedes
 
 trDA.commemoration.full = "" //full title of day
 trDA.commemoration.short = ""
-trDA.title = titles_en_US_goadedes.TouIerarchou
+trDA.title = titles_en_US_goadedes.ti.Hierarch
 trDA.insert1 = "" //for use in petitions and dismissal
 trDA.insert2 = "" //for use in petitions and dismissal
 trDA.note = ""
@@ -72,7 +72,7 @@ trMA.PostGospelIdiomelon.melody = ""
 trMA.PostGospelIdiomelon.incipit = tr.d001_en_US_goadedes.trMA.PostGospelIdiomelon.incipit
 trMA.PostGospelIdiomelon.text = tr.d001_en_US_goadedes.trMA.PostGospelIdiomelon.text
 
-trMA.C1.title = titles_en_US_goadedes.KanonTouAgiou
+trMA.C1.title = titles_en_US_goadedes.ti.CanonSaintM
 trMA.C1.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 trMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
@@ -221,7 +221,7 @@ trMA.Oikos18.text = ""
 
 trSY.commemoration.text = ""
 trSY.commemoration.onotherday.text = ""
-trSY.commemoration.couplet1.title = titles_en_US_goadedes.Stichoi
+trSY.commemoration.couplet1.title = titles_en_US_goadedes.ti.Verses
 trSY.commemoration.couplet1.verse1 = ""
 trSY.commemoration.couplet1.verse2 = ""
 trSY.commemoration.narration.p01 = ""

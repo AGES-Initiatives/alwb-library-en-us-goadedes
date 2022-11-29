@@ -6,9 +6,9 @@ meDA.commemoration.second = "" // full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
 meDA.commemoration.second_short = ""
-meDA.commemoration.first_title = titles_en_US_goadedes.TonMartyron
+meDA.commemoration.first_title = titles_en_US_goadedes.ti.Martyrs
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_en_US_goadedes.TonOsion
+meDA.commemoration.second_title = titles_en_US_goadedes.ti.DevoutSaints
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" //for use in petitions and dismissal
 meDA.insert2 = "" //for use in petitions and dismissal
@@ -113,13 +113,13 @@ meMA.Kathisma22.text = me.m01.d06_en_US_goadedes.meMA.Kathisma31.text
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = titles_en_US_goadedes.KanonTonMartyron
+meMA.C1.title = titles_en_US_goadedes.ti.CanonMartyrs
 meMA.C1.verse = prayers_en_US_goadedes.verse_SaintsM.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-meMA.C2.title = titles_en_US_goadedes.KanonTonOsion
+meMA.C2.title = titles_en_US_goadedes.ti.CanonDevoutSaints
 meMA.C2.verse = prayers_en_US_goadedes.verse_DevoutMen.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1

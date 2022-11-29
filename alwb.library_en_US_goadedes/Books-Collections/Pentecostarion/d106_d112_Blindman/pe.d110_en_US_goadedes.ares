@@ -183,7 +183,7 @@ peMA.PostGospelIdiomelon.text = ""
 
 peMA.C1.acrostic.title = "The Canon in Mode pl. 1."
 peMA.C1.poet = poets_en_US_goadedes.IoannouMonachou
-peMA.C1.title = titles_en_US_goadedes.KanonATisEortis
+peMA.C1.title = titles_en_US_goadedes.ti.Canon1Feast
 peMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 peMA.C2.acrostic.title = "The Canon in Mode 4."
@@ -191,7 +191,7 @@ peMA.C2.acrostic.notice1 = ""
 peMA.C2.acrostic.text = ""
 peMA.C2.acrostic.notice2 = ""
 peMA.C2.poet = poets_en_US_goadedes.IosifThessalonikis
-peMA.C2.title = titles_en_US_goadedes.KanonBTisEortis
+peMA.C2.title = titles_en_US_goadedes.ti.Canon2Feast
 peMA.C2.verse = prayers_en_US_goadedes.verse_God.text
 
 peMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
@@ -513,7 +513,7 @@ peMA.Kontakion1.text = he.a.m6_en_US_goadedes.TinYperImon.text
 peMA.Oikos1.text = ""
 
 peSY.commemoration.text = ""
-peSY.commemoration.couplet1.title = titles_en_US_goadedes.Stichoi
+peSY.commemoration.couplet1.title = titles_en_US_goadedes.ti.Verses
 peSY.commemoration.couplet1.verse1 = ""
 peSY.commemoration.couplet1.verse2 = ""
 peSY.commemoration.narration.p01 = ""

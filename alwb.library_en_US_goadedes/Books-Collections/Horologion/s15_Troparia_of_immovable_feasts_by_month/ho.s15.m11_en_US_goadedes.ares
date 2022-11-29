@@ -11,14 +11,14 @@ hoD03.Apolytikion1.melody = ""
 hoD03.Apolytikion1.incipit = me.m04.d23_en_US_goadedes.meVE.Apolytikion1.incipit
 hoD03.Apolytikion1.text = me.m04.d23_en_US_goadedes.meVE.Apolytikion1.text
 
-hoD03.Apolytikion2.title = titles_en_US_goadedes.TonMartyron
+hoD03.Apolytikion2.title = titles_en_US_goadedes.ti.Martyrs
 hoD03.Apolytikion2.poet = ""
 hoD03.Apolytikion2.mode = misc_en_US_goadedes.Mode4
 hoD03.Apolytikion2.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
 hoD03.Apolytikion2.incipit = he.ga_en_US_goadedes.OiMartyresSouKyrie.incipit
 hoD03.Apolytikion2.text = he.ga_en_US_goadedes.OiMartyresSouKyrie.text
 
-hoD03.Apolytikion3.title = titles_en_US_goadedes.Eteron
+hoD03.Apolytikion3.title = titles_en_US_goadedes.ti.Another_1hymn
 hoD03.Apolytikion3.poet = ""
 hoD03.Apolytikion3.mode = misc_en_US_goadedes.Mode3
 hoD03.Apolytikion3.melody = he.a.m3_en_US_goadedes.TheiasPisteos.name
@@ -27,13 +27,13 @@ hoD03.Apolytikion3.text = ""
 
 hoD09.GeneralApolytikion1.name = ""
 
-hoD11.GeneralApolytikion3.title = titles_en_US_goadedes.TouOsiou
+hoD11.GeneralApolytikion3.title = titles_en_US_goadedes.ti.DevoutSaintM
 hoD11.GeneralApolytikion3.poet = ""
 hoD11.GeneralApolytikion3.mode = he.ga_en_US_goadedes.OrthodoxiasOdigeM.mode
 hoD11.GeneralApolytikion3.melody = he.ga_en_US_goadedes.OrthodoxiasOdigeM.name
 hoD11.GeneralApolytikion3.name = ""
 
-hoD12.GeneralApolytikion2.title = titles_en_US_goadedes.TouOsiou
+hoD12.GeneralApolytikion2.title = titles_en_US_goadedes.ti.DevoutSaintM
 hoD12.GeneralApolytikion2.poet = ""
 hoD12.GeneralApolytikion2.mode = he.ga_en_US_goadedes.TaisTonDakryonSou.mode
 hoD12.GeneralApolytikion2.melody = he.ga_en_US_goadedes.TaisTonDakryonSou.name

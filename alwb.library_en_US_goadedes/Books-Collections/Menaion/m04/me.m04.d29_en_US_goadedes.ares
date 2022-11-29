@@ -4,7 +4,7 @@ meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 1
 meDA.commemoration.full = "" // full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = titles_en_US_goadedes.TonApostolon
+meDA.commemoration.first_title = titles_en_US_goadedes.ti.Apostles
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -45,7 +45,7 @@ meVE.Apolytikion2.melody = ""
 meVE.Apolytikion2.incipit = he.ga_en_US_goadedes.ApostoloiAgioi.incipit
 meVE.Apolytikion2.text = he.ga_en_US_goadedes.ApostoloiAgioi.text
 
-meMA.C1.title = titles_en_US_goadedes.KanonTonAgion
+meMA.C1.title = titles_en_US_goadedes.ti.CanonSaints
 meMA.C1.verse = prayers_en_US_goadedes.verse_Apostles.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1

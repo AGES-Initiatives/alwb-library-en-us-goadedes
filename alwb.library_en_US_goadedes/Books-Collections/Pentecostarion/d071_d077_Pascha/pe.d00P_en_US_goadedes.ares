@@ -46,7 +46,7 @@ pePA.ChristIsRisenShort.text = "" //for media
 
 pePA.C1.poet = poets_en_US_goadedes.IoannouTouDamaskinou
 pePA.C1.text = "" //for media
-pePA.C1.title = titles_en_US_goadedes.KanonTouPascha
+pePA.C1.title = titles_en_US_goadedes.ti.CanonPascha
 pePA.C1.verse = prayers_en_US_goadedes.verse_Resurrection.text
 
 pePA.CTh.acrostic.title = "Canon for the Theotokos."
@@ -54,7 +54,7 @@ pePA.CTh.acrostic.notice1 = ""
 pePA.CTh.acrostic.text = ""
 pePA.CTh.acrostic.notice2 = ""
 pePA.CTh.poet = "Some manuscripts say that only the first troparion of each ode is by Theophanes, and the rest are by Joseph of Thessalonica."
-pePA.CTh.title = titles_en_US_goadedes.KanonTisTheotokou
+pePA.CTh.title = titles_en_US_goadedes.ti.CanonTheotokos
 
 pePA.Ode1H.ode = misc_en_US_goadedes.Ode1
 pePA.Ode1H.mode = misc_en_US_goadedes.Mode1

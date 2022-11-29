@@ -4,7 +4,7 @@ meDA.date = ""
 meDA.commemoration.full = "" // full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = titles_en_US_goadedes.TonMartyron
+meDA.commemoration.first_title = titles_en_US_goadedes.ti.Martyrs
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = "For St. Stephen."
 meDA.commemoration.second_name = ""
@@ -59,14 +59,14 @@ meVE.SticStavrotheotokion.melody = he.a.m8_en_US_goadedes.OTouParadoxou.name
 meVE.SticStavrotheotokion.incipit = me.m03.d12_en_US_goadedes.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m03.d12_en_US_goadedes.meVE.SticStavrotheotokion.text
 
-meMA.C1.title = titles_en_US_goadedes.KanonTonMartyron
+meMA.C1.title = titles_en_US_goadedes.ti.CanonMartyrs
 meMA.C1.verse = prayers_en_US_goadedes.verse_SaintsM.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
 meMA.C2.poet = poets_en_US_goadedes.Theofanous
-meMA.C2.title = titles_en_US_goadedes.KanonTouOsiou
+meMA.C2.title = titles_en_US_goadedes.ti.CanonDevoutM
 meMA.C2.verse = prayers_en_US_goadedes.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
@@ -529,7 +529,7 @@ meMegalynarion.text = ""
 alt1.meDA.date = "October 28"
 alt1.meDA.commemoration.full = "We commemorate the Holy Protection of our Most Holy Lady Theotokos and Ever-Virgin Mary" //full title of day
 alt1.meDA.commemoration.first_short = "Holy Protection of the Theotokos"
-alt1.meDA.commemoration.first_title = titles_en_US_goadedes.TisTheotokou
+alt1.meDA.commemoration.first_title = titles_en_US_goadedes.ti.Theotokos
 alt1.meDA.commemoration.first_name = "Holy Protection"
 alt1.meDA.commemoration.second_title = ""
 alt1.meDA.commemoration.second_name = ""
@@ -719,13 +719,13 @@ alt1.meMA.PostGospelIdiomelon.text = "Today, the all-lauded Virgin unfolded her 
 alt1.meMA.C1.acrostic.title = "First Canon."
 alt1.meMA.C1.acrostic.notice1 = ""
 alt1.meMA.C1.acrostic.text = ""
-alt1.meMA.C1.title = titles_en_US_goadedes.KanonATisTheotokou
+alt1.meMA.C1.title = titles_en_US_goadedes.ti.Canon1Theotokos
 alt1.meMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
 
 alt1.meMA.C2.acrostic.title = "Second Canon."
 alt1.meMA.C2.acrostic.notice1 = ""
 alt1.meMA.C2.acrostic.text = ""
-alt1.meMA.C2.title = titles_en_US_goadedes.KanonBTisTheotokou
+alt1.meMA.C2.title = titles_en_US_goadedes.ti.Canon2Theotokos
 alt1.meMA.C2.verse = prayers_en_US_goadedes.verse_Theotokos.text
 
 alt1.meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1

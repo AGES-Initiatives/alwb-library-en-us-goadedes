@@ -6,7 +6,7 @@ meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
 meDA.commemoration.first_title = "For the Circumcision."
 meDA.commemoration.first_name = "Circumcision of the Lord"
-meDA.commemoration.second_title = titles_en_US_goadedes.TouAgiou
+meDA.commemoration.second_title = titles_en_US_goadedes.ti.SaintM
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" //for use in petitions and dismissal
 meDA.insert2 = "" //for use in petitions and dismissal
@@ -188,11 +188,11 @@ meMA.PostGospelIdiomelon.incipit = meVE.LityGlory.incipit
 meMA.PostGospelIdiomelon.text = meVE.LityGlory.text
 
 meMA.C1.poet = poets_en_US_goadedes.Stefanou
-meMA.C1.title = titles_en_US_goadedes.KanonTisEortis
+meMA.C1.title = titles_en_US_goadedes.ti.CanonFeast
 meMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 meMA.C2.poet = poets_en_US_goadedes.IoannouTouDamaskinou
-meMA.C2.title = titles_en_US_goadedes.KanonTouAgiou
+meMA.C2.title = titles_en_US_goadedes.ti.CanonSaintM
 meMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1

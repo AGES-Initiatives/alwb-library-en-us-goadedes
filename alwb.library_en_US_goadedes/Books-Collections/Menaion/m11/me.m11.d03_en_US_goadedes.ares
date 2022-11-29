@@ -4,7 +4,7 @@ meDA.date = ""
 meDA.commemoration.full = "" // full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = titles_en_US_goadedes.TonMartyron
+meDA.commemoration.first_title = titles_en_US_goadedes.ti.Martyrs
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = "For St. George."
 meDA.commemoration.second_name = ""
@@ -110,13 +110,13 @@ meVE.Apolytikion2.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = titles_en_US_goadedes.KanonTonAgion
+meMA.C1.title = titles_en_US_goadedes.ti.CanonSaints
 meMA.C1.verse = prayers_en_US_goadedes.verse_SaintsM.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-meMA.C2.title = titles_en_US_goadedes.KanonTouAgiou
+meMA.C2.title = titles_en_US_goadedes.ti.CanonSaintM
 meMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1

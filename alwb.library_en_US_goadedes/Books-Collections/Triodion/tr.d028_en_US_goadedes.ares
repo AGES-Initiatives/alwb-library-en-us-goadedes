@@ -2,7 +2,7 @@ A_Resource_Whose_Name = tr.d028_en_US_goadedes
 
 trDA.commemoration.full = "" //full title of day
 trDA.commemoration.short = ""
-trDA.title = titles_en_US_goadedes.TouAgiou
+trDA.title = titles_en_US_goadedes.ti.SaintM
 trDA.insert1 = "" //for use in petitions and dismissal
 trDA.insert2 = "" //for use in petitions and dismissal
 trDA.note = ""
@@ -300,11 +300,11 @@ trMA.C1.acrostic.notice1 = ""
 trMA.C1.acrostic.text = ""
 trMA.C1.acrostic.notice2 = ""
 trMA.C1.poet = poets_en_US_goadedes.IoannouEfchaiton
-trMA.C1.title = titles_en_US_goadedes.KanonATouAgiou
+trMA.C1.title = titles_en_US_goadedes.ti.Canon1SaintM
 trMA.C1.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 trMA.C2.poet = poets_en_US_goadedes.IoannouEfchaiton
-trMA.C2.title = titles_en_US_goadedes.KanonBTouAgiou
+trMA.C2.title = titles_en_US_goadedes.ti.Canon2SaintM
 trMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
 
 trMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
@@ -655,7 +655,7 @@ trMA.Oikos1.text = ""
 
 trSY.commemoration.text = ""
 trSY.commemoration.onotherday.text = ""
-trSY.commemoration.couplet1.title = titles_en_US_goadedes.Stichoi
+trSY.commemoration.couplet1.title = titles_en_US_goadedes.ti.Verses
 trSY.commemoration.couplet1.verse1 = ""
 trSY.commemoration.couplet1.verse2 = ""
 trSY.commemoration.narration.p01 = ""

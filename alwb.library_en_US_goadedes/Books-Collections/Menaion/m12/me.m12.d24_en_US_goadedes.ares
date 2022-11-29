@@ -5,7 +5,7 @@ meDA.commemoration.full = "" //full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
 meDA.commemoration.second_short = ""
-meDA.commemoration.first_title = titles_en_US_goadedes.TisAgias
+meDA.commemoration.first_title = titles_en_US_goadedes.ti.SaintW
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -88,7 +88,7 @@ meVE.Apolytikion2.text = ""
 
 meCO.C1.acrostic.title = "Forefestal Canon."
 meCO.C1.acrostic.notice1 = ""
-meCO.C1.title = titles_en_US_goadedes.KanonProeortios
+meCO.C1.title = titles_en_US_goadedes.ti.CanonForefeast
 meCO.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 meCO.Ode1C1H.ode = misc_en_US_goadedes.Ode1
@@ -297,7 +297,7 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.acrostic.notice2 = ""
-meMA.C1.title = titles_en_US_goadedes.KanonProeortios
+meMA.C1.title = titles_en_US_goadedes.ti.CanonForefeast
 meMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 meMA.C2.acrostic.title = ""
@@ -309,7 +309,7 @@ meMA.C3.acrostic.title = ""
 meMA.C3.acrostic.notice1 = ""
 meMA.C3.acrostic.text = ""
 meMA.C3.poet = poets_en_US_goadedes.Theofanous
-meMA.C3.title = titles_en_US_goadedes.KanonTisAgias
+meMA.C3.title = titles_en_US_goadedes.ti.CanonSaintW
 meMA.C3.verse = prayers_en_US_goadedes.verse_SaintW.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1

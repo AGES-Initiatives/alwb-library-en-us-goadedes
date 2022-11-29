@@ -2,7 +2,7 @@ A_Resource_Whose_Name = tr.d063_en_US_goadedes
 
 trDA.commemoration.full = "" //full title of day
 trDA.commemoration.short = ""
-trDA.title = titles_en_US_goadedes.TouLazarou
+trDA.title = titles_en_US_goadedes.ti.Lazarus
 trDA.insert1 = "" //for use in petitions and dismissal
 trDA.insert2 = "" //for use in petitions and dismissal
 trDA.note = ""
@@ -608,7 +608,7 @@ trMA.Ode1C1H.melody = he.h.m8_en_US_goadedes.AsomenToKyrio.melody
 trMA.Ode1C1H.incipit = he.h.m8_en_US_goadedes.AsomenToKyrio.incipit
 trMA.Ode1C1H.text = he.h.m8_en_US_goadedes.AsomenToKyrio.text
 
-trMA.C1.title = titles_en_US_goadedes.Kanon1
+trMA.C1.title = titles_en_US_goadedes.ti.Canon1
 trMA.C1.verse = prayers_en_US_goadedes.verse_God.text
 
 trMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
@@ -635,7 +635,7 @@ trMA.Ode1C14.melody = he.h.m8_en_US_goadedes.AsomenToKyrio.name
 trMA.Ode1C14.incipit = "…"
 trMA.Ode1C14.text = ""
 
-trMA.C2.title = titles_en_US_goadedes.Kanon2
+trMA.C2.title = titles_en_US_goadedes.ti.Canon2
 trMA.C2.verse = prayers_en_US_goadedes.verse_God.text
 
 trMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
@@ -900,7 +900,7 @@ trMA.Kontakion1.text = ""
 trMA.Oikos1.text = ""
 
 trSY.commemoration.text = ""
-trSY.commemoration.couplet1.title = titles_en_US_goadedes.Stichoi
+trSY.commemoration.couplet1.title = titles_en_US_goadedes.ti.Verses
 trSY.commemoration.couplet1.verse1 = ""
 trSY.commemoration.couplet1.verse2 = ""
 trSY.commemoration.narration.p01 = ""

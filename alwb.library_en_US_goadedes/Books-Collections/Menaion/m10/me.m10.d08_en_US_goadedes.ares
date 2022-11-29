@@ -4,7 +4,7 @@ meDA.date = ""
 meDA.commemoration.full = "" // full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = titles_en_US_goadedes.TisAgias
+meDA.commemoration.first_title = titles_en_US_goadedes.ti.SaintW
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -83,7 +83,7 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.acrostic.notice2 = ""
-meMA.C1.title = titles_en_US_goadedes.KanonTisOsias
+meMA.C1.title = titles_en_US_goadedes.ti.CanonDevoutW
 meMA.C1.verse = prayers_en_US_goadedes.verse_DevoutWoman.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
