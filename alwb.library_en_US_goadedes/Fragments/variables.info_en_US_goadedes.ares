@@ -1,71 +1,71 @@
 A_Resource_Whose_Name = variables.info_en_US_goadedes 
 
-Notice1.text = ""
-Notice2.text = ""
+Notice1.text = "This is the text of the Divine Liturgy of St. John Chrysostom, as it is celebrated throughout most of the year. The variable parts have been omitted. It is intended to be used in conjunction with the \"Liturgy - Variable Parts\" files available each day on the GOA DCS."
+Notice2.text = "This is the text of the Divine Liturgy of St. Basil the Great, as it is celebrated on January 1 and the Sundays of Lent. The variable parts have been omitted. It is intended to be used in conjunction with the \"Liturgy - Variable Parts\" files available each day on the GOA DCS."
 
-Antiphon1.title = ""
-Antiphon1.text = ""
+Antiphon1.title = "The 1st Antiphon"
+Antiphon1.text = "(See Variable Parts.)"
 Antiphon1.pagenumber = ""
 
-Antiphon2.title = ""
-Antiphon2.text = ""
+Antiphon2.title = "The 2nd Antiphon"
+Antiphon2.text = "(See Variable Parts.)"
 Antiphon2.pagenumber = ""
 
-Antiphon3.title = ""
-Antiphon3.text = ""
+Antiphon3.title = "The 3rd Antiphon."
+Antiphon3.text = "(See Variable Parts.)"
 Antiphon3.pagenumber = ""
 
-SmallEntrance.title = ""
-SmallEntrance.text = ""
+SmallEntrance.title = "The Small Entrance"
+SmallEntrance.text = "(See Variable Parts.)"
 SmallEntrance.pagenumber = ""
 
-HymnsAfterSmallEntrance.title = ""
-HymnsAfterSmallEntrance.text = ""
+HymnsAfterSmallEntrance.title = "Hymns After Small Entrance"
+HymnsAfterSmallEntrance.text = "(See Variable Parts.)"
 
-Trisagion.title = ""
-Trisagion.text = ""
+Trisagion.title = "Trisagion Hymn"
+Trisagion.text = "(See Variable Parts.)"
 Trisagion.pagenumber = ""
 
-EpistleReading.title = ""
-EpistleReading.text = ""
-EpistleReading.pagenumber = ""
+EpistleReading.title = "Epistle Reading"
+EpistleReading.text = "(See Variable Parts.)"
+EpistleReading.pagenumber = 
 
-Alleluia.title = ""
-Alleluia.text = ""
+Alleluia.title = "Alleluia before Gospel"
+Alleluia.text = "(See Variable Parts.)"
 
-GospelReading.title = ""
-GospelReading.text = ""
+GospelReading.title = "Gospel Reading"
+GospelReading.text = "(See Variable Parts.)"
 
-GreatEntrance.title = ""
-GreatEntrance.pagenumber = ""
+GreatEntrance.title = "The Great Entrance"
+GreatEntrance.pagenumber = "12"
 
-Creed.title = ""
-Creed.pagenumber = ""
+Creed.title = "The Creed"
+Creed.pagenumber = "18"
 
-TheotokosHymn.title = ""
-TheotokosHymn.text = ""
-TheotokosHymn.pagenumber = ""
+TheotokosHymn.title = "Hymn to the Theotokos"
+TheotokosHymn.text = "(See Variable Parts.)"
+TheotokosHymn.pagenumber = "23"
 
-LordsPrayer.title = ""
-LordsPrayer.pagenumber = ""
+LordsPrayer.title = "The Lord's Prayer"
+LordsPrayer.pagenumber = "26"
 
-CommunionPrayers.title = ""
-CommunionPrayers.pagenumber = ""
-CommunionPrayers.rubric = ""
+CommunionPrayers.title = "Communion Prayers"
+CommunionPrayers.pagenumber = "29"
+CommunionPrayers.rubric = "(Read aloud by the Congregation)"
 
-CommunionHymn.title = ""
-CommunionHymn.text = ""
-CommunionHymn.pagenumber = ""
+CommunionHymn.title = "Communion Hymn"
+CommunionHymn.text = "(See Variable Parts.)"
+CommunionHymn.pagenumber = "29"
 
-HolyCommunion.title = ""
-HolyCommunion.rubric = ""
+HolyCommunion.title = "Holy Communion:"
+HolyCommunion.rubric = "Orthodox Christians prepared to receive Holy Communion come forward quietly and reverently at the direction of the ushers."
 
-Thanksgiving.rubric = ""
+Thanksgiving.rubric = "Prayers of Thanksgiving after Holy Communion can be found on pages 40-42."
 
-AfterCommunion.title = ""
-AfterCommunion.text = ""
-AfterCommunion.pagenumber = ""
+AfterCommunion.title = "Hymn after Holy Communion"
+AfterCommunion.text = "(See Variable Parts.)"
+AfterCommunion.pagenumber = "32"
 
-Dismissal.title = ""
-Dismissal.text = ""
-Dismissal.pagenumber = ""
+Dismissal.title = "The Dismissal"
+Dismissal.text = "(See Variable Parts.)"
+Dismissal.pagenumber = "34"
