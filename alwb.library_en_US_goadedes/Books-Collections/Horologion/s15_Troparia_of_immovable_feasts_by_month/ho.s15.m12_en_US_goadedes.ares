@@ -9,14 +9,14 @@ hoD08.GeneralApolytikion1.name = ""
 hoD10.Apolytikion1.title = titles_en_US_goadedes.ti.Martyrs
 hoD10.Apolytikion1.poet = ""
 hoD10.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode8
-hoD10.Apolytikion1.melody = he.a.m8_en_US_goadedes.ToProstachthen.name
+hoD10.Apolytikion1.melody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.name
 hoD10.Apolytikion1.incipit = oc.m8.d4_en_US_goadedes.ocMA.Kathisma32.incipit
 hoD10.Apolytikion1.text = oc.m8.d4_en_US_goadedes.ocMA.Kathisma32.text
 
 hoD10.Kontakion1.title = titles_en_US_goadedes.ti.Martyrs
 hoD10.Kontakion1.poet = ""
 hoD10.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode1
-hoD10.Kontakion1.melody = he.a.m1_en_US_goadedes.ChorosAngelikos.name
+hoD10.Kontakion1.melody = he.a.m1_en_US_goadedes.heAU.ChorosAngelikos.name
 hoD10.Kontakion1.incipit = "…"
 hoD10.Kontakion1.text = ""
 
@@ -25,7 +25,7 @@ hoD16.GeneralApolytikion1.name = ""
 hoD17.Kontakion3.title = titles_en_US_goadedes.ti.Hierarch
 hoD17.Kontakion3.poet = ""
 hoD17.Kontakion3.mode = miscellanea_en_US_goadedes.misc.Mode3
-hoD17.Kontakion3.melody = he.a.m3_en_US_goadedes.IParthenosSimeron.name
+hoD17.Kontakion3.melody = he.a.m3_en_US_goadedes.heAU.IParthenosSimeron.name
 hoD17.Kontakion3.incipit = "…"
 hoD17.Kontakion3.text = ""
 
@@ -34,6 +34,6 @@ hoD20.GeneralApolytikion2.name = ""
 hoD20.Apolytikion3.title = titles_en_US_goadedes.ti.SaintM
 hoD20.Apolytikion3.poet = ""
 hoD20.Apolytikion3.mode = miscellanea_en_US_goadedes.misc.Mode3
-hoD20.Apolytikion3.melody = he.a.m3_en_US_goadedes.TheiasPisteos.name
+hoD20.Apolytikion3.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
 hoD20.Apolytikion3.text = ""
 

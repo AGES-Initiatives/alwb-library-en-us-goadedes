@@ -20,42 +20,42 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode4
-meVE.Stichera01.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
+meVE.Stichera01.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 meVE.Stichera01.incipit = "…"
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode4
-meVE.Stichera02.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
+meVE.Stichera02.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 meVE.Stichera02.incipit = "…"
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode4
-meVE.Stichera03.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
+meVE.Stichera03.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode8
-meVE.Stichera04.melody = he.a.m8_en_US_goadedes.OTouParadoxou.name
+meVE.Stichera04.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
 meVE.Stichera04.incipit = "…"
 meVE.Stichera04.text = ""
 
 meVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode8
-meVE.Stichera05.melody = he.a.m8_en_US_goadedes.OTouParadoxou.name
+meVE.Stichera05.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
 meVE.Stichera05.incipit = "…"
 meVE.Stichera05.text = ""
 
 meVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode8
-meVE.Stichera06.melody = he.a.m8_en_US_goadedes.OTouParadoxou.name
+meVE.Stichera06.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
 meVE.Stichera06.incipit = "…"
 meVE.Stichera06.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
-meVE.SticTheotokion.melody = he.a.m8_en_US_goadedes.OTouParadoxou.name
+meVE.SticTheotokion.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
-meVE.SticStavrotheotokion.melody = he.a.m8_en_US_goadedes.OTouParadoxou.name
+meVE.SticStavrotheotokion.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
 meVE.SticStavrotheotokion.incipit = me.m03.d12_en_US_goadedes.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m03.d12_en_US_goadedes.meVE.SticStavrotheotokion.text
 
@@ -71,278 +71,278 @@ meMA.C2.verse = prayers_en_US_goadedes.pr.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode1C11.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou.name
+meMA.Ode1C11.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
 meMA.Ode1C11.incipit = "…"
 meMA.Ode1C11.text = ""
 
 meMA.Ode1C12.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode1C12.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou.name
+meMA.Ode1C12.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
 meMA.Ode1C12.incipit = "…"
 meMA.Ode1C12.text = ""
 
 meMA.Ode1C13.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode1C13.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou.name
+meMA.Ode1C13.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
 meMA.Ode1C13.incipit = "…"
 meMA.Ode1C13.text = ""
 
 meMA.Ode1C1T.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode1C1T.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou.name
+meMA.Ode1C1T.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
 
 meMA.Ode1C21.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode1C21.melody = he.h.m2_en_US_goadedes.EnVythoKatestrose.name
+meMA.Ode1C21.melody = he.h.m2_en_US_goadedes.heHE.EnVythoKatestrose.name
 meMA.Ode1C21.incipit = "…"
 meMA.Ode1C21.text = ""
 
 meMA.Ode1C22.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C22.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode1C22.melody = he.h.m2_en_US_goadedes.EnVythoKatestrose.name
+meMA.Ode1C22.melody = he.h.m2_en_US_goadedes.heHE.EnVythoKatestrose.name
 meMA.Ode1C22.incipit = "…"
 meMA.Ode1C22.text = ""
 
 meMA.Ode1C23.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C23.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode1C23.melody = he.h.m2_en_US_goadedes.EnVythoKatestrose.name
+meMA.Ode1C23.melody = he.h.m2_en_US_goadedes.heHE.EnVythoKatestrose.name
 meMA.Ode1C23.incipit = "…"
 meMA.Ode1C23.text = ""
 
 meMA.Ode1C2T.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C2T.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode1C2T.melody = he.h.m2_en_US_goadedes.EnVythoKatestrose.name
+meMA.Ode1C2T.melody = he.h.m2_en_US_goadedes.heHE.EnVythoKatestrose.name
 meMA.Ode1C2T.incipit = "…"
 meMA.Ode1C2T.text = ""
 
 meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode3C11.melody = he.h.m4_en_US_goadedes.OukEnSofia.name
+meMA.Ode3C11.melody = he.h.m4_en_US_goadedes.heHE.OukEnSofia.name
 meMA.Ode3C11.incipit = "…"
 meMA.Ode3C11.text = ""
 
 meMA.Ode3C12.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode3C12.melody = he.h.m4_en_US_goadedes.OukEnSofia.name
+meMA.Ode3C12.melody = he.h.m4_en_US_goadedes.heHE.OukEnSofia.name
 meMA.Ode3C12.incipit = "…"
 meMA.Ode3C12.text = ""
 
 meMA.Ode3C13.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode3C13.melody = he.h.m4_en_US_goadedes.OukEnSofia.name
+meMA.Ode3C13.melody = he.h.m4_en_US_goadedes.heHE.OukEnSofia.name
 meMA.Ode3C13.incipit = "…"
 meMA.Ode3C13.text = ""
 
 meMA.Ode3C1T.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode3C1T.melody = he.h.m4_en_US_goadedes.OukEnSofia.name
+meMA.Ode3C1T.melody = he.h.m4_en_US_goadedes.heHE.OukEnSofia.name
 meMA.Ode3C1T.incipit = "…"
 meMA.Ode3C1T.text = ""
 
 meMA.Ode3C21.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode3C21.melody = he.h.m2_en_US_goadedes.ExinthisenIErimos.name
+meMA.Ode3C21.melody = he.h.m2_en_US_goadedes.heHE.ExinthisenIErimos.name
 meMA.Ode3C21.incipit = "…"
 meMA.Ode3C21.text = ""
 
 meMA.Ode3C22.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C22.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode3C22.melody = he.h.m2_en_US_goadedes.ExinthisenIErimos.name
+meMA.Ode3C22.melody = he.h.m2_en_US_goadedes.heHE.ExinthisenIErimos.name
 meMA.Ode3C22.incipit = "…"
 meMA.Ode3C22.text = ""
 
 meMA.Ode3C23.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C23.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode3C23.melody = he.h.m2_en_US_goadedes.ExinthisenIErimos.name
+meMA.Ode3C23.melody = he.h.m2_en_US_goadedes.heHE.ExinthisenIErimos.name
 meMA.Ode3C23.incipit = "…"
 meMA.Ode3C23.text = ""
 
 meMA.Ode3C2T.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C2T.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode3C2T.melody = he.h.m2_en_US_goadedes.ExinthisenIErimos.name
+meMA.Ode3C2T.melody = he.h.m2_en_US_goadedes.heHE.ExinthisenIErimos.name
 meMA.Ode3C2T.incipit = "…"
 meMA.Ode3C2T.text = ""
 
 meMA.Ode3H.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode3H.melody = he.h.m2_en_US_goadedes.ExinthisenIErimos.melody
-meMA.Ode3H.incipit = he.h.m2_en_US_goadedes.ExinthisenIErimos.incipit
-meMA.Ode3H.text = he.h.m2_en_US_goadedes.ExinthisenIErimos.text
+meMA.Ode3H.melody = he.h.m2_en_US_goadedes.heHE.ExinthisenIErimos.melody
+meMA.Ode3H.incipit = he.h.m2_en_US_goadedes.heHE.ExinthisenIErimos.incipit
+meMA.Ode3H.text = he.h.m2_en_US_goadedes.heHE.ExinthisenIErimos.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode3Kathisma1.melody = he.a.m8_en_US_goadedes.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode3Kathisma2.melody = he.a.m8_en_US_goadedes.AnestisEkNekron.name
+meMA.Ode3Kathisma2.melody = he.a.m8_en_US_goadedes.heAU.AnestisEkNekron.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode3KathismaT.melody = he.a.m8_en_US_goadedes.AnestisEkNekron.name
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_goadedes.heAU.AnestisEkNekron.name
 meMA.Ode3KathismaT.incipit = "…"
 meMA.Ode3KathismaT.text = ""
 
 meMA.Ode3KathismaSt.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode3KathismaSt.melody = he.a.m8_en_US_goadedes.AnestisEkNekron.name
+meMA.Ode3KathismaSt.melody = he.a.m8_en_US_goadedes.heAU.AnestisEkNekron.name
 meMA.Ode3KathismaSt.incipit = "…"
 meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode4C11.melody = he.h.m4_en_US_goadedes.EparthentaSeIdousa.name
+meMA.Ode4C11.melody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.name
 meMA.Ode4C11.incipit = "…"
 meMA.Ode4C11.text = ""
 
 meMA.Ode4C12.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode4C12.melody = he.h.m4_en_US_goadedes.EparthentaSeIdousa.name
+meMA.Ode4C12.melody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.name
 meMA.Ode4C12.incipit = "…"
 meMA.Ode4C12.text = ""
 
 meMA.Ode4C13.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode4C13.melody = he.h.m4_en_US_goadedes.EparthentaSeIdousa.name
+meMA.Ode4C13.melody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.name
 meMA.Ode4C13.incipit = "…"
 meMA.Ode4C13.text = ""
 
 meMA.Ode4C1T.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode4C1T.melody = he.h.m4_en_US_goadedes.EparthentaSeIdousa.name
+meMA.Ode4C1T.melody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.name
 meMA.Ode4C1T.incipit = "…"
 meMA.Ode4C1T.text = ""
 
 meMA.Ode4C21.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode4C21.melody = he.h.m2_en_US_goadedes.ElilythasEkParthenou.name
+meMA.Ode4C21.melody = he.h.m2_en_US_goadedes.heHE.ElilythasEkParthenou.name
 meMA.Ode4C21.incipit = "…"
 meMA.Ode4C21.text = ""
 
 meMA.Ode4C22.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C22.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode4C22.melody = he.h.m2_en_US_goadedes.ElilythasEkParthenou.name
+meMA.Ode4C22.melody = he.h.m2_en_US_goadedes.heHE.ElilythasEkParthenou.name
 meMA.Ode4C22.incipit = "…"
 meMA.Ode4C22.text = ""
 
 meMA.Ode4C23.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C23.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode4C23.melody = he.h.m2_en_US_goadedes.ElilythasEkParthenou.name
+meMA.Ode4C23.melody = he.h.m2_en_US_goadedes.heHE.ElilythasEkParthenou.name
 meMA.Ode4C23.incipit = "…"
 meMA.Ode4C23.text = ""
 
 meMA.Ode4C2T.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C2T.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode4C2T.melody = he.h.m2_en_US_goadedes.ElilythasEkParthenou.name
+meMA.Ode4C2T.melody = he.h.m2_en_US_goadedes.heHE.ElilythasEkParthenou.name
 meMA.Ode4C2T.incipit = "…"
 meMA.Ode4C2T.text = ""
 
 meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode5C11.melody = he.h.m4_en_US_goadedes.SyKyrieMouFos.name
+meMA.Ode5C11.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.name
 meMA.Ode5C11.incipit = "…"
 meMA.Ode5C11.text = ""
 
 meMA.Ode5C12.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode5C12.melody = he.h.m4_en_US_goadedes.SyKyrieMouFos.name
+meMA.Ode5C12.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.name
 meMA.Ode5C12.incipit = "…"
 meMA.Ode5C12.text = ""
 
 meMA.Ode5C13.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode5C13.melody = he.h.m4_en_US_goadedes.SyKyrieMouFos.name
+meMA.Ode5C13.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.name
 meMA.Ode5C13.incipit = "…"
 meMA.Ode5C13.text = ""
 
 meMA.Ode5C1T.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode5C1T.melody = he.h.m4_en_US_goadedes.SyKyrieMouFos.name
+meMA.Ode5C1T.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.name
 meMA.Ode5C1T.incipit = "…"
 meMA.Ode5C1T.text = ""
 
 meMA.Ode5C21.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode5C21.melody = he.h.m2_en_US_goadedes.MesitisTheou.name
+meMA.Ode5C21.melody = he.h.m2_en_US_goadedes.heHE.MesitisTheou.name
 meMA.Ode5C21.incipit = "…"
 meMA.Ode5C21.text = ""
 
 meMA.Ode5C22.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C22.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode5C22.melody = he.h.m2_en_US_goadedes.MesitisTheou.name
+meMA.Ode5C22.melody = he.h.m2_en_US_goadedes.heHE.MesitisTheou.name
 meMA.Ode5C22.incipit = "…"
 meMA.Ode5C22.text = ""
 
 meMA.Ode5C23.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C23.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode5C23.melody = he.h.m2_en_US_goadedes.MesitisTheou.name
+meMA.Ode5C23.melody = he.h.m2_en_US_goadedes.heHE.MesitisTheou.name
 meMA.Ode5C23.incipit = "…"
 meMA.Ode5C23.text = ""
 
 meMA.Ode5C2T.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C2T.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode5C2T.melody = he.h.m2_en_US_goadedes.MesitisTheou.name
+meMA.Ode5C2T.melody = he.h.m2_en_US_goadedes.heHE.MesitisTheou.name
 meMA.Ode5C2T.incipit = "…"
 meMA.Ode5C2T.text = ""
 
 meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode6C11.melody = he.h.m4_en_US_goadedes.ThysoSoiMetaFonis.name
+meMA.Ode6C11.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.name
 meMA.Ode6C11.incipit = "…"
 meMA.Ode6C11.text = ""
 
 meMA.Ode6C12.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode6C12.melody = he.h.m4_en_US_goadedes.ThysoSoiMetaFonis.name
+meMA.Ode6C12.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.name
 meMA.Ode6C12.incipit = "…"
 meMA.Ode6C12.text = ""
 
 meMA.Ode6C13.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode6C13.melody = he.h.m4_en_US_goadedes.ThysoSoiMetaFonis.name
+meMA.Ode6C13.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.name
 meMA.Ode6C13.incipit = "…"
 meMA.Ode6C13.text = ""
 
 meMA.Ode6C1T.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode6C1T.melody = he.h.m4_en_US_goadedes.ThysoSoiMetaFonis.name
+meMA.Ode6C1T.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.name
 meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = ""
 
 meMA.Ode6C21.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode6C21.melody = he.h.m2_en_US_goadedes.EnAvyssoPtaismaton.name
+meMA.Ode6C21.melody = he.h.m2_en_US_goadedes.heHE.EnAvyssoPtaismaton.name
 meMA.Ode6C21.incipit = "…"
 meMA.Ode6C21.text = ""
 
 meMA.Ode6C22.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C22.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode6C22.melody = he.h.m2_en_US_goadedes.EnAvyssoPtaismaton.name
+meMA.Ode6C22.melody = he.h.m2_en_US_goadedes.heHE.EnAvyssoPtaismaton.name
 meMA.Ode6C22.incipit = "…"
 meMA.Ode6C22.text = ""
 
 meMA.Ode6C23.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C23.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode6C23.melody = he.h.m2_en_US_goadedes.EnAvyssoPtaismaton.name
+meMA.Ode6C23.melody = he.h.m2_en_US_goadedes.heHE.EnAvyssoPtaismaton.name
 meMA.Ode6C23.incipit = "…"
 meMA.Ode6C23.text = ""
 
 meMA.Ode6C2T.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C2T.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode6C2T.melody = he.h.m2_en_US_goadedes.EnAvyssoPtaismaton.name
+meMA.Ode6C2T.melody = he.h.m2_en_US_goadedes.heHE.EnAvyssoPtaismaton.name
 meMA.Ode6C2T.incipit = "…"
 meMA.Ode6C2T.text = ""
 
 meMA.Ode6H.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode6H.melody = he.h.m2_en_US_goadedes.EnAvyssoPtaismaton.melody
-meMA.Ode6H.incipit = he.h.m2_en_US_goadedes.EnAvyssoPtaismaton.incipit
-meMA.Ode6H.text = he.h.m2_en_US_goadedes.EnAvyssoPtaismaton.text
+meMA.Ode6H.melody = he.h.m2_en_US_goadedes.heHE.EnAvyssoPtaismaton.melody
+meMA.Ode6H.incipit = he.h.m2_en_US_goadedes.heHE.EnAvyssoPtaismaton.incipit
+meMA.Ode6H.text = he.h.m2_en_US_goadedes.heHE.EnAvyssoPtaismaton.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Kontakion1.melody = he.a.m4_en_US_goadedes.OYpsotheisEnToStavro.name
+meMA.Kontakion1.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
 
@@ -350,172 +350,172 @@ meMA.Oikos1.text = ""
 
 meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode7C11.melody = he.h.m4_en_US_goadedes.EnTiKaminoAvramiaioi.name
+meMA.Ode7C11.melody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.name
 meMA.Ode7C11.incipit = "…"
 meMA.Ode7C11.text = ""
 
 meMA.Ode7C12.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode7C12.melody = he.h.m4_en_US_goadedes.EnTiKaminoAvramiaioi.name
+meMA.Ode7C12.melody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.name
 meMA.Ode7C12.incipit = "…"
 meMA.Ode7C12.text = ""
 
 meMA.Ode7C13.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode7C13.melody = he.h.m4_en_US_goadedes.EnTiKaminoAvramiaioi.name
+meMA.Ode7C13.melody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.name
 meMA.Ode7C13.incipit = "…"
 meMA.Ode7C13.text = ""
 
 meMA.Ode7C1T.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode7C1T.melody = he.h.m4_en_US_goadedes.EnTiKaminoAvramiaioi.name
+meMA.Ode7C1T.melody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.name
 meMA.Ode7C1T.incipit = "…"
 meMA.Ode7C1T.text = ""
 
 meMA.Ode7C21.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode7C21.melody = he.h.m2_en_US_goadedes.AntitheonProstagma.name
+meMA.Ode7C21.melody = he.h.m2_en_US_goadedes.heHE.AntitheonProstagma.name
 meMA.Ode7C21.incipit = "…"
 meMA.Ode7C21.text = ""
 
 meMA.Ode7C22.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C22.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode7C22.melody = he.h.m2_en_US_goadedes.AntitheonProstagma.name
+meMA.Ode7C22.melody = he.h.m2_en_US_goadedes.heHE.AntitheonProstagma.name
 meMA.Ode7C22.incipit = "…"
 meMA.Ode7C22.text = ""
 
 meMA.Ode7C23.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C23.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode7C23.melody = he.h.m2_en_US_goadedes.AntitheonProstagma.name
+meMA.Ode7C23.melody = he.h.m2_en_US_goadedes.heHE.AntitheonProstagma.name
 meMA.Ode7C23.incipit = "…"
 meMA.Ode7C23.text = ""
 
 meMA.Ode7C2T.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C2T.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode7C2T.melody = he.h.m2_en_US_goadedes.AntitheonProstagma.name
+meMA.Ode7C2T.melody = he.h.m2_en_US_goadedes.heHE.AntitheonProstagma.name
 meMA.Ode7C2T.incipit = "…"
 meMA.Ode7C2T.text = ""
 
 meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode8C11.melody = he.h.m4_en_US_goadedes.CheirasEkpetasasDaniil.name
+meMA.Ode8C11.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.name
 meMA.Ode8C11.incipit = "…"
 meMA.Ode8C11.text = ""
 
 meMA.Ode8C12.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode8C12.melody = he.h.m4_en_US_goadedes.CheirasEkpetasasDaniil.name
+meMA.Ode8C12.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.name
 meMA.Ode8C12.incipit = "…"
 meMA.Ode8C12.text = ""
 
 meMA.Ode8C13.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode8C13.melody = he.h.m4_en_US_goadedes.CheirasEkpetasasDaniil.name
+meMA.Ode8C13.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.name
 meMA.Ode8C13.incipit = "…"
 meMA.Ode8C13.text = ""
 
 meMA.Ode8C1T.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode8C1T.melody = he.h.m4_en_US_goadedes.CheirasEkpetasasDaniil.name
+meMA.Ode8C1T.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.name
 meMA.Ode8C1T.incipit = "…"
 meMA.Ode8C1T.text = ""
 
 meMA.Ode8C21.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode8C21.melody = he.h.m2_en_US_goadedes.KaminosPote.name
+meMA.Ode8C21.melody = he.h.m2_en_US_goadedes.heHE.KaminosPote.name
 meMA.Ode8C21.incipit = "…"
 meMA.Ode8C21.text = ""
 
 meMA.Ode8C22.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C22.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode8C22.melody = he.h.m2_en_US_goadedes.KaminosPote.name
+meMA.Ode8C22.melody = he.h.m2_en_US_goadedes.heHE.KaminosPote.name
 meMA.Ode8C22.incipit = "…"
 meMA.Ode8C22.text = ""
 
 meMA.Ode8C23.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C23.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode8C23.melody = he.h.m2_en_US_goadedes.KaminosPote.name
+meMA.Ode8C23.melody = he.h.m2_en_US_goadedes.heHE.KaminosPote.name
 meMA.Ode8C23.incipit = "…"
 meMA.Ode8C23.text = ""
 
 meMA.Ode8C2T.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C2T.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode8C2T.melody = he.h.m2_en_US_goadedes.KaminosPote.name
+meMA.Ode8C2T.melody = he.h.m2_en_US_goadedes.heHE.KaminosPote.name
 meMA.Ode8C2T.incipit = "…"
 meMA.Ode8C2T.text = ""
 
 meMA.Ode8H.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode8H.melody = he.h.m2_en_US_goadedes.KaminosPote.melody
-meMA.Ode8H.incipit = he.h.m2_en_US_goadedes.KaminosPote.incipit
-meMA.Ode8H.text = he.h.m2_en_US_goadedes.KaminosPote.text
+meMA.Ode8H.melody = he.h.m2_en_US_goadedes.heHE.KaminosPote.melody
+meMA.Ode8H.incipit = he.h.m2_en_US_goadedes.heHE.KaminosPote.incipit
+meMA.Ode8H.text = he.h.m2_en_US_goadedes.heHE.KaminosPote.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode9C11.melody = he.h.m4_en_US_goadedes.LithosAcheirotmitos.name
+meMA.Ode9C11.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.name
 meMA.Ode9C11.incipit = "…"
 meMA.Ode9C11.text = ""
 
 meMA.Ode9C12.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode9C12.melody = he.h.m4_en_US_goadedes.LithosAcheirotmitos.name
+meMA.Ode9C12.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.name
 meMA.Ode9C12.incipit = "…"
 meMA.Ode9C12.text = ""
 
 meMA.Ode9C13.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode9C13.melody = he.h.m4_en_US_goadedes.LithosAcheirotmitos.name
+meMA.Ode9C13.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.name
 meMA.Ode9C13.incipit = "…"
 meMA.Ode9C13.text = ""
 
 meMA.Ode9C1T.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode9C1T.melody = he.h.m4_en_US_goadedes.LithosAcheirotmitos.name
+meMA.Ode9C1T.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.name
 meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = ""
 
 meMA.Ode9C21.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode9C21.melody = he.h.m2_en_US_goadedes.AnarchouGennitoros.name
+meMA.Ode9C21.melody = he.h.m2_en_US_goadedes.heHE.AnarchouGennitoros.name
 meMA.Ode9C21.incipit = "…"
 meMA.Ode9C21.text = ""
 
 meMA.Ode9C22.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C22.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode9C22.melody = he.h.m2_en_US_goadedes.AnarchouGennitoros.name
+meMA.Ode9C22.melody = he.h.m2_en_US_goadedes.heHE.AnarchouGennitoros.name
 meMA.Ode9C22.incipit = "…"
 meMA.Ode9C22.text = ""
 
 meMA.Ode9C23.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C23.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode9C23.melody = he.h.m2_en_US_goadedes.AnarchouGennitoros.name
+meMA.Ode9C23.melody = he.h.m2_en_US_goadedes.heHE.AnarchouGennitoros.name
 meMA.Ode9C23.incipit = "…"
 meMA.Ode9C23.text = ""
 
 meMA.Ode9C2T.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C2T.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode9C2T.melody = he.h.m2_en_US_goadedes.AnarchouGennitoros.name
+meMA.Ode9C2T.melody = he.h.m2_en_US_goadedes.heHE.AnarchouGennitoros.name
 meMA.Ode9C2T.incipit = "…"
 meMA.Ode9C2T.text = ""
 
 meMA.Ode9H.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Ode9H.melody = he.h.m2_en_US_goadedes.AnarchouGennitoros.melody
-meMA.Ode9H.incipit = he.h.m2_en_US_goadedes.AnarchouGennitoros.incipit
-meMA.Ode9H.text = he.h.m2_en_US_goadedes.AnarchouGennitoros.text
+meMA.Ode9H.melody = he.h.m2_en_US_goadedes.heHE.AnarchouGennitoros.melody
+meMA.Ode9H.incipit = he.h.m2_en_US_goadedes.heHE.AnarchouGennitoros.incipit
+meMA.Ode9H.text = he.h.m2_en_US_goadedes.heHE.AnarchouGennitoros.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Exaposteilarion2.melody = he.a.m2_en_US_goadedes.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion2.melody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion2.incipit = "…"
 meMA.Exaposteilarion2.text = ""
 
 meMA.ExapTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.ExapTheotokion.melody = he.a.m2_en_US_goadedes.ToisMathitaisSynelthomen.name
+meMA.ExapTheotokion.melody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.name
 meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
@@ -545,22 +545,22 @@ alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
 
 alt1.meSV.Stichera1.mode = miscellanea_en_US_goadedes.misc.Mode1
-alt1.meSV.Stichera1.melody = he.a.m1_en_US_goadedes.TonOuranionTagmaton.name
+alt1.meSV.Stichera1.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 alt1.meSV.Stichera1.incipit = "…"
 alt1.meSV.Stichera1.text = ""
 
 alt1.meSV.Stichera2.mode = miscellanea_en_US_goadedes.misc.Mode1
-alt1.meSV.Stichera2.melody = he.a.m1_en_US_goadedes.TonOuranionTagmaton.name
+alt1.meSV.Stichera2.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 alt1.meSV.Stichera2.incipit = "…"
 alt1.meSV.Stichera2.text = ""
 
 alt1.meSV.Stichera3.mode = miscellanea_en_US_goadedes.misc.Mode1
-alt1.meSV.Stichera3.melody = he.a.m1_en_US_goadedes.TonOuranionTagmaton.name
+alt1.meSV.Stichera3.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 alt1.meSV.Stichera3.incipit = "…"
 alt1.meSV.Stichera3.text = ""
 
 alt1.meSV.Stichera4.mode = miscellanea_en_US_goadedes.misc.Mode1
-alt1.meSV.Stichera4.melody = he.a.m1_en_US_goadedes.TonOuranionTagmaton.name
+alt1.meSV.Stichera4.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 alt1.meSV.Stichera4.incipit = "…"
 alt1.meSV.Stichera4.text = ""
 
@@ -570,57 +570,57 @@ alt1.meSV.SticGlory.incipit = "…"
 alt1.meSV.SticGlory.text = ""
 
 alt1.meSV.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
-alt1.meSV.Aposticha1.melody = he.a.m2_en_US_goadedes.OikosTouEfratha.name
+alt1.meSV.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 alt1.meSV.Aposticha1.incipit = "…"
 alt1.meSV.Aposticha1.text = ""
 
 alt1.meSV.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode2
-alt1.meSV.Aposticha2.melody = he.a.m2_en_US_goadedes.OikosTouEfratha.name
+alt1.meSV.Aposticha2.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 alt1.meSV.Aposticha2.incipit = "…"
 alt1.meSV.Aposticha2.text = ""
 
 alt1.meSV.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode2
-alt1.meSV.Aposticha3.melody = he.a.m2_en_US_goadedes.OikosTouEfratha.name
+alt1.meSV.Aposticha3.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 alt1.meSV.Aposticha3.incipit = "…"
 alt1.meSV.Aposticha3.text = ""
 
 alt1.meSV.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
-alt1.meSV.AposGlory.melody = he.a.m2_en_US_goadedes.OikosTouEfratha.name
+alt1.meSV.AposGlory.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 alt1.meSV.AposGlory.incipit = "…"
 alt1.meSV.AposGlory.text = ""
 
 alt1.meSV.AposBoth.mode = miscellanea_en_US_goadedes.misc.Mode2
-alt1.meSV.AposBoth.melody = he.a.m2_en_US_goadedes.OikosTouEfratha.name
+alt1.meSV.AposBoth.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 alt1.meSV.AposBoth.incipit = "…"
 alt1.meSV.AposBoth.text = ""
 
 alt1.meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode1
-alt1.meVE.Stichera01.melody = he.a.m1_en_US_goadedes.OTouParadoxouThavmatos.name
+alt1.meVE.Stichera01.melody = he.a.m1_en_US_goadedes.heAU.OTouParadoxouThavmatos.name
 alt1.meVE.Stichera01.incipit = "Marvel at the wondrous paradox…"
 alt1.meVE.Stichera01.text = "Marvel at the wondrous paradox! * The pure Mother of God, like a glowing cloud of light, * extends her holy protection on us every day; * and famously she protects, * with her maternal awareness and grace from God, * from enemies and assaults * all who rely on her aid and who sing to her, * \"We salute you, Lady full of grace: O rejoice! You are the help * and protection, O Virgin, of the faithful who magnify you.\""
 
 alt1.meVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode1
-alt1.meVE.Stichera02.melody = he.a.m1_en_US_goadedes.OTouParadoxouThavmatos.name
+alt1.meVE.Stichera02.melody = he.a.m1_en_US_goadedes.heAU.OTouParadoxouThavmatos.name
 alt1.meVE.Stichera02.incipit = "Oh! So impressive…"
 alt1.meVE.Stichera02.text = "Oh! So impressive are your miracles! * You were seen, O Lady, taking off your holy veil * and wondrously covering with it the Queen City; * and presently it was clear * that you, O Virgin, had saved all the Christians there * from looming foreign attack, * by grace divine in your glowing protective veil. * Therefore we commemorate this, * and we celebrate with hymns, * to extol you and thank you * for your many splendid miracles."
 
 alt1.meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode1
-alt1.meVE.Stichera03.melody = he.a.m1_en_US_goadedes.OTouParadoxouThavmatos.name
+alt1.meVE.Stichera03.melody = he.a.m1_en_US_goadedes.heAU.OTouParadoxouThavmatos.name
 alt1.meVE.Stichera03.incipit = "We know, O Lady…"
 alt1.meVE.Stichera03.text = "We know, O Lady, you care for us * as a Christian people. We proclaim it far and wide. * We praise and extol your motherly concern for us. * You placed us under your own * direct protection from time immemorial. * With pity you let us all * define ourselves as your people and chosen flock. * Therefore we salute you, Maiden * full of grace, and sing, \"Rejoice!\" * magnifying the graces * of your God-given protective veil."
 
 alt1.meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meVE.Stichera04.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
+alt1.meVE.Stichera04.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 alt1.meVE.Stichera04.incipit = "We commemorate festively…"
 alt1.meVE.Stichera04.text = "We commemorate festively * your protection, O Virgin pure, * and we magnify your sublime benevolence. * In every age you deliver us, * your people, from dire straits * and from enemy attacks. * You provide your abundant grace every day to us, * who extol your magnificence and glory, O all-holy Theotokos, * and the extent of your miracles."
 
 alt1.meVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meVE.Stichera05.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
+alt1.meVE.Stichera05.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 alt1.meVE.Stichera05.incipit = "You invisibly laid your veil…"
 alt1.meVE.Stichera05.text = "You invisibly laid your veil * of protection and wondrously * rescued the imperial capital of old. * And even now you are visibly * protecting us, guarding us, *  all-pure one; and you keep * us your people throughout the world * free from all distress. * So we sing hymns in praise of your protection and its benefits, O Virgin, * and your perpetual help and aid."
 
 alt1.meVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meVE.Stichera06.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
+alt1.meVE.Stichera06.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 alt1.meVE.Stichera06.incipit = "We have heard and are well aware…"
 alt1.meVE.Stichera06.text = "We have heard and are well aware * and have witnessed it many times * in amazing miracles right before our eyes, * that your all holy protection is indeed real, O Virgin pure. * Singing hymns with ardent tears, * we have glorified your immense goodness shown to us. * For you rescue us when we are in danger, and you give us joy and gladness * when we are troubled and suffering."
 
@@ -655,17 +655,17 @@ alt1.meVE.LityGlory.incipit = "Today the Queen of all…"
 alt1.meVE.LityGlory.text = "Today the Queen of all, the Virgin Mother, unfurls her luminous veil of protection and maternally surrounds and covers our nation. Come, Christians everywhere, with purified minds let us survey how lavishly the Theotokos takes care of us. She is alongside us in good times and bad; she unerringly guides us to the goal of our higher calling; and as the Mother of God, she dispenses grace and mercy to us, and eternal salvation."
 
 alt1.meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode5
-alt1.meVE.Aposticha1.melody = he.a.m5_en_US_goadedes.ChairoisAskitikon.name
+alt1.meVE.Aposticha1.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name
 alt1.meVE.Aposticha1.incipit = "Rejoice! Pure Virgin…"
 alt1.meVE.Aposticha1.text = "Rejoice! Pure Virgin, Mother of God, * the inexhaustible fount of benevolence! * The holy protection, ardent defense, and comfort of all * Orthodox believers who are in distress! * We always rely on you, blameless Maiden, and run to you * for our salvation and our peace and deliverance, * which we do receive as a gift of your grace from God. * Therefore we praise the miracles your holy protective veil * has done for us, and we honor your most compassionate care for us, * by which you have saved us. * And we trust that you protect us from dangers evermore."
 
 alt1.meVE.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode5
-alt1.meVE.Aposticha2.melody = he.a.m5_en_US_goadedes.ChairoisAskitikon.name
+alt1.meVE.Aposticha2.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name
 alt1.meVE.Aposticha2.incipit = "Andrew, that fool for Christ…"
 alt1.meVE.Aposticha2.text = "Andrew, that fool for Christ, long ago * in church was praying, and a vision was granted him. * He saw you, O all-pure Virgin, as an ethereal Queen, * protecting your people with your holy veil. * We therefore now celebrate and remember this annually, * and we sing praises of your glorious mighty deeds, * all-immaculate Theotokos, and pray to you: * Lady, protect us, keep us safe beneath your protective veil. * We were allotted to your care, as demonstrated by you of old. * And grant joy and gladness, * lasting peace and great mercy to all throughout the world."
 
 alt1.meVE.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode5
-alt1.meVE.Aposticha3.melody = he.a.m5_en_US_goadedes.ChairoisAskitikon.name
+alt1.meVE.Aposticha3.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name
 alt1.meVE.Aposticha3.incipit = "Pure one, your faithful people…"
 alt1.meVE.Aposticha3.text = "Pure one, your faithful people took heart * in your most luminous protection and in the hope * of constantly being sheltered by your protective veil; * thus they overpowered boastful enemies. * And now in their gratitude they sing praises extolling you; * and celebrating on this day of the splendid feast * of your holy veil of protection, they cry to you: * \"You, holy Virgin, are for us protector and champion * and mighty fortress. We praise you, for by your grace we are safe and sound. * O Lady, we pray you, * ever rescue us from war and adversities to come.\""
 
@@ -675,7 +675,7 @@ alt1.meVE.AposGlory.incipit = "The many manifestations…"
 alt1.meVE.AposGlory.text = "The many manifestations of your saving protection that your people have experienced are astonishing to everyone who hears about them, O immaculate Virgin. For throughout history and even now, you are always there for us, in our every need, and you give us relief when we are in dire straits, as you know best, good and loving as you are. O all-lauded Lady, never cease to shower us with your mercies of old, till the end of time, for we are your flock."
 
 alt1.meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode1
-alt1.meVE.Apolytikion1.melody = he.a.m1_en_US_goadedes.TisErimouPolitis.name
+alt1.meVE.Apolytikion1.melody = he.a.m1_en_US_goadedes.heAU.TisErimouPolitis.name
 alt1.meVE.Apolytikion1.incipit = "O Virgin, we sing praises…"
 alt1.meVE.Apolytikion1.text = "O Virgin, we sing praises of the gifts of your protection, * which you have extended like a bright cloud ineffably, * invisibly protecting us your flock * from enemy invasions and attacks. * We have you as ardent helper and mighty guard, * and therefore we cry out to you: * Glory to your divinely mighty deeds! * Glory to your protective veil! * Glory to the care you have for us, O immaculate one!"
 
@@ -685,17 +685,17 @@ alt1.meVE.Apolytikion2.incipit = "Ever-virgin Theotokos…"
 alt1.meVE.Apolytikion2.text = "Ever-virgin Theotokos, your holy protection, * by which you give shelter to those who rely on you, * is a mighty refuge that you gave to your Christian people; * for you have wondrously saved us, even now as in the past. * You are as if a spiritual cloud surrounding your people. * And therefore we earnestly implore you to inspire peace in our government, * and also on our souls bestow the great mercy."
 
 alt1.meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
-alt1.meMA.Kathisma11.melody = he.a.m1_en_US_goadedes.TonTafonSouSotir.name
+alt1.meMA.Kathisma11.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 alt1.meMA.Kathisma11.incipit = "O VIrgin, we extol…"
 alt1.meMA.Kathisma11.text = "O Virgin, we extol your all-holy protection. * In every time and place, you protect us and guard us, * whom you have considered as your own people and chosen lot, * in your goodness and in your maternal compassion. * Lady, we entreat, in any coming disaster, * you keep and preserve us all."
 
 alt1.meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Kathisma21.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
+alt1.meMA.Kathisma21.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 alt1.meMA.Kathisma21.incipit = "St. Andrew the fool for Christ…"
 alt1.meMA.Kathisma21.text = "St. Andrew the fool for Christ of old was praying in church, * where your divine veil and garment had been reverently kept; * and he was amazed to see * how you had held your garment over all who were praying. * Thus you revealed the grace of your all-holy protection, * by which you protect and save us in every adversity."
 
 alt1.meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Kathisma31.melody = he.a.m8_en_US_goadedes.TinSofianKaiLogon.name
+alt1.meMA.Kathisma31.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 alt1.meMA.Kathisma31.incipit = "Your all-holy and wondrous…"
 alt1.meMA.Kathisma31.text = "Your all-holy and wondrous protective veil * was prefigured in Exodus by the cloud. * Unfolding it every day, you surround the believers all, * who look to you, O Lady, for help in their time of need, * and who rely on you and your goodness continually. * Help us, O all-holy Theotokos, subduing * the madness our enemies have against us who sing the praise * of your glorious miracles. * Intercede with your Son and our God, that He grant forgiveness of offenses * to us who lovingly celebrate your glowing protective veil."
 
@@ -731,280 +731,280 @@ alt1.meMA.C2.verse = prayers_en_US_goadedes.pr.verse_Theotokos.text
 alt1.meMA.Ode1C1H.ode = miscellanea_en_US_goadedes.misc.Ode1
 alt1.meMA.Ode1C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Ode1C1H.melody = miscellanea_en_US_goadedes.misc.Heirmos
-alt1.meMA.Ode1C1H.incipit = he.h.m4_en_US_goadedes.AnoixoToStomaMou.incipit
-alt1.meMA.Ode1C1H.text = he.h.m4_en_US_goadedes.AnoixoToStomaMou.text
+alt1.meMA.Ode1C1H.incipit = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.incipit
+alt1.meMA.Ode1C1H.text = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.text
 
 alt1.meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 alt1.meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode1C11.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou.name
+alt1.meMA.Ode1C11.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
 alt1.meMA.Ode1C11.incipit = "All-holy, immaculate…"
 alt1.meMA.Ode1C11.text = "All-holy, immaculate Mother of God, will you grant to me * both wisdom and eloquence, that I may festively praise * all the miracles * of your holy protection * that always protects us all who rightly honor you."
 
 alt1.meMA.Ode1C12.ode = miscellanea_en_US_goadedes.misc.Ode1
 alt1.meMA.Ode1C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode1C12.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou.name
+alt1.meMA.Ode1C12.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
 alt1.meMA.Ode1C12.incipit = "From heaven above…"
 alt1.meMA.Ode1C12.text = "From heaven above you have unfurled your glowing protective veil, * resembling a shining cloud. You cover and protect * not only of old, * that famous ruling city * and Greece in her time of need, * but Christians everywhere."
 
 alt1.meMA.Ode1C13.ode = miscellanea_en_US_goadedes.misc.Ode1
 alt1.meMA.Ode1C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode1C13.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou.name
+alt1.meMA.Ode1C13.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
 alt1.meMA.Ode1C13.incipit = "St. Andrew the fool for Christ…"
 alt1.meMA.Ode1C13.text = "St. Andrew the fool for Christ saw you of old in a mystical * vision that he had of you, * while he was praying in church. * You, O Virgin pure, * were covering the whole world * beneath your all-holy garment, which you had unfurled."
 
 alt1.meMA.Ode1C14.ode = miscellanea_en_US_goadedes.misc.Ode1
 alt1.meMA.Ode1C14.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode1C14.melody = he.h.m4_en_US_goadedes.AnoixoToStomaMou.name
+alt1.meMA.Ode1C14.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
 alt1.meMA.Ode1C14.incipit = "The army of Greece…"
 alt1.meMA.Ode1C14.text = "The army of Greece, of old, was given might unassailable * beneath your protective veil. They beat the enemy, * and the victory was famous. Now, O Lady, * remembering this, the faithful sing your mighty deeds. "
 
 alt1.meMA.Ode1C21.ode = miscellanea_en_US_goadedes.misc.Ode1
 alt1.meMA.Ode1C21.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode1C21.melody = he.h.m8_en_US_goadedes.ArmatilatinFarao.name
+alt1.meMA.Ode1C21.melody = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.name
 alt1.meMA.Ode1C21.incipit = "Lady, protection of the world…"
 alt1.meMA.Ode1C21.text = "Lady, protection of the world and ardent help, O Virgin Mother pure, * to the divine Logos * you gave birth ineffably. * I pray you make me eloquent, * by the grace you have richly, * that I may songfully magnify * your extraordinary protective veil."
 
 alt1.meMA.Ode1C22.ode = miscellanea_en_US_goadedes.misc.Ode1
 alt1.meMA.Ode1C22.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode1C22.melody = he.h.m8_en_US_goadedes.ArmatilatinFarao.name
+alt1.meMA.Ode1C22.melody = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.name
 alt1.meMA.Ode1C22.incipit = "With golden tassels…"
 alt1.meMA.Ode1C22.text = "With golden tassels of the Spirit's grace adorned, you are the Queen of all, * shining even brighter * than the brilliance of the sun. * As such you were observed of old * in a vision, O Virgin, * as you unfurled your protective veil, * covering the people who hoped in you."
 
 alt1.meMA.Ode1C23.ode = miscellanea_en_US_goadedes.misc.Ode1
 alt1.meMA.Ode1C23.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode1C23.melody = he.h.m8_en_US_goadedes.ArmatilatinFarao.name
+alt1.meMA.Ode1C23.melody = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.name
 alt1.meMA.Ode1C23.incipit = "In the Old Testament…"
 alt1.meMA.Ode1C23.text = "In the Old Testament, a cloud was covering the tabernacle of old. * Truly it prefigured * your holy protective veil. * For by its overshadowing, * O immaculate Virgin, * each day you cover the holy Church, * also you refresh her and care for her."
 
 alt1.meMA.Ode1C24.ode = miscellanea_en_US_goadedes.misc.Ode1
 alt1.meMA.Ode1C24.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode1C24.melody = he.h.m8_en_US_goadedes.ArmatilatinFarao.name
+alt1.meMA.Ode1C24.melody = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.name
 alt1.meMA.Ode1C24.incipit = "O Lady, mystically…"
 alt1.meMA.Ode1C24.text = "O Lady, mystically appearing long ago in your preeminent church, * full of light and mercy, * you most splendidly displayed * the special grace that you possess * and your kindness towards us, * when you unfurled your protective veil. * Therefore we are duly extolling you."
 
 alt1.meMA.Ode3C1H.ode = miscellanea_en_US_goadedes.misc.Ode3
 alt1.meMA.Ode3C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Ode3C1H.melody = miscellanea_en_US_goadedes.misc.Heirmos
-alt1.meMA.Ode3C1H.incipit = he.h.m4_en_US_goadedes.TousSousYmnologous.incipit
-alt1.meMA.Ode3C1H.text = he.h.m4_en_US_goadedes.TousSousYmnologous.text
+alt1.meMA.Ode3C1H.incipit = he.h.m4_en_US_goadedes.heHE.TousSousYmnologous.incipit
+alt1.meMA.Ode3C1H.text = he.h.m4_en_US_goadedes.heHE.TousSousYmnologous.text
 
 alt1.meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 alt1.meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode3C11.melody = he.h.m4_en_US_goadedes.TousSousYmnologous.name
+alt1.meMA.Ode3C11.melody = he.h.m4_en_US_goadedes.heHE.TousSousYmnologous.name
 alt1.meMA.Ode3C11.incipit = "Your veil of protection…"
 alt1.meMA.Ode3C11.text = "Your veil of protection is resplendent, * all-blameless one, and it is a source * of heavenly euphoria. * It always is bestowing grace * and mercy and salvation on those who contend with adversities."
 
 alt1.meMA.Ode3C12.ode = miscellanea_en_US_goadedes.misc.Ode3
 alt1.meMA.Ode3C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode3C12.melody = he.h.m4_en_US_goadedes.TousSousYmnologous.name
+alt1.meMA.Ode3C12.melody = he.h.m4_en_US_goadedes.heHE.TousSousYmnologous.name
 alt1.meMA.Ode3C12.incipit = "From time immemorial…"
 alt1.meMA.Ode3C12.text = "From time immemorial, O Virgin, * with charity you have placed beneath * the dome of your protective veil * all Christian peoples everywhere. * And as of old, you still perform marvelous wonders, protecting us."
 
 alt1.meMA.Ode3C13.ode = miscellanea_en_US_goadedes.misc.Ode3
 alt1.meMA.Ode3C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode3C13.melody = he.h.m4_en_US_goadedes.TousSousYmnologous.name
+alt1.meMA.Ode3C13.melody = he.h.m4_en_US_goadedes.heHE.TousSousYmnologous.name
 alt1.meMA.Ode3C13.incipit = "When St. Epiphanius…"
 alt1.meMA.Ode3C13.text = "When St. Epiphanius with rev'rence * gave heed to devout St. Andrew's words, * O Virgin, he began to see * how you the Queen of heaven were * protecting all the Christians there beneath your holy protective veil."
 
 alt1.meMA.Ode3C14.ode = miscellanea_en_US_goadedes.misc.Ode3
 alt1.meMA.Ode3C14.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode3C14.melody = he.h.m4_en_US_goadedes.TousSousYmnologous.name
+alt1.meMA.Ode3C14.melody = he.h.m4_en_US_goadedes.heHE.TousSousYmnologous.name
 alt1.meMA.Ode3C14.incipit = "O Virgin, we see…"
 alt1.meMA.Ode3C14.text = "O Virgin, we see the many wonders * and miracles that you work each day * by your divine protective veil, * in your maternal care for us. * And we the faithful offer you poetic praises in gratitude."
 
 alt1.meMA.Ode3C21.ode = miscellanea_en_US_goadedes.misc.Ode3
 alt1.meMA.Ode3C21.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode3C21.melody = he.h.m8_en_US_goadedes.OStereosasKatArchas.name
+alt1.meMA.Ode3C21.melody = he.h.m8_en_US_goadedes.heHE.OStereosasKatArchas.name
 alt1.meMA.Ode3C21.incipit = "Your luminous protective veil…"
 alt1.meMA.Ode3C21.text = "Your luminous protective veil, * O Theotokos, is flashing * bolts of light immaterial at all times, * thwarting dark and wicked schemes * of every hostile enemy, * and by your holy glory * illuminating believers' minds."
 
 alt1.meMA.Ode3C22.ode = miscellanea_en_US_goadedes.misc.Ode3
 alt1.meMA.Ode3C22.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode3C22.melody = he.h.m8_en_US_goadedes.OStereosasKatArchas.name
+alt1.meMA.Ode3C22.melody = he.h.m8_en_US_goadedes.heHE.OStereosasKatArchas.name
 alt1.meMA.Ode3C22.incipit = "O Virgin, you fulfilled…"
 alt1.meMA.Ode3C22.text = "O Virgin, you fulfilled the Law * by your ineffable childbirth, * bearing Him who spoke in figures by Prophets, * and who showed the world your bright * protective veil fulfilling light * within the Law foreshadowed. * We praise your glory with sacred hymns."
 
 alt1.meMA.Ode3C23.ode = miscellanea_en_US_goadedes.misc.Ode3
 alt1.meMA.Ode3C23.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode3C23.melody = he.h.m8_en_US_goadedes.OStereosasKatArchas.name
+alt1.meMA.Ode3C23.melody = he.h.m8_en_US_goadedes.heHE.OStereosasKatArchas.name
 alt1.meMA.Ode3C23.incipit = "We run with longing…"
 alt1.meMA.Ode3C23.text = "We run with longing to be found * beneath your holy protection, * like the swallow's young, each day, holy Virgin. * Please protect us from the darts * the serpent devil shoots at us. * We pray that you will grant us * a peaceful life with security."
 
 alt1.meMA.Ode3C24.ode = miscellanea_en_US_goadedes.misc.Ode3
 alt1.meMA.Ode3C24.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode3C24.melody = he.h.m8_en_US_goadedes.OStereosasKatArchas.name
+alt1.meMA.Ode3C24.melody = he.h.m8_en_US_goadedes.heHE.OStereosasKatArchas.name
 alt1.meMA.Ode3C24.incipit = "To God the Logos…"
 alt1.meMA.Ode3C24.text = "To God the Logos you gave birth, * and thus humanity knows you * as the cause of countless blessings, O Virgin. * Now from countless dire straits * and trials and adversities * you save those who extol you, * by your all-holy protective veil."
 
 alt1.meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode3
-alt1.meMA.Ode3Kathisma1.melody = he.a.m3_en_US_goadedes.TheiasPisteos.name
+alt1.meMA.Ode3Kathisma1.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
 alt1.meMA.Ode3Kathisma1.incipit = "You, all-lauded one…"
 alt1.meMA.Ode3Kathisma1.text = "You, all-lauded one, are the salvation, * the provisioning, and the protection * of faithful Orthodox Christians throughout the world. * Therefore, O Lady, we magnify and proclaim * your fervent patronage and your protective veil. * All-immaculate and pure Virgin, you protect our souls * from every hostile act of the demonic snake."
 
 alt1.meMA.Ode4C1H.ode = miscellanea_en_US_goadedes.misc.Ode4
 alt1.meMA.Ode4C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Ode4C1H.melody = miscellanea_en_US_goadedes.misc.Heirmos
-alt1.meMA.Ode4C1H.incipit = he.h.m4_en_US_goadedes.OKathimenosEnDoxi.incipit
-alt1.meMA.Ode4C1H.text = he.h.m4_en_US_goadedes.OKathimenosEnDoxi.text
+alt1.meMA.Ode4C1H.incipit = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.incipit
+alt1.meMA.Ode4C1H.text = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.text
 
 alt1.meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 alt1.meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode4C11.melody = he.h.m4_en_US_goadedes.OKathimenosEnDoxi.name
+alt1.meMA.Ode4C11.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.name
 alt1.meMA.Ode4C11.incipit = "You invisibly unfurl…"
 alt1.meMA.Ode4C11.text = "You invisibly unfurl your resplendent protective veil, * holy Theotokos, * every day protecting, embracing us. * You give us comfort and rescue us from all distress, * and we sing to you: Glory to your glory, O Virgin."
 
 alt1.meMA.Ode4C12.ode = miscellanea_en_US_goadedes.misc.Ode4
 alt1.meMA.Ode4C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode4C12.melody = he.h.m4_en_US_goadedes.OKathimenosEnDoxi.name
+alt1.meMA.Ode4C12.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.name
 alt1.meMA.Ode4C12.incipit = "The description of the greatness…"
 alt1.meMA.Ode4C12.text = "The description of the greatness of the kindness you demonstrate * always to the faithful, * and the distribution of the gifts to us, * O blessed Lady, astonish every mind and thought. * Hence, O Virgin pure, we are extolling your graciousness."
 
 alt1.meMA.Ode4C13.ode = miscellanea_en_US_goadedes.misc.Ode4
 alt1.meMA.Ode4C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode4C13.melody = he.h.m4_en_US_goadedes.OKathimenosEnDoxi.name
+alt1.meMA.Ode4C13.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.name
 alt1.meMA.Ode4C13.incipit = "You invisibly were present…"
 alt1.meMA.Ode4C13.text = "You invisibly were present long ago in Byzantium. * To your humble servants * mystically you showed and revealed to them * your holy veil of protection, by which even now * you protect us all, O most benevolent Bride of God."
 
 alt1.meMA.Ode4C14.ode = miscellanea_en_US_goadedes.misc.Ode4
 alt1.meMA.Ode4C14.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode4C14.melody = he.h.m4_en_US_goadedes.OKathimenosEnDoxi.name
+alt1.meMA.Ode4C14.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.name
 alt1.meMA.Ode4C14.incipit = "When in danger…"
 alt1.meMA.Ode4C14.text = "When in danger you protect us; in enslavement you comfort us. * We have you, O Virgin, * guiding us, supporting us, helping us. * In every difficult circumstance of life we all * flee for refuge beneath your most resplendent protective veil."
 
 alt1.meMA.Ode4C21.ode = miscellanea_en_US_goadedes.misc.Ode4
 alt1.meMA.Ode4C21.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode4C21.melody = he.h.m8_en_US_goadedes.SyMouIschys.name
+alt1.meMA.Ode4C21.melody = he.h.m8_en_US_goadedes.heHE.SyMouIschys.name
 alt1.meMA.Ode4C21.incipit = "Mother of God…"
 alt1.meMA.Ode4C21.text = "Mother of God, * in your benevolence, you dispel * gloomy nighttime * of the passions from our hearts, because your veil overshadows us; * and you make the joyous and happy daylight of grace to shine * in us; and you illumine those who faithfully call out: * O rejoice! Bright protection of all the world!"
 
 alt1.meMA.Ode4C22.ode = miscellanea_en_US_goadedes.misc.Ode4
 alt1.meMA.Ode4C22.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode4C22.melody = he.h.m8_en_US_goadedes.SyMouIschys.name
+alt1.meMA.Ode4C22.melody = he.h.m8_en_US_goadedes.heHE.SyMouIschys.name
 alt1.meMA.Ode4C22.incipit = "From you did God appear…"
 alt1.meMA.Ode4C22.text = "From you did God * appear as human within the world, * born of your most pure and virgin blood. O Lady, He made you to be for the world * a mighty protection and ardent help in adversities. * We come with love and longing to your veil of protection, * and you save us from dangers and cover us."
 
 alt1.meMA.Ode4C23.ode = miscellanea_en_US_goadedes.misc.Ode4
 alt1.meMA.Ode4C23.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode4C23.melody = he.h.m8_en_US_goadedes.SyMouIschys.name
+alt1.meMA.Ode4C23.melody = he.h.m8_en_US_goadedes.heHE.SyMouIschys.name
 alt1.meMA.Ode4C23.incipit = "O Bride of God…"
 alt1.meMA.Ode4C23.text = "O Bride of God, * since you gave birth to the King of all, * you appeared as Queen of all the universe, and you were seen escorted by hosts * of the deified Saints. You have revealed to us mystically * the evidence, O Lady, of your holy protection * in a vision from heaven, O Virgin pure."
 
 alt1.meMA.Ode4C24.ode = miscellanea_en_US_goadedes.misc.Ode4
 alt1.meMA.Ode4C24.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode4C24.melody = he.h.m8_en_US_goadedes.SyMouIschys.name
+alt1.meMA.Ode4C24.melody = he.h.m8_en_US_goadedes.heHE.SyMouIschys.name
 alt1.meMA.Ode4C24.incipit = "We who are saved…"
 alt1.meMA.Ode4C24.text = "We who are saved * from harsh disasters and trials of life * O all-lauded Lady, by your marvelous and glowing holy protective veil, * songfully extol it, for you deliver and save the souls * of Orthodox believers. And we faith we salute you: * Holy Virgin, the help of mankind, rejoice!"
 
 alt1.meMA.Ode5C1H.ode = miscellanea_en_US_goadedes.misc.Ode5
 alt1.meMA.Ode5C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Ode5C1H.melody = miscellanea_en_US_goadedes.misc.Heirmos
-alt1.meMA.Ode5C1H.incipit = he.h.m4_en_US_goadedes.ExestiTaSympanta.incipit
-alt1.meMA.Ode5C1H.text = he.h.m4_en_US_goadedes.ExestiTaSympanta.text
+alt1.meMA.Ode5C1H.incipit = he.h.m4_en_US_goadedes.heHE.ExestiTaSympanta.incipit
+alt1.meMA.Ode5C1H.text = he.h.m4_en_US_goadedes.heHE.ExestiTaSympanta.text
 
 alt1.meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 alt1.meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode5C11.melody = he.h.m4_en_US_goadedes.ExestiTaSympanta.name
+alt1.meMA.Ode5C11.melody = he.h.m4_en_US_goadedes.heHE.ExestiTaSympanta.name
 alt1.meMA.Ode5C11.incipit = "O Lady, your people…"
 alt1.meMA.Ode5C11.text = "O Lady, your people now commemorate and celebrate * your all-holy veil of protection. * For long ago, you were seen in church mystically * covering the people who were there * faithfully extolling you, O immaculate Bride of God."
 
 alt1.meMA.Ode5C12.ode = miscellanea_en_US_goadedes.misc.Ode5
 alt1.meMA.Ode5C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode5C12.melody = he.h.m4_en_US_goadedes.ExestiTaSympanta.name
+alt1.meMA.Ode5C12.melody = he.h.m4_en_US_goadedes.heHE.ExestiTaSympanta.name
 alt1.meMA.Ode5C12.incipit = "Immaculate Maid…"
 alt1.meMA.Ode5C12.text = "Immaculate Maid, each day the spiritual lions roar, * seeking to devour us your people * who were allotted to you, O Virgin pure. * By your visitation, crush their heads. * Humble and humiliate all their arrogant insolence."
 
 alt1.meMA.Ode5C13.ode = miscellanea_en_US_goadedes.misc.Ode5
 alt1.meMA.Ode5C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode5C13.melody = he.h.m4_en_US_goadedes.ExestiTaSympanta.name
+alt1.meMA.Ode5C13.melody = he.h.m4_en_US_goadedes.heHE.ExestiTaSympanta.name
 alt1.meMA.Ode5C13.incipit = "As we now commemorate…"
 alt1.meMA.Ode5C13.text = "As we now commemorate your luminous protective veil, * thanking you we sing to you, O Virgin. * From bitter bondage and occupation of old * you saved us, and recently you trounced * the arrogant enemy who attempted to conquer us."
 
 alt1.meMA.Ode5C14.ode = miscellanea_en_US_goadedes.misc.Ode5
 alt1.meMA.Ode5C14.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode5C14.melody = he.h.m4_en_US_goadedes.ExestiTaSympanta.name
+alt1.meMA.Ode5C14.melody = he.h.m4_en_US_goadedes.heHE.ExestiTaSympanta.name
 alt1.meMA.Ode5C14.incipit = "O Mother of God…"
 alt1.meMA.Ode5C14.text = "O Mother of God who are the precious vessel that contained * riches of Divinity, I pray you: * Make me a vessel of grace divine, as I praise * your glory, O Maiden full of grace. * Under your protective veil I seek shelter with trust in you."
 
 alt1.meMA.Ode5C21.ode = miscellanea_en_US_goadedes.misc.Ode5
 alt1.meMA.Ode5C21.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode5C21.melody = he.h.m8_en_US_goadedes.InaTiMeAposo.name
+alt1.meMA.Ode5C21.melody = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.name
 alt1.meMA.Ode5C21.incipit = "When your veil of protection…"
 alt1.meMA.Ode5C21.text = "When your veil of protection, * which is like a shining cloud, O Virgin, is unfurled * over all your servants, * then, as Prophet Isaiah said long ago, * from the heat of Belial and his abuse of us it saves us; * by the grace that you have it refreshes us."
 
 alt1.meMA.Ode5C22.ode = miscellanea_en_US_goadedes.misc.Ode5
 alt1.meMA.Ode5C22.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode5C22.melody = he.h.m8_en_US_goadedes.InaTiMeAposo.name
+alt1.meMA.Ode5C22.melody = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.name
 alt1.meMA.Ode5C22.incipit = "In a mystical vision…"
 alt1.meMA.Ode5C22.text = "In a mystical vision, * St. Andrew the fool for Christ beheld you as a Queen, * solemnly attended * by an escort of Saints, and he was amazed, * when he saw you, Lady, as you unfurled your holy garment, * and you covered the prayerful believers there."
 
 alt1.meMA.Ode5C23.ode = miscellanea_en_US_goadedes.misc.Ode5
 alt1.meMA.Ode5C23.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode5C23.melody = he.h.m8_en_US_goadedes.InaTiMeAposo.name
+alt1.meMA.Ode5C23.melody = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.name
 alt1.meMA.Ode5C23.incipit = "You displayed a great wonder…"
 alt1.meMA.Ode5C23.text = "You displayed a great wonder * manifestly in a vision, showing how you care * for your faithful people. * You, O Lady, invisibly covered them * with your holy garment that you unfurled with your divine hands. * Therefore we all extol you and celebrate."
 
 alt1.meMA.Ode5C24.ode = miscellanea_en_US_goadedes.misc.Ode5
 alt1.meMA.Ode5C24.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode5C24.melody = he.h.m8_en_US_goadedes.InaTiMeAposo.name
+alt1.meMA.Ode5C24.melody = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.name
 alt1.meMA.Ode5C24.incipit = "Long ago in the desert…"
 alt1.meMA.Ode5C24.text = "Long ago in the desert, * the people of Israel were covered by a cloud * that was bright, O Lady. * Now for us is your glowing protective veil * covering and guiding us to the light of the commandments * of your Son and protecting us every day."
 
 alt1.meMA.Ode6C1H.ode = miscellanea_en_US_goadedes.misc.Ode6
 alt1.meMA.Ode6C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Ode6C1H.melody = miscellanea_en_US_goadedes.misc.Heirmos
-alt1.meMA.Ode6C1H.incipit = he.h.m4_en_US_goadedes.TinTheianTaftin.incipit
-alt1.meMA.Ode6C1H.text = he.h.m4_en_US_goadedes.TinTheianTaftin.text
+alt1.meMA.Ode6C1H.incipit = he.h.m4_en_US_goadedes.heHE.TinTheianTaftin.incipit
+alt1.meMA.Ode6C1H.text = he.h.m4_en_US_goadedes.heHE.TinTheianTaftin.text
 
 alt1.meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 alt1.meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode6C11.melody = he.h.m4_en_US_goadedes.TinTheianTaftin.name
+alt1.meMA.Ode6C11.melody = he.h.m4_en_US_goadedes.heHE.TinTheianTaftin.name
 alt1.meMA.Ode6C11.incipit = "The fiery pillar…"
 alt1.meMA.Ode6C11.text = "The fiery pillar in Exodus * of old guided the people of Israel. * Now your protective veil, * flashing like lightning, is guiding us * forever to salvation, all-holy Virgin pure."
 
 alt1.meMA.Ode6C12.ode = miscellanea_en_US_goadedes.misc.Ode6
 alt1.meMA.Ode6C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode6C12.melody = he.h.m4_en_US_goadedes.TinTheianTaftin.name
+alt1.meMA.Ode6C12.melody = he.h.m4_en_US_goadedes.heHE.TinTheianTaftin.name
 alt1.meMA.Ode6C12.incipit = "Each day unfurling…"
 alt1.meMA.Ode6C12.text = "Each day unfurling your luminous * protective veil, O Virgin immaculate, * you screen us all around, * as we have frequently realized. * So what can we give back for the grace you give to us?"
 
 alt1.meMA.Ode6C13.ode = miscellanea_en_US_goadedes.misc.Ode6
 alt1.meMA.Ode6C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode6C13.melody = he.h.m4_en_US_goadedes.TinTheianTaftin.name
+alt1.meMA.Ode6C13.melody = he.h.m4_en_US_goadedes.heHE.TinTheianTaftin.name
 alt1.meMA.Ode6C13.incipit = "O Virgin, now even as of old…"
 alt1.meMA.Ode6C13.text = "O Virgin, now even as of old, * you demonstrate in action that we indeed are your inheritance, * your special people assigned you. * Therefore all faithful Christians extol you festively."
 
 alt1.meMA.Ode6C14.ode = miscellanea_en_US_goadedes.misc.Ode6
 alt1.meMA.Ode6C14.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode6C14.melody = he.h.m4_en_US_goadedes.TinTheianTaftin.name
+alt1.meMA.Ode6C14.melody = he.h.m4_en_US_goadedes.heHE.TinTheianTaftin.name
 alt1.meMA.Ode6C14.incipit = "Your faithful people…"
 alt1.meMA.Ode6C14.text = "Your faithful people who worship God * proclaim the grace He gave you to share with us. * We sing in gratitude * praising your holy protective veil. * From dangers and disaster you have delivered us."
 
 alt1.meMA.Ode6C21.ode = miscellanea_en_US_goadedes.misc.Ode6
 alt1.meMA.Ode6C21.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode6C21.melody = he.h.m8_en_US_goadedes.IlasthitiMoiSotir.name
+alt1.meMA.Ode6C21.melody = he.h.m8_en_US_goadedes.heHE.IlasthitiMoiSotir.name
 alt1.meMA.Ode6C21.incipit = "You came to us…"
 alt1.meMA.Ode6C21.text = "You came to us, Queen of all, * and you appeared truly luminous; * and wondrously you spread out * your most pure protective veil, * and thus you protected us. * We your servants praise you * for your generous benevolence."
 
 alt1.meMA.Ode6C22.ode = miscellanea_en_US_goadedes.misc.Ode6
 alt1.meMA.Ode6C22.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode6C22.melody = he.h.m8_en_US_goadedes.IlasthitiMoiSotir.name
+alt1.meMA.Ode6C22.melody = he.h.m8_en_US_goadedes.heHE.IlasthitiMoiSotir.name
 alt1.meMA.Ode6C22.incipit = "The gold cherubim of old…"
 alt1.meMA.Ode6C22.text = "The gold cherubim of old * covered the Ark of the Covenant; * and now your protective veil, * the all-holy Church of Christ, * O all-blessed Virgin pure, * for it overshadows * the believers, granting gifts of grace."
 
 alt1.meMA.Ode6C23.ode = miscellanea_en_US_goadedes.misc.Ode6
 alt1.meMA.Ode6C23.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode6C23.melody = he.h.m8_en_US_goadedes.IlasthitiMoiSotir.name
+alt1.meMA.Ode6C23.melody = he.h.m8_en_US_goadedes.heHE.IlasthitiMoiSotir.name
 alt1.meMA.Ode6C23.incipit = "The ancient Israelites…"
 alt1.meMA.Ode6C23.text = "The ancient Israelites * of old were led to the promised land * by a most luminous cloud. * The new Israel, the Church, * beneath your protective veil, * O all-holy Virgin, * now is guided to eternal life."
 
 alt1.meMA.Ode6C24.ode = miscellanea_en_US_goadedes.misc.Ode6
 alt1.meMA.Ode6C24.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode6C24.melody = he.h.m8_en_US_goadedes.IlasthitiMoiSotir.name
+alt1.meMA.Ode6C24.melody = he.h.m8_en_US_goadedes.heHE.IlasthitiMoiSotir.name
 alt1.meMA.Ode6C24.incipit = "Immaculate Queen…"
 alt1.meMA.Ode6C24.text = "Immaculate Queen, you set * about your people your luminous * protective veil like a fire * consuming our senseless foes; * and you save and rescue us * from their brutal madness. * Hence we glorify you gratefully."
 
 alt1.meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Kontakion1.melody = he.a.m8_en_US_goadedes.TiYpermacho.name
+alt1.meMA.Kontakion1.melody = he.a.m8_en_US_goadedes.heAU.TiYpermacho.name
 alt1.meMA.Kontakion1.incipit = "You were observed…"
 alt1.meMA.Kontakion1.text = "You were observed to be a cloud that, glowing splendidly, * was overshadowing the Church's people, long ago * in the imperial city, O all-pure Virgin. * Inasmuch as you protect us as our champion, * from all kinds of tribulations keep us safe and sound, * as we cry aloud: Rejoice, luminous protective veil!"
 
@@ -1020,108 +1020,108 @@ alt1.meMA.Oikos18.text = "Rejoice, luminous protective veil!"
 alt1.meMA.Ode7C1H.ode = miscellanea_en_US_goadedes.misc.Ode7
 alt1.meMA.Ode7C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Ode7C1H.melody = miscellanea_en_US_goadedes.misc.Heirmos
-alt1.meMA.Ode7C1H.incipit = he.h.m4_en_US_goadedes.OukElatrefsan.incipit
-alt1.meMA.Ode7C1H.text = he.h.m4_en_US_goadedes.OukElatrefsan.text
+alt1.meMA.Ode7C1H.incipit = he.h.m4_en_US_goadedes.heHE.OukElatrefsan.incipit
+alt1.meMA.Ode7C1H.text = he.h.m4_en_US_goadedes.heHE.OukElatrefsan.text
 
 alt1.meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 alt1.meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode7C11.melody = he.h.m4_en_US_goadedes.OukElatrefsan.name
+alt1.meMA.Ode7C11.melody = he.h.m4_en_US_goadedes.heHE.OukElatrefsan.name
 alt1.meMA.Ode7C11.incipit = "Lady, Queen of all…"
 alt1.meMA.Ode7C11.text = "Lady, Queen of all, * you placed us in your care and under your protective veil, * always protecting us * from malice and harsh abuse and enemy attacks * and adversity. * With songs that echo far and wide, * we extol you to the ages."
 
 alt1.meMA.Ode7C12.ode = miscellanea_en_US_goadedes.misc.Ode7
 alt1.meMA.Ode7C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode7C12.melody = he.h.m4_en_US_goadedes.OukElatrefsan.name
+alt1.meMA.Ode7C12.melody = he.h.m4_en_US_goadedes.heHE.OukElatrefsan.name
 alt1.meMA.Ode7C12.incipit = "Long ago, you kept…"
 alt1.meMA.Ode7C12.text = "Long ago, you kept * the capital of Constantine in your protection, for it * was dedicated to you. * O pure and all-blameless Lady, likewise you protect * by your glory now * the faithful who rely on you * and your tireless protection."
 
 alt1.meMA.Ode7C13.ode = miscellanea_en_US_goadedes.misc.Ode7
 alt1.meMA.Ode7C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode7C13.melody = he.h.m4_en_US_goadedes.OukElatrefsan.name
+alt1.meMA.Ode7C13.melody = he.h.m4_en_US_goadedes.heHE.OukElatrefsan.name
 alt1.meMA.Ode7C13.incipit = "The remarkable protection…"
 alt1.meMA.Ode7C13.text = "The remarkable * protection you provide to us beneath your holy veil * so clearly demonstrates * the care that you have for us, and Christians everywhere. * O immaculate, * pure Virgin, to our souls you give * surpassing peace and godly gladness."
 
 alt1.meMA.Ode7C14.ode = miscellanea_en_US_goadedes.misc.Ode7
 alt1.meMA.Ode7C14.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode7C14.melody = he.h.m4_en_US_goadedes.OukElatrefsan.name
+alt1.meMA.Ode7C14.melody = he.h.m4_en_US_goadedes.heHE.OukElatrefsan.name
 alt1.meMA.Ode7C14.incipit = "You remained untilled…"
 alt1.meMA.Ode7C14.text = "You remained untilled * and yet you tilled the Master Christ, who is the Tiller of life, * O Virgin, blameless and pure. * And you are the cause of joy for us saluting you, * singing, \"Lady, rejoice! * O savior of the human race * and our sweet and caring helper!\""
 
 alt1.meMA.Ode7C21.ode = miscellanea_en_US_goadedes.misc.Ode7
 alt1.meMA.Ode7C21.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode7C21.melody = he.h.m8_en_US_goadedes.TheouSynkatavasin.name
+alt1.meMA.Ode7C21.melody = he.h.m8_en_US_goadedes.heHE.TheouSynkatavasin.name
 alt1.meMA.Ode7C21.incipit = "The superessential God…"
 alt1.meMA.Ode7C21.text = "The superessential God * made His abode in a living house, the womb * of the pure Theotokos. * And she was seen in her famous house of old. * She unfolded her garment and protective veil * and wondrously covered all those who rely on her."
 
 alt1.meMA.Ode7C22.ode = miscellanea_en_US_goadedes.misc.Ode7
 alt1.meMA.Ode7C22.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode7C22.melody = he.h.m8_en_US_goadedes.TheouSynkatavasin.name
+alt1.meMA.Ode7C22.melody = he.h.m8_en_US_goadedes.heHE.TheouSynkatavasin.name
 alt1.meMA.Ode7C22.incipit = "Unable are we to grasp…"
 alt1.meMA.Ode7C22.text = "Unable are we to grasp * the scope and magnitude of your kindness to us, * O immaculate Virgin. * As a tender and loving mother indeed * each day you feed us, protect us, and care for us. * Therefore we sing hymns in praise of your protective veil."
 
 alt1.meMA.Ode7C23.ode = miscellanea_en_US_goadedes.misc.Ode7
 alt1.meMA.Ode7C23.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode7C23.melody = he.h.m8_en_US_goadedes.TheouSynkatavasin.name
+alt1.meMA.Ode7C23.melody = he.h.m8_en_US_goadedes.heHE.TheouSynkatavasin.name
 alt1.meMA.Ode7C23.incipit = "St. Andrew experienced…"
 alt1.meMA.Ode7C23.text = "St. Andrew experienced * an immaterial vision, seeing you, * O immaculate Virgin, * as you unfurled your glowing protective veil * and with it covered the people who prayed to you; * and he extolled your unfathomable mighty deeds."
 
 alt1.meMA.Ode7C24.ode = miscellanea_en_US_goadedes.misc.Ode7
 alt1.meMA.Ode7C24.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode7C24.melody = he.h.m8_en_US_goadedes.TheouSynkatavasin.name
+alt1.meMA.Ode7C24.melody = he.h.m8_en_US_goadedes.heHE.TheouSynkatavasin.name
 alt1.meMA.Ode7C24.incipit = "A bright cloud…"
 alt1.meMA.Ode7C24.text = "A bright cloud was covering * the tabernacle of the Old Testament. * Now, immaculate Virgin, * it is your wondrous glowing protective veil * that covers over the all-holy Church of Christ, * both day and night, like the mountain of God long ago."
 
 alt1.meMA.Ode8C1H.ode = miscellanea_en_US_goadedes.misc.Ode8
 alt1.meMA.Ode8C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Ode8C1H.melody = miscellanea_en_US_goadedes.misc.Heirmos
-alt1.meMA.Ode8C1H.incipit = he.h.m4_en_US_goadedes.PaidasEvageis.incipit
-alt1.meMA.Ode8C1H.text = he.h.m4_en_US_goadedes.PaidasEvageis.text
+alt1.meMA.Ode8C1H.incipit = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.incipit
+alt1.meMA.Ode8C1H.text = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.text
 
 alt1.meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 alt1.meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode8C11.melody = he.h.m4_en_US_goadedes.PaidasEvageis.name
+alt1.meMA.Ode8C11.melody = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.name
 alt1.meMA.Ode8C11.incipit = "Manifoldly, Lady Theotokos…"
 alt1.meMA.Ode8C11.text = "Manifoldly, Lady Theotokos, * you showed the activity of your protective veil, * long ago with miracles, * signs, and many mighty deeds, * fighting on our behalf each day, all-holy Virgin pure. * And we, today, are in earnest extolling * your holy protection's miracles that have saved us."
 
 alt1.meMA.Ode8C12.ode = miscellanea_en_US_goadedes.misc.Ode8
 alt1.meMA.Ode8C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode8C12.melody = he.h.m4_en_US_goadedes.PaidasEvageis.name
+alt1.meMA.Ode8C12.melody = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.name
 alt1.meMA.Ode8C12.incipit = "Faithfully receiving strength…"
 alt1.meMA.Ode8C12.text = "Faithfully receiving strength and power, * O Lady, from your divine protective veil, * we your special people prevail * evermore and overcome * the troubles that may come and hostile foes, and we remain * uninjured by all riotous mayhem, * under your protection, all-holy Theotokos."
 
 alt1.meMA.Ode8C13.ode = miscellanea_en_US_goadedes.misc.Ode8
 alt1.meMA.Ode8C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode8C13.melody = he.h.m4_en_US_goadedes.PaidasEvageis.name
+alt1.meMA.Ode8C13.melody = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.name
 alt1.meMA.Ode8C13.incipit = "Virgin, from on high…"
 alt1.meMA.Ode8C13.text = "Virgin, from on high will you unfurl * your holy and very radiant protective veil; * and as you did long ago, * so also now cover us. * Protect us from the imminence of war and hostile foes, * and save us from their evil intentions * and treachery, O Lady, for we are your own people."
 
 alt1.meMA.Ode8C14.ode = miscellanea_en_US_goadedes.misc.Ode8
 alt1.meMA.Ode8C14.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode8C14.melody = he.h.m4_en_US_goadedes.PaidasEvageis.name
+alt1.meMA.Ode8C14.melody = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.name
 alt1.meMA.Ode8C14.incipit = "Ever-virgin Lady Theotokos…"
 alt1.meMA.Ode8C14.text = "Ever-virgin Lady Theotokos, * unfurling the veil that covered your immaculate * body, you were seen by St. * Andrew the devout fool for Christ * and godly Epiphanuis, and they were both amazed. * You covered all the people, O Maiden, * with light immaterial and heavenly glory."
 
 alt1.meMA.Ode8C21.ode = miscellanea_en_US_goadedes.misc.Ode8
 alt1.meMA.Ode8C21.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode8C21.melody = he.h.m8_en_US_goadedes.TonEnOreiAgio.name
+alt1.meMA.Ode8C21.melody = he.h.m8_en_US_goadedes.heHE.TonEnOreiAgio.name
 alt1.meMA.Ode8C21.incipit = "Your all-holy protection…"
 alt1.meMA.Ode8C21.text = "Your all-holy protection is providing * strength from God, light divine, * O Virgin, and salvation, * to us who walk in nighttime of the present life, * unerringly guiding us all to our final repose in life eternal."
 
 alt1.meMA.Ode8C22.ode = miscellanea_en_US_goadedes.misc.Ode8
 alt1.meMA.Ode8C22.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode8C22.melody = he.h.m8_en_US_goadedes.TonEnOreiAgio.name
+alt1.meMA.Ode8C22.melody = he.h.m8_en_US_goadedes.heHE.TonEnOreiAgio.name
 alt1.meMA.Ode8C22.incipit = "When the choirs of Saints…"
 alt1.meMA.Ode8C22.text = "When the choirs of Saints and Angels saw you * in your most sacred church, * O immaculate Virgin, * when you unfolded your sacred protective veil * and covered the people, they sang hymns extolling the fountain of your mercy."
 
 alt1.meMA.Ode8C23.ode = miscellanea_en_US_goadedes.misc.Ode8
 alt1.meMA.Ode8C23.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode8C23.melody = he.h.m8_en_US_goadedes.TonEnOreiAgio.name
+alt1.meMA.Ode8C23.melody = he.h.m8_en_US_goadedes.heHE.TonEnOreiAgio.name
 alt1.meMA.Ode8C23.incipit = "O pure Virgin…"
 alt1.meMA.Ode8C23.text = "O pure Virgin, you are the world's protection, * even wider than that cloud * of old, and our salvation. * O Theotokos, lovingly we celebrate * the feast of your holy protection and extol your innumerable wonders."
 
 alt1.meMA.Ode8C24.ode = miscellanea_en_US_goadedes.misc.Ode8
 alt1.meMA.Ode8C24.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode8C24.melody = he.h.m8_en_US_goadedes.TonEnOreiAgio.name
+alt1.meMA.Ode8C24.melody = he.h.m8_en_US_goadedes.heHE.TonEnOreiAgio.name
 alt1.meMA.Ode8C24.incipit = "In our life…"
 alt1.meMA.Ode8C24.text = "In our life, we have you, all-holy Virgin, * as our well grounded hope * and mighty consolation; * and we take refuge under your protective veil, * where we are delivered from the devil's scandals, as we extol your kindness."
 
@@ -1148,84 +1148,84 @@ alt1.meMA.Ode9C2M04.text = "O my soul, magnify the marvelous and great deeds of 
 alt1.meMA.Ode9C1H.ode = miscellanea_en_US_goadedes.misc.Ode9
 alt1.meMA.Ode9C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Ode9C1H.melody = miscellanea_en_US_goadedes.misc.Heirmos
-alt1.meMA.Ode9C1H.incipit = he.h.m4_en_US_goadedes.ApasGigenis.incipit
-alt1.meMA.Ode9C1H.text = he.h.m4_en_US_goadedes.ApasGigenis.text
+alt1.meMA.Ode9C1H.incipit = he.h.m4_en_US_goadedes.heHE.ApasGigenis.incipit
+alt1.meMA.Ode9C1H.text = he.h.m4_en_US_goadedes.heHE.ApasGigenis.text
 
 alt1.meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 alt1.meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode9C11.melody = he.h.m4_en_US_goadedes.ApasGigenis.name
+alt1.meMA.Ode9C11.melody = he.h.m4_en_US_goadedes.heHE.ApasGigenis.name
 alt1.meMA.Ode9C11.incipit = "Healing for our souls…"
 alt1.meMA.Ode9C11.text = "Healing for our souls, * immaculate Lady, is the grace that drips like dew * from your bright protective veil * as from a cloud that is immaterial. * It cures the ills of soul and body of the faithful who sing: * Ever-Virgin, we salute you, O rejoice! * You are comfort and joy for believers all."
 
 alt1.meMA.Ode9C12.ode = miscellanea_en_US_goadedes.misc.Ode9
 alt1.meMA.Ode9C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode9C12.melody = he.h.m4_en_US_goadedes.ApasGigenis.name
+alt1.meMA.Ode9C12.melody = he.h.m4_en_US_goadedes.heHE.ApasGigenis.name
 alt1.meMA.Ode9C12.incipit = "People everywhere…"
 alt1.meMA.Ode9C12.text = "People everywhere * rejoice as they keep this festive memory today, * to praise and to glorify * your many miracles, O all-blameless one. * And seeking shelter under your holy protection with faith, * O all-lauded Lady, they cry out to you: * \"Please protect us, we pray, till the end of time.\""
 
 alt1.meMA.Ode9C13.ode = miscellanea_en_US_goadedes.misc.Ode9
 alt1.meMA.Ode9C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode9C13.melody = he.h.m4_en_US_goadedes.ApasGigenis.name
+alt1.meMA.Ode9C13.melody = he.h.m4_en_US_goadedes.heHE.ApasGigenis.name
 alt1.meMA.Ode9C13.incipit = "We have come today…"
 alt1.meMA.Ode9C13.text = "We have come today * wholeheartedly offering with earnest gratitude * hymns expressing praise and thanks, * O all-pure Virgin, for you your protective veil. * For you have chosen us believers to provide for us. * As our Lady, you take care of everything, * and you save us from every adversity."
 
 alt1.meMA.Ode9C14.ode = miscellanea_en_US_goadedes.misc.Ode9
 alt1.meMA.Ode9C14.mode = miscellanea_en_US_goadedes.misc.Mode4
-alt1.meMA.Ode9C14.melody = he.h.m4_en_US_goadedes.ApasGigenis.name
+alt1.meMA.Ode9C14.melody = he.h.m4_en_US_goadedes.heHE.ApasGigenis.name
 alt1.meMA.Ode9C14.incipit = "Virgin, from on high…"
 alt1.meMA.Ode9C14.text = "Virgin, from on high * surround us, we pray, with your divine protective veil, * as if with a mighty wall, * in the abundance of your benevolence. * And as for me who translated these hymns for you, I pray *  for forgiveness of sins, Lady, and that I *  be enlightened in mind and illumined in soul."
 
 alt1.meMA.Ode9C21.ode = miscellanea_en_US_goadedes.misc.Ode9
 alt1.meMA.Ode9C21.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode9C21.melody = he.h.m8_en_US_goadedes.ExestiEpiTouto.name
+alt1.meMA.Ode9C21.melody = he.h.m8_en_US_goadedes.heHE.ExestiEpiTouto.name
 alt1.meMA.Ode9C21.incipit = "O Lady, being moved…"
 alt1.meMA.Ode9C21.text = "O Lady, being moved by maternal love *and compassion for people who fervently rely on you, * mystically and wondrously you unfurled * over them your protective veil, * which was like that luminous cloud of old. * And we now magnify you, * proclaiming the abundance * of your concern for us, O Mother of God."
 
 alt1.meMA.Ode9C22.ode = miscellanea_en_US_goadedes.misc.Ode9
 alt1.meMA.Ode9C22.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode9C22.melody = he.h.m8_en_US_goadedes.ExestiEpiTouto.name
+alt1.meMA.Ode9C22.melody = he.h.m8_en_US_goadedes.heHE.ExestiEpiTouto.name
 alt1.meMA.Ode9C22.incipit = "Your Son, who with a pillar…"
 alt1.meMA.Ode9C22.text = "Your Son, who with a pillar of cloud of old * led an ungrateful people to freedom, has shown you to be * a cloud that is rational and alive, * O Virgin all-immaculate. * In your ardent care for us you protect * and save your special people, * and wondrously you guide us * into the land of immortality."
 
 alt1.meMA.Ode9C23.ode = miscellanea_en_US_goadedes.misc.Ode9
 alt1.meMA.Ode9C23.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode9C23.melody = he.h.m8_en_US_goadedes.ExestiEpiTouto.name
+alt1.meMA.Ode9C23.melody = he.h.m8_en_US_goadedes.heHE.ExestiEpiTouto.name
 alt1.meMA.Ode9C23.incipit = "You raised your hands…"
 alt1.meMA.Ode9C23.text = "You raised your hands in prayer to your Son and God * for your people, O Virgin, and then you mystically unfurled * over them your glowing protective veil * and covered the believers all * long ago, all-holy Mother of God. * We magnify you, Lady, * as we commemorate this * each year and celebrate it festively."
 
 alt1.meMA.Ode9C24.ode = miscellanea_en_US_goadedes.misc.Ode9
 alt1.meMA.Ode9C24.mode = miscellanea_en_US_goadedes.misc.Mode8
-alt1.meMA.Ode9C24.melody = he.h.m8_en_US_goadedes.ExestiEpiTouto.name
+alt1.meMA.Ode9C24.melody = he.h.m8_en_US_goadedes.heHE.ExestiEpiTouto.name
 alt1.meMA.Ode9C24.incipit = "We sing our hymns…"
 alt1.meMA.Ode9C24.text = "We sing our hymns in praise of the many gifts * of your veil of protection and also its abundant grace * that we all continually enjoy. * Wholeheartedly we say to you: * As you would protect your people of old, * so now protect us also * and cover us and save us, * all-holy Virgin, till the end of our life."
 
 alt1.meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode3
-alt1.meMA.Exaposteilarion1.melody = he.a.m3_en_US_goadedes.OOuranonToisAstrois.name
+alt1.meMA.Exaposteilarion1.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
 alt1.meMA.Exaposteilarion1.incipit = "Lady, your holy protection…"
 alt1.meMA.Exaposteilarion1.text = "Lady, your holy protection * holds us beneath it like a veil; * and it protects all believers, * leading in battles to defend * your people, O Theotokos, * and guard them from any danger."
 
 alt1.meMA.Exaposteilarion2.mode = miscellanea_en_US_goadedes.misc.Mode3
-alt1.meMA.Exaposteilarion2.melody = he.a.m3_en_US_goadedes.OOuranonToisAstrois.name
+alt1.meMA.Exaposteilarion2.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
 alt1.meMA.Exaposteilarion2.incipit = "We who have you…"
 alt1.meMA.Exaposteilarion2.text = "We who have you for protection * and for shelter in time of need * pray that you guard our nation * beneath your bright protective veil * from foes, domestic and foreign, * O Lady, by your unceasing prayers."
 
 alt1.meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode1
-alt1.meMA.Lauds1.melody = he.a.m1_en_US_goadedes.TonOuranionTagmaton.name
+alt1.meMA.Lauds1.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 alt1.meMA.Lauds1.incipit = "In every country…"
 alt1.meMA.Lauds1.text = "In every country, O Christians, let us extol and praise * the pure and ever-virgin * Theotokos, our Lady. * The ally of beleaguered believers is she, * their protection and ready aid. * She offers safety and shelter to those in need. * So we honor her protective veil."
 
 alt1.meMA.Lauds2.mode = miscellanea_en_US_goadedes.misc.Mode1
-alt1.meMA.Lauds2.melody = he.a.m1_en_US_goadedes.TonOuranionTagmaton.name
+alt1.meMA.Lauds2.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 alt1.meMA.Lauds2.incipit = "Your holy veil…"
 alt1.meMA.Lauds2.text = "Your holy veil of protection flashes like lightning bolts. * And like a cloud of bright light, * everyday you unfold it, * visibly protecting and guarding us all, * as we know from experience. * Whether in good times or tragedies, we have you. * So we celebrate and call you blessed."
 
 alt1.meMA.Lauds3.mode = miscellanea_en_US_goadedes.misc.Mode1
-alt1.meMA.Lauds3.melody = he.a.m1_en_US_goadedes.TonOuranionTagmaton.name
+alt1.meMA.Lauds3.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 alt1.meMA.Lauds3.incipit = "Constantinople was rescued…"
 alt1.meMA.Lauds3.text = "Constantinople was rescued from perils long ago * by your divine protection * working wonders, O Virgin. * Later on the country of Greece, by your grace, * was delivered from its complete * annihilation. And Christians throughout the world * in adversity rely on you."
 
 alt1.meMA.Lauds4.mode = miscellanea_en_US_goadedes.misc.Mode1
-alt1.meMA.Lauds4.melody = he.a.m1_en_US_goadedes.TonOuranionTagmaton.name
+alt1.meMA.Lauds4.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 alt1.meMA.Lauds4.incipit = "Truly amazing, O Virgin…"
 alt1.meMA.Lauds4.text = "Truly amazing, O Virgin, is the concern and care * that you have shown at all times * to Christians the world over. * And that is why we seek cover every day * beneath your holy protective veil, * where we are rescued from every malignant scheme * and experience the blessings of God."
 

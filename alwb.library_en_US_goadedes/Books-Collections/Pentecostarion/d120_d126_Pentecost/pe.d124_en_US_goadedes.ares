@@ -14,17 +14,17 @@ peHO.note2 = ""
 peDA.dismissal = dismissals_en_US_goadedes.dis00.pentecost
 
 peVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode1
-peVE.Stichera01.melody = he.a.m1_en_US_goadedes.TonOuranionTagmaton.name
+peVE.Stichera01.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 peVE.Stichera01.incipit = "Moses beheld…"
 peVE.Stichera01.text = "Moses beheld on the mountain * in fire the One Who Is. * And now in tongues of fire * the Spirit has descended * on the wise Apostles and seers of God, * as the Lord promised that He would; * for God who spoke then and now is one and the same, * identical in divinity."
 
 peVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode1
-peVE.Stichera02.melody = he.a.m1_en_US_goadedes.TonOuranionTagmaton.name
+peVE.Stichera02.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 peVE.Stichera02.incipit = "The Lord's Apostles…"
 peVE.Stichera02.text = "The Lord's Apostles and preachers * speaking in fiery tongues * invited all the people * to the water of holy * baptism; and wielding the Spirit's fire * they torched the prattle of godless men. * We pray, O Comforter, also illumine us * who believe that You are truly God."
 
 peVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode1
-peVE.Stichera03.melody = he.a.m1_en_US_goadedes.TonOuranionTagmaton.name
+peVE.Stichera03.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 peVE.Stichera03.incipit = "Lord, long ago…"
 peVE.Stichera03.text = "Lord, long ago You made angels * Your flaming ministers. * Ineffably assuming * a material body, * You now ignite anew, by the Spirit's fire, * Your material ministers. * For all Your marvelous works You are highly praised, * O my God who love humanity!"
 
@@ -34,17 +34,17 @@ peVE.SticGlory.incipit = pe.d120_en_US_goadedes.peVE.Stichera07.incipit
 peVE.SticGlory.text = pe.d120_en_US_goadedes.peVE.Stichera07.text
 
 peVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode4
-peVE.Aposticha1.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
+peVE.Aposticha1.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 peVE.Aposticha1.incipit = "Consubstantial and coequal…"
 peVE.Aposticha1.text = "Consubstantial and coequal * with the Father and Logos is * the all-holy Spirit, and unoriginate * and coeternal, omnipotent, and wholly benevolent. * With knowledge and grace He filled * the Disciples of the Christ the Word, who proclaimed the Lord's * mighty works and the dogmas of the Trinity to all the nations, speaking * in their diverse tongues and languages."
 
 peVE.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode4
-peVE.Aposticha2.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
+peVE.Aposticha2.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 peVE.Aposticha2.incipit = "When the Spirit had filled…"
 peVE.Aposticha2.text = "When the Spirit had filled with grace * Your Apostles, O God and man, * they proclaimed divine words in many languages. * The international multitude, * bedarkened by ignorance * as if drunkenness, inquired * whether they, who expel deceit as if drunkenness, * were themselves drunk on new wine. But for our part, through them we have come to know You, * and that You saved us, O Christ our God."
 
 peVE.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode4
-peVE.Aposticha3.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
+peVE.Aposticha3.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 peVE.Aposticha3.incipit = "I implore You…"
 peVE.Aposticha3.text = "I implore You, eternal Fount, * ever flowing an endless stream * of divine benevolence inexpressible, * and pouring out the connatural * living water endlessly, * that You irrigate my soul * with its streams, and deliver me from the furnace fire * of the passions, and from the conflagration of temptations that assail me, * and from the fire of eternal hell."
 
@@ -54,27 +54,27 @@ peVE.AposGlory.incipit = pe.d120_en_US_goadedes.peVE.Stichera08.incipit
 peVE.AposGlory.text = pe.d120_en_US_goadedes.peVE.Stichera08.text
 
 peMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
-peMA.Kathisma11.melody = he.a.m1_en_US_goadedes.TonTafonSouSotir.name
+peMA.Kathisma11.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 peMA.Kathisma11.incipit = "…"
 peMA.Kathisma11.text = ""
 
 peMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode5
-peMA.Kathisma21.melody = he.a.m5_en_US_goadedes.TonSynanarchonLogon.name
+peMA.Kathisma21.melody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.name
 peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = ""
 
 peMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode4
-peMA.Aposticha1.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
+peMA.Aposticha1.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 peMA.Aposticha1.incipit = "Now the Spirit's descent…"
 peMA.Aposticha1.text = "Now the Spirit's descent upon * the Apostles in fiery tongues * that appeared and rested on each illumined them. * It made them speakers who preached to all * that the Holy Trinity, * three hypostases in one * divine nature, is truly God. * And indeed amazed * were all nations, who witnessed how these former simple fishermen were speaking * mystic theology publicly."
 
 peMA.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode4
-peMA.Aposticha2.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
+peMA.Aposticha2.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 peMA.Aposticha2.incipit = "As they sat in the upper room…"
 peMA.Aposticha2.text = "As they sat in the upper room, * the Apostles of Christ received * the all-holy Spirit's dynamic energy, * in fiery tongues, and it sounded like the rush of a mighty wind. * Then they clearly spoke in tongues * and in various languages, teaching everywhere * and confirming the word of grace and message, that the Savior Christ, who suffered * of His own will, is indeed truly God."
 
 peMA.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode4
-peMA.Aposticha3.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
+peMA.Aposticha3.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 peMA.Aposticha3.incipit = "As You sent down…"
 peMA.Aposticha3.text = "As You sent down the grace of Your * Holy Spirit on Pentecost * unto Your Apostles, O Lord, we now implore * that You will grant that our hearts receive the endless enlightenment * of His coming onto us, * so that we all might glorify and unceasingly * send up thrice-holy hymns of praise and worship to the holy, consubstantial, * and indivisible Trinity."
 

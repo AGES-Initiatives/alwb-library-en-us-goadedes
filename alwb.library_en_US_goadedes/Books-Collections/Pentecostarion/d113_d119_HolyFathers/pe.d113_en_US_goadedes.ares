@@ -31,22 +31,22 @@ peVE.Stichera06.incipit = pe.d110_en_US_goadedes.peVE.Stichera03.incipit
 peVE.Stichera06.text = pe.d110_en_US_goadedes.peVE.Stichera03.text
 
 peVE.Stichera07.mode = miscellanea_en_US_goadedes.misc.Mode6
-peVE.Stichera07.melody = he.a.m6_en_US_goadedes.IApegnosmeni.name
+peVE.Stichera07.melody = he.a.m6_en_US_goadedes.heAU.IApegnosmeni.name
 peVE.Stichera07.incipit = "From the womb You came forth…"
 peVE.Stichera07.text = "From the womb You came forth, although begotten * from Your Father motherless before the ages. * But Arius thought of You not as God but as creature, * foolishly daring to confuse You the Creator with creatures; * and thus he laid up for himself the fuel for eternal fire. * But the holy Council in Nicea * proclaimed that You are the Son of God and share the throne * with the Father and the Spirit, O Lord."
 
 peVE.Stichera08.mode = miscellanea_en_US_goadedes.misc.Mode6
-peVE.Stichera08.melody = he.a.m6_en_US_goadedes.IApegnosmeni.name
+peVE.Stichera08.melody = he.a.m6_en_US_goadedes.heAU.IApegnosmeni.name
 peVE.Stichera08.incipit = "Who is it, O Savior…"
 peVE.Stichera08.text = "Who is it, O Savior, that rent Your garment? * \"Arius,\" You said, who creates divisions, * dividing the Trinity's equipotent dominion. * He rejected You as being one of the Trinity's persons. * He teaches Nestorius not to use the term Theotokos. * But the holy Council in Nicea * proclaimed that You are the Son of God and share the throne * with the Father and the Spirit, O Lord."
 
 peVE.Stichera09.mode = miscellanea_en_US_goadedes.misc.Mode6
-peVE.Stichera09.melody = he.a.m6_en_US_goadedes.IApegnosmeni.name
+peVE.Stichera09.melody = he.a.m6_en_US_goadedes.heAU.IApegnosmeni.name
 peVE.Stichera09.incipit = "Arius fell off the cliff…"
 peVE.Stichera09.text = "Arius fell off the cliff of transgression, * for he closed his eyes so as not to see light. * And his bowels were rent asunder by the divine trident, * and he violently hemorrhaged his soul and all his being, * for he had become like Judas, in both attitude and manner. * But the holy Council in Nicea * proclaimed that You are the Son of God and share the throne * with the Father and the Spirit, O Lord."
 
 peVE.Stichera10.mode = miscellanea_en_US_goadedes.misc.Mode6
-peVE.Stichera10.melody = he.a.m6_en_US_goadedes.IApegnosmeni.name
+peVE.Stichera10.melody = he.a.m6_en_US_goadedes.heAU.IApegnosmeni.name
 peVE.Stichera10.incipit = "Arius the fool introduced…"
 peVE.Stichera10.text = "Arius the fool introduced division * into the holy Trinity's single kingship, * asserting three dissimilar and alien natures. * Therefore the God-bearing fathers convened in the holy Council * burning with zeal for God, like the Prophet Elijah the Tishbite, * and they wielded the sword of the Spirit, * and they cut off that shameful teacher of blasphemy, * according to what the Spirit decreed."
 
@@ -130,136 +130,136 @@ peMA.C1.verse = prayers_en_US_goadedes.pr.verse_SaintsM.text
 
 peMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode1C11.melody = he.h.m6_en_US_goadedes.OsEnIpeiroPezefsas.name
+peMA.Ode1C11.melody = he.h.m6_en_US_goadedes.heHE.OsEnIpeiroPezefsas.name
 peMA.Ode1C11.incipit = "As I am singing…"
 peMA.Ode1C11.text = "As I am singing these hymns to extol the great * and all-holy Council of holy Fathers, I implore * You, O Christ, to grant me to defend * and abide by their divine prophetic utterance."
 
 peMA.Ode1C12.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C12.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode1C12.melody = he.h.m6_en_US_goadedes.OsEnIpeiroPezefsas.name
+peMA.Ode1C12.melody = he.h.m6_en_US_goadedes.heHE.OsEnIpeiroPezefsas.name
 peMA.Ode1C12.incipit = "Today, the God-bearing Fathers…"
 peMA.Ode1C12.text = "Today, the God-bearing Fathers, those bolts of light, * came together publicly to profess the Faith, O Christ: * You are the only-begotten Son, * coeternal with the Father and in essence one."
 
 peMA.Ode1C13.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C13.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode1C13.melody = he.h.m6_en_US_goadedes.OsEnIpeiroPezefsas.name
+peMA.Ode1C13.melody = he.h.m6_en_US_goadedes.heHE.OsEnIpeiroPezefsas.name
 peMA.Ode1C13.incipit = "The famous Fathers…"
 peMA.Ode1C13.text = "The famous Fathers succinctly decreed the Faith. * With their definition, Lord, as with jewelry made of gold * and is fit to dignify a bride, * they adorned the holy Church, which is Your Bride, O Christ."
 
 peMA.Ode1C1T.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode1C1T.melody = he.h.m6_en_US_goadedes.OsEnIpeiroPezefsas.name
+peMA.Ode1C1T.melody = he.h.m6_en_US_goadedes.heHE.OsEnIpeiroPezefsas.name
 peMA.Ode1C1T.incipit = "Adorned with glory…"
 peMA.Ode1C1T.text = "Adorned with glory divine and with many gifts, * the most noble Queen of all stands beside her Son and God, * whom she never ceases to implore * on behalf of us believers, that He save our souls."
 
 peMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode3C11.melody = he.h.m6_en_US_goadedes.OukEstinAgios.name
+peMA.Ode3C11.melody = he.h.m6_en_US_goadedes.heHE.OukEstinAgios.name
 peMA.Ode3C11.incipit = "Deluded Arius…"
 peMA.Ode3C11.text = "Deluded Arius ascribed passion and flux and cutting * to divine generation, for he lapsed from true belief. * By the Fathers' cutting sword * he was therefore cut off as a heretic."
 
 peMA.Ode3C12.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C12.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode3C12.melody = he.h.m6_en_US_goadedes.OukEstinAgios.name
+peMA.Ode3C12.melody = he.h.m6_en_US_goadedes.heHE.OukEstinAgios.name
 peMA.Ode3C12.incipit = "Like godly Abraham…"
 peMA.Ode3C12.text = "Like godly Abraham of lore, now the God-bearing fathers * waged a spiritual battle on Your enemies, O Lord; * and by Your might they prevailed, * and they vanquished those demented heretics."
 
 peMA.Ode3C13.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C13.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode3C13.melody = he.h.m6_en_US_goadedes.OukEstinAgios.name
+peMA.Ode3C13.melody = he.h.m6_en_US_goadedes.heHE.OukEstinAgios.name
 peMA.Ode3C13.incipit = "O Lord, Your clerics…"
 peMA.Ode3C13.text = "O Lord, Your clerics of the First Ecumenical Council * claimed that You were begotten of the unoriginate * Father and Maker of all, * consubstantial with Him, which is Orthodox."
 
 peMA.Ode3C1T.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode3C1T.melody = he.h.m6_en_US_goadedes.OukEstinAgios.name
+peMA.Ode3C1T.melody = he.h.m6_en_US_goadedes.heHE.OukEstinAgios.name
 peMA.Ode3C1T.incipit = "No human language…"
 peMA.Ode3C1T.text = "No human language has the words that can worthily praise you, * O immaculate Virgin. For Christ, the Giver of life, * became incarnate from you, * without seed of man, as He was pleased to do."
 
 peMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode4
-peMA.Ode3Kathisma1.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
+peMA.Ode3Kathisma1.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 peMA.Ode3Kathisma1.incipit = me.m07.dHF_en_US_goadedes.meMA.Ode3Kathisma1.incipit
 peMA.Ode3Kathisma1.text = me.m07.dHF_en_US_goadedes.meMA.Ode3Kathisma1.text
 
 peMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode4
-peMA.Ode3Kathisma2.melody = he.a.m4_en_US_goadedes.OYpsotheisEnToStavro.name
+peMA.Ode3Kathisma2.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
 peMA.Ode3Kathisma2.incipit = "The famous city of Nicea…"
 peMA.Ode3Kathisma2.text = "The famous city of Nicea once hosted * three hundred eighteen holy bishops and clerics, * from all the earth. And we, today, remember what they did. * They confronted Arius and his blasphemous teaching * that one of the Trinity is subordinated, * although He is the Son and Word of God; * and they condemned it, confirming the Orthodox Faith."
 
 peMA.Ode3Kathisma3.mode = miscellanea_en_US_goadedes.misc.Mode4
-peMA.Ode3Kathisma3.melody = he.a.m4_en_US_goadedes.OYpsotheisEnToStavro.name
+peMA.Ode3Kathisma3.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
 peMA.Ode3Kathisma3.incipit = "You have ascended…"
 peMA.Ode3Kathisma3.text = "You have ascended into heaven with glory, * and You are seated on the right with Your Father, * from whom You never parted, O Christ who love mankind. * To Your wise Disciples You sent the all-holy Spirit, * as You promised. And now we pray You to give us also * illumination, brightening our minds, * and we will praise You, our Master, forevermore."
 
 peMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode4C11.melody = he.h.m6_en_US_goadedes.ChristosMouDynamis.name
+peMA.Ode4C11.melody = he.h.m6_en_US_goadedes.heHE.ChristosMouDynamis.name
 peMA.Ode4C11.incipit = "The thoughts of Arius…"
 peMA.Ode4C11.text = "The thoughts of Arius the villain were unsound. * He did not rightly teach the Orthodox Faith. * Therefore by decree of the all-holy Fathers he was banned * from the Church as one incurable."
 
 peMA.Ode4C12.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C12.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode4C12.melody = he.h.m6_en_US_goadedes.ChristosMouDynamis.name
+peMA.Ode4C12.melody = he.h.m6_en_US_goadedes.heHE.ChristosMouDynamis.name
 peMA.Ode4C12.incipit = "O Lord, the Council…"
 peMA.Ode4C12.text = "O Lord, the Council of the holy Fathers fought * in defense of the Orthodox Faith in You, * that You are consubstantial with the Father and the Spirit; * and they vanquished all Your enemies."
 
 peMA.Ode4C13.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C13.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode4C13.melody = he.h.m6_en_US_goadedes.ChristosMouDynamis.name
+peMA.Ode4C13.melody = he.h.m6_en_US_goadedes.heHE.ChristosMouDynamis.name
 peMA.Ode4C13.incipit = "You are the mediator…"
 peMA.Ode4C13.text = "You are the mediator between God and men, * O Christ Jesus, for You are both God and man. * Thus those godly-minded men knew You to be a single Son * in two natures, and they so decreed."
 
 peMA.Ode4C1T.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode4C1T.melody = he.h.m6_en_US_goadedes.ChristosMouDynamis.name
+peMA.Ode4C1T.melody = he.h.m6_en_US_goadedes.heHE.ChristosMouDynamis.name
 peMA.Ode4C1T.incipit = "Refection from the tree…"
 peMA.Ode4C1T.text = "Refection from the tree became the death of me. * Then from you, holy Virgin, the Tree of life * came and resurrected me; and He has counted me an heir * of divine delight of Paradise."
 
 peMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode5C11.melody = he.h.m6_en_US_goadedes.ToTheioFengeiSou.name
+peMA.Ode5C11.melody = he.h.m6_en_US_goadedes.heHE.ToTheioFengeiSou.name
 peMA.Ode5C11.incipit = "Indeed, how beautiful…"
 peMA.Ode5C11.text = "Indeed, how beautiful are the feet * of those who are preaching the good news, that You, O Christ, are the peace of God, * passing understanding of all, both Angels and men, * and uniting all the world in an abundance of peace."
 
 peMA.Ode5C12.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C12.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode5C12.melody = he.h.m6_en_US_goadedes.ToTheioFengeiSou.name
+peMA.Ode5C12.melody = he.h.m6_en_US_goadedes.heHE.ToTheioFengeiSou.name
 peMA.Ode5C12.incipit = "The godly Teachers…"
 peMA.Ode5C12.text = "The godly Teachers who bore the seal * of all-holy orders from on high, and who were legally authorized, * convened and decreed that You are God the Father's Word, * the power and the wisdom of God, O Christ our God."
 
 peMA.Ode5C13.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C13.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode5C13.melody = he.h.m6_en_US_goadedes.ToTheioFengeiSou.name
+peMA.Ode5C13.melody = he.h.m6_en_US_goadedes.heHE.ToTheioFengeiSou.name
 peMA.Ode5C13.incipit = "O Saints, you gave…"
 peMA.Ode5C13.text = "O Saints, you gave to the holy Church * the teaching of Christ as a drink of water coming from purest streams. * Now you are delighting beside the still waters * of heavenly repose, rejoicing forevermore."
 
 peMA.Ode5C1T.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode5C1T.melody = he.h.m6_en_US_goadedes.ToTheioFengeiSou.name
+peMA.Ode5C1T.melody = he.h.m6_en_US_goadedes.heHE.ToTheioFengeiSou.name
 peMA.Ode5C1T.incipit = "O only Virgin…"
 peMA.Ode5C1T.text = "O only Virgin Mother of God, * we analogize you to a lamp, for you have brightly shone forth to all * Christ the Sun of Righteousness. O all-pure one, we pray * that you be our protectress, now and forevermore."
 
 peMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode6C11.melody = he.h.m6_en_US_goadedes.TouViouTinThalassan.name
+peMA.Ode6C11.melody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.name
 peMA.Ode6C11.incipit = "That terrible heretic…"
 peMA.Ode6C11.text = "That terrible heretic, * who sowed weeds within the Church, * could not escape the punishment * of inscrutable providence, for he burst * like Judas, when he became * a maniacal traitor to the Orthodox Faith."
 
 peMA.Ode6C12.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C12.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode6C12.melody = he.h.m6_en_US_goadedes.TouViouTinThalassan.name
+peMA.Ode6C12.melody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.name
 peMA.Ode6C12.incipit = "The only-begotten Son…"
 peMA.Ode6C12.text = "The only-begotten Son * and the radiance that shone * from God the Father's essence, Lord, * and begotten before all ages, are You. * The Council of God-inspired * holy Fathers so believed and so decreed."
 
 peMA.Ode6C13.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C13.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode6C13.melody = he.h.m6_en_US_goadedes.TouViouTinThalassan.name
+peMA.Ode6C13.melody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.name
 peMA.Ode6C13.incipit = "The belly of Arius…"
 peMA.Ode6C13.text = "The belly of Arius, * who poured out a murky spring * of toxic, godless heresies, * providentially burst, as we have been told, * when prayers by the God-inspired * holy clergy acted as a sharpened plow."
 
 peMA.Ode6C1T.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode6C1T.melody = he.h.m6_en_US_goadedes.TouViouTinThalassan.name
+peMA.Ode6C1T.melody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.name
 peMA.Ode6C1T.incipit = "The great Prophet Moses…"
 peMA.Ode6C1T.text = "The great Prophet Moses wrote * in the Law concerning you, * the Ark and table, lamp and jar, * and depicted symbolically long ago * the Most High's eventual * incarnation from you, O Virgin Mother of God."
 
@@ -288,83 +288,83 @@ peSY.lastline = ""
 
 peMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode7C11.melody = he.h.m6_en_US_goadedes.DrosovolonMenTinKaminon.name
+peMA.Ode7C11.melody = he.h.m6_en_US_goadedes.heHE.DrosovolonMenTinKaminon.name
 peMA.Ode7C11.incipit = "Holy Fathers, You defeated…"
 peMA.Ode7C11.text = "Holy Fathers, You defeated that maniacal * heretic, namely Arius, * who, synonymous now with madness, publicly pronounced * untruths about God, and to the Son * refused to sing, \"O God of our fathers, blessed are You.\""
 
 peMA.Ode7C12.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C12.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode7C12.melody = he.h.m6_en_US_goadedes.DrosovolonMenTinKaminon.name
+peMA.Ode7C12.melody = he.h.m6_en_US_goadedes.heHE.DrosovolonMenTinKaminon.name
 peMA.Ode7C12.incipit = "Imitating John…"
 peMA.Ode7C12.text = "Imitating John, that son of thunder, O inspired * fathers, with fiery mouths you teach * that the Logos is coeternal, coequal true God * from true God the Father, and that all * should cry aloud, \"O God of our fathers, blessed are You.\""
 
 peMA.Ode7C13.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C13.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode7C13.melody = he.h.m6_en_US_goadedes.DrosovolonMenTinKaminon.name
+peMA.Ode7C13.melody = he.h.m6_en_US_goadedes.heHE.DrosovolonMenTinKaminon.name
 peMA.Ode7C13.incipit = "In defense of God the Logos…"
 peMA.Ode7C13.text = "In defense of God the Logos, you O blessed of God, * arrived as if you flew in on wings. * For the Holy Spirit assembled you from every part * of civilization to convene * and cry aloud, \"O God of our fathers, blessed are You.\""
 
 peMA.Ode7C1T.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode7C1T.melody = he.h.m6_en_US_goadedes.DrosovolonMenTinKaminon.name
+peMA.Ode7C1T.melody = he.h.m6_en_US_goadedes.heHE.DrosovolonMenTinKaminon.name
 peMA.Ode7C1T.incipit = "When the furnace…"
 peMA.Ode7C1T.text = "When the furnace did not burn the three Young Men of old, * it prefigured your childbirth. * For the divine fire was inside you, and it burned you not, * enlightening everyone to sing * to you, \"Blessed are you, who in the flesh gave birth to God.\""
 
 peMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode8C11.melody = he.h.m6_en_US_goadedes.EkFlogosToisOsiois.name
+peMA.Ode8C11.melody = he.h.m6_en_US_goadedes.heHE.EkFlogosToisOsiois.name
 peMA.Ode8C11.incipit = "All ablaze with the rays…"
 peMA.Ode8C11.text = "All ablaze with the rays of Your true divinity, * Your ordained godly Pastors confessed You and decreed * that You are the Lord who created the universe. * We exalt You beyond measure, unto all the ages."
 
 peMA.Ode8C12.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C12.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode8C12.melody = he.h.m6_en_US_goadedes.EkFlogosToisOsiois.name
+peMA.Ode8C12.melody = he.h.m6_en_US_goadedes.heHE.EkFlogosToisOsiois.name
 peMA.Ode8C12.incipit = "That renowned host…"
 peMA.Ode8C12.text = "That renowned host of Pastors, inspired by God, convened * to define the theology of the Trinity, * which is uncreated; and they taught all to sing, * \"We exalt You beyond measure, unto all the ages.\""
 
 peMA.Ode8C13.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C13.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode8C13.melody = he.h.m6_en_US_goadedes.EkFlogosToisOsiois.name
+peMA.Ode8C13.melody = he.h.m6_en_US_goadedes.heHE.EkFlogosToisOsiois.name
 peMA.Ode8C13.incipit = "The illustrious Pastors…"
 peMA.Ode8C13.text = "The illustrious Pastors and Hierarchs of Christ * are in various places, throughout all history, * shining in His holy Church, brightly and splendidly, * and exalting beyond measure, unto all the ages."
 
 peMA.Ode8C1T.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode8C1T.melody = he.h.m6_en_US_goadedes.EkFlogosToisOsiois.name
+peMA.Ode8C1T.melody = he.h.m6_en_US_goadedes.heHE.EkFlogosToisOsiois.name
 peMA.Ode8C1T.incipit = "All the Prophets…"
 peMA.Ode8C1T.text = "All the Prophets foresaw you in images of old, * and they mystically knew that the Logos would from you * be incarnate and in two natures come forth from you. * We exalt Him beyond measure, unto all the ages."
 
 peMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode9C11.melody = he.h.m6_en_US_goadedes.TheonAnthropois.name
+peMA.Ode9C11.melody = he.h.m6_en_US_goadedes.heHE.TheonAnthropois.name
 peMA.Ode9C11.incipit = "The Father's coequal…"
 peMA.Ode9C11.text = "The Father's coequal, coeternal Word * and Son, whom He begot before all ages, considered you * to be allies of His and assembled you, * armed with Spirit's power. * All-holy fathers, now * joining the celestial hosts, you glorify Him evermore."
 
 peMA.Ode9C12.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C12.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode9C12.melody = he.h.m6_en_US_goadedes.TheonAnthropois.name
+peMA.Ode9C12.melody = he.h.m6_en_US_goadedes.heHE.TheonAnthropois.name
 peMA.Ode9C12.incipit = "You stopped the spread…"
 peMA.Ode9C12.text = "You stopped the spread of the awful heresy * of Arius, O fathers, when you published the holy Creed * of the Orthodox Faith, which we have thanks to you, * healers of souls and bodies. * Now, holy Hierarchs, * evermore we celebrate and glorify your memory."
 
 peMA.Ode9C13.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C13.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode9C13.melody = he.h.m6_en_US_goadedes.TheonAnthropois.name
+peMA.Ode9C13.melody = he.h.m6_en_US_goadedes.heHE.TheonAnthropois.name
 peMA.Ode9C13.incipit = "Since You, O Christ…"
 peMA.Ode9C13.text = "Since You, O Christ, are most pure and holy light, * please free me from the darkness of the passions that plague my soul, * at the intercessions of Your priests who proclaimed * You to be uncreated * and unoriginate * with the Father, Lord and God, Creator of the universe."
 
 peMA.Ode9C1T.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Ode9C1T.melody = he.h.m6_en_US_goadedes.TheonAnthropois.name
+peMA.Ode9C1T.melody = he.h.m6_en_US_goadedes.heHE.TheonAnthropois.name
 peMA.Ode9C1T.incipit = "Now resurrection…"
 peMA.Ode9C1T.text = "Now resurrection is granted to the dead, * through your incomprehensible, ineffable childbirth, * Lady Theotokos; for from you did Life * put on a human body, * shine forth on everyone, * and dispel the somberness death for all eternity."
 
 peMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
-peMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.ToisMathitaisSynelthomen.name
+peMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.name
 peMA.Exaposteilarion1.incipit = eo.e10_en_US_goadedes.eo.Exaposteilarion.incipit
 peMA.Exaposteilarion1.text = eo.e10_en_US_goadedes.eo.Exaposteilarion.text
 
 peMA.Exaposteilarion2.mode = miscellanea_en_US_goadedes.misc.Mode2
-peMA.Exaposteilarion2.melody = he.a.m2_en_US_goadedes.GynaikesAkoutisthite.name
+peMA.Exaposteilarion2.melody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.name
 peMA.Exaposteilarion2.incipit = me.m07.dHF_en_US_goadedes.meMA.Exaposteilarion1.incipit
 peMA.Exaposteilarion2.text = me.m07.dHF_en_US_goadedes.meMA.Exaposteilarion1.text
 
@@ -374,17 +374,17 @@ peMA.Exaposteilarion3.incipit = pe.d110_en_US_goadedes.peMA.Exaposteilarion1.inc
 peMA.Exaposteilarion3.text = pe.d110_en_US_goadedes.peMA.Exaposteilarion1.text
 
 peMA.Lauds6.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Lauds6.melody = he.a.m6_en_US_goadedes.OlinApothemenoi.name
+peMA.Lauds6.melody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.name
 peMA.Lauds6.incipit = me.m07.dHF_en_US_goadedes.meMA.Lauds1.incipit
 peMA.Lauds6.text = me.m07.dHF_en_US_goadedes.meMA.Lauds1.text
 
 peMA.Lauds7.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Lauds7.melody = he.a.m6_en_US_goadedes.OlinApothemenoi.name
+peMA.Lauds7.melody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.name
 peMA.Lauds7.incipit = me.m07.dHF_en_US_goadedes.meMA.Lauds2.incipit
 peMA.Lauds7.text = me.m07.dHF_en_US_goadedes.meMA.Lauds2.text
 
 peMA.Lauds8.mode = miscellanea_en_US_goadedes.misc.Mode6
-peMA.Lauds8.melody = he.a.m6_en_US_goadedes.OlinApothemenoi.name
+peMA.Lauds8.melody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.name
 peMA.Lauds8.incipit = me.m07.dHF_en_US_goadedes.meMA.Lauds3.incipit
 peMA.Lauds8.text = me.m07.dHF_en_US_goadedes.meMA.Lauds3.text
 

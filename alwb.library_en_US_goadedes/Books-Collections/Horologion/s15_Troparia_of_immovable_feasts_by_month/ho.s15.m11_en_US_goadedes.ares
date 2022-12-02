@@ -14,14 +14,14 @@ hoD03.Apolytikion1.text = me.m04.d23_en_US_goadedes.meVE.Apolytikion1.text
 hoD03.Apolytikion2.title = titles_en_US_goadedes.ti.Martyrs
 hoD03.Apolytikion2.poet = ""
 hoD03.Apolytikion2.mode = miscellanea_en_US_goadedes.misc.Mode4
-hoD03.Apolytikion2.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
-hoD03.Apolytikion2.incipit = he.ga_en_US_goadedes.OiMartyresSouKyrie.incipit
-hoD03.Apolytikion2.text = he.ga_en_US_goadedes.OiMartyresSouKyrie.text
+hoD03.Apolytikion2.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
+hoD03.Apolytikion2.incipit = he.ga_en_US_goadedes.heGA.OiMartyresSouKyrie.incipit
+hoD03.Apolytikion2.text = he.ga_en_US_goadedes.heGA.OiMartyresSouKyrie.text
 
 hoD03.Apolytikion3.title = titles_en_US_goadedes.ti.Another_1hymn
 hoD03.Apolytikion3.poet = ""
 hoD03.Apolytikion3.mode = miscellanea_en_US_goadedes.misc.Mode3
-hoD03.Apolytikion3.melody = he.a.m3_en_US_goadedes.TheiasPisteos.name
+hoD03.Apolytikion3.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
 hoD03.Apolytikion3.incipit = "…"
 hoD03.Apolytikion3.text = ""
 
@@ -29,14 +29,14 @@ hoD09.GeneralApolytikion1.name = ""
 
 hoD11.GeneralApolytikion3.title = titles_en_US_goadedes.ti.DevoutSaintM
 hoD11.GeneralApolytikion3.poet = ""
-hoD11.GeneralApolytikion3.mode = he.ga_en_US_goadedes.OrthodoxiasOdigeM.mode
-hoD11.GeneralApolytikion3.melody = he.ga_en_US_goadedes.OrthodoxiasOdigeM.name
+hoD11.GeneralApolytikion3.mode = he.ga_en_US_goadedes.heGA.OrthodoxiasOdigeM.mode
+hoD11.GeneralApolytikion3.melody = he.ga_en_US_goadedes.heGA.OrthodoxiasOdigeM.name
 hoD11.GeneralApolytikion3.name = ""
 
 hoD12.GeneralApolytikion2.title = titles_en_US_goadedes.ti.DevoutSaintM
 hoD12.GeneralApolytikion2.poet = ""
-hoD12.GeneralApolytikion2.mode = he.ga_en_US_goadedes.TaisTonDakryonSou.mode
-hoD12.GeneralApolytikion2.melody = he.ga_en_US_goadedes.TaisTonDakryonSou.name
+hoD12.GeneralApolytikion2.mode = he.ga_en_US_goadedes.heGA.TaisTonDakryonSou.mode
+hoD12.GeneralApolytikion2.melody = he.ga_en_US_goadedes.heGA.TaisTonDakryonSou.name
 hoD12.GeneralApolytikion2.name = ""
 
 hoD19.GeneralApolytikion1.name = ""

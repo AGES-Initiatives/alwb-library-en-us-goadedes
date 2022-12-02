@@ -14,17 +14,17 @@ peHO.note2 = ""
 peDA.dismissal = dismissals_en_US_goadedes.dis00.resurrection
 
 peVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode1
-peVE.Stichera01.melody = he.a.m1_en_US_goadedes.TonOuranionTagmaton.name
+peVE.Stichera01.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 peVE.Stichera01.incipit = "…"
 peVE.Stichera01.text = ""
 
 peVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode1
-peVE.Stichera02.melody = he.a.m1_en_US_goadedes.TonOuranionTagmaton.name
+peVE.Stichera02.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 peVE.Stichera02.incipit = "…"
 peVE.Stichera02.text = ""
 
 peVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode1
-peVE.Stichera03.melody = he.a.m1_en_US_goadedes.TonOuranionTagmaton.name
+peVE.Stichera03.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 peVE.Stichera03.incipit = "…"
 peVE.Stichera03.text = ""
 
@@ -79,7 +79,7 @@ peMA.Kathisma1T.incipit = oc.m3.d7_en_US_goadedes.ocMA.Kathisma14.incipit
 peMA.Kathisma1T.text = oc.m3.d7_en_US_goadedes.ocMA.Kathisma14.text
 
 peMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode8
-peMA.Kathisma21.melody = he.a.m8_en_US_goadedes.TinSofianKaiLogon.name
+peMA.Kathisma21.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = ""
 
@@ -109,17 +109,17 @@ peMA.LaudsGlory.incipit = pe.d095_en_US_goadedes.peMA.LaudsGlory.incipit
 peMA.LaudsGlory.text = pe.d095_en_US_goadedes.peMA.LaudsGlory.text
 
 peMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
-peMA.Aposticha1.melody = he.a.m2_en_US_goadedes.OikosTouEfratha.name
+peMA.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 peMA.Aposticha1.incipit = "…"
 peMA.Aposticha1.text = ""
 
 peMA.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode2
-peMA.Aposticha2.melody = he.a.m2_en_US_goadedes.OikosTouEfratha.name
+peMA.Aposticha2.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 peMA.Aposticha2.incipit = "…"
 peMA.Aposticha2.text = ""
 
 peMA.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode2
-peMA.Aposticha3.melody = he.a.m2_en_US_goadedes.OikosTouEfratha.name
+peMA.Aposticha3.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 peMA.Aposticha3.incipit = "…"
 peMA.Aposticha3.text = ""
 

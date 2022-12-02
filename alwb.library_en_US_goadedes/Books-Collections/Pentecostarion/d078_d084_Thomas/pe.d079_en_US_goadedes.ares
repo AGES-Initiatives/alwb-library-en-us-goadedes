@@ -14,17 +14,17 @@ peHO.note2 = ""
 peDA.dismissal = dismissals_en_US_goadedes.dis00.resurrection
 
 peVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode1
-peVE.Stichera01.melody = he.a.m1_en_US_goadedes.PaneffimoiMartyres.name
+peVE.Stichera01.melody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.name
 peVE.Stichera01.incipit = pe.d078_en_US_goadedes.peMA.Lauds1.incipit
 peVE.Stichera01.text = pe.d078_en_US_goadedes.peMA.Lauds1.text
 
 peVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode1
-peVE.Stichera02.melody = he.a.m1_en_US_goadedes.PaneffimoiMartyres.name
+peVE.Stichera02.melody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.name
 peVE.Stichera02.incipit = pe.d078_en_US_goadedes.peMA.Lauds2.incipit
 peVE.Stichera02.text = pe.d078_en_US_goadedes.peMA.Lauds2.text
 
 peVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode1
-peVE.Stichera03.melody = he.a.m1_en_US_goadedes.PaneffimoiMartyres.name
+peVE.Stichera03.melody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.name
 peVE.Stichera03.incipit = pe.d078_en_US_goadedes.peMA.Lauds3.incipit
 peVE.Stichera03.text = pe.d078_en_US_goadedes.peMA.Lauds3.text
 
@@ -74,7 +74,7 @@ peMA.Kathisma1T.incipit = oc.m1.d7_en_US_goadedes.ocMA.Kathisma24.incipit
 peMA.Kathisma1T.text = oc.m1.d7_en_US_goadedes.ocMA.Kathisma24.text
 
 peMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode1
-peMA.Kathisma21.melody = he.a.m1_en_US_goadedes.TonTafonSouSotir.name
+peMA.Kathisma21.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = ""
 
@@ -99,17 +99,17 @@ peMA.LaudsGlory.incipit = pe.d078_en_US_goadedes.peVE.Stichera03.incipit
 peMA.LaudsGlory.text = pe.d078_en_US_goadedes.peVE.Stichera03.text
 
 peMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
-peMA.Aposticha1.melody = he.a.m2_en_US_goadedes.OikosTouEfratha.name
+peMA.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 peMA.Aposticha1.incipit = pe.d078_en_US_goadedes.peSV.Aposticha1.incipit
 peMA.Aposticha1.text = pe.d078_en_US_goadedes.peSV.Aposticha1.text
 
 peMA.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode2
-peMA.Aposticha2.melody = he.a.m2_en_US_goadedes.OikosTouEfratha.name
+peMA.Aposticha2.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 peMA.Aposticha2.incipit = pe.d078_en_US_goadedes.peSV.Aposticha2.incipit
 peMA.Aposticha2.text = pe.d078_en_US_goadedes.peSV.Aposticha2.text
 
 peMA.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode2
-peMA.Aposticha3.melody = he.a.m2_en_US_goadedes.OikosTouEfratha.name
+peMA.Aposticha3.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 peMA.Aposticha3.incipit = pe.d078_en_US_goadedes.peSV.Aposticha3.incipit
 peMA.Aposticha3.text = pe.d078_en_US_goadedes.peSV.Aposticha3.text
 

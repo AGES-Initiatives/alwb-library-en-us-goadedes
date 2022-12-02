@@ -77,7 +77,7 @@ euFUN.Key0804.mode = miscellanea_en_US_goadedes.misc.Mode3
 euFUN.Key0804.incipit = oc.m3.d7_en_US_goadedes.ocVE.Aposticha4.incipit
 euFUN.Key0804.text = oc.m3.d7_en_US_goadedes.ocVE.Aposticha4.text
 euFUN.Key0805.mode = miscellanea_en_US_goadedes.misc.Mode4
-euFUN.Key0805.melody = he.a.m4_en_US_goadedes.EdokasSimeiosin.name
+euFUN.Key0805.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
 euFUN.Key0805.incipit = oc.m4.d7_en_US_goadedes.ocMA.Aposticha1.incipit
 euFUN.Key0805.text = oc.m4.d7_en_US_goadedes.ocMA.Aposticha1.text
 euFUN.Key0806.title = titles_en_US_goadedes.ti.AnotherExtraHymn
@@ -91,7 +91,7 @@ euFUN.Key0808.mode = miscellanea_en_US_goadedes.misc.Mode6
 euFUN.Key0808.incipit = oc.m6.d7_en_US_goadedes.ocVE.Aposticha2.incipit
 euFUN.Key0808.text = oc.m6.d7_en_US_goadedes.ocVE.Aposticha2.text
 euFUN.Key0809.mode = miscellanea_en_US_goadedes.misc.Mode7
-euFUN.Key0809.melody = he.a.m7_en_US_goadedes.OukEtiKolyometha.name
+euFUN.Key0809.melody = he.a.m7_en_US_goadedes.heAU.OukEtiKolyometha.name
 euFUN.Key0809.incipit = oc.m7.d7_en_US_goadedes.ocVE.Aposticha3.incipit
 euFUN.Key0809.text = oc.m7.d7_en_US_goadedes.ocVE.Aposticha3.text
 euFUN.Key0810.title = titles_en_US_goadedes.ti.AnotherExtraHymn
@@ -110,7 +110,7 @@ euFUN.Key0813.text = oc.m8.d7_en_US_goadedes.ocVE.AposTheotokion.text
 
 euFUN.Key0900.title = ""
 euFUN.Key0900.mode = miscellanea_en_US_goadedes.misc.Mode6
-euFUN.Key0900.melody = he.h.m6_en_US_goadedes.OiOsioiSouPaides.name
+euFUN.Key0900.melody = he.h.m6_en_US_goadedes.heHE.OiOsioiSouPaides.name
 euFUN.Key0901.incipit = "…"
 euFUN.Key0901.text = ""
 euFUN.Key0902.incipit = "…"
@@ -139,17 +139,17 @@ euFUN.Key1003.title = ""
 euFUN.Key1003.text = ""
 
 euFUN.Key1101.mode = miscellanea_en_US_goadedes.misc.Mode2
-euFUN.Key1101.melody = he.a.m2_en_US_goadedes.OteEkTouXylou.name
+euFUN.Key1101.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
 euFUN.Key1101.incipit = "…"
 euFUN.Key1101.text = ""
 
 euFUN.Key1102.mode = miscellanea_en_US_goadedes.misc.Mode2
-euFUN.Key1102.melody = he.a.m2_en_US_goadedes.OteEkTouXylou.name
+euFUN.Key1102.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
 euFUN.Key1102.incipit = "…"
 euFUN.Key1102.text = ""
 
 euFUN.Key1103.mode = miscellanea_en_US_goadedes.misc.Mode2
-euFUN.Key1103.melody = he.a.m2_en_US_goadedes.OteEkTouXylou.name
+euFUN.Key1103.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
 euFUN.Key1103.incipit = "…"
 euFUN.Key1103.text = ""
 
@@ -159,7 +159,7 @@ euFUN.Key1104.incipit = "…"
 euFUN.Key1104.text = ""
 
 euFUN.Key1105.mode = miscellanea_en_US_goadedes.misc.Mode6
-euFUN.Key1105.melody = he.a.m6_en_US_goadedes.TriimerosAnestis.name
+euFUN.Key1105.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
 euFUN.Key1105.incipit = oc.m6.d7_en_US_goadedes.ocVE.AposTheotokion.incipit
 euFUN.Key1105.text = oc.m6.d7_en_US_goadedes.ocVE.AposTheotokion.text
 
@@ -203,11 +203,11 @@ euFUN.Key2200.title = ""
 euFUN.Key2201.text = ""
 euFUN.Key2202.text = ""
 euFUN.Key2203.mode = miscellanea_en_US_goadedes.misc.Mode8
-euFUN.Key2203.melody = he.a.m8_en_US_goadedes.OTouParadoxou.name
+euFUN.Key2203.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
 euFUN.Key2203.incipit = "…"
 euFUN.Key2203.text = ""
 euFUN.Key2204.mode = miscellanea_en_US_goadedes.misc.Mode8
-euFUN.Key2204.melody = he.a.m8_en_US_goadedes.OTouParadoxou.name
+euFUN.Key2204.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
 euFUN.Key2204.incipit = "…"
 euFUN.Key2204.text = ""
 

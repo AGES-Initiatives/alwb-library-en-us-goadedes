@@ -7,11 +7,11 @@ daVE.OnTheEveningBefore = template.titles_en_US_goadedes.d.onWednesdayEvening
 
 daVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode3
 daVE.Apolytikion1.melody = ""
-daVE.Apolytikion1.incipit = he.ga_en_US_goadedes.ApostoloiAgioi.incipit
-daVE.Apolytikion1.text = he.ga_en_US_goadedes.ApostoloiAgioi.text
+daVE.Apolytikion1.incipit = he.ga_en_US_goadedes.heGA.ApostoloiAgioi.incipit
+daVE.Apolytikion1.text = he.ga_en_US_goadedes.heGA.ApostoloiAgioi.text
 
 daVE.Apolytikion2.mode = miscellanea_en_US_goadedes.misc.Mode4
-daVE.Apolytikion2.melody = he.ga_en_US_goadedes.KanonaPisteos.name
+daVE.Apolytikion2.melody = he.ga_en_US_goadedes.heGA.KanonaPisteos.name
 daVE.Apolytikion2.name = me.m12.d06_en_US_goadedes.meVE.GeneralApolytikion1.name
 
 daVE.ApolTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -32,22 +32,22 @@ daMA.Photagogic2Beginning.text = ""
 daMA.Photagogic3Beginning.text = prayers_en_US_goadedes.pr.photagogic_begin_Theotokos.text
 
 daMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode3
-daMA.Exaposteilarion1.melody = he.a.m3_en_US_goadedes.OOuranonToisAstrois.name
+daMA.Exaposteilarion1.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
 daMA.Exaposteilarion1.incipit = "…"
 daMA.Exaposteilarion1.text = ""
 
 daMA.Exaposteilarion2.mode = miscellanea_en_US_goadedes.misc.Mode3
-daMA.Exaposteilarion2.melody = he.a.m3_en_US_goadedes.OOuranonToisAstrois.name
+daMA.Exaposteilarion2.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
 daMA.Exaposteilarion2.incipit = "…"
 daMA.Exaposteilarion2.text = ""
 
 daMA.ExapTheotokion1.mode = miscellanea_en_US_goadedes.misc.Mode3
-daMA.ExapTheotokion1.melody = he.a.m3_en_US_goadedes.OOuranonToisAstrois.name
+daMA.ExapTheotokion1.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
 daMA.ExapTheotokion1.incipit = "…"
 daMA.ExapTheotokion1.text = ""
 
 daMA.ExapTheotokion2.mode = miscellanea_en_US_goadedes.misc.Mode3
-daMA.ExapTheotokion2.melody = he.a.m3_en_US_goadedes.OOuranonToisAstrois.name
+daMA.ExapTheotokion2.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
 daMA.ExapTheotokion2.incipit = "…"
 daMA.ExapTheotokion2.text = ""
 

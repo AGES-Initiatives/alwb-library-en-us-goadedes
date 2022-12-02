@@ -84,17 +84,17 @@ euVE.Apolytikion.text = me.m09.d13_en_US_goadedes.meVE.Apolytikion1.text
 euCON.Key3000.title = ""
 
 euMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode8
-euMA.Kathisma11.melody = he.a.m8_en_US_goadedes.ToProstachthen.name
+euMA.Kathisma11.melody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.name
 euMA.Kathisma11.incipit = me.m09.d13_en_US_goadedes.meMA.Ode3Kathisma1.incipit
 euMA.Kathisma11.text = me.m09.d13_en_US_goadedes.meMA.Ode3Kathisma1.text
 
 euMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode8
-euMA.Kathisma21.melody = he.a.m8_en_US_goadedes.TinSofianKaiLogon.name
+euMA.Kathisma21.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 euMA.Kathisma21.incipit = "…"
 euMA.Kathisma21.text = ""
 
 euMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode4
-euMA.Kathisma31.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
+euMA.Kathisma31.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 euMA.Kathisma31.incipit = "…"
 euMA.Kathisma31.text = ""
 
@@ -111,12 +111,12 @@ euMA.MM.Ode8.text = properties_en_US_goadedes.media.key
 euMA.MM.Ode9.text = properties_en_US_goadedes.media.key
 
 euMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode4
-euMA.Ode3Kathisma1.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
+euMA.Ode3Kathisma1.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 euMA.Ode3Kathisma1.incipit = me.m09.d13_en_US_goadedes.meMA.Kathisma11.incipit
 euMA.Ode3Kathisma1.text = me.m09.d13_en_US_goadedes.meMA.Kathisma11.text
 
 euMA.Ode3KathismaT.mode = miscellanea_en_US_goadedes.misc.Mode4
-euMA.Ode3KathismaT.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
+euMA.Ode3KathismaT.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 euMA.Ode3KathismaT.incipit = me.m09.d13_en_US_goadedes.meMA.Ode3KathismaT.incipit
 euMA.Ode3KathismaT.text = me.m09.d13_en_US_goadedes.meMA.Ode3KathismaT.text
 
@@ -128,24 +128,24 @@ euMA.Kontakion.text = me.m09.d13_en_US_goadedes.meMA.Kontakion1.text
 euMA.Oikos.text = me.m09.d13_en_US_goadedes.meMA.Oikos1.text
 
 euMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
-euMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.GynaikesAkoutisthite.name
+euMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.name
 euMA.Exaposteilarion1.incipit = "…"
 euMA.Exaposteilarion1.text = ""
 
 euMA.R001 = "The Hierarch ... and says the prayers of Pat. Callistus."
 
 euMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode4
-euMA.Lauds1.melody = he.a.m4_en_US_goadedes.EdokasSimeiosin.name
+euMA.Lauds1.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
 euMA.Lauds1.incipit = me.m09.d13_en_US_goadedes.meMA.Lauds1.incipit
 euMA.Lauds1.text = me.m09.d13_en_US_goadedes.meMA.Lauds1.text
 
 euMA.Lauds2.mode = miscellanea_en_US_goadedes.misc.Mode4
-euMA.Lauds2.melody = he.a.m4_en_US_goadedes.EdokasSimeiosin.name
+euMA.Lauds2.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
 euMA.Lauds2.incipit = me.m09.d13_en_US_goadedes.meMA.Lauds2.incipit
 euMA.Lauds2.text = me.m09.d13_en_US_goadedes.meMA.Lauds2.text
 
 euMA.Lauds3.mode = miscellanea_en_US_goadedes.misc.Mode4
-euMA.Lauds3.melody = he.a.m4_en_US_goadedes.EdokasSimeiosin.name
+euMA.Lauds3.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
 euMA.Lauds3.incipit = me.m09.d13_en_US_goadedes.meMA.Lauds3.incipit
 euMA.Lauds3.text = me.m09.d13_en_US_goadedes.meMA.Lauds3.text
 

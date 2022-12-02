@@ -20,32 +20,32 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode1
-meVE.Stichera01.melody = he.a.m1_en_US_goadedes.PaneffimoiMartyres.name
+meVE.Stichera01.melody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.name
 meVE.Stichera01.incipit = "…"
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode1
-meVE.Stichera02.melody = he.a.m1_en_US_goadedes.PaneffimoiMartyres.name
+meVE.Stichera02.melody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.name
 meVE.Stichera02.incipit = "…"
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode1
-meVE.Stichera03.melody = he.a.m1_en_US_goadedes.PaneffimoiMartyres.name
+meVE.Stichera03.melody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.name
 meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode8
-meVE.Stichera04.melody = he.a.m8_en_US_goadedes.OEnEdemParadeisos.notmetered
+meVE.Stichera04.melody = he.a.m8_en_US_goadedes.heAU.OEnEdemParadeisos.notmetered
 meVE.Stichera04.incipit = "O believers, today as we observe…"
 meVE.Stichera04.text = "O believers, today as we observe the memory of the fathers, let us extol Christ our Redeemer, who magnified them among all nations, and who faithfully performed those extraordinary miracles, as powerful and mighty Lord. From them He produced the rod of power for us, namely Mary, the only perpetually virgin pure Mother of God. From her came forth the flower, namely Christ, who blossomed life for all, never-ending delight, and the salvation of our souls."
 
 meVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode8
-meVE.Stichera05.melody = he.a.m8_en_US_goadedes.OEnEdemParadeisos.name
+meVE.Stichera05.melody = he.a.m8_en_US_goadedes.heAU.OEnEdemParadeisos.name
 meVE.Stichera05.incipit = me.m12.dFF_en_US_goadedes.meVE.Stichera03.incipit
 meVE.Stichera05.text = me.m12.dFF_en_US_goadedes.meVE.Stichera03.text
 
 meVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode8
-meVE.Stichera06.melody = he.a.m8_en_US_goadedes.OEnEdemParadeisos.name
+meVE.Stichera06.melody = he.a.m8_en_US_goadedes.heAU.OEnEdemParadeisos.name
 meVE.Stichera06.incipit = me.m12.dFF_en_US_goadedes.meVE.Stichera04.incipit
 meVE.Stichera06.text = me.m12.dFF_en_US_goadedes.meVE.Stichera04.text
 
@@ -87,9 +87,9 @@ meVE.Apolytikion1.text = me.m12.d17_en_US_goadedes.meVE.Apolytikion1.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode1C1H.melody = he.h.m6_en_US_goadedes.KymatiThalassis.melody
-meMA.Ode1C1H.incipit = he.h.m6_en_US_goadedes.KymatiThalassis.incipit
-meMA.Ode1C1H.text = he.h.m6_en_US_goadedes.KymatiThalassis.text
+meMA.Ode1C1H.melody = he.h.m6_en_US_goadedes.heHE.KymatiThalassis.melody
+meMA.Ode1C1H.incipit = he.h.m6_en_US_goadedes.heHE.KymatiThalassis.incipit
+meMA.Ode1C1H.text = he.h.m6_en_US_goadedes.heHE.KymatiThalassis.text
 
 meMA.C1.title = titles_en_US_goadedes.ti.CanonFathers
 meMA.C1.verse = prayers_en_US_goadedes.pr.verse_SaintsM.text
@@ -99,109 +99,109 @@ meMA.C2.verse = prayers_en_US_goadedes.pr.verse_God.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode1C11.melody = he.h.m6_en_US_goadedes.KymatiThalassis.notmetered
+meMA.Ode1C11.melody = he.h.m6_en_US_goadedes.heHE.KymatiThalassis.notmetered
 meMA.Ode1C11.incipit = "The gates of death…"
 meMA.Ode1C11.text = "The gates of death open to You in fear, and the eternal bars are shattered. For at Your divine descent, the people who died long ago rose, and with joy they extolled Your resurrection, O Christ."
 
 meMA.Ode1C12.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode1C12.melody = he.h.m6_en_US_goadedes.KymatiThalassis.notmetered
+meMA.Ode1C12.melody = he.h.m6_en_US_goadedes.heHE.KymatiThalassis.notmetered
 meMA.Ode1C12.incipit = "Today, the godly fathers…"
 meMA.Ode1C12.text = "Today, the godly fathers splendidly celebrate, in anticipation of the birth of Christ. They underscore this extraordinary grace; for Abraham and the three Servants are all a symbol of the Law."
 
 meMA.Ode1C13.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode1C13.melody = he.h.m6_en_US_goadedes.KymatiThalassis.notmetered
+meMA.Ode1C13.melody = he.h.m6_en_US_goadedes.heHE.KymatiThalassis.notmetered
 meMA.Ode1C13.incipit = "Long ago, saintly Abraham…"
 meMA.Ode1C13.text = "Long ago, saintly Abraham showed hospitality to the one Godhead in three persons. Now the Logos, the coequal of the Father and the Holy Spirit, appears to the three Servants, and He is greatly glorified."
 
 meMA.Ode1C14.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C14.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode1C14.melody = he.h.m6_en_US_goadedes.KymatiThalassis.notmetered
+meMA.Ode1C14.melody = he.h.m6_en_US_goadedes.heHE.KymatiThalassis.notmetered
 meMA.Ode1C14.incipit = "Abraham was rescued…"
 meMA.Ode1C14.text = "Abraham was rescued from unjust treatment; the godly Servants, from the furnace fire; and Prophet Daniel, from the lions in the den. Now they celebrate in anticipation of the birth of Christ."
 
 meMA.Ode1C15.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C15.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode1C15.melody = he.h.m6_en_US_goadedes.KymatiThalassis.notmetered
+meMA.Ode1C15.melody = he.h.m6_en_US_goadedes.heHE.KymatiThalassis.notmetered
 meMA.Ode1C15.incipit = "The three Servants…"
 meMA.Ode1C15.text = "The three Servants in the furnace, with faith in the Holy Trinity, stamped out godlessness; and to the world they symbolically revealed the mysteries of God that would come to pass."
 
 meMA.Ode1C1T.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode1C1T.melody = he.h.m6_en_US_goadedes.KymatiThalassis.notmetered
+meMA.Ode1C1T.melody = he.h.m6_en_US_goadedes.heHE.KymatiThalassis.notmetered
 meMA.Ode1C1T.incipit = "O unwedded, undefiled…"
 meMA.Ode1C1T.text = "O unwedded, undefiled, Virgin Mother full of grace, we call you blessed; for you descended from the line of Abraham and from the tribe of David, and you gave birth to Christ, who was proclaimed by the Prophets long before."
 
 meMA.Ode1C21.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode1C21.melody = he.h.m1_en_US_goadedes.ChristosGennatai.name
+meMA.Ode1C21.melody = he.h.m1_en_US_goadedes.heHE.ChristosGennatai.name
 meMA.Ode1C21.incipit = "…"
 meMA.Ode1C21.text = ""
 
 meMA.Ode1C22.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C22.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode1C22.melody = he.h.m1_en_US_goadedes.ChristosGennatai.name
+meMA.Ode1C22.melody = he.h.m1_en_US_goadedes.heHE.ChristosGennatai.name
 meMA.Ode1C22.incipit = "…"
 meMA.Ode1C22.text = ""
 
 meMA.Ode1C2T.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C2T.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode1C2T.melody = he.h.m1_en_US_goadedes.ChristosGennatai.name
+meMA.Ode1C2T.melody = he.h.m1_en_US_goadedes.heHE.ChristosGennatai.name
 meMA.Ode1C2T.incipit = "…"
 meMA.Ode1C2T.text = ""
 
 meMA.Ode3C1H.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode3C1H.melody = he.h.m6_en_US_goadedes.SeTonEpiYdaton.melody
-meMA.Ode3C1H.incipit = he.h.m6_en_US_goadedes.SeTonEpiYdaton.incipit
-meMA.Ode3C1H.text = he.h.m6_en_US_goadedes.SeTonEpiYdaton.text
+meMA.Ode3C1H.melody = he.h.m6_en_US_goadedes.heHE.SeTonEpiYdaton.melody
+meMA.Ode3C1H.incipit = he.h.m6_en_US_goadedes.heHE.SeTonEpiYdaton.incipit
+meMA.Ode3C1H.text = he.h.m6_en_US_goadedes.heHE.SeTonEpiYdaton.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode3C11.melody = he.h.m6_en_US_goadedes.SeTonEpiYdaton.notmetered
+meMA.Ode3C11.melody = he.h.m6_en_US_goadedes.heHE.SeTonEpiYdaton.notmetered
 meMA.Ode3C11.incipit = "Lying three days in the sepulcher…"
 meMA.Ode3C11.text = "Lying three days in the sepulcher, by Your vivifying resurrection You raised those who had died from the beginning of time. Released from condemnation, they greatly rejoiced and sang to You: \"Behold, You have come, O Lord, our redemption!\""
 
 meMA.Ode3C12.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C12.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode3C12.melody = he.h.m6_en_US_goadedes.SeTonEpiYdaton.notmetered
+meMA.Ode3C12.melody = he.h.m6_en_US_goadedes.heHE.SeTonEpiYdaton.notmetered
 meMA.Ode3C12.incipit = "Mindful of the glory…"
 meMA.Ode3C12.text = "Mindful of the glory in the image and likeness of God, those Servants, like athletes, extinguished the flame of the image of gold. And with faith they sang: \"We know no other Lord but You.\""
 
 meMA.Ode3C13.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C13.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode3C13.melody = he.h.m6_en_US_goadedes.SeTonEpiYdaton.notmetered
+meMA.Ode3C13.melody = he.h.m6_en_US_goadedes.heHE.SeTonEpiYdaton.notmetered
 meMA.Ode3C13.incipit = "The Servants had superior wisdom…"
 meMA.Ode3C13.text = "The Servants had superior wisdom and the power of the Spirit, by which they ambushed and embarrassed the wise men of Babylon. And with confidence they sang: \"No one is holy except for You, O Lord who love humanity.\""
 
 meMA.Ode3C14.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C14.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode3C14.melody = he.h.m6_en_US_goadedes.SeTonEpiYdaton.notmetered
+meMA.Ode3C14.melody = he.h.m6_en_US_goadedes.heHE.SeTonEpiYdaton.notmetered
 meMA.Ode3C14.incipit = "The characters in the Torah…"
 meMA.Ode3C14.text = "The characters in the Torah rejoice and celebrate with the Servants and the Prophets, and they are exultant today, anticipating the divine and luminous emergence of the Lord. Abraham rejoices greatly, because he saw the Lord, incarnate from his progeny."
 
 meMA.Ode3C1T.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode3C1T.melody = he.h.m6_en_US_goadedes.SeTonEpiYdaton.notmetered
+meMA.Ode3C1T.melody = he.h.m6_en_US_goadedes.heHE.SeTonEpiYdaton.notmetered
 meMA.Ode3C1T.incipit = "Without passion…"
 meMA.Ode3C1T.text = "Without passion was the conception of your Son; and He was born in the flesh He ineffably and supernaturally assumed. The mystery that was constantly talked about by the Prophets is the Logos of God and Lord, and He has extraordinarily appeared to us. "
 
 meMA.Ode3C21.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode3C21.melody = he.h.m1_en_US_goadedes.ToProTonAionon.name
+meMA.Ode3C21.melody = he.h.m1_en_US_goadedes.heHE.ToProTonAionon.name
 meMA.Ode3C21.incipit = "…"
 meMA.Ode3C21.text = ""
 
 meMA.Ode3C22.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C22.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode3C22.melody = he.h.m1_en_US_goadedes.ToProTonAionon.name
+meMA.Ode3C22.melody = he.h.m1_en_US_goadedes.heHE.ToProTonAionon.name
 meMA.Ode3C22.incipit = "…"
 meMA.Ode3C22.text = ""
 
 meMA.Ode3C2T.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C2T.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode3C2T.melody = he.h.m1_en_US_goadedes.ToProTonAionon.name
+meMA.Ode3C2T.melody = he.h.m1_en_US_goadedes.heHE.ToProTonAionon.name
 meMA.Ode3C2T.incipit = "…"
 meMA.Ode3C2T.text = ""
 
@@ -212,163 +212,163 @@ meMA.Hypakoe.text = "The Angel made the furnace like a moist whistling wind for 
 
 meMA.Ode4C1H.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode4C1H.melody = he.h.m6_en_US_goadedes.TinEnStavroSou.melody
-meMA.Ode4C1H.incipit = he.h.m6_en_US_goadedes.TinEnStavroSou.incipit
-meMA.Ode4C1H.text = he.h.m6_en_US_goadedes.TinEnStavroSou.text
+meMA.Ode4C1H.melody = he.h.m6_en_US_goadedes.heHE.TinEnStavroSou.melody
+meMA.Ode4C1H.incipit = he.h.m6_en_US_goadedes.heHE.TinEnStavroSou.incipit
+meMA.Ode4C1H.text = he.h.m6_en_US_goadedes.heHE.TinEnStavroSou.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode4C11.melody = he.h.m6_en_US_goadedes.TinEnStavroSou.notmetered
+meMA.Ode4C11.melody = he.h.m6_en_US_goadedes.heHE.TinEnStavroSou.notmetered
 meMA.Ode4C11.incipit = "O Christ God, Your divine descent…"
 meMA.Ode4C11.text = "O Christ God, Your divine descent into Hades proved to be life to the dead; for You, O good One, bound the enemies below, and You opened the path to heaven for humanity."
 
 meMA.Ode4C12.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode4C12.melody = he.h.m6_en_US_goadedes.TinEnStavroSou.notmetered
+meMA.Ode4C12.melody = he.h.m6_en_US_goadedes.heHE.TinEnStavroSou.notmetered
 meMA.Ode4C12.incipit = "We are honoring the cream…"
 meMA.Ode4C12.text = "We are honoring the cream of the Fathers: Abraham, Isaac and Jacob; for it was from their seed that Christ Almighty shone forth, incarnate from a Virgin."
 
 meMA.Ode4C13.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode4C13.melody = he.h.m6_en_US_goadedes.TinEnStavroSou.notmetered
+meMA.Ode4C13.melody = he.h.m6_en_US_goadedes.heHE.TinEnStavroSou.notmetered
 meMA.Ode4C13.incipit = "Daniel made the lions…"
 meMA.Ode4C13.text = "Daniel made the lions be like lambs for all to see, and thus he prefigured what would happen at Christ's descent. As a Prophet of God, he foreknew the future."
 
 meMA.Ode4C14.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C14.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode4C14.melody = he.h.m6_en_US_goadedes.TinEnStavroSou.notmetered
+meMA.Ode4C14.melody = he.h.m6_en_US_goadedes.heHE.TinEnStavroSou.notmetered
 meMA.Ode4C14.incipit = "Those Servants had not ingested…"
 meMA.Ode4C14.text = "Those Servants had not ingested the poison of sin, and thus they were rescued from the flames. For they were truly more precious than gold, and they did not melt in the pagans' furnace."
 
 meMA.Ode4C1T.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode4C1T.melody = he.h.m6_en_US_goadedes.TinEnStavroSou.notmetered
+meMA.Ode4C1T.melody = he.h.m6_en_US_goadedes.heHE.TinEnStavroSou.notmetered
 meMA.Ode4C1T.incipit = "O immaculate and noble Lady…"
 meMA.Ode4C1T.text = "O immaculate and noble Lady, your Son, who is the expectation of the Gentiles and salvation of the world, is loudly announced. The assemblage of the Fathers extols Him today."
 
 meMA.Ode4C21.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode4C21.melody = he.h.m1_en_US_goadedes.RavdosEkTisRizis.name
+meMA.Ode4C21.melody = he.h.m1_en_US_goadedes.heHE.RavdosEkTisRizis.name
 meMA.Ode4C21.incipit = "…"
 meMA.Ode4C21.text = ""
 
 meMA.Ode4C22.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C22.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode4C22.melody = he.h.m1_en_US_goadedes.RavdosEkTisRizis.name
+meMA.Ode4C22.melody = he.h.m1_en_US_goadedes.heHE.RavdosEkTisRizis.name
 meMA.Ode4C22.incipit = "…"
 meMA.Ode4C22.text = ""
 
 meMA.Ode4C2T.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C2T.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode4C2T.melody = he.h.m1_en_US_goadedes.RavdosEkTisRizis.name
+meMA.Ode4C2T.melody = he.h.m1_en_US_goadedes.heHE.RavdosEkTisRizis.name
 meMA.Ode4C2T.incipit = "…"
 meMA.Ode4C2T.text = ""
 
 meMA.Ode5C1H.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode5C1H.melody = he.h.m6_en_US_goadedes.TheofaneiasSouChriste.melody
-meMA.Ode5C1H.incipit = he.h.m6_en_US_goadedes.TheofaneiasSouChriste.incipit
-meMA.Ode5C1H.text = he.h.m6_en_US_goadedes.TheofaneiasSouChriste.text
+meMA.Ode5C1H.melody = he.h.m6_en_US_goadedes.heHE.TheofaneiasSouChriste.melody
+meMA.Ode5C1H.incipit = he.h.m6_en_US_goadedes.heHE.TheofaneiasSouChriste.incipit
+meMA.Ode5C1H.text = he.h.m6_en_US_goadedes.heHE.TheofaneiasSouChriste.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode5C11.melody = he.h.m6_en_US_goadedes.TheofaneiasSouChriste.notmetered
+meMA.Ode5C11.melody = he.h.m6_en_US_goadedes.heHE.TheofaneiasSouChriste.notmetered
 meMA.Ode5C11.incipit = "Visually symbolizing…"
 meMA.Ode5C11.text = "Visually symbolizing the explosion of joy, the radiant Angel at the sepulcher appeared to the women and proclaimed the resurrection. They ceased weeping and greatly rejoiced, and they announced to the Apostles that the risen Christ had said, \"Rejoice!\" to them."
 
 meMA.Ode5C12.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C12.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode5C12.melody = he.h.m6_en_US_goadedes.TheofaneiasSouChriste.notmetered
+meMA.Ode5C12.melody = he.h.m6_en_US_goadedes.heHE.TheofaneiasSouChriste.notmetered
 meMA.Ode5C12.incipit = "As we assemble today…"
 meMA.Ode5C12.text = "As we assemble today, let us faithfully honor the Patriarch Abraham, the cream of the Fathers, as the author of both the Law and Grace. For as a Prophet of God, he foretold that Christ would be born from a Virgin. And today he comes to salute the Lord's divine Nativity."
 
 meMA.Ode5C13.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C13.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode5C13.melody = he.h.m6_en_US_goadedes.TheofaneiasSouChriste.notmetered
+meMA.Ode5C13.melody = he.h.m6_en_US_goadedes.heHE.TheofaneiasSouChriste.notmetered
 meMA.Ode5C13.incipit = "Those Servants…"
 meMA.Ode5C13.text = "Those Servants clearly foreshadowed the Lord's coming to us. For those descendants of Abraham extinguished the furnace through the presence of the Angel, and turned the fire into a dewy breeze, and thus by faith they melted the glory of the golden image."
 
 meMA.Ode5C14.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C14.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode5C14.melody = he.h.m6_en_US_goadedes.TheofaneiasSouChriste.notmetered
+meMA.Ode5C14.melody = he.h.m6_en_US_goadedes.heHE.TheofaneiasSouChriste.notmetered
 meMA.Ode5C14.incipit = "By the Spirit…"
 meMA.Ode5C14.text = "By the Spirit, Daniel in the den stopped the mouths of lions; and by grace, the Servants, descendants of Abraham, extinguished the force of the fire. Saved from destruction, they foretold that Christ would be born from a Virgin. Now they implore Him, our Redeemer, for our salvation."
 
 meMA.Ode5C1T.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode5C1T.melody = he.h.m6_en_US_goadedes.TheofaneiasSouChriste.notmetered
+meMA.Ode5C1T.melody = he.h.m6_en_US_goadedes.heHE.TheofaneiasSouChriste.notmetered
 meMA.Ode5C1T.incipit = "O Lord, Isaiah was moved…"
 meMA.Ode5C1T.text = "O Lord, Isaiah was moved by the Holy Spirit to announce that You would assume our nature impassibly. And as he watched for the Law of grace, he said that a Virgin is coming to give birth without seed to One who, according to the flesh, will be a descendant of Abraham from the tribe of Judah."
 
 meMA.Ode5C21.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode5C21.melody = he.h.m1_en_US_goadedes.TheosOnEirinis.name
+meMA.Ode5C21.melody = he.h.m1_en_US_goadedes.heHE.TheosOnEirinis.name
 meMA.Ode5C21.incipit = "…"
 meMA.Ode5C21.text = ""
 
 meMA.Ode5C22.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C22.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode5C22.melody = he.h.m1_en_US_goadedes.TheosOnEirinis.name
+meMA.Ode5C22.melody = he.h.m1_en_US_goadedes.heHE.TheosOnEirinis.name
 meMA.Ode5C22.incipit = "…"
 meMA.Ode5C22.text = ""
 
 meMA.Ode5C2T.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C2T.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode5C2T.melody = he.h.m1_en_US_goadedes.TheosOnEirinis.name
+meMA.Ode5C2T.melody = he.h.m1_en_US_goadedes.heHE.TheosOnEirinis.name
 meMA.Ode5C2T.incipit = "…"
 meMA.Ode5C2T.text = ""
 
 meMA.Ode6C1H.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode6C1H.melody = he.h.m6_en_US_goadedes.TouViouTinThalassan.melody
-meMA.Ode6C1H.incipit = he.h.m6_en_US_goadedes.TouViouTinThalassan.incipit
-meMA.Ode6C1H.text = he.h.m6_en_US_goadedes.TouViouTinThalassan.text
+meMA.Ode6C1H.melody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.melody
+meMA.Ode6C1H.incipit = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.incipit
+meMA.Ode6C1H.text = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode6C11.melody = he.h.m6_en_US_goadedes.TouViouTinThalassan.notmetered
+meMA.Ode6C11.melody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.notmetered
 meMA.Ode6C11.incipit = "O good One…"
 meMA.Ode6C11.text = "O good One, by Your three-day burial, as God You neutralized death and demolished Hades. O King Jesus, by Your resurrection, You poured out life to people in the world."
 
 meMA.Ode6C12.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode6C12.melody = he.h.m6_en_US_goadedes.TouViouTinThalassan.notmetered
+meMA.Ode6C12.melody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.notmetered
 meMA.Ode6C12.incipit = "Forefather Abraham…"
 meMA.Ode6C12.text = "Forefather Abraham was hospitable and he had great faith. He rejoiced when he symbolically received the divine mystery. Anticipating Christ, he now celebrates."
 
 meMA.Ode6C13.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C13.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode6C13.melody = he.h.m6_en_US_goadedes.TouViouTinThalassan.notmetered
+meMA.Ode6C13.melody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.notmetered
 meMA.Ode6C13.incipit = "For the Servants…"
 meMA.Ode6C13.text = "For the Servants, faith subordinated creation, by the gift of the Spirit. For the brazen and devouring fire respected those who worshiped the Maker of fire, namely Jesus Christ."
 
 meMA.Ode6C14.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C14.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode6C14.melody = he.h.m6_en_US_goadedes.TouViouTinThalassan.notmetered
+meMA.Ode6C14.melody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.notmetered
 meMA.Ode6C14.incipit = "Long ago, Prophet Daniel…"
 meMA.Ode6C14.text = "Long ago, Prophet Daniel shut the mouths of lions in the den. By this he prophesied that the savagery of the world would be trained for divine peace by the advent of Christ."
 
 meMA.Ode6C1T.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode6C1T.melody = he.h.m6_en_US_goadedes.TouViouTinThalassan.notmetered
+meMA.Ode6C1T.melody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.notmetered
 meMA.Ode6C1T.incipit = "O perpetually virgin…"
 meMA.Ode6C1T.text = "O perpetually virgin Mother Mary, you carried Christ in your virgin womb. The Prophets and the Fathers, inspired by God, saw Him; and now they celebrate in anticipation of Christmas."
 
 meMA.Ode6C21.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode6C21.melody = he.h.m1_en_US_goadedes.SplanchnonIonan.name
+meMA.Ode6C21.melody = he.h.m1_en_US_goadedes.heHE.SplanchnonIonan.name
 meMA.Ode6C21.incipit = "…"
 meMA.Ode6C21.text = ""
 
 meMA.Ode6C22.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C22.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode6C22.melody = he.h.m1_en_US_goadedes.SplanchnonIonan.name
+meMA.Ode6C22.melody = he.h.m1_en_US_goadedes.heHE.SplanchnonIonan.name
 meMA.Ode6C22.incipit = "…"
 meMA.Ode6C22.text = ""
 
 meMA.Ode6C2T.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C2T.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode6C2T.melody = he.h.m1_en_US_goadedes.SplanchnonIonan.name
+meMA.Ode6C2T.melody = he.h.m1_en_US_goadedes.heHE.SplanchnonIonan.name
 meMA.Ode6C2T.incipit = "…"
 meMA.Ode6C2T.text = ""
 
@@ -380,7 +380,7 @@ meMA.Kontakion1.text = me.m12.d17_en_US_goadedes.meMA.Kontakion2.text
 meMA.Oikos1.text = me.m12.d17_en_US_goadedes.meMA.Oikos2.text
 
 meMA.Kontakion2.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Kontakion2.melody = he.a.m1_en_US_goadedes.ChorosAngelikos.name
+meMA.Kontakion2.melody = he.a.m1_en_US_goadedes.heAU.ChorosAngelikos.name
 meMA.Kontakion2.incipit = "…"
 meMA.Kontakion2.text = ""
 
@@ -388,190 +388,190 @@ meMA.Oikos2.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode7C1H.melody = he.h.m6_en_US_goadedes.AfrastonThavma.melody
-meMA.Ode7C1H.incipit = he.h.m6_en_US_goadedes.AfrastonThavma.incipit
-meMA.Ode7C1H.text = he.h.m6_en_US_goadedes.AfrastonThavma.text
+meMA.Ode7C1H.melody = he.h.m6_en_US_goadedes.heHE.AfrastonThavma.melody
+meMA.Ode7C1H.incipit = he.h.m6_en_US_goadedes.heHE.AfrastonThavma.incipit
+meMA.Ode7C1H.text = he.h.m6_en_US_goadedes.heHE.AfrastonThavma.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode7C11.melody = he.h.m6_en_US_goadedes.AfrastonThavma.notmetered
+meMA.Ode7C11.melody = he.h.m6_en_US_goadedes.heHE.AfrastonThavma.notmetered
 meMA.Ode7C11.incipit = "Oh strange miracle…"
 meMA.Ode7C11.text = "Oh strange miracle! The Lord who sits on a throne in the heights underwent death in the flesh He assumed. But in the might of His divinity He rose, and with himself He raised those who had died from the beginning of time."
 
 meMA.Ode7C12.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode7C12.melody = he.h.m6_en_US_goadedes.AfrastonThavma.notmetered
+meMA.Ode7C12.melody = he.h.m6_en_US_goadedes.heHE.AfrastonThavma.notmetered
 meMA.Ode7C12.incipit = "O Father Abraham…"
 meMA.Ode7C12.text = "O Father Abraham, author of the faith, by begetting Christ according to the flesh, you were clearly shown to be the father of the Gentiles by the Spirit, for the salvation of us who sing, \"O our God and Redeemer, You are blessed.\""
 
 meMA.Ode7C13.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode7C13.melody = he.h.m6_en_US_goadedes.AfrastonThavma.notmetered
+meMA.Ode7C13.melody = he.h.m6_en_US_goadedes.heHE.AfrastonThavma.notmetered
 meMA.Ode7C13.incipit = "The hymn of the living…"
 meMA.Ode7C13.text = "The hymn of the living overpowered the din of the inanimate instruments sounding in vain; for the Servants, with their bodies in the flames, trampled the fire in the furnace as they sang, \"O our God, You are blessed.\""
 
 meMA.Ode7C14.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C14.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode7C14.melody = he.h.m6_en_US_goadedes.AfrastonThavma.notmetered
+meMA.Ode7C14.melody = he.h.m6_en_US_goadedes.heHE.AfrastonThavma.notmetered
 meMA.Ode7C14.incipit = "Long ago, Prophet Daniel…"
 meMA.Ode7C14.text = "Long ago, Prophet Daniel concentrated on the contemplation of the Spirit, and he foreshadowed the Second Coming of Christ. He foretold the frightful events that will surround it, and he sang, \"O our God, You are blessed.\""
 
 meMA.Ode7C1T.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode7C1T.melody = he.h.m6_en_US_goadedes.AfrastonThavma.notmetered
+meMA.Ode7C1T.melody = he.h.m6_en_US_goadedes.heHE.AfrastonThavma.notmetered
 meMA.Ode7C1T.incipit = "The strange miracle…"
 meMA.Ode7C1T.text = "The strange miracle, spoken of by prophets and by fathers long ago, that a pure Virgin would give birth, has come to pass, for the salvation of us who sing, \"O our God and Redeemer, You are blessed.\""
 
 meMA.Ode7C21.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode7C21.melody = he.h.m1_en_US_goadedes.OiPaidesEfseveia.name
+meMA.Ode7C21.melody = he.h.m1_en_US_goadedes.heHE.OiPaidesEfseveia.name
 meMA.Ode7C21.incipit = "…"
 meMA.Ode7C21.text = ""
 
 meMA.Ode7C22.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C22.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode7C22.melody = he.h.m1_en_US_goadedes.OiPaidesEfseveia.name
+meMA.Ode7C22.melody = he.h.m1_en_US_goadedes.heHE.OiPaidesEfseveia.name
 meMA.Ode7C22.incipit = "…"
 meMA.Ode7C22.text = ""
 
 meMA.Ode7C2T.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C2T.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode7C2T.melody = he.h.m1_en_US_goadedes.OiPaidesEfseveia.name
+meMA.Ode7C2T.melody = he.h.m1_en_US_goadedes.heHE.OiPaidesEfseveia.name
 meMA.Ode7C2T.incipit = "…"
 meMA.Ode7C2T.text = ""
 
 meMA.Ode8C1H.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode8C1H.melody = he.h.m6_en_US_goadedes.EkstithiFrittonOurane.melody
-meMA.Ode8C1H.incipit = he.h.m6_en_US_goadedes.EkstithiFrittonOurane.incipit
-meMA.Ode8C1H.text = he.h.m6_en_US_goadedes.EkstithiFrittonOurane.text
+meMA.Ode8C1H.melody = he.h.m6_en_US_goadedes.heHE.EkstithiFrittonOurane.melody
+meMA.Ode8C1H.incipit = he.h.m6_en_US_goadedes.heHE.EkstithiFrittonOurane.incipit
+meMA.Ode8C1H.text = he.h.m6_en_US_goadedes.heHE.EkstithiFrittonOurane.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode8C11.melody = he.h.m6_en_US_goadedes.EkstithiFrittonOurane.notmetered
+meMA.Ode8C11.melody = he.h.m6_en_US_goadedes.heHE.EkstithiFrittonOurane.notmetered
 meMA.Ode8C11.incipit = "We marvel at Your ineffable…"
 meMA.Ode8C11.text = "We marvel at Your ineffable condescension for us lowly creatures, O Christ! Behold, You tasted death, though You are immortal God, and You were laid as a mortal in a sepulcher. Then You rose, O Logos, and with yourself raised those below. And they exalt You beyond measure unto all the ages."
 
 meMA.Ode8C12.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode8C12.melody = he.h.m6_en_US_goadedes.EkstithiFrittonOurane.notmetered
+meMA.Ode8C12.melody = he.h.m6_en_US_goadedes.heHE.EkstithiFrittonOurane.notmetered
 meMA.Ode8C12.incipit = "O Christ, Abraham was prefiguring…"
 meMA.Ode8C12.text = "O Christ, Abraham was prefiguring Your slaughter when in obedience to You, his Master, he went up the mountain in faith to sacrifice like a sheep the son he had begotten. But the old man returned with Isaac rejoicing, and they exalt You beyond measure unto all the ages."
 
 meMA.Ode8C13.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode8C13.melody = he.h.m6_en_US_goadedes.EkstithiFrittonOurane.notmetered
+meMA.Ode8C13.melody = he.h.m6_en_US_goadedes.heHE.EkstithiFrittonOurane.notmetered
 meMA.Ode8C13.incipit = "O Christ, the unflagging flame…"
 meMA.Ode8C13.text = "O Christ, the unflagging flame was quite subdued, when the holy Servants donned You, the divine fire, as a garment; and by Your condescension, the dew whistled round them as they sang, \"Bless Him, Priests; and People, exalt Him beyond measure unto all the ages.\""
 
 meMA.Ode8C14.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C14.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode8C14.melody = he.h.m6_en_US_goadedes.EkstithiFrittonOurane.notmetered
+meMA.Ode8C14.melody = he.h.m6_en_US_goadedes.heHE.EkstithiFrittonOurane.notmetered
 meMA.Ode8C14.incipit = "By inscrutable judgments…"
 meMA.Ode8C14.text = "By inscrutable judgments, Prophet Daniel was given to be food for lions. But the beasts in the den joined him in fasting piously, in accordance with the teachings of self-control. At his entreaties and those of Abraham and the Servants, preserve in peace those who sing a hymn to You."
 
 meMA.Ode8C1T.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode8C1T.melody = he.h.m6_en_US_goadedes.EkstithiFrittonOurane.notmetered
+meMA.Ode8C1T.melody = he.h.m6_en_US_goadedes.heHE.EkstithiFrittonOurane.notmetered
 meMA.Ode8C1T.incipit = "Prophetic sayings…"
 meMA.Ode8C1T.text = "Prophetic sayings faithfully foretold the coming in human form of Jesus Emmanuel, the Son and Logos of God, unoriginate with the Father. The Virgin Mary conceived Him by the Holy Spirit, and in perpetual virginity she gave birth to Him in the city of Bethlehem."
 
 meMA.Ode8C21.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode8C21.melody = he.h.m1_en_US_goadedes.ThavmatosYperfyous.name
+meMA.Ode8C21.melody = he.h.m1_en_US_goadedes.heHE.ThavmatosYperfyous.name
 meMA.Ode8C21.incipit = "…"
 meMA.Ode8C21.text = ""
 
 meMA.Ode8C22.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C22.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode8C22.melody = he.h.m1_en_US_goadedes.ThavmatosYperfyous.name
+meMA.Ode8C22.melody = he.h.m1_en_US_goadedes.heHE.ThavmatosYperfyous.name
 meMA.Ode8C22.incipit = "…"
 meMA.Ode8C22.text = ""
 
 meMA.Ode8C2T.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C2T.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode8C2T.melody = he.h.m1_en_US_goadedes.ThavmatosYperfyous.name
+meMA.Ode8C2T.melody = he.h.m1_en_US_goadedes.heHE.ThavmatosYperfyous.name
 meMA.Ode8C2T.incipit = "…"
 meMA.Ode8C2T.text = ""
 
 meMA.Ode9C1H.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode9C1H.melody = he.h.m6_en_US_goadedes.MiEpodyrouMouMiter.melody
-meMA.Ode9C1H.incipit = he.h.m6_en_US_goadedes.MiEpodyrouMouMiter.incipit
-meMA.Ode9C1H.text = he.h.m6_en_US_goadedes.MiEpodyrouMouMiter.text
+meMA.Ode9C1H.melody = he.h.m6_en_US_goadedes.heHE.MiEpodyrouMouMiter.melody
+meMA.Ode9C1H.incipit = he.h.m6_en_US_goadedes.heHE.MiEpodyrouMouMiter.incipit
+meMA.Ode9C1H.text = he.h.m6_en_US_goadedes.heHE.MiEpodyrouMouMiter.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode9C11.melody = he.h.m6_en_US_goadedes.MiEpodyrouMouMiter.notmetered
+meMA.Ode9C11.melody = he.h.m6_en_US_goadedes.heHE.MiEpodyrouMouMiter.notmetered
 meMA.Ode9C11.incipit = "O creation, why do you lament…"
 meMA.Ode9C11.text = "O creation, why do you lament as you behold the Master of life and your God crucified and buried? He will rise and radiantly renew you by His resurrection within three days, and He will destroy death and with himself raise those who extol Him."
 
 meMA.Ode9C12.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C12.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode9C12.melody = he.h.m6_en_US_goadedes.MiEpodyrouMouMiter.notmetered
+meMA.Ode9C12.melody = he.h.m6_en_US_goadedes.heHE.MiEpodyrouMouMiter.notmetered
 meMA.Ode9C12.incipit = "As we celebrate the feast…"
 meMA.Ode9C12.text = "As we celebrate the feast of the Forefathers who were before the Law, we honor as God their descendant Jesus. Abraham, Isaac, and Jacob have been shown to be the pedestal of the Prophets and the Law, and by faith they are the spiritual first-fruits of Grace."
 
 meMA.Ode9C13.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C13.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode9C13.melody = he.h.m6_en_US_goadedes.MiEpodyrouMouMiter.notmetered
+meMA.Ode9C13.melody = he.h.m6_en_US_goadedes.heHE.MiEpodyrouMouMiter.notmetered
 meMA.Ode9C13.incipit = "God showed Moses…"
 meMA.Ode9C13.text = "God showed Moses the incomprehensible mystery, in a divine vision in the bush. The same God came down to the Servants in the fire; and by the fire of His divinity, He made the furnace flame to be as though a dew-laden breeze."
 
 meMA.Ode9C14.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C14.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode9C14.melody = he.h.m6_en_US_goadedes.MiEpodyrouMouMiter.notmetered
+meMA.Ode9C14.melody = he.h.m6_en_US_goadedes.heHE.MiEpodyrouMouMiter.notmetered
 meMA.Ode9C14.incipit = "Abraham is joined…"
 meMA.Ode9C14.text = "Abraham is joined by the all-holy Servants and God's wondrous Prophet Daniel, Isaac and Jacob, Moses and Aaron. They all faithfully celebrate before Christ's birth, and they unceasingly implore Him for our salvation."
 
 meMA.Ode9C1T.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Ode9C1T.melody = he.h.m6_en_US_goadedes.MiEpodyrouMouMiter.notmetered
+meMA.Ode9C1T.melody = he.h.m6_en_US_goadedes.heHE.MiEpodyrouMouMiter.notmetered
 meMA.Ode9C1T.incipit = "O Virgin, all creation…"
 meMA.Ode9C1T.text = "O Virgin, all creation congratulates you for your childbirth. Bethlehem has opened Eden to us. And behold, we all enjoy the tree of life, and with faith we earnestly pray, \"O Master, please fulfill our petitions!\""
 
 meMA.Ode9C21.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode9C21.melody = he.h.m1_en_US_goadedes.MystirionXenon.name
+meMA.Ode9C21.melody = he.h.m1_en_US_goadedes.heHE.MystirionXenon.name
 meMA.Ode9C21.incipit = "…"
 meMA.Ode9C21.text = ""
 
 meMA.Ode9C22.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C22.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode9C22.melody = he.h.m1_en_US_goadedes.MystirionXenon.name
+meMA.Ode9C22.melody = he.h.m1_en_US_goadedes.heHE.MystirionXenon.name
 meMA.Ode9C22.incipit = "…"
 meMA.Ode9C22.text = ""
 
 meMA.Ode9C2T.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C2T.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode9C2T.melody = he.h.m1_en_US_goadedes.MystirionXenon.name
+meMA.Ode9C2T.melody = he.h.m1_en_US_goadedes.heHE.MystirionXenon.name
 meMA.Ode9C2T.incipit = "…"
 meMA.Ode9C2T.text = ""
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Exaposteilarion2.melody = he.a.m2_en_US_goadedes.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion2.melody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion2.incipit = "…"
 meMA.Exaposteilarion2.text = ""
 
 meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode5
-meMA.Lauds1.melody = he.a.m5_en_US_goadedes.ChairoisAskitikon.name
+meMA.Lauds1.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name
 meMA.Lauds1.incipit = "…"
 meMA.Lauds1.text = ""
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_goadedes.media.key
 
 meMA.Lauds2.mode = miscellanea_en_US_goadedes.misc.Mode5
-meMA.Lauds2.melody = he.a.m5_en_US_goadedes.ChairoisAskitikon.name
+meMA.Lauds2.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name
 meMA.Lauds2.incipit = "…"
 meMA.Lauds2.text = ""
 
 meMA.Lauds3.mode = miscellanea_en_US_goadedes.misc.Mode5
-meMA.Lauds3.melody = he.a.m5_en_US_goadedes.ChairoisAskitikon.name
+meMA.Lauds3.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name
 meMA.Lauds3.incipit = "…"
 meMA.Lauds3.text = ""
 
