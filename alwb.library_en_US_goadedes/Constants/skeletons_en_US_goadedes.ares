@@ -1,0 +1,71 @@
+A_Resource_Whose_Name =  skeletons_en_US_goadedes 
+
+skLI.Notice1.text = "This is the text of the Divine Liturgy of St. John Chrysostom, as it is celebrated throughout most of the year. The variable parts have been omitted. It is intended to be used in conjunction with the \"Liturgy - Variable Parts\" files available each day on the GOA DCS."
+skLI.Notice2.text = "This is the text of the Divine Liturgy of St. Basil the Great, as it is celebrated on January 1 and the Sundays of Lent. The variable parts have been omitted. It is intended to be used in conjunction with the \"Liturgy - Variable Parts\" files available each day on the GOA DCS."
+
+skLI.Antiphon1.title = "The 1st Antiphon"
+skLI.Antiphon1.text = "(See Variable Parts.)"
+skLI.Antiphon1.pagenumber = ""
+
+skLI.Antiphon2.title = "The 2nd Antiphon"
+skLI.Antiphon2.text = "(See Variable Parts.)"
+skLI.Antiphon2.pagenumber = ""
+
+skLI.Antiphon3.title = "The 3rd Antiphon."
+skLI.Antiphon3.text = "(See Variable Parts.)"
+skLI.Antiphon3.pagenumber = ""
+
+skLI.SmallEntrance.title = "The Small Entrance"
+skLI.SmallEntrance.text = "(See Variable Parts.)"
+skLI.SmallEntrance.pagenumber = ""
+
+skLI.HymnsAfterSmallEntrance.title = "Hymns After Small Entrance"
+skLI.HymnsAfterSmallEntrance.text = "(See Variable Parts.)"
+
+skLI.Trisagion.title = "Trisagion Hymn"
+skLI.Trisagion.text = "(See Variable Parts.)"
+skLI.Trisagion.pagenumber = ""
+
+skLI.EpistleReading.title = "Epistle Reading"
+skLI.EpistleReading.text = "(See Variable Parts.)"
+skLI.EpistleReading.pagenumber = 
+
+skLI.Alleluia.title = "Alleluia before Gospel"
+skLI.Alleluia.text = "(See Variable Parts.)"
+
+skLI.GospelReading.title = "Gospel Reading"
+skLI.GospelReading.text = "(See Variable Parts.)"
+
+skLI.GreatEntrance.title = "The Great Entrance"
+skLI.GreatEntrance.pagenumber = "12"
+
+skLI.Creed.title = "The Creed"
+skLI.Creed.pagenumber = "18"
+
+skLI.TheotokosHymn.title = "Hymn to the Theotokos"
+skLI.TheotokosHymn.text = "(See Variable Parts.)"
+skLI.TheotokosHymn.pagenumber = "23"
+
+skLI.LordsPrayer.title = "The Lord's Prayer"
+skLI.LordsPrayer.pagenumber = "26"
+
+skLI.CommunionPrayers.title = "Communion Prayers"
+skLI.CommunionPrayers.pagenumber = "29"
+skLI.CommunionPrayers.rubric = "(Read aloud by the Congregation)"
+
+skLI.CommunionHymn.title = "Communion Hymn"
+skLI.CommunionHymn.text = "(See Variable Parts.)"
+skLI.CommunionHymn.pagenumber = "29"
+
+skLI.HolyCommunion.title = "Holy Communion:"
+skLI.HolyCommunion.rubric = "Orthodox Christians prepared to receive Holy Communion come forward quietly and reverently at the direction of the ushers."
+
+skLI.Thanksgiving.rubric = "Prayers of Thanksgiving after Holy Communion can be found on pages 40-42."
+
+skLI.AfterCommunion.title = "Hymn after Holy Communion"
+skLI.AfterCommunion.text = "(See Variable Parts.)"
+skLI.AfterCommunion.pagenumber = "32"
+
+skLI.Dismissal.title = "The Dismissal"
+skLI.Dismissal.text = "(See Variable Parts.)"
+skLI.Dismissal.pagenumber = "34"

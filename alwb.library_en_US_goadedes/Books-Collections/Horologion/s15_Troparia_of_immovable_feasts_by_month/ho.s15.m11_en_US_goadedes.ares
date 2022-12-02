@@ -6,21 +6,21 @@ ho.Hours = ""
 
 hoD03.Apolytikion1.title = ""
 hoD03.Apolytikion1.poet = ""
-hoD03.Apolytikion1.mode = misc_en_US_goadedes.Mode4
+hoD03.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode4
 hoD03.Apolytikion1.melody = ""
 hoD03.Apolytikion1.incipit = me.m04.d23_en_US_goadedes.meVE.Apolytikion1.incipit
 hoD03.Apolytikion1.text = me.m04.d23_en_US_goadedes.meVE.Apolytikion1.text
 
 hoD03.Apolytikion2.title = titles_en_US_goadedes.ti.Martyrs
 hoD03.Apolytikion2.poet = ""
-hoD03.Apolytikion2.mode = misc_en_US_goadedes.Mode4
+hoD03.Apolytikion2.mode = miscellanea_en_US_goadedes.misc.Mode4
 hoD03.Apolytikion2.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
 hoD03.Apolytikion2.incipit = he.ga_en_US_goadedes.OiMartyresSouKyrie.incipit
 hoD03.Apolytikion2.text = he.ga_en_US_goadedes.OiMartyresSouKyrie.text
 
 hoD03.Apolytikion3.title = titles_en_US_goadedes.ti.Another_1hymn
 hoD03.Apolytikion3.poet = ""
-hoD03.Apolytikion3.mode = misc_en_US_goadedes.Mode3
+hoD03.Apolytikion3.mode = miscellanea_en_US_goadedes.misc.Mode3
 hoD03.Apolytikion3.melody = he.a.m3_en_US_goadedes.TheiasPisteos.name
 hoD03.Apolytikion3.incipit = "…"
 hoD03.Apolytikion3.text = ""

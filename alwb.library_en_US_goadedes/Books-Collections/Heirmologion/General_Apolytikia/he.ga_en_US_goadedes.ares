@@ -5,7 +5,7 @@ he.title = "General Apolytikia"
 // For a Prophet. Insert name with comma.
 TouProfitouSou.name = "As we celebrate."
 TouProfitouSou.incipit = "As we celebrate…"
-TouProfitouSou.mode = misc_en_US_goadedes.Mode2
+TouProfitouSou.mode = miscellanea_en_US_goadedes.misc.Mode2
 TouProfitouSou.melody = ""
 TouProfitouSou.text1 = "As we celebrate the memory of Your Prophet" // insert name from Menaion. E.g. me.m09.d04_en_US_goadedes.meVE.Apolytikion2.text 
 TouProfitouSou.text2 = "through him we importune You, O Lord, that You save our souls."
@@ -13,7 +13,7 @@ TouProfitouSou.text2 = "through him we importune You, O Lord, that You save our 
 // For one named Apostle and/or Evangelist. Insert name with comma.
 ApostoleAgie.name = "O holy Apostle."
 ApostoleAgie.incipit = "O holy Apostle…"
-ApostoleAgie.mode = misc_en_US_goadedes.Mode3
+ApostoleAgie.mode = miscellanea_en_US_goadedes.misc.Mode3
 ApostoleAgie.melody = ""
 ApostoleAgie.text1 = "O holy Apostle"
 ApostoleAgie.text1a = "and Evangelist"
@@ -22,14 +22,14 @@ ApostoleAgie.text2 = "make intercession to our merciful God, that He grant our s
 // For several unnamed Apostles
 ApostoloiAgioi.name = "O holy Apostles."
 ApostoloiAgioi.incipit = "O holy Apostles…"
-ApostoloiAgioi.mode = misc_en_US_goadedes.Mode3
+ApostoloiAgioi.mode = miscellanea_en_US_goadedes.misc.Mode3
 ApostoloiAgioi.melody = ""
 ApostoloiAgioi.text = "O holy Apostles, make intercession to our merciful God, that He grant our souls forgiveness of offenses."
 
 // For hieromartyr
 ChristotitaEkdidachtheis.name = "Having learnt kindness."
 ChristotitaEkdidachtheis.incipit = "Having learnt kindness…"
-ChristotitaEkdidachtheis.mode = misc_en_US_goadedes.Mode4
+ChristotitaEkdidachtheis.mode = miscellanea_en_US_goadedes.misc.Mode4
 ChristotitaEkdidachtheis.melody = ""
 ChristotitaEkdidachtheis.text1 = "Having learnt kindness, and being always steady and sober, vested with a good conscience as befits a priest, you drew out from the Chosen Vessel the secrets of God. And having kept the faith, you have finished the fair race, O Hieromartyr"
 ChristotitaEkdidachtheis.text2 = "Intercede with Christ our God, entreating Him to save our souls."
@@ -37,35 +37,35 @@ ChristotitaEkdidachtheis.text2 = "Intercede with Christ our God, entreating Him 
 // For one unnamed Martyr
 OMartysSouKyrie.name = "You Martyr, O Lord."
 OMartysSouKyrie.incipit = "You Martyr, O Lord…"
-OMartysSouKyrie.mode = misc_en_US_goadedes.Mode4
+OMartysSouKyrie.mode = miscellanea_en_US_goadedes.misc.Mode4
 OMartysSouKyrie.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
 OMartysSouKyrie.text = "Your Martyr, O Lord, was worthily awarded by You * the crown of incorruption, in that he contested for You our immortal God. * Since he possessed Your power, he defeated the tyrants, * dashing the demons' powerless displays of defiance. * O Christ God, at his fervent entreaties, save our souls."
 
 // For several unnamed Martyrs
 OiMartyresSouKyrie.name = "Your Martyrs, O Lord."
 OiMartyresSouKyrie.incipit = "Your Martyrs, O Lord…"
-OiMartyresSouKyrie.mode = misc_en_US_goadedes.Mode4
+OiMartyresSouKyrie.mode = miscellanea_en_US_goadedes.misc.Mode4
 OiMartyresSouKyrie.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
 OiMartyresSouKyrie.text = "Your Martyrs, O Lord, were worthily awarded by You * the crowns of incorruption, in that they contested for You our immortal God. * Since they possessed Your power, they defeated the tyrants, * dashing the demons' powerless displays of defiance. * O Christ God, at their fervent entreaties, save our souls."
 
 // For one unnamed woman Martyr
 IAmnasSou.name = "Your maiden Martyr."
 IAmnasSou.incipit = "Your maiden Martyr, like a lamb…"
-IAmnasSou.mode = misc_en_US_goadedes.Mode4
+IAmnasSou.mode = miscellanea_en_US_goadedes.misc.Mode4
 IAmnasSou.melody = he.a.m4_en_US_goadedes.KateplagiIosif.name
 IAmnasSou.text = "Your maiden Martyr, like a lamb, cries out, \"O Jesus, for You, * my pure Bridegroom, I long; and seeking You I compete; * and I am crucified and buried with You in Your baptism. * I suffer for Your sake, that I may reign with You. * I die for You that I may also live in You. * Accept me as an unblemished sacrifice * as I offer myself to You with love.\" * At her entreaties and intercessions, * save our souls, O Merciful Lord."
 
 // For a group of unnamed Martyrs
 TasAlgidonas.name = "The holy martyrs suffered."
 TasAlgidonas.incipit = "The holy martyrs suffered…"
-TasAlgidonas.mode = misc_en_US_goadedes.Mode1
+TasAlgidonas.mode = miscellanea_en_US_goadedes.misc.Mode1
 TasAlgidonas.melody = ""
 TasAlgidonas.text = "The holy martyrs suffered painful tortures for Your sake, O Lord; be compelled by what they endured, and heal our every pain, we entreat You, as the only One who loves humanity."
 
 // For one named Hieromartyr. Insert name with period
 KaiTroponMetochos.name = "Becoming a partner."
 KaiTroponMetochos.incipit = "Becoming a partner…"
-KaiTroponMetochos.mode = misc_en_US_goadedes.Mode4
+KaiTroponMetochos.mode = miscellanea_en_US_goadedes.misc.Mode4
 KaiTroponMetochos.melody = ""
 KaiTroponMetochos.text1 = "Becoming a partner with the Apostles in way of life and successor to their thrones, O God-inspired Saint, in the active life you found an entrance to contemplation. Hence you rightly expounded the word of truth, and you shed your blood in struggling for the faith, O Hieromartyr"
 KaiTroponMetochos.text2 = "Intercede with Christ our God, beseeching Him to save our souls."
@@ -73,15 +73,15 @@ KaiTroponMetochos.text2 = "Intercede with Christ our God, beseeching Him to save
 // For one named ascetic man. Insert name with comma. See Automelon: he.a.m1_en_US_goadedes.TisErimouPolitis.text
 TisErimouPolitis.name = "As a citizen of the desert."
 TisErimouPolitis.incipit = "As a citizen of the desert…"
-TisErimouPolitis.mode = misc_en_US_goadedes.Mode1
-TisErimouPolitis.melody = misc_en_US_goadedes.Automelon
+TisErimouPolitis.mode = miscellanea_en_US_goadedes.misc.Mode1
+TisErimouPolitis.melody = miscellanea_en_US_goadedes.misc.Automelon
 TisErimouPolitis.text1 = "As a citizen of the desert and an angel incarnate * and a wonder-worker you shone forth, O"
 TisErimouPolitis.text2 = "our God-bearing father. * Since you received the spiritual gifts * by fasting and vigilance and prayer, * you can cure those who are ailing and heal the souls * of those who run to you with faith. * Glory to Him who gave His might to you; * glory to Him who placed a crown on you; * glory to Him who operates through you, providing cures to all."
 
 // For one named ascetic man. Insert name with comma.
 TaisTonDakryonSou.name = "With the rivers of your tears."
 TaisTonDakryonSou.incipit = "With the rivers of your tears…"
-TaisTonDakryonSou.mode = misc_en_US_goadedes.Mode8
+TaisTonDakryonSou.mode = miscellanea_en_US_goadedes.misc.Mode8
 TaisTonDakryonSou.melody = ""
 TaisTonDakryonSou.text1 = "With the rivers of your tears you made the barren desert bloom; and with your sighs from deep within, you made your labors bear their fruits a hundredfold; and you became a star, illuminating the world by your miracles, O"
 TaisTonDakryonSou.text2 = "our devout father. Intercede with Christ our God, for the salvation of our souls."
@@ -89,7 +89,7 @@ TaisTonDakryonSou.text2 = "our devout father. Intercede with Christ our God, for
 // For one named ascetic man. Insert name with comma.
 EnSoiPaterAkrivos.name = "In you, O Father."
 EnSoiPaterAkrivos.incipit = "In you, O Father…"
-EnSoiPaterAkrivos.mode = misc_en_US_goadedes.Mode8
+EnSoiPaterAkrivos.mode = miscellanea_en_US_goadedes.misc.Mode8
 EnSoiPaterAkrivos.melody = ""
 EnSoiPaterAkrivos.text1 = "In you, O Father, is preserved undistorted what was made in the image of God; for taking up the cross, you followed Christ and by example taught, that we should overlook the flesh, since it passes away, and instead look after the soul, since it is immortal. And therefore, O devout"
 EnSoiPaterAkrivos.text2 = "your spirit rejoices with the angels."
@@ -97,7 +97,7 @@ EnSoiPaterAkrivos.text2 = "your spirit rejoices with the angels."
 // For one named ascetic woman. Insert name with comma.
 EnSoiMiterAkrivos.name = "In you, O Mother."
 EnSoiMiterAkrivos.incipit = "In you, O Mother…"
-EnSoiMiterAkrivos.mode = misc_en_US_goadedes.Mode8
+EnSoiMiterAkrivos.mode = miscellanea_en_US_goadedes.misc.Mode8
 EnSoiMiterAkrivos.melody = ""
 EnSoiMiterAkrivos.text1 = "In you, O Mother, is preserved undistorted what was made in the image of God; for taking up the cross, you followed Christ and by example taught, that we should overlook the flesh, since it passes away, and instead look after the soul, since it is immortal. And therefore, O devout"
 EnSoiMiterAkrivos.text2 = "your spirit rejoices with the angels."
@@ -105,7 +105,7 @@ EnSoiMiterAkrivos.text2 = "your spirit rejoices with the angels."
 // For one named Hierarch with comma. Insert "O Father and Hierarch St. [name],"
 KanonaPisteos.name = "The actual facts."
 KanonaPisteos.incipit = "The actual facts…"
-KanonaPisteos.mode = misc_en_US_goadedes.Mode4
+KanonaPisteos.mode = miscellanea_en_US_goadedes.misc.Mode4
 KanonaPisteos.melody = ""
 KanonaPisteos.text1 = "A rule of faith are you, and an icon of gentleness, and a teacher of self-control. And to your flock this was evident, by the truth of your life and deeds. You were humble and therefore you acquired exalted gifts, treasure in heaven for being poor."
 KanonaPisteos.text2 = "intercede with Christ our God, and entreat Him to save our souls."
@@ -113,7 +113,7 @@ KanonaPisteos.text2 = "intercede with Christ our God, and entreat Him to save ou
 // For one named Hierarch Confessor or Teacher with comma.
 OrthodoxiasOdigeH.name = "Guide of Orthodoxy."
 OrthodoxiasOdigeH.incipit = "Guide of Orthodoxy…"
-OrthodoxiasOdigeH.mode = misc_en_US_goadedes.Mode8
+OrthodoxiasOdigeH.mode = miscellanea_en_US_goadedes.misc.Mode8
 OrthodoxiasOdigeH.melody = ""
 OrthodoxiasOdigeH.text1 = "Guide of Orthodoxy and a sacred teacher of piety and dignity, luminary of the world, and God-inspired jewel of the episcopate, O wise"
 OrthodoxiasOdigeH.text2 = "the Spirit's instrument: by your teachings you enlightened all. Intercede with Christ our God for the salvation of our souls."
@@ -121,7 +121,7 @@ OrthodoxiasOdigeH.text2 = "the Spirit's instrument: by your teachings you enligh
 // For one named monastic Confessor or Teacher with comma.
 OrthodoxiasOdigeM.name = "Guide of Orthodoxy."
 OrthodoxiasOdigeM.incipit = "Guide of Orthodoxy…"
-OrthodoxiasOdigeM.mode = misc_en_US_goadedes.Mode8
+OrthodoxiasOdigeM.mode = miscellanea_en_US_goadedes.misc.Mode8
 OrthodoxiasOdigeM.melody = ""
 OrthodoxiasOdigeM.text1 = "Guide of Orthodoxy and a sacred teacher of piety and dignity, luminary of the world, and God-inspired jewel of monastics, O wise"
 OrthodoxiasOdigeM.text2 = "the Spirit's instrument: by your teachings you enlightened all. Intercede with Christ our God for the salvation of our souls."
@@ -129,13 +129,13 @@ OrthodoxiasOdigeM.text2 = "the Spirit's instrument: by your teachings you enligh
 // For several unnamed holy Fathers
 OTheosTonPateronImon.name = "O God of our Fathers."
 OTheosTonPateronImon.incipit = "O God of our Fathers…"
-OTheosTonPateronImon.mode = misc_en_US_goadedes.Mode4
+OTheosTonPateronImon.mode = miscellanea_en_US_goadedes.misc.Mode4
 OTheosTonPateronImon.melody = ""
 OTheosTonPateronImon.text = "O God of our Fathers, since You always deal with us in accordance with Your gentleness, do not withdraw Your mercy from us, but at their fervent entreaties, pilot our life in peace."
 
 YpomonisStylos.name = "You became a pillar."
 YpomonisStylos.incipit = "You became a pillar…"
-YpomonisStylos.mode = misc_en_US_goadedes.Mode1
+YpomonisStylos.mode = miscellanea_en_US_goadedes.misc.Mode1
 YpomonisStylos.melody = ""
 YpomonisStylos.text1 = "You became a pillar of patience, O devout one, emulating the forefathers, Job in his sufferings and Joseph in his temptations, and the manner of the bodiless, though you were still in body. O devout father"
 YpomonisStylos.text2 = "intercede with Christ God, to save our souls."

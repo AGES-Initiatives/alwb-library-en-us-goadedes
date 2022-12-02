@@ -20,49 +20,49 @@ meHO.note1 = ""
 meHO.note2 = ""
 meTY.note1 = ""
 
-meVE.Stichera01.mode = misc_en_US_goadedes.Mode6
+meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.Stichera01.melody = he.a.m6_en_US_goadedes.OlinApothemenoi.name
 meVE.Stichera01.incipit = "…"
 meVE.Stichera01.text = ""
 
-meVE.Stichera02.mode = misc_en_US_goadedes.Mode6
+meVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.Stichera02.melody = he.a.m6_en_US_goadedes.OlinApothemenoi.name
 meVE.Stichera02.incipit = "…"
 meVE.Stichera02.text = ""
 
-meVE.Stichera03.mode = misc_en_US_goadedes.Mode6
+meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.Stichera03.melody = he.a.m6_en_US_goadedes.OlinApothemenoi.name
 meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
-meVE.Stichera04.mode = misc_en_US_goadedes.Mode6
+meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.Stichera04.melody = he.a.m6_en_US_goadedes.OlinApothemenoi.name
 meVE.Stichera04.incipit = "…"
 meVE.Stichera04.text = ""
 
 meVE.MM.Stichera123as567.text = properties_en_US_goadedes.media.key
 
-meVE.SticGlory.mode = misc_en_US_goadedes.Mode6
+meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = ""
 
-meVE.AposGlory.mode = misc_en_US_goadedes.Mode3
+meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode3
 meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "…"
 meVE.AposGlory.text = ""
 
-meVE.AposBoth.mode = misc_en_US_goadedes.Mode3
+meVE.AposBoth.mode = miscellanea_en_US_goadedes.misc.Mode3
 meVE.AposBoth.melody = ""
 meVE.AposBoth.incipit = oc.m3.d1_en_US_goadedes.ocVE.AposTheotokion.incipit
 meVE.AposBoth.text = oc.m3.d1_en_US_goadedes.ocVE.AposTheotokion.text
 
-meVE.Apolytikion1.mode = misc_en_US_goadedes.Mode8
+meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
-meVE.Apolytikion2.mode = misc_en_US_goadedes.Mode1
+meVE.Apolytikion2.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Apolytikion2.melody = he.a.m1_en_US_goadedes.TisErimouPolitis.name
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
@@ -77,453 +77,453 @@ meMA.C1.verse = prayers_en_US_goadedes.pr.verse_SaintsM.text
 meMA.C2.title = titles_en_US_goadedes.ti.Canon2Fathers
 meMA.C2.verse = prayers_en_US_goadedes.pr.verse_SaintsM.text
 
-meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
-meMA.Ode1C11.mode = misc_en_US_goadedes.Mode1
+meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
+meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode1C11.melody = he.h.m1_en_US_goadedes.SouITropaiouchos.name
 meMA.Ode1C11.incipit = "Master, as I wish…"
 meMA.Ode1C11.text = "Master, as I wish now to extol * those very dexterous destroyers of heresy, * I invoke Your heavenly, * almighty grace and uncreated energy. * For You are the Father's * right hand and also His power indeed."
 
-meMA.Ode1C12.ode = misc_en_US_goadedes.Ode1
-meMA.Ode1C12.mode = misc_en_US_goadedes.Mode1
+meMA.Ode1C12.ode = miscellanea_en_US_goadedes.misc.Ode1
+meMA.Ode1C12.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode1C12.melody = he.h.m1_en_US_goadedes.SouITropaiouchos.name
 meMA.Ode1C12.incipit = "…"
 meMA.Ode1C12.text = "The enlightened Fathers, who adhered * to what the Prophets had said many years before * and the holy Gospels' laws, * have clearly taught us all there is to know of God, * and what we cannot know; * and they have saved us from heresy."
 
-meMA.Ode1C13.ode = misc_en_US_goadedes.Ode1
-meMA.Ode1C13.mode = misc_en_US_goadedes.Mode1
+meMA.Ode1C13.ode = miscellanea_en_US_goadedes.misc.Ode1
+meMA.Ode1C13.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode1C13.melody = he.h.m1_en_US_goadedes.SouITropaiouchos.name
 meMA.Ode1C13.incipit = "…"
 meMA.Ode1C13.text = "Prophets long ago, being inspired, * and the all holy Apostles, together taught * that there is a single God * who is almighty and in three hypostases. * Now the holy Fathers * reveal Him clearly to us as well."
 
-meMA.Ode1C14.ode = misc_en_US_goadedes.Ode1
-meMA.Ode1C14.mode = misc_en_US_goadedes.Mode1
+meMA.Ode1C14.ode = miscellanea_en_US_goadedes.misc.Ode1
+meMA.Ode1C14.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode1C14.melody = he.h.m1_en_US_goadedes.SouITropaiouchos.name
 meMA.Ode1C14.incipit = "…"
 meMA.Ode1C14.text = "Following the precepts set by God, * the holy, God-bearing Fathers correctly taught * that the One who made all things * is in His essence utterly unknowable; * those who rightly see Him * know Him only in His energies."
 
-meMA.Ode1C1T.ode = misc_en_US_goadedes.Ode1
-meMA.Ode1C1T.mode = misc_en_US_goadedes.Mode1
+meMA.Ode1C1T.ode = miscellanea_en_US_goadedes.misc.Ode1
+meMA.Ode1C1T.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode1C1T.melody = he.h.m1_en_US_goadedes.SouITropaiouchos.name
 meMA.Ode1C1T.incipit = "Lady, you have held…"
 meMA.Ode1C1T.text = "Lady, you contained within your womb * the triple-radiant Light by an act of God. * Please illumine hearts and minds * of all who piously extol you, gracious one. * You are light and glory * and our salvation forevermore."
 
-meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
-meMA.Ode1C21.mode = misc_en_US_goadedes.Mode8
+meMA.Ode1C21.ode = miscellanea_en_US_goadedes.misc.Ode1
+meMA.Ode1C21.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode1C21.melody = he.h.m8_en_US_goadedes.ArmatilatinFarao.name
 meMA.Ode1C21.incipit = "…"
 meMA.Ode1C21.text = ""
 
-meMA.Ode1C22.ode = misc_en_US_goadedes.Ode1
-meMA.Ode1C22.mode = misc_en_US_goadedes.Mode8
+meMA.Ode1C22.ode = miscellanea_en_US_goadedes.misc.Ode1
+meMA.Ode1C22.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode1C22.melody = he.h.m8_en_US_goadedes.ArmatilatinFarao.name
 meMA.Ode1C22.incipit = "…"
 meMA.Ode1C22.text = ""
 
-meMA.Ode1C23.ode = misc_en_US_goadedes.Ode1
-meMA.Ode1C23.mode = misc_en_US_goadedes.Mode8
+meMA.Ode1C23.ode = miscellanea_en_US_goadedes.misc.Ode1
+meMA.Ode1C23.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode1C23.melody = he.h.m8_en_US_goadedes.ArmatilatinFarao.name
 meMA.Ode1C23.incipit = "…"
 meMA.Ode1C23.text = ""
 
-meMA.Ode1C2T.ode = misc_en_US_goadedes.Ode1
-meMA.Ode1C2T.mode = misc_en_US_goadedes.Mode8
+meMA.Ode1C2T.ode = miscellanea_en_US_goadedes.misc.Ode1
+meMA.Ode1C2T.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode1C2T.melody = he.h.m8_en_US_goadedes.ArmatilatinFarao.name
 meMA.Ode1C2T.incipit = "…"
 meMA.Ode1C2T.text = ""
 
-meMA.Ode3C11.ode = misc_en_US_goadedes.Ode3
-meMA.Ode3C11.mode = misc_en_US_goadedes.Mode1
+meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
+meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode3C11.melody = he.h.m1_en_US_goadedes.OMonosEidos.name
 meMA.Ode3C11.incipit = "O glorious Fathers…"
 meMA.Ode3C11.text = "O glorious Fathers, you became * like rivers, when the Spirit's grace, * the source of blessings, opened your holy mouths. * You swept away all polluting heresy * and to the believers gave the drink of the truth proclaimed * by Apostles and Prophets, the Orthodox faith."
 
-meMA.Ode3C12.ode = misc_en_US_goadedes.Ode3
-meMA.Ode3C12.mode = misc_en_US_goadedes.Mode1
+meMA.Ode3C12.ode = miscellanea_en_US_goadedes.misc.Ode3
+meMA.Ode3C12.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode3C12.melody = he.h.m1_en_US_goadedes.OMonosEidos.name
 meMA.Ode3C12.incipit = "…"
 meMA.Ode3C12.text = "O Fathers, you valiantly brought down * those champions of heresy, * the cunning Sergius, Pyrrhus, and Theodore, * and also Peter and Paul the Patriarchs. * Wisely you confirmed the Church in the dogmas taught by all * the Apostles and Fathers, O glorious Saints."
 
-meMA.Ode3C13.ode = misc_en_US_goadedes.Ode3
-meMA.Ode3C13.mode = misc_en_US_goadedes.Mode1
+meMA.Ode3C13.ode = miscellanea_en_US_goadedes.misc.Ode3
+meMA.Ode3C13.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode3C13.melody = he.h.m1_en_US_goadedes.OMonosEidos.name
 meMA.Ode3C13.incipit = "…"
 meMA.Ode3C13.text = "The God-bearing Fathers have proclaimed * the coeternal energy * of the eternal Godhead, and also taught * that the created nature that was assumed * has created energy, and affirmed that Christ is one * and the same Son and Logos, in natures two."
 
-meMA.Ode3C1T.ode = misc_en_US_goadedes.Ode3
-meMA.Ode3C1T.mode = misc_en_US_goadedes.Mode1
+meMA.Ode3C1T.ode = miscellanea_en_US_goadedes.misc.Ode3
+meMA.Ode3C1T.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode3C1T.melody = he.h.m1_en_US_goadedes.OMonosEidos.name
 meMA.Ode3C1T.incipit = "…"
 meMA.Ode3C1T.text = "All we who desire to behold * the shining of the Spirit's grace, * divine illumination that never sets, * let us appeal to the well dispensing grace, * the Creator's Mother; for all the very excellent * divine gifts to the faithful are given through her."
 
-meMA.Ode3C21.ode = misc_en_US_goadedes.Ode3
-meMA.Ode3C21.mode = misc_en_US_goadedes.Mode8
+meMA.Ode3C21.ode = miscellanea_en_US_goadedes.misc.Ode3
+meMA.Ode3C21.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode3C21.melody = he.h.m8_en_US_goadedes.OStereosasKatArchas.name
 meMA.Ode3C21.incipit = "…"
 meMA.Ode3C21.text = ""
 
-meMA.Ode3C22.ode = misc_en_US_goadedes.Ode3
-meMA.Ode3C22.mode = misc_en_US_goadedes.Mode8
+meMA.Ode3C22.ode = miscellanea_en_US_goadedes.misc.Ode3
+meMA.Ode3C22.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode3C22.melody = he.h.m8_en_US_goadedes.OStereosasKatArchas.name
 meMA.Ode3C22.incipit = "…"
 meMA.Ode3C22.text = ""
 
-meMA.Ode3C23.ode = misc_en_US_goadedes.Ode3
-meMA.Ode3C23.mode = misc_en_US_goadedes.Mode8
+meMA.Ode3C23.ode = miscellanea_en_US_goadedes.misc.Ode3
+meMA.Ode3C23.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode3C23.melody = he.h.m8_en_US_goadedes.OStereosasKatArchas.name
 meMA.Ode3C23.incipit = "…"
 meMA.Ode3C23.text = ""
 
-meMA.Ode3C2T.ode = misc_en_US_goadedes.Ode3
-meMA.Ode3C2T.mode = misc_en_US_goadedes.Mode8
+meMA.Ode3C2T.ode = miscellanea_en_US_goadedes.misc.Ode3
+meMA.Ode3C2T.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode3C2T.melody = he.h.m8_en_US_goadedes.OStereosasKatArchas.name
 meMA.Ode3C2T.incipit = "…"
 meMA.Ode3C2T.text = ""
 
-meMA.Ode3Kathisma1.mode = misc_en_US_goadedes.Mode4
+meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
 meMA.Ode3Kathisma1.incipit = "O holy and blessed Fathers…"
 meMA.Ode3Kathisma1.text = "O holy and blessed Fathers, on the earth you shone forth * as bright shining luminaries of the Orthodox Faith, * proclaiming the truth of Christ, * melting away the teachings of heretical babblers, * extinguishing the flames of the blasphemers' convolutions. * We pray you, O Hierarchs of Christ: * Intercede with Him to save our souls."
 
-meMA.Ode3KathismaT.mode = misc_en_US_goadedes.Mode4
+meMA.Ode3KathismaT.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
 meMA.Ode3KathismaT.incipit = me.m03.d28_en_US_goadedes.meMA.Ode3KathismaT.incipit
 meMA.Ode3KathismaT.text = me.m03.d28_en_US_goadedes.meMA.Ode3KathismaT.text
 
-meMA.Ode4C11.ode = misc_en_US_goadedes.Ode4
-meMA.Ode4C11.mode = misc_en_US_goadedes.Mode1
+meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
+meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode4C11.melody = he.h.m1_en_US_goadedes.OrosSeTiChariti.name
 meMA.Ode4C11.incipit = "Fathers, when the practical…"
 meMA.Ode4C11.text = "Fathers, when the practical decrees were sent down from Rome, * you accepted them, being wise, for you had meditated on * the Spirit's decrees and laws. * Being illumined by the Spirit, you pondered them, * and thus you firmly supported the Church of Christ."
 
-meMA.Ode4C12.ode = misc_en_US_goadedes.Ode4
-meMA.Ode4C12.mode = misc_en_US_goadedes.Mode1
+meMA.Ode4C12.ode = miscellanea_en_US_goadedes.misc.Ode4
+meMA.Ode4C12.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode4C12.melody = he.h.m1_en_US_goadedes.OrosSeTiChariti.name
 meMA.Ode4C12.incipit = "…"
 meMA.Ode4C12.text = "Faithful, let us crown with hymns the God-bearing men who met * in holy councils long ago. For they proclaimed to us that Christ, * the Logos becoming flesh, * was both divine and human, with wills and energies * that correspond, in a single hypostasis."
 
-meMA.Ode4C13.ode = misc_en_US_goadedes.Ode4
-meMA.Ode4C13.mode = misc_en_US_goadedes.Mode1
+meMA.Ode4C13.ode = miscellanea_en_US_goadedes.misc.Ode4
+meMA.Ode4C13.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode4C13.melody = he.h.m1_en_US_goadedes.OrosSeTiChariti.name
 meMA.Ode4C13.incipit = "…"
 meMA.Ode4C13.text = "Fathers, in your wisdom you did well to condemn as wrong * what Pope Honorius had taught, when he was puffed up on the throne * of old Rome, and heresy. * And you declared him unworthy of office and see, * and you anathematized him posthumously."
 
-meMA.Ode4C1T.ode = misc_en_US_goadedes.Ode4
-meMA.Ode4C1T.mode = misc_en_US_goadedes.Mode1
+meMA.Ode4C1T.ode = miscellanea_en_US_goadedes.misc.Ode4
+meMA.Ode4C1T.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode4C1T.melody = he.h.m1_en_US_goadedes.OrosSeTiChariti.name
 meMA.Ode4C1T.incipit = "…"
 meMA.Ode4C1T.text = "Virgin, you gave birth to the hypostatized Word of God * who is the true and holy light. Illumine me and open up * the eyes of my soul, I pray. * Let me experience the glory that comes from Him; * for as the Queen you entreat Him on our behalf."
 
-meMA.Ode4C21.ode = misc_en_US_goadedes.Ode4
-meMA.Ode4C21.mode = misc_en_US_goadedes.Mode8
+meMA.Ode4C21.ode = miscellanea_en_US_goadedes.misc.Ode4
+meMA.Ode4C21.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode4C21.melody = he.h.m8_en_US_goadedes.SyMouIschys.name
 meMA.Ode4C21.incipit = "…"
 meMA.Ode4C21.text = ""
 
-meMA.Ode4C22.ode = misc_en_US_goadedes.Ode4
-meMA.Ode4C22.mode = misc_en_US_goadedes.Mode8
+meMA.Ode4C22.ode = miscellanea_en_US_goadedes.misc.Ode4
+meMA.Ode4C22.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode4C22.melody = he.h.m8_en_US_goadedes.SyMouIschys.name
 meMA.Ode4C22.incipit = "…"
 meMA.Ode4C22.text = ""
 
-meMA.Ode4C23.ode = misc_en_US_goadedes.Ode4
-meMA.Ode4C23.mode = misc_en_US_goadedes.Mode8
+meMA.Ode4C23.ode = miscellanea_en_US_goadedes.misc.Ode4
+meMA.Ode4C23.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode4C23.melody = he.h.m8_en_US_goadedes.SyMouIschys.name
 meMA.Ode4C23.incipit = "…"
 meMA.Ode4C23.text = ""
 
-meMA.Ode4C2T.ode = misc_en_US_goadedes.Ode4
-meMA.Ode4C2T.mode = misc_en_US_goadedes.Mode8
+meMA.Ode4C2T.ode = miscellanea_en_US_goadedes.misc.Ode4
+meMA.Ode4C2T.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode4C2T.melody = he.h.m8_en_US_goadedes.SyMouIschys.name
 meMA.Ode4C2T.incipit = "…"
 meMA.Ode4C2T.text = ""
 
-meMA.Ode5C11.ode = misc_en_US_goadedes.Ode5
-meMA.Ode5C11.mode = misc_en_US_goadedes.Mode1
+meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
+meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode5C11.melody = he.h.m1_en_US_goadedes.OFotisasTiEllampsei.name
 meMA.Ode5C11.incipit = "O God-bearing fathers…"
 meMA.Ode5C11.text = "O God-bearing fathers, Christ made you excellent law-givers, * and like Moses of lore, you guide the Church, the new Israel; * for like him, you made the foe like most adversarial Pharaoh * sink into hell like the sea of old."
 
-meMA.Ode5C12.ode = misc_en_US_goadedes.Ode5
-meMA.Ode5C12.mode = misc_en_US_goadedes.Mode1
+meMA.Ode5C12.ode = miscellanea_en_US_goadedes.misc.Ode5
+meMA.Ode5C12.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode5C12.melody = he.h.m1_en_US_goadedes.OFotisasTiEllampsei.name
 meMA.Ode5C12.incipit = "…"
 meMA.Ode5C12.text = "How impressive is the fathers' council and magnificent! * Having learned well that Jesus is a single hypostasis * and composite, being both divine and human, to the whole world * they proclaimed His twofold energies."
 
-meMA.Ode5C13.ode = misc_en_US_goadedes.Ode5
-meMA.Ode5C13.mode = misc_en_US_goadedes.Mode1
+meMA.Ode5C13.ode = miscellanea_en_US_goadedes.misc.Ode5
+meMA.Ode5C13.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode5C13.melody = he.h.m1_en_US_goadedes.OFotisasTiEllampsei.name
 meMA.Ode5C13.incipit = "…"
 meMA.Ode5C13.text = "When the Teachers of Church received from Rome the documents * they considered them a gift from God, by which they reinforced * Orthodoxy's citadel; and they proclaimed that just as Christ has * two natures, He has two energies."
 
-meMA.Ode5C14.ode = misc_en_US_goadedes.Ode5
-meMA.Ode5C14.mode = misc_en_US_goadedes.Mode1
+meMA.Ode5C14.ode = miscellanea_en_US_goadedes.misc.Ode5
+meMA.Ode5C14.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode5C14.melody = he.h.m1_en_US_goadedes.OFotisasTiEllampsei.name
 meMA.Ode5C14.incipit = "…"
 meMA.Ode5C14.text = "Censured are the Patriarchs Paul and Peter and Theodore, * along with Pyrrhus and Sergius and also Honorius, * shamefully they introduced the confusion of Christ's natures * by the confusion of energies."
 
-meMA.Ode5C1T.ode = misc_en_US_goadedes.Ode5
-meMA.Ode5C1T.mode = misc_en_US_goadedes.Mode1
+meMA.Ode5C1T.ode = miscellanea_en_US_goadedes.misc.Ode5
+meMA.Ode5C1T.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode5C1T.melody = he.h.m1_en_US_goadedes.OFotisasTiEllampsei.name
 meMA.Ode5C1T.incipit = "…"
 meMA.Ode5C1T.text = "For becoming the shrine of the unsetting enlightenment, * you, O Virgin, are wholly illumined and enlightenment. * Therefore I entreat you now, O Theotokos, to enlighten * with your holy light the eyes of my soul."
 
-meMA.Ode5C21.ode = misc_en_US_goadedes.Ode5
-meMA.Ode5C21.mode = misc_en_US_goadedes.Mode8
+meMA.Ode5C21.ode = miscellanea_en_US_goadedes.misc.Ode5
+meMA.Ode5C21.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode5C21.melody = he.h.m8_en_US_goadedes.InaTiMeAposo.name
 meMA.Ode5C21.incipit = "…"
 meMA.Ode5C21.text = ""
 
-meMA.Ode5C22.ode = misc_en_US_goadedes.Ode5
-meMA.Ode5C22.mode = misc_en_US_goadedes.Mode8
+meMA.Ode5C22.ode = miscellanea_en_US_goadedes.misc.Ode5
+meMA.Ode5C22.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode5C22.melody = he.h.m8_en_US_goadedes.InaTiMeAposo.name
 meMA.Ode5C22.incipit = "…"
 meMA.Ode5C22.text = ""
 
-meMA.Ode5C23.ode = misc_en_US_goadedes.Ode5
-meMA.Ode5C23.mode = misc_en_US_goadedes.Mode8
+meMA.Ode5C23.ode = miscellanea_en_US_goadedes.misc.Ode5
+meMA.Ode5C23.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode5C23.melody = he.h.m8_en_US_goadedes.InaTiMeAposo.name
 meMA.Ode5C23.incipit = "…"
 meMA.Ode5C23.text = ""
 
-meMA.Ode5C2T.ode = misc_en_US_goadedes.Ode5
-meMA.Ode5C2T.mode = misc_en_US_goadedes.Mode8
+meMA.Ode5C2T.ode = miscellanea_en_US_goadedes.misc.Ode5
+meMA.Ode5C2T.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode5C2T.melody = he.h.m8_en_US_goadedes.InaTiMeAposo.name
 meMA.Ode5C2T.incipit = "…"
 meMA.Ode5C2T.text = ""
 
-meMA.Ode6C11.ode = misc_en_US_goadedes.Ode6
-meMA.Ode6C11.mode = misc_en_US_goadedes.Mode1
+meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
+meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode6C11.melody = he.h.m1_en_US_goadedes.SplanchnonIonan.name
 meMA.Ode6C11.incipit = "Strange and new indeed…"
 meMA.Ode6C11.text = "Strange and new indeed * was the wrong confusion of the natures of Christ that the heretical * council vomited; * and they also confused His two energies * into one peculiar and outlandish energy. * This has been condemned consistently * by the holy and Orthodox Councils all."
 
-meMA.Ode6C12.ode = misc_en_US_goadedes.Ode6
-meMA.Ode6C12.mode = misc_en_US_goadedes.Mode1
+meMA.Ode6C12.ode = miscellanea_en_US_goadedes.misc.Ode6
+meMA.Ode6C12.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode6C12.melody = he.h.m1_en_US_goadedes.SplanchnonIonan.name
 meMA.Ode6C12.incipit = "…"
 meMA.Ode6C12.text = "Wishing to avoid * Nestorian heresy, which wrongly introduced duality of sons, * the unorthodox * council slid from the mire to the deepest pit, * promulgating the confusion of natures and wills * incorrectly, which the God-inspired * holy Fathers refuted decisively."
 
-meMA.Ode6C13.ode = misc_en_US_goadedes.Ode6
-meMA.Ode6C13.mode = misc_en_US_goadedes.Mode1
+meMA.Ode6C13.ode = miscellanea_en_US_goadedes.misc.Ode6
+meMA.Ode6C13.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode6C13.melody = he.h.m1_en_US_goadedes.SplanchnonIonan.name
 meMA.Ode6C13.incipit = "…"
 meMA.Ode6C13.text = "Consubstantial is * the Son with the Father and the Spirit. And this is what the fathers of old * had precisely said. * So the Orthodox Council of Teachers, inspired * by the energies and grace of God, is teaching all, * recognizing that each nature has * its own natural will and its energy."
 
-meMA.Ode6C14.ode = misc_en_US_goadedes.Ode6
-meMA.Ode6C14.mode = misc_en_US_goadedes.Mode1
+meMA.Ode6C14.ode = miscellanea_en_US_goadedes.misc.Ode6
+meMA.Ode6C14.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode6C14.melody = he.h.m1_en_US_goadedes.SplanchnonIonan.name
 meMA.Ode6C14.incipit = "…"
 meMA.Ode6C14.text = "Thinking that the will * belongs to hypostasis, the champions of heresy erroneously * also introduced * with the wills of the willers their persons as well. * But the holy Fathers expertly refuted them, * teaching that the proper energy * of a nature belongs to the nature itself."
 
-meMA.Ode6C1T.ode = misc_en_US_goadedes.Ode6
-meMA.Ode6C1T.mode = misc_en_US_goadedes.Mode1
+meMA.Ode6C1T.ode = miscellanea_en_US_goadedes.misc.Ode6
+meMA.Ode6C1T.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode6C1T.melody = he.h.m1_en_US_goadedes.SplanchnonIonan.name
 meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = "Lady, you became * the door of the divinity and source of the ray of light that never sets. * For the plentitude * of the Godhead ineffably dwelt within * your immaculate and holy womb, all-blameless one. * You award the natural energy * and the light of the Godhead to those who ask."
 
-meMA.Ode6C21.ode = misc_en_US_goadedes.Ode6
-meMA.Ode6C21.mode = misc_en_US_goadedes.Mode8
+meMA.Ode6C21.ode = miscellanea_en_US_goadedes.misc.Ode6
+meMA.Ode6C21.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode6C21.melody = he.h.m8_en_US_goadedes.IlasthitiMoiSotir.name
 meMA.Ode6C21.incipit = "…"
 meMA.Ode6C21.text = ""
 
-meMA.Ode6C22.ode = misc_en_US_goadedes.Ode6
-meMA.Ode6C22.mode = misc_en_US_goadedes.Mode8
+meMA.Ode6C22.ode = miscellanea_en_US_goadedes.misc.Ode6
+meMA.Ode6C22.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode6C22.melody = he.h.m8_en_US_goadedes.IlasthitiMoiSotir.name
 meMA.Ode6C22.incipit = "…"
 meMA.Ode6C22.text = ""
 
-meMA.Ode6C2T.ode = misc_en_US_goadedes.Ode6
-meMA.Ode6C2T.mode = misc_en_US_goadedes.Mode8
+meMA.Ode6C2T.ode = miscellanea_en_US_goadedes.misc.Ode6
+meMA.Ode6C2T.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode6C2T.melody = he.h.m8_en_US_goadedes.IlasthitiMoiSotir.name
 meMA.Ode6C2T.incipit = "…"
 meMA.Ode6C2T.text = ""
 
-meMA.Kontakion1.mode = misc_en_US_goadedes.Mode8
-meMA.Kontakion1.melody = misc_en_US_goadedes.Automelon
+meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Kontakion1.melody = miscellanea_en_US_goadedes.misc.Automelon
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Ode7C11.ode = misc_en_US_goadedes.Ode7
-meMA.Ode7C11.mode = misc_en_US_goadedes.Mode1
+meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
+meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode7C11.melody = he.h.m1_en_US_goadedes.SeNoitin.name
 meMA.Ode7C11.incipit = "Master and Lord…"
 meMA.Ode7C11.text = "Master and Lord, * long ago the councils of the theologians understood * You as Son of God and as man. * They proclaimed You everywhere, Lover of humanity, * and they confirmed the duality * of Your natures by affirming Your twofold wills and energies."
 
-meMA.Ode7C12.ode = misc_en_US_goadedes.Ode7
-meMA.Ode7C12.mode = misc_en_US_goadedes.Mode1
+meMA.Ode7C12.ode = miscellanea_en_US_goadedes.misc.Ode7
+meMA.Ode7C12.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode7C12.melody = he.h.m1_en_US_goadedes.SeNoitin.name
 meMA.Ode7C12.incipit = "…"
 meMA.Ode7C12.text = "Christ's holy Church * is adorned by you, O Saints. For having carefully received * the Apostles' precepts and laws, * you instructed everyone, teaching them the word of faith, * that there is one Lord in Trinity, * one God, creating and acting and willing, and omnipotent."
 
-meMA.Ode7C13.ode = misc_en_US_goadedes.Ode7
-meMA.Ode7C13.mode = misc_en_US_goadedes.Mode1
+meMA.Ode7C13.ode = miscellanea_en_US_goadedes.misc.Ode7
+meMA.Ode7C13.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode7C13.melody = he.h.m1_en_US_goadedes.SeNoitin.name
 meMA.Ode7C13.incipit = "…"
 meMA.Ode7C13.text = "You understood * God to be in essence higher than His uncreated light * and indeed His immortal life, * teaching that natural properties are inferior * to divine nature, acknowledging * that they are truly connatural as well as indivisible."
 
-meMA.Ode7C14.ode = misc_en_US_goadedes.Ode7
-meMA.Ode7C14.mode = misc_en_US_goadedes.Mode1
+meMA.Ode7C14.ode = miscellanea_en_US_goadedes.misc.Ode7
+meMA.Ode7C14.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode7C14.melody = he.h.m1_en_US_goadedes.SeNoitin.name
 meMA.Ode7C14.incipit = "…"
 meMA.Ode7C14.text = "Christ sent you out, * as if lightning bolts of His divine light, into all the world, * to completely burn to the ground * architects of heresy. And you have enlightened all * His holy Church, O thrice-blessed Saints, * extolling God, who is praised and glorified, as omnipotent."
 
-meMA.Ode7C1T.ode = misc_en_US_goadedes.Ode7
-meMA.Ode7C1T.mode = misc_en_US_goadedes.Mode1
+meMA.Ode7C1T.ode = miscellanea_en_US_goadedes.misc.Ode7
+meMA.Ode7C1T.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode7C1T.melody = he.h.m1_en_US_goadedes.SeNoitin.name
 meMA.Ode7C1T.incipit = "…"
 meMA.Ode7C1T.text = "Christ, who beyond * measure is exalted and is the unsetting light, came forth * from your pure and all-holy womb, * and He saved the world of old. Therefore I implore you now, * O Theotokos, to pray for me, * that He enlighten the noetic eyes of my bedarkened heart."
 
-meMA.Ode7C21.ode = misc_en_US_goadedes.Ode7
-meMA.Ode7C21.mode = misc_en_US_goadedes.Mode8
+meMA.Ode7C21.ode = miscellanea_en_US_goadedes.misc.Ode7
+meMA.Ode7C21.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode7C21.melody = he.h.m8_en_US_goadedes.TheouSynkatavasin.name
 meMA.Ode7C21.incipit = "…"
 meMA.Ode7C21.text = ""
 
-meMA.Ode7C22.ode = misc_en_US_goadedes.Ode7
-meMA.Ode7C22.mode = misc_en_US_goadedes.Mode8
+meMA.Ode7C22.ode = miscellanea_en_US_goadedes.misc.Ode7
+meMA.Ode7C22.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode7C22.melody = he.h.m8_en_US_goadedes.TheouSynkatavasin.name
 meMA.Ode7C22.incipit = "…"
 meMA.Ode7C22.text = ""
 
-meMA.Ode7C23.ode = misc_en_US_goadedes.Ode7
-meMA.Ode7C23.mode = misc_en_US_goadedes.Mode8
+meMA.Ode7C23.ode = miscellanea_en_US_goadedes.misc.Ode7
+meMA.Ode7C23.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode7C23.melody = he.h.m8_en_US_goadedes.TheouSynkatavasin.name
 meMA.Ode7C23.incipit = "…"
 meMA.Ode7C23.text = ""
 
-meMA.Ode7C2Tr.ode = misc_en_US_goadedes.Ode7
-meMA.Ode7C2Tr.mode = misc_en_US_goadedes.Mode8
+meMA.Ode7C2Tr.ode = miscellanea_en_US_goadedes.misc.Ode7
+meMA.Ode7C2Tr.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode7C2Tr.melody = he.h.m8_en_US_goadedes.TheouSynkatavasin.name
 meMA.Ode7C2Tr.incipit = "…"
 meMA.Ode7C2Tr.text = ""
 
-meMA.Ode8C11.ode = misc_en_US_goadedes.Ode8
-meMA.Ode8C11.mode = misc_en_US_goadedes.Mode1
+meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
+meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode8C11.melody = he.h.m1_en_US_goadedes.EnKaminoPaides.name
 meMA.Ode8C11.incipit = "Holy fathers…"
 meMA.Ode8C11.text = "Holy fathers, having as their base the God-inspired teaching * of the Apostles and Prophets, set out and proclaimed to all the Church's theology: * Jesus Christ, the Savior and the Lord of all, is one in person, * with twofold energies paired with His two natures."
 
-meMA.Ode8C12.ode = misc_en_US_goadedes.Ode8
-meMA.Ode8C12.mode = misc_en_US_goadedes.Mode1
+meMA.Ode8C12.ode = miscellanea_en_US_goadedes.misc.Ode8
+meMA.Ode8C12.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode8C12.melody = he.h.m1_en_US_goadedes.EnKaminoPaides.name
 meMA.Ode8C12.incipit = "…"
 meMA.Ode8C12.text = "As the holy fathers rightly wished to banish every error * and heresy from the Church of Christ, they decreed and proclaimed to all, that the Lord possessed * energy and will uncreated, and these also created, * proper to His natures as man and Creator."
 
-meMA.Ode8C13.ode = misc_en_US_goadedes.Ode8
-meMA.Ode8C13.mode = misc_en_US_goadedes.Mode1
+meMA.Ode8C13.ode = miscellanea_en_US_goadedes.misc.Ode8
+meMA.Ode8C13.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode8C13.melody = he.h.m1_en_US_goadedes.EnKaminoPaides.name
 meMA.Ode8C13.incipit = "…"
 meMA.Ode8C13.text = "Holding in your hands the word of God like a sword, holy fathers, * you positively confounded the opponents of the true Orthodox theology; * for you said that just as the Savior possesses twofold natures, * His natural wills and energies are also twofold."
 
-meMA.Ode8C1T.ode = misc_en_US_goadedes.Ode8
-meMA.Ode8C1T.mode = misc_en_US_goadedes.Mode1
+meMA.Ode8C1T.ode = miscellanea_en_US_goadedes.misc.Ode8
+meMA.Ode8C1T.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode8C1T.melody = he.h.m1_en_US_goadedes.EnKaminoPaides.name
 meMA.Ode8C1T.incipit = "…"
 meMA.Ode8C1T.text = "Fair are you, O Virgin, through and through, and radiant completely, * light-bearing, also God-bearing, and uniquely wholly bright. I therefore implore you now, * Lady, to enlighten the eyes of my heart, as I am breathing * your glory, smitten with longing to attain it."
 
-meMA.Ode8C21.ode = misc_en_US_goadedes.Ode8
-meMA.Ode8C21.mode = misc_en_US_goadedes.Mode8
+meMA.Ode8C21.ode = miscellanea_en_US_goadedes.misc.Ode8
+meMA.Ode8C21.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode8C21.melody = he.h.m8_en_US_goadedes.EptaplasiosKaminon.name
 meMA.Ode8C21.incipit = "…"
 meMA.Ode8C21.text = ""
 
-meMA.Ode8C22.ode = misc_en_US_goadedes.Ode8
-meMA.Ode8C22.mode = misc_en_US_goadedes.Mode8
+meMA.Ode8C22.ode = miscellanea_en_US_goadedes.misc.Ode8
+meMA.Ode8C22.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode8C22.melody = he.h.m8_en_US_goadedes.EptaplasiosKaminon.name
 meMA.Ode8C22.incipit = "…"
 meMA.Ode8C22.text = ""
 
-meMA.Ode8C23.ode = misc_en_US_goadedes.Ode8
-meMA.Ode8C23.mode = misc_en_US_goadedes.Mode8
+meMA.Ode8C23.ode = miscellanea_en_US_goadedes.misc.Ode8
+meMA.Ode8C23.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode8C23.melody = he.h.m8_en_US_goadedes.EptaplasiosKaminon.name
 meMA.Ode8C23.incipit = "…"
 meMA.Ode8C23.text = ""
 
-meMA.Ode8C2Tr.ode = misc_en_US_goadedes.Ode8
-meMA.Ode8C2Tr.mode = misc_en_US_goadedes.Mode8
+meMA.Ode8C2Tr.ode = miscellanea_en_US_goadedes.misc.Ode8
+meMA.Ode8C2Tr.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode8C2Tr.melody = he.h.m8_en_US_goadedes.EptaplasiosKaminon.name
 meMA.Ode8C2Tr.incipit = "…"
 meMA.Ode8C2Tr.text = ""
 
-meMA.Ode9C11.ode = misc_en_US_goadedes.Ode9
-meMA.Ode9C11.mode = misc_en_US_goadedes.Mode1
+meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
+meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode9C11.melody = he.h.m1_en_US_goadedes.TyponTisAgnis.name
 meMA.Ode9C11.incipit = "Blessed fathers…"
 meMA.Ode9C11.text = "Blessed fathers, you had Christ of old * speaking inside of you His divine theology. * And united now purely to Him who is wholly pure, * will you strongly support His all-holy Church, * which you indeed defended by efforts great and laborious."
 
-meMA.Ode9C12.ode = misc_en_US_goadedes.Ode9
-meMA.Ode9C12.mode = misc_en_US_goadedes.Mode1
+meMA.Ode9C12.ode = miscellanea_en_US_goadedes.misc.Ode9
+meMA.Ode9C12.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode9C12.melody = he.h.m1_en_US_goadedes.TyponTisAgnis.name
 meMA.Ode9C12.incipit = "…"
 meMA.Ode9C12.text = "You became the rule and paragon * for all the Church of God of correct theology, * teaching as you did the incarnation of Christ our God, * and the one uncreated divinity, * as you, thrice-blessed Fathers, refute all heresy prophetically."
 
-meMA.Ode9C13.ode = misc_en_US_goadedes.Ode9
-meMA.Ode9C13.mode = misc_en_US_goadedes.Mode1
+meMA.Ode9C13.ode = miscellanea_en_US_goadedes.misc.Ode9
+meMA.Ode9C13.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode9C13.melody = he.h.m1_en_US_goadedes.TyponTisAgnis.name
 meMA.Ode9C13.incipit = "…"
 meMA.Ode9C13.text = "Fathers, you resolved prophetically * all questions that the heretics raised in argument, * teaching as you did the right distinction of energy, * which you fittingly called indivisible * and natural, uncreated, omnific, also omnipotent."
 
-meMA.Ode9C14.ode = misc_en_US_goadedes.Ode9
-meMA.Ode9C14.mode = misc_en_US_goadedes.Mode1
+meMA.Ode9C14.ode = miscellanea_en_US_goadedes.misc.Ode9
+meMA.Ode9C14.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode9C14.melody = he.h.m1_en_US_goadedes.TyponTisAgnis.name
 meMA.Ode9C14.incipit = "…"
 meMA.Ode9C14.text = "You became the mouth God, O Saints. * You said that He in nature is unapproachable; * yet one may indeed commune with Him who alone is good, * only in His refulgence and energies. * We worthily extol you, our benefactors, and call you blessed."
 
-meMA.Ode9C1T.ode = misc_en_US_goadedes.Ode9
-meMA.Ode9C1T.mode = misc_en_US_goadedes.Mode1
+meMA.Ode9C1T.ode = miscellanea_en_US_goadedes.misc.Ode9
+meMA.Ode9C1T.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode9C1T.melody = he.h.m1_en_US_goadedes.TyponTisAgnis.name
 meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = "Lady, I composed this hymn to you * who are the cause of blessings, all-lauded Virgin pure; * and I dedicate it to your Son out of gratitude, * now that I have returned from my banishment. * You are the golden flourish, divinely ending this ode of mine."
 
-meMA.Ode9C21.ode = misc_en_US_goadedes.Ode9
-meMA.Ode9C21.mode = misc_en_US_goadedes.Mode8
+meMA.Ode9C21.ode = miscellanea_en_US_goadedes.misc.Ode9
+meMA.Ode9C21.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode9C21.melody = he.h.m8_en_US_goadedes.ExestiEpiTouto.name
 meMA.Ode9C21.incipit = "…"
 meMA.Ode9C21.text = ""
 
-meMA.Ode9C22.ode = misc_en_US_goadedes.Ode9
-meMA.Ode9C22.mode = misc_en_US_goadedes.Mode8
+meMA.Ode9C22.ode = miscellanea_en_US_goadedes.misc.Ode9
+meMA.Ode9C22.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode9C22.melody = he.h.m8_en_US_goadedes.ExestiEpiTouto.name
 meMA.Ode9C22.incipit = "…"
 meMA.Ode9C22.text = ""
 
-meMA.Ode9C2T.ode = misc_en_US_goadedes.Ode9
-meMA.Ode9C2T.mode = misc_en_US_goadedes.Mode8
+meMA.Ode9C2T.ode = miscellanea_en_US_goadedes.misc.Ode9
+meMA.Ode9C2T.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode9C2T.melody = he.h.m8_en_US_goadedes.ExestiEpiTouto.name
 meMA.Ode9C2T.incipit = "…"
 meMA.Ode9C2T.text = ""
 
-meMA.Exaposteilarion1.mode = misc_en_US_goadedes.Mode2
+meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
-meMA.ExapTheotokion.mode = misc_en_US_goadedes.Mode2
+meMA.ExapTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_goadedes.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
-meMA.Lauds1.mode = misc_en_US_goadedes.Mode6
+meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Lauds1.melody = he.a.m6_en_US_goadedes.OlinApothemenoi.name
 meMA.Lauds1.incipit = "When the holy Fathers…"
 meMA.Lauds1.text = "When the holy Fathers brought all of their spiritual knowledge * to the Council, they discussed * everything, with the divine Spirit guiding them. * They inscribed the sublime Creed and holy Symbol, * as if God himself had written it, * clearly explaining that consubstantial and unoriginate * with God the Father is the Son and Logos, begotten eternally. * Teaching thus, these famous and truly happy godly-minded men * were right and faithfully following * that which the Apostles taught."
 
-meMA.Lauds2.mode = misc_en_US_goadedes.Mode6
+meMA.Lauds2.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Lauds2.melody = he.a.m6_en_US_goadedes.OlinApothemenoi.name
 meMA.Lauds2.incipit = "When those holy hierarchs…"
 meMA.Lauds2.text = "When those holy hierarchs, preachers of Christ, and defenders * of the Gospel teachings and Orthodox traditions had received in themselves * the divine radiance of the Holy Spirit, * they proclaimed the supernatural * pronouncement openly * to be their conviction inspired by God, * namely the Creed, which is concise * yet defines the true faith sufficiently. * Clearly these enlightened and blessed men, receiving from on high * the revelation, declared to all * the decision taught by God."
 
-meMA.Lauds3.mode = misc_en_US_goadedes.Mode6
+meMA.Lauds3.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Lauds3.melody = he.a.m6_en_US_goadedes.OlinApothemenoi.name
 meMA.Lauds3.incipit = "When the holy Shepherds…"
 meMA.Lauds3.text = "When the holy Shepherds brought all of their pastoral knowledge * to the Council and they stirred * their most righteous anger now justifiably, * they drove out with the sling of the Holy Spirit * the offensive and corruptive wolves, * and from the complement of the Church of Christ they expelled them all, * as having fallen mortally, and as being ill and incurable. * Thus they demonstrated themselves as loyal servants of the Lord, * and sacred mystics of the divine * and inspired preaching of Christ."
 
 meMA.MM.Lauds123as345.text = properties_en_US_goadedes.media.key
 
-meMA.LaudsGlory.mode = misc_en_US_goadedes.Mode8
+meMA.LaudsGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.incipit = "…"
 meMA.LaudsGlory.text = ""

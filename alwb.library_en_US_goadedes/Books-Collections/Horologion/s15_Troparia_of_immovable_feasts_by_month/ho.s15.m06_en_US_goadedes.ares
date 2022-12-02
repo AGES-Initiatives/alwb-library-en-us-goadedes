@@ -13,8 +13,8 @@ hoD05.GeneralApolytikion1.name = ""
 hoD06.GeneralApolytikion1.name = ""
 
 hoD11.Apolytikion3.title = ""
-hoD11.Apolytikion3.poet = poets_en_US_goadedes.GerasimouMonachouMikragiannanitou
-hoD11.Apolytikion3.mode = misc_en_US_goadedes.Mode4
+hoD11.Apolytikion3.poet = poets_en_US_goadedes.po.GerasimouMonachouMikragiannanitou
+hoD11.Apolytikion3.mode = miscellanea_en_US_goadedes.misc.Mode4
 hoD11.Apolytikion3.melody = he.a.m4_en_US_goadedes.TachyProkatalave.name
 hoD11.Apolytikion3.incipit = "…"
 hoD11.Apolytikion3.text = ""

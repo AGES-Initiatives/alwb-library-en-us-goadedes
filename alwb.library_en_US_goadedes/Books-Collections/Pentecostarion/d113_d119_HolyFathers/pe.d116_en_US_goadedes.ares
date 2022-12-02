@@ -13,23 +13,23 @@ peHO.note1 = ""
 peHO.note2 = ""
 peDA.dismissal = dismissals_en_US_goadedes.dis00.ascension
 
-peVE.Stichera01.mode = misc_en_US_goadedes.Mode4
+peVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode4
 peVE.Stichera01.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
 peVE.Stichera01.incipit = "…"
 peVE.Stichera01.text = ""
 
-peVE.Stichera02.mode = misc_en_US_goadedes.Mode4
+peVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode4
 peVE.Stichera02.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
 peVE.Stichera02.incipit = "…"
 peVE.Stichera02.text = ""
 
-peVE.Stichera03.mode = misc_en_US_goadedes.Mode4
+peVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode4
 peVE.Stichera03.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
 peVE.Stichera03.incipit = "…"
 peVE.Stichera03.text = ""
 
-peVE.SticGlory.mode = misc_en_US_goadedes.Mode5
-peVE.SticGlory.melody = misc_en_US_goadedes.Idiomelon
+peVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode5
+peVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
 peVE.SticGlory.incipit = "…"
 peVE.SticGlory.text = ""
 
@@ -53,27 +53,27 @@ peVE.AposGlory.melody = pe.d111_en_US_goadedes.peMA.AposGlory.melody
 peVE.AposGlory.incipit = pe.d111_en_US_goadedes.peMA.AposGlory.incipit
 peVE.AposGlory.text = pe.d111_en_US_goadedes.peMA.AposGlory.text
 
-peMA.Kathisma11.mode = misc_en_US_goadedes.Mode4
+peMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode4
 peMA.Kathisma11.melody = he.a.m4_en_US_goadedes.EpefanisSimeron.name
 peMA.Kathisma11.incipit = "…"
 peMA.Kathisma11.text = ""
 
-peMA.Kathisma21.mode = misc_en_US_goadedes.Mode4
+peMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode4
 peMA.Kathisma21.melody = he.a.m4_en_US_goadedes.EpefanisSimeron.name
 peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = ""
 
-peMA.Aposticha1.mode = misc_en_US_goadedes.Mode6
+peMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode6
 peMA.Aposticha1.melody = he.a.m6_en_US_goadedes.TriimerosAnestis.name
 peMA.Aposticha1.incipit = "…"
 peMA.Aposticha1.text = ""
 
-peMA.Aposticha2.mode = misc_en_US_goadedes.Mode6
+peMA.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode6
 peMA.Aposticha2.melody = he.a.m6_en_US_goadedes.TriimerosAnestis.name
 peMA.Aposticha2.incipit = "…"
 peMA.Aposticha2.text = ""
 
-peMA.Aposticha3.mode = misc_en_US_goadedes.Mode6
+peMA.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode6
 peMA.Aposticha3.melody = he.a.m6_en_US_goadedes.TriimerosAnestis.name
 peMA.Aposticha3.incipit = "…"
 peMA.Aposticha3.text = ""

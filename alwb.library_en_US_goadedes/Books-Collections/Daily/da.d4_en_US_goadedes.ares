@@ -5,12 +5,12 @@ daCommemoration.text = ""
 
 daVE.OnTheEveningBefore = template.titles_en_US_goadedes.d.onTuesdayEvening
 
-daVE.Apolytikion1.mode = misc_en_US_goadedes.Mode1
+daVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode1
 daVE.Apolytikion1.melody = ""
 daVE.Apolytikion1.incipit = me.m09.d14_en_US_goadedes.meVE.Apolytikion1.incipit
 daVE.Apolytikion1.text = me.m09.d14_en_US_goadedes.meVE.Apolytikion1.text
 
-daVE.ApolTheotokion.mode = misc_en_US_goadedes.Mode1
+daVE.ApolTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode1
 daVE.ApolTheotokion.melody = ""
 daVE.ApolTheotokion.incipit = oc.m1.d4_en_US_goadedes.ocVE.ApolTheotokionVM.incipit
 daVE.ApolTheotokion.text = oc.m1.d4_en_US_goadedes.ocVE.ApolTheotokionVM.text
@@ -27,22 +27,22 @@ daMA.Photagogic1Beginning.text = ""
 daMA.Photagogic2Beginning.text = prayers_en_US_goadedes.pr.photagogic_begin_Saints.text
 daMA.Photagogic3Beginning.text = prayers_en_US_goadedes.pr.photagogic_begin_Theotokos.text
 
-daMA.Exaposteilarion1.mode = misc_en_US_goadedes.Mode2
+daMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
 daMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.GynaikesAkoutisthite.name
 daMA.Exaposteilarion1.incipit = "…"
 daMA.Exaposteilarion1.text = ""
 
-daMA.ExapTheotokion1.mode = misc_en_US_goadedes.Mode2
+daMA.ExapTheotokion1.mode = miscellanea_en_US_goadedes.misc.Mode2
 daMA.ExapTheotokion1.melody = he.a.m2_en_US_goadedes.GynaikesAkoutisthite.name
 daMA.ExapTheotokion1.incipit = "…"
 daMA.ExapTheotokion1.text = ""
 
-daMA.Exaposteilarion2.mode = misc_en_US_goadedes.Mode3
+daMA.Exaposteilarion2.mode = miscellanea_en_US_goadedes.misc.Mode3
 daMA.Exaposteilarion2.melody = he.a.m3_en_US_goadedes.OOuranonToisAstrois.name
 daMA.Exaposteilarion2.incipit = "…"
 daMA.Exaposteilarion2.text = ""
 
-daMA.ExapTheotokion2.mode = misc_en_US_goadedes.Mode3
+daMA.ExapTheotokion2.mode = miscellanea_en_US_goadedes.misc.Mode3
 daMA.ExapTheotokion2.melody = he.a.m3_en_US_goadedes.OOuranonToisAstrois.name
 daMA.ExapTheotokion2.incipit = "…"
 daMA.ExapTheotokion2.text = ""

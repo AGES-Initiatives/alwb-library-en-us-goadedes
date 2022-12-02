@@ -19,69 +19,69 @@ meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
-meVE.Stichera01.mode = misc_en_US_goadedes.Mode2
+meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Stichera01.melody = he.a.m2_en_US_goadedes.OteEkTouXylou.name
 meVE.Stichera01.incipit = "…"
 meVE.Stichera01.text = ""
 
-meVE.Stichera02.mode = misc_en_US_goadedes.Mode2
+meVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Stichera02.melody = he.a.m2_en_US_goadedes.OteEkTouXylou.name
 meVE.Stichera02.incipit = "…"
 meVE.Stichera02.text = ""
 
-meVE.Stichera03.mode = misc_en_US_goadedes.Mode2
+meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Stichera03.melody = he.a.m2_en_US_goadedes.OteEkTouXylou.name
 meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
-meVE.Stichera04.mode = misc_en_US_goadedes.Mode4
+meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera04.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
 meVE.Stichera04.incipit = "…"
 meVE.Stichera04.text = ""
 
-meVE.Stichera05.mode = misc_en_US_goadedes.Mode4
+meVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera05.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
 meVE.Stichera05.incipit = "…"
 meVE.Stichera05.text = ""
 
-meVE.Stichera06.mode = misc_en_US_goadedes.Mode4
+meVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera06.melody = he.a.m4_en_US_goadedes.OsGennaionEnMartysi.name
 meVE.Stichera06.incipit = "…"
 meVE.Stichera06.text = ""
 
-meVE.SticGlory.poet = poets_en_US_goadedes.Anatoliou
-meVE.SticGlory.mode = misc_en_US_goadedes.Mode8
+meVE.SticGlory.poet = poets_en_US_goadedes.po.Anatoliou
+meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = ""
 
-meVE.SticTheotokion.mode = misc_en_US_goadedes.Mode8
+meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.SticTheotokion.melody = he.a.m8_en_US_goadedes.OiMartyresSouKyrie.name
 meVE.SticTheotokion.incipit = me.m01.d21_en_US_goadedes.meVE.AposTheotokion.incipit
 meVE.SticTheotokion.text = me.m01.d21_en_US_goadedes.meVE.AposTheotokion.text
 
-meVE.SticStavrotheotokion.mode = misc_en_US_goadedes.Mode8
+meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_en_US_goadedes.OiMartyresSouKyrie.name
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = ""
 
-meVE.AposGlory.poet = poets_en_US_goadedes.Anatoliou
-meVE.AposGlory.mode = misc_en_US_goadedes.Mode1
+meVE.AposGlory.poet = poets_en_US_goadedes.po.Anatoliou
+meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "…"
 meVE.AposGlory.text = ""
 
-meVE.AposTheotokion.mode = misc_en_US_goadedes.Mode1
+meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.AposTheotokion.melody = he.a.m1_en_US_goadedes.TonOuranionTagmaton.name
 meVE.AposTheotokion.incipit = "…"
 meVE.AposTheotokion.text = ""
 
-meVE.AposStavrotheotokion.mode = misc_en_US_goadedes.Mode1
+meVE.AposStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.AposStavrotheotokion.melody = he.a.m1_en_US_goadedes.TonOuranionTagmaton.name
 meVE.AposStavrotheotokion.incipit = "…"
 meVE.AposStavrotheotokion.text = ""
 
-meVE.Apolytikion1.mode = misc_en_US_goadedes.Mode4
+meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
@@ -89,7 +89,7 @@ meVE.Apolytikion1.text = ""
 meMA.C1.acrostic.title = "Canon for St. Clement."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.poet = poets_en_US_goadedes.Theofanous
+meMA.C1.poet = poets_en_US_goadedes.po.Theofanous
 meMA.C1.title = "Canon for St. Clement."
 meMA.C1.verse = prayers_en_US_goadedes.pr.verse_SaintM.text
 
@@ -99,423 +99,423 @@ meMA.C2.acrostic.text = ""
 meMA.C2.title = "Canon for St. Agathangelos."
 meMA.C2.verse = prayers_en_US_goadedes.pr.verse_SaintM.text
 
-meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
-meMA.Ode1C11.mode = misc_en_US_goadedes.Mode6
+meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
+meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode1C11.melody = he.h.m6_en_US_goadedes.OsEnIpeiroPezefsas.notmetered
 meMA.Ode1C11.incipit = "O Clement, as you stand…"
 meMA.Ode1C11.text = "O Clement, as you stand near Christ with the chorus on high, as a priest and as a glorious Martyr, fervently entreat Him that we who praise you may attain to your illumination."
 
-meMA.Ode1C12.ode = misc_en_US_goadedes.Ode1
-meMA.Ode1C12.mode = misc_en_US_goadedes.Mode6
+meMA.Ode1C12.ode = miscellanea_en_US_goadedes.misc.Ode1
+meMA.Ode1C12.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode1C12.melody = he.h.m6_en_US_goadedes.OsEnIpeiroPezefsas.notmetered
 meMA.Ode1C12.incipit = "…"
 meMA.Ode1C12.text = "O devout Saint, when you concluded protracted struggles on earth, you were counted worthy to receive the crown of the kingdom of heaven and perpetual and eternal life."
 
-meMA.Ode1C13.ode = misc_en_US_goadedes.Ode1
-meMA.Ode1C13.mode = misc_en_US_goadedes.Mode6
+meMA.Ode1C13.ode = miscellanea_en_US_goadedes.misc.Ode1
+meMA.Ode1C13.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode1C13.melody = he.h.m6_en_US_goadedes.OsEnIpeiroPezefsas.notmetered
 meMA.Ode1C13.incipit = "…"
 meMA.Ode1C13.text = "O God-bearing Saint and companion of the Lord's Angels, you were redeemed by the Passion of the dispassionate Savior, and you hastened to ascend to Him by your suffering, by emulating His suffering."
 
-meMA.Ode1C1T.ode = misc_en_US_goadedes.Ode1
-meMA.Ode1C1T.mode = misc_en_US_goadedes.Mode6
+meMA.Ode1C1T.ode = miscellanea_en_US_goadedes.misc.Ode1
+meMA.Ode1C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode1C1T.melody = he.h.m6_en_US_goadedes.OsEnIpeiroPezefsas.notmetered
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = "O immaculate Mother of God, adorned and embroidered with beauty of virtue, you conceived the true God in a manner past understanding, and you made the fountain of blessings spring up for us."
 
-meMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
-meMA.Ode1C21.mode = misc_en_US_goadedes.Mode4
+meMA.Ode1C21.ode = miscellanea_en_US_goadedes.misc.Ode1
+meMA.Ode1C21.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode1C21.melody = he.h.m4_en_US_goadedes.OPataxasAigypton.name
 meMA.Ode1C21.incipit = "…"
 meMA.Ode1C21.text = ""
 
-meMA.Ode1C22.ode = misc_en_US_goadedes.Ode1
-meMA.Ode1C22.mode = misc_en_US_goadedes.Mode4
+meMA.Ode1C22.ode = miscellanea_en_US_goadedes.misc.Ode1
+meMA.Ode1C22.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode1C22.melody = he.h.m4_en_US_goadedes.OPataxasAigypton.name
 meMA.Ode1C22.incipit = "…"
 meMA.Ode1C22.text = ""
 
-meMA.Ode1C23.ode = misc_en_US_goadedes.Ode1
-meMA.Ode1C23.mode = misc_en_US_goadedes.Mode4
+meMA.Ode1C23.ode = miscellanea_en_US_goadedes.misc.Ode1
+meMA.Ode1C23.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode1C23.melody = he.h.m4_en_US_goadedes.OPataxasAigypton.name
 meMA.Ode1C23.incipit = "…"
 meMA.Ode1C23.text = ""
 
-meMA.Ode1C2T.ode = misc_en_US_goadedes.Ode1
-meMA.Ode1C2T.mode = misc_en_US_goadedes.Mode4
+meMA.Ode1C2T.ode = miscellanea_en_US_goadedes.misc.Ode1
+meMA.Ode1C2T.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode1C2T.melody = he.h.m4_en_US_goadedes.OPataxasAigypton.name
 meMA.Ode1C2T.incipit = "…"
 meMA.Ode1C2T.text = ""
 
-meMA.Ode3C11.ode = misc_en_US_goadedes.Ode3
-meMA.Ode3C11.mode = misc_en_US_goadedes.Mode6
+meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
+meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode3C11.melody = he.h.m6_en_US_goadedes.OukEstinAgios.notmetered
 meMA.Ode3C11.incipit = "You were a branch…"
 meMA.Ode3C11.text = "You were a branch of the life-giving vine, and you brought forth ripe fruits. You garnished them with your splendid martyrdom, and you dedicated them to the Savior of all."
 
-meMA.Ode3C12.ode = misc_en_US_goadedes.Ode3
-meMA.Ode3C12.mode = misc_en_US_goadedes.Mode6
+meMA.Ode3C12.ode = miscellanea_en_US_goadedes.misc.Ode3
+meMA.Ode3C12.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode3C12.melody = he.h.m6_en_US_goadedes.OukEstinAgios.notmetered
 meMA.Ode3C12.incipit = "…"
 meMA.Ode3C12.text = "O all-blessed Saint, you were an imitator of Paul. You traveled throughout the world and sanctified it with deifying baptism and sprinkling of blood of your confession."
 
-meMA.Ode3C1T.ode = misc_en_US_goadedes.Ode3
-meMA.Ode3C1T.mode = misc_en_US_goadedes.Mode6
+meMA.Ode3C1T.ode = miscellanea_en_US_goadedes.misc.Ode3
+meMA.Ode3C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode3C1T.melody = he.h.m6_en_US_goadedes.OukEstinAgios.notmetered
 meMA.Ode3C1T.incipit = "…"
 meMA.Ode3C1T.text = "No one is free of blame like you, O all-pure Theotokos. You alone of all women in your womb ever conceived and gave birth to the true God, God the Logos, the Creator of all."
 
-meMA.Ode3C21.ode = misc_en_US_goadedes.Ode3
-meMA.Ode3C21.mode = misc_en_US_goadedes.Mode4
+meMA.Ode3C21.ode = miscellanea_en_US_goadedes.misc.Ode3
+meMA.Ode3C21.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3C21.melody = he.h.m4_en_US_goadedes.EstereothiIKardiaMouEnKyrio.name
 meMA.Ode3C21.incipit = "…"
 meMA.Ode3C21.text = ""
 
-meMA.Ode3C22.ode = misc_en_US_goadedes.Ode3
-meMA.Ode3C22.mode = misc_en_US_goadedes.Mode4
+meMA.Ode3C22.ode = miscellanea_en_US_goadedes.misc.Ode3
+meMA.Ode3C22.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3C22.melody = he.h.m4_en_US_goadedes.EstereothiIKardiaMouEnKyrio.name
 meMA.Ode3C22.incipit = "…"
 meMA.Ode3C22.text = ""
 
-meMA.Ode3C23.ode = misc_en_US_goadedes.Ode3
-meMA.Ode3C23.mode = misc_en_US_goadedes.Mode4
+meMA.Ode3C23.ode = miscellanea_en_US_goadedes.misc.Ode3
+meMA.Ode3C23.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3C23.melody = he.h.m4_en_US_goadedes.EstereothiIKardiaMouEnKyrio.name
 meMA.Ode3C23.incipit = "…"
 meMA.Ode3C23.text = ""
 
-meMA.Ode3C2T.ode = misc_en_US_goadedes.Ode3
-meMA.Ode3C2T.mode = misc_en_US_goadedes.Mode4
+meMA.Ode3C2T.ode = miscellanea_en_US_goadedes.misc.Ode3
+meMA.Ode3C2T.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3C2T.melody = he.h.m4_en_US_goadedes.EstereothiIKardiaMouEnKyrio.name
 meMA.Ode3C2T.incipit = "…"
 meMA.Ode3C2T.text = ""
 
-meMA.Ode3H.ode = misc_en_US_goadedes.Ode3
-meMA.Ode3H.mode = misc_en_US_goadedes.Mode4
+meMA.Ode3H.ode = miscellanea_en_US_goadedes.misc.Ode3
+meMA.Ode3H.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3H.melody = he.h.m4_en_US_goadedes.EstereothiIKardiaMouEnKyrio.melody
 meMA.Ode3H.incipit = he.h.m4_en_US_goadedes.EstereothiIKardiaMouEnKyrio.incipit
 meMA.Ode3H.text = he.h.m4_en_US_goadedes.EstereothiIKardiaMouEnKyrio.text
 
-meMA.Ode3Kathisma1.mode = misc_en_US_goadedes.Mode4
+meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_goadedes.OYpsotheisEnToStavro.name
 meMA.Ode3Kathisma1.incipit = "You were indeed a fruitful grapevine…"
 meMA.Ode3Kathisma1.text = "You were indeed a fruitful grapevine, O Clement, * and you were cut down by the sickle of martyrdom, * O wise and holy Hierarch, and still you blossom forth * clusters full of ripened grapes, from which drips very sweet wine, * namely true knowledge of God and exemplary contest. * O father, all who piously partake * of this are sweetened in the senses of their souls."
 
-meMA.Ode3Kathisma2.mode = misc_en_US_goadedes.Mode4
+meMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3Kathisma2.melody = he.a.m4_en_US_goadedes.EpefanisSimeron.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
 
-meMA.Ode3KathismaT.mode = misc_en_US_goadedes.Mode4
+meMA.Ode3KathismaT.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_goadedes.EpefanisSimeron.name
 meMA.Ode3KathismaT.incipit = "…"
 meMA.Ode3KathismaT.text = ""
 
-meMA.Ode3KathismaSt.mode = misc_en_US_goadedes.Mode4
+meMA.Ode3KathismaSt.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3KathismaSt.melody = he.a.m4_en_US_goadedes.EpefanisSimeron.name
 meMA.Ode3KathismaSt.incipit = "…"
 meMA.Ode3KathismaSt.text = ""
 
-meMA.Ode4C11.ode = misc_en_US_goadedes.Ode4
-meMA.Ode4C11.mode = misc_en_US_goadedes.Mode6
+meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
+meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode4C11.melody = he.h.m6_en_US_goadedes.ChristosMouDynamis.notmetered
 meMA.Ode4C11.incipit = "O all-blessed medaled Martyr…"
 meMA.Ode4C11.text = "O all-blessed medaled Martyr, you circled the entire earth, and you held out the branch of contest, which dripped with gladness and sweet fragrance."
 
-meMA.Ode4C12.ode = misc_en_US_goadedes.Ode4
-meMA.Ode4C12.mode = misc_en_US_goadedes.Mode6
+meMA.Ode4C12.ode = miscellanea_en_US_goadedes.misc.Ode4
+meMA.Ode4C12.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode4C12.melody = he.h.m6_en_US_goadedes.ChristosMouDynamis.notmetered
 meMA.Ode4C12.incipit = "…"
 meMA.Ode4C12.text = "O blessed Clement, we consider your contest, and it is like a meadow, O glorious Martyr, from which we pluck cures like flowers, and our senses are cheered by your various miracles."
 
-meMA.Ode4C13.ode = misc_en_US_goadedes.Ode4
-meMA.Ode4C13.mode = misc_en_US_goadedes.Mode6
+meMA.Ode4C13.ode = miscellanea_en_US_goadedes.misc.Ode4
+meMA.Ode4C13.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode4C13.melody = he.h.m6_en_US_goadedes.ChristosMouDynamis.notmetered
 meMA.Ode4C13.incipit = "…"
 meMA.Ode4C13.text = "O marvelous Clement, you became a son of the day and of the never-setting light, and you continually shine with tri-solar light and the splendor of your preaching."
 
-meMA.Ode4C1T.ode = misc_en_US_goadedes.Ode4
-meMA.Ode4C1T.mode = misc_en_US_goadedes.Mode6
+meMA.Ode4C1T.ode = miscellanea_en_US_goadedes.misc.Ode4
+meMA.Ode4C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode4C1T.melody = he.h.m6_en_US_goadedes.ChristosMouDynamis.notmetered
 meMA.Ode4C1T.incipit = "…"
 meMA.Ode4C1T.text = "Ever-virgin Mary, who were the most pure vessel able to contain God in your body. Please expunge all defilement and every stain from my soul."
 
-meMA.Ode4C21.ode = misc_en_US_goadedes.Ode4
-meMA.Ode4C21.mode = misc_en_US_goadedes.Mode4
+meMA.Ode4C21.ode = miscellanea_en_US_goadedes.misc.Ode4
+meMA.Ode4C21.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode4C21.melody = he.h.m4_en_US_goadedes.EisakikoaOTheos.name
 meMA.Ode4C21.incipit = "…"
 meMA.Ode4C21.text = ""
 
-meMA.Ode4C22.ode = misc_en_US_goadedes.Ode4
-meMA.Ode4C22.mode = misc_en_US_goadedes.Mode4
+meMA.Ode4C22.ode = miscellanea_en_US_goadedes.misc.Ode4
+meMA.Ode4C22.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode4C22.melody = he.h.m4_en_US_goadedes.EisakikoaOTheos.name
 meMA.Ode4C22.incipit = "…"
 meMA.Ode4C22.text = ""
 
-meMA.Ode4C23.ode = misc_en_US_goadedes.Ode4
-meMA.Ode4C23.mode = misc_en_US_goadedes.Mode4
+meMA.Ode4C23.ode = miscellanea_en_US_goadedes.misc.Ode4
+meMA.Ode4C23.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode4C23.melody = he.h.m4_en_US_goadedes.EisakikoaOTheos.name
 meMA.Ode4C23.incipit = "…"
 meMA.Ode4C23.text = ""
 
-meMA.Ode4C2T.ode = misc_en_US_goadedes.Ode4
-meMA.Ode4C2T.mode = misc_en_US_goadedes.Mode4
+meMA.Ode4C2T.ode = miscellanea_en_US_goadedes.misc.Ode4
+meMA.Ode4C2T.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode4C2T.melody = he.h.m4_en_US_goadedes.EisakikoaOTheos.name
 meMA.Ode4C2T.incipit = "…"
 meMA.Ode4C2T.text = ""
 
-meMA.Ode5C11.ode = misc_en_US_goadedes.Ode5
-meMA.Ode5C11.mode = misc_en_US_goadedes.Mode6
+meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
+meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode5C11.melody = he.h.m6_en_US_goadedes.ToTheioFengeiSou.notmetered
 meMA.Ode5C11.incipit = "O all-wise Clement…"
 meMA.Ode5C11.text = "O all-wise Clement, you repeatedly endured protracted torture, and you won many medals of martyrdom. Now you enjoy eternal delight of immortal blessedness."
 
-meMA.Ode5C12.ode = misc_en_US_goadedes.Ode5
-meMA.Ode5C12.mode = misc_en_US_goadedes.Mode6
+meMA.Ode5C12.ode = miscellanea_en_US_goadedes.misc.Ode5
+meMA.Ode5C12.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode5C12.melody = he.h.m6_en_US_goadedes.ToTheioFengeiSou.notmetered
 meMA.Ode5C12.incipit = "…"
 meMA.Ode5C12.text = "O all-blessed father, you made faith your secure anchor, you set hope and love as your foundation, and you dedicated yourself as a hallowed temple to the Holy Trinity."
 
-meMA.Ode5C13.ode = misc_en_US_goadedes.Ode5
-meMA.Ode5C13.mode = misc_en_US_goadedes.Mode6
+meMA.Ode5C13.ode = miscellanea_en_US_goadedes.misc.Ode5
+meMA.Ode5C13.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode5C13.melody = he.h.m6_en_US_goadedes.ToTheioFengeiSou.notmetered
 meMA.Ode5C13.incipit = "…"
 meMA.Ode5C13.text = "That famous saintly duo finished the contest of martyrdom and they were decorated by God. They have received eternal life, and they join chorus and celebrate with the Angels."
 
-meMA.Ode5C1T.ode = misc_en_US_goadedes.Ode5
-meMA.Ode5C1T.mode = misc_en_US_goadedes.Mode6
+meMA.Ode5C1T.ode = miscellanea_en_US_goadedes.misc.Ode5
+meMA.Ode5C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode5C1T.melody = he.h.m6_en_US_goadedes.ToTheioFengeiSou.notmetered
 meMA.Ode5C1T.incipit = "…"
 meMA.Ode5C1T.text = "The Creator and Lord wished to save ruined human nature from destruction. So He ineffably refashioned it and dwelt in a womb that was first purified by the Holy Spirit."
 
-meMA.Ode5C21.ode = misc_en_US_goadedes.Ode5
-meMA.Ode5C21.mode = misc_en_US_goadedes.Mode4
+meMA.Ode5C21.ode = miscellanea_en_US_goadedes.misc.Ode5
+meMA.Ode5C21.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode5C21.melody = he.h.m4_en_US_goadedes.OrthronFaeinon.name
 meMA.Ode5C21.incipit = "…"
 meMA.Ode5C21.text = ""
 
-meMA.Ode5C22.ode = misc_en_US_goadedes.Ode5
-meMA.Ode5C22.mode = misc_en_US_goadedes.Mode4
+meMA.Ode5C22.ode = miscellanea_en_US_goadedes.misc.Ode5
+meMA.Ode5C22.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode5C22.melody = he.h.m4_en_US_goadedes.OrthronFaeinon.name
 meMA.Ode5C22.incipit = "…"
 meMA.Ode5C22.text = ""
 
-meMA.Ode5C23.ode = misc_en_US_goadedes.Ode5
-meMA.Ode5C23.mode = misc_en_US_goadedes.Mode4
+meMA.Ode5C23.ode = miscellanea_en_US_goadedes.misc.Ode5
+meMA.Ode5C23.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode5C23.melody = he.h.m4_en_US_goadedes.OrthronFaeinon.name
 meMA.Ode5C23.incipit = "…"
 meMA.Ode5C23.text = ""
 
-meMA.Ode5C2T.ode = misc_en_US_goadedes.Ode5
-meMA.Ode5C2T.mode = misc_en_US_goadedes.Mode4
+meMA.Ode5C2T.ode = miscellanea_en_US_goadedes.misc.Ode5
+meMA.Ode5C2T.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode5C2T.melody = he.h.m4_en_US_goadedes.OrthronFaeinon.name
 meMA.Ode5C2T.incipit = "…"
 meMA.Ode5C2T.text = ""
 
-meMA.Ode6C11.ode = misc_en_US_goadedes.Ode6
-meMA.Ode6C11.mode = misc_en_US_goadedes.Mode6
+meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
+meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode6C11.melody = he.h.m6_en_US_goadedes.TouViouTinThalassan.notmetered
 meMA.Ode6C11.incipit = "O Saints, as athletes…"
 meMA.Ode6C11.text = "O Saints, as athletes you competed according to the rules, and you were crowned by the hand of the Giver of life. You received various gifts of grace and the ability to heal and cure the diseases of the faithful."
 
-meMA.Ode6C12.ode = misc_en_US_goadedes.Ode6
-meMA.Ode6C12.mode = misc_en_US_goadedes.Mode6
+meMA.Ode6C12.ode = miscellanea_en_US_goadedes.misc.Ode6
+meMA.Ode6C12.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode6C12.melody = he.h.m6_en_US_goadedes.TouViouTinThalassan.notmetered
 meMA.Ode6C12.incipit = "…"
 meMA.Ode6C12.text = "O Martyr, your godly life, the stress of struggles, and your endurance under torture earned you a mystical award, a beautiful crown, and the vesture of immortality."
 
-meMA.Ode6C1T.ode = misc_en_US_goadedes.Ode6
-meMA.Ode6C1T.mode = misc_en_US_goadedes.Mode6
+meMA.Ode6C1T.ode = miscellanea_en_US_goadedes.misc.Ode6
+meMA.Ode6C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode6C1T.melody = he.h.m6_en_US_goadedes.TouViouTinThalassan.notmetered
 meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = "I pray you, O all-pure Lady, who gave birth to the Lord and Pilot of humanity: Calm the severe and heavy turbulence caused by my passions, and grant tranquillity to my heart."
 
-meMA.Ode6C21.ode = misc_en_US_goadedes.Ode6
-meMA.Ode6C21.mode = misc_en_US_goadedes.Mode4
+meMA.Ode6C21.ode = miscellanea_en_US_goadedes.misc.Ode6
+meMA.Ode6C21.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode6C21.melody = he.h.m4_en_US_goadedes.EnPelageiTouViou.name
 meMA.Ode6C21.incipit = "…"
 meMA.Ode6C21.text = ""
 
-meMA.Ode6C22.ode = misc_en_US_goadedes.Ode6
-meMA.Ode6C22.mode = misc_en_US_goadedes.Mode4
+meMA.Ode6C22.ode = miscellanea_en_US_goadedes.misc.Ode6
+meMA.Ode6C22.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode6C22.melody = he.h.m4_en_US_goadedes.EnPelageiTouViou.name
 meMA.Ode6C22.incipit = "…"
 meMA.Ode6C22.text = ""
 
-meMA.Ode6C23.ode = misc_en_US_goadedes.Ode6
-meMA.Ode6C23.mode = misc_en_US_goadedes.Mode4
+meMA.Ode6C23.ode = miscellanea_en_US_goadedes.misc.Ode6
+meMA.Ode6C23.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode6C23.melody = he.h.m4_en_US_goadedes.EnPelageiTouViou.name
 meMA.Ode6C23.incipit = "…"
 meMA.Ode6C23.text = ""
 
-meMA.Ode6C2T.ode = misc_en_US_goadedes.Ode6
-meMA.Ode6C2T.mode = misc_en_US_goadedes.Mode4
+meMA.Ode6C2T.ode = miscellanea_en_US_goadedes.misc.Ode6
+meMA.Ode6C2T.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode6C2T.melody = he.h.m4_en_US_goadedes.EnPelageiTouViou.name
 meMA.Ode6C2T.incipit = "…"
 meMA.Ode6C2T.text = ""
 
-meMA.Ode6H.ode = misc_en_US_goadedes.Ode6
-meMA.Ode6H.mode = misc_en_US_goadedes.Mode4
+meMA.Ode6H.ode = miscellanea_en_US_goadedes.misc.Ode6
+meMA.Ode6H.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode6H.melody = he.h.m4_en_US_goadedes.EnPelageiTouViou.melody
 meMA.Ode6H.incipit = he.h.m4_en_US_goadedes.EnPelageiTouViou.incipit
 meMA.Ode6H.text = he.h.m4_en_US_goadedes.EnPelageiTouViou.text
 
-meMA.Kontakion1.mode = misc_en_US_goadedes.Mode4
+meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Kontakion1.melody = he.a.m4_en_US_goadedes.EpefanisSimeron.name
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Ode7C11.ode = misc_en_US_goadedes.Ode7
-meMA.Ode7C11.mode = misc_en_US_goadedes.Mode6
+meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
+meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode7C11.melody = he.h.m6_en_US_goadedes.OiPaidesEnVavyloni.notmetered
 meMA.Ode7C11.incipit = "O Saint, you brightened…"
 meMA.Ode7C11.text = "O Saint, you brightened the whole world with the splendor of your martyrdom, and you sang to Christ with a pure mind and soul: \"Blessed are You, O Lord, the God of our fathers.\""
 
-meMA.Ode7C12.ode = misc_en_US_goadedes.Ode7
-meMA.Ode7C12.mode = misc_en_US_goadedes.Mode6
+meMA.Ode7C12.ode = miscellanea_en_US_goadedes.misc.Ode7
+meMA.Ode7C12.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode7C12.melody = he.h.m6_en_US_goadedes.OiPaidesEnVavyloni.notmetered
 meMA.Ode7C12.incipit = "…"
 meMA.Ode7C12.text = "O Martyr, the sacred celebration of your accomplishments glows with heavenly light, and it shines on us who sing: \"Blessed are You, O Lord, the God of our fathers.\""
 
-meMA.Ode7C1T.ode = misc_en_US_goadedes.Ode7
-meMA.Ode7C1T.mode = misc_en_US_goadedes.Mode6
+meMA.Ode7C1T.ode = miscellanea_en_US_goadedes.misc.Ode7
+meMA.Ode7C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode7C1T.melody = he.h.m6_en_US_goadedes.OiPaidesEnVavyloni.notmetered
 meMA.Ode7C1T.incipit = "…"
 meMA.Ode7C1T.text = "O Virgin, you became the Mother of the Wisdom that transcends wisdom, who wisely governs the universe with His natural goodness. Blessed is the fruit of your womb, O all-pure Lady."
 
-meMA.Ode7C21.ode = misc_en_US_goadedes.Ode7
-meMA.Ode7C21.mode = misc_en_US_goadedes.Mode4
+meMA.Ode7C21.ode = miscellanea_en_US_goadedes.misc.Ode7
+meMA.Ode7C21.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode7C21.melody = he.h.m4_en_US_goadedes.MiParadoisImas.name
 meMA.Ode7C21.incipit = "…"
 meMA.Ode7C21.text = ""
 
-meMA.Ode7C22.ode = misc_en_US_goadedes.Ode7
-meMA.Ode7C22.mode = misc_en_US_goadedes.Mode4
+meMA.Ode7C22.ode = miscellanea_en_US_goadedes.misc.Ode7
+meMA.Ode7C22.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode7C22.melody = he.h.m4_en_US_goadedes.MiParadoisImas.name
 meMA.Ode7C22.incipit = "…"
 meMA.Ode7C22.text = ""
 
-meMA.Ode7C23.ode = misc_en_US_goadedes.Ode7
-meMA.Ode7C23.mode = misc_en_US_goadedes.Mode4
+meMA.Ode7C23.ode = miscellanea_en_US_goadedes.misc.Ode7
+meMA.Ode7C23.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode7C23.melody = he.h.m4_en_US_goadedes.MiParadoisImas.name
 meMA.Ode7C23.incipit = "…"
 meMA.Ode7C23.text = ""
 
-meMA.Ode7C2T.ode = misc_en_US_goadedes.Ode7
-meMA.Ode7C2T.mode = misc_en_US_goadedes.Mode4
+meMA.Ode7C2T.ode = miscellanea_en_US_goadedes.misc.Ode7
+meMA.Ode7C2T.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode7C2T.melody = he.h.m4_en_US_goadedes.MiParadoisImas.name
 meMA.Ode7C2T.incipit = "…"
 meMA.Ode7C2T.text = ""
 
-meMA.Ode8C11.ode = misc_en_US_goadedes.Ode8
-meMA.Ode8C11.mode = misc_en_US_goadedes.Mode6
+meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
+meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode8C11.melody = he.h.m6_en_US_goadedes.NomonPatroon.notmetered
 meMA.Ode8C11.incipit = "O all-blessed Saints…"
 meMA.Ode8C11.text = "O all-blessed Saints, you appeared on earth as brilliant luminaries, and you made the firmament of the holy Church shine. In heaven, you bring joy to the festival of the first-born saints, with the splendor of your contest, as you cry out: \"Sing a hymn to the Lord, all you works, and exalt Him beyond measure unto all the ages.\""
 
-meMA.Ode8C12.ode = misc_en_US_goadedes.Ode8
-meMA.Ode8C12.mode = misc_en_US_goadedes.Mode6
+meMA.Ode8C12.ode = miscellanea_en_US_goadedes.misc.Ode8
+meMA.Ode8C12.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode8C12.melody = he.h.m6_en_US_goadedes.NomonPatroon.notmetered
 meMA.Ode8C12.incipit = "…"
 meMA.Ode8C12.text = "O Saint, we joyously now celebrate the festive memory of your contests. You endured the storm of torture as though you had no flesh. For this you rightly received everlasting delight, a rich reward, and you cry out: \"Sing a hymn to the Lord, all you works, and exalt Him beyond measure unto all the ages.\""
 
-meMA.Ode8C13.ode = misc_en_US_goadedes.Ode8
-meMA.Ode8C13.mode = misc_en_US_goadedes.Mode6
+meMA.Ode8C13.ode = miscellanea_en_US_goadedes.misc.Ode8
+meMA.Ode8C13.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode8C13.melody = he.h.m6_en_US_goadedes.NomonPatroon.notmetered
 meMA.Ode8C13.incipit = "…"
 meMA.Ode8C13.text = "O all-blessed Clement, you were vested in splendid robes of glory instead of the spirit of deep depression; you took hold of life eternal and exchanged torments for the company of Angels. And now you cry out: \"Sing a hymn to the Lord, all you works, and exalt Him beyond measure unto all the ages.\""
 
-meMA.Ode8C1T.ode = misc_en_US_goadedes.Ode8
-meMA.Ode8C1T.mode = misc_en_US_goadedes.Mode6
+meMA.Ode8C1T.ode = miscellanea_en_US_goadedes.misc.Ode8
+meMA.Ode8C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode8C1T.melody = he.h.m6_en_US_goadedes.NomonPatroon.notmetered
 meMA.Ode8C1T.incipit = "…"
 meMA.Ode8C1T.text = "The Logos, who from eternity exists and is perceived together with the Father, was incarnate of a Virgin toward the end of the ages, and He deified all of human nature, uniting it to himself in His hypostasis without mingling. Now people cry out: \"Sing a hymn to the Lord, all you works, and exalt Him beyond measure unto all the ages.\""
 
-meMA.Ode8C21.ode = misc_en_US_goadedes.Ode8
-meMA.Ode8C21.mode = misc_en_US_goadedes.Mode4
+meMA.Ode8C21.ode = miscellanea_en_US_goadedes.misc.Ode8
+meMA.Ode8C21.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode8C21.melody = he.h.m4_en_US_goadedes.TaSympantaDespota.name
 meMA.Ode8C21.incipit = "…"
 meMA.Ode8C21.text = ""
 
-meMA.Ode8C22.ode = misc_en_US_goadedes.Ode8
-meMA.Ode8C22.mode = misc_en_US_goadedes.Mode4
+meMA.Ode8C22.ode = miscellanea_en_US_goadedes.misc.Ode8
+meMA.Ode8C22.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode8C22.melody = he.h.m4_en_US_goadedes.TaSympantaDespota.name
 meMA.Ode8C22.incipit = "…"
 meMA.Ode8C22.text = ""
 
-meMA.Ode8C23.ode = misc_en_US_goadedes.Ode8
-meMA.Ode8C23.mode = misc_en_US_goadedes.Mode4
+meMA.Ode8C23.ode = miscellanea_en_US_goadedes.misc.Ode8
+meMA.Ode8C23.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode8C23.melody = he.h.m4_en_US_goadedes.TaSympantaDespota.name
 meMA.Ode8C23.incipit = "…"
 meMA.Ode8C23.text = ""
 
-meMA.Ode8C2T.ode = misc_en_US_goadedes.Ode8
-meMA.Ode8C2T.mode = misc_en_US_goadedes.Mode4
+meMA.Ode8C2T.ode = miscellanea_en_US_goadedes.misc.Ode8
+meMA.Ode8C2T.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode8C2T.melody = he.h.m4_en_US_goadedes.TaSympantaDespota.name
 meMA.Ode8C2T.incipit = "…"
 meMA.Ode8C2T.text = ""
 
-meMA.Ode8H.ode = misc_en_US_goadedes.Ode8
-meMA.Ode8H.mode = misc_en_US_goadedes.Mode4
+meMA.Ode8H.ode = miscellanea_en_US_goadedes.misc.Ode8
+meMA.Ode8H.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode8H.melody = he.h.m4_en_US_goadedes.TaSympantaDespota.melody
 meMA.Ode8H.incipit = he.h.m4_en_US_goadedes.TaSympantaDespota.incipit
 meMA.Ode8H.text = he.h.m4_en_US_goadedes.TaSympantaDespota.text
 
-meMA.Ode9C11.ode = misc_en_US_goadedes.Ode9
-meMA.Ode9C11.mode = misc_en_US_goadedes.Mode6
+meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
+meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode9C11.melody = he.h.m6_en_US_goadedes.TheonAnthropois.notmetered
 meMA.Ode9C11.incipit = "O divinely blessed Saint…"
 meMA.Ode9C11.text = "O divinely blessed Saint, you were perfected in the bath of luminous baptism and the grace of sacerdotal orders; later you were bathed in the blood of martyrdom. Thus completely illumined, you ascended with joy to join the heavenly hosts."
 
-meMA.Ode9C12.ode = misc_en_US_goadedes.Ode9
-meMA.Ode9C12.mode = misc_en_US_goadedes.Mode6
+meMA.Ode9C12.ode = miscellanea_en_US_goadedes.misc.Ode9
+meMA.Ode9C12.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode9C12.melody = he.h.m6_en_US_goadedes.TheonAnthropois.notmetered
 meMA.Ode9C12.incipit = "…"
 meMA.Ode9C12.text = "The Logos of God, the never-setting Sun of Righteousness, is the crown of the holy Martyrs. You, O God-inspired Saint, endured your long struggles for His sake joyfully, and He decorated your holy head with the crown of graces."
 
-meMA.Ode9C1T.ode = misc_en_US_goadedes.Ode9
-meMA.Ode9C1T.mode = misc_en_US_goadedes.Mode6
+meMA.Ode9C1T.ode = miscellanea_en_US_goadedes.misc.Ode9
+meMA.Ode9C1T.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Ode9C1T.melody = he.h.m6_en_US_goadedes.TheonAnthropois.notmetered
 meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = "The unoriginate Son and Logos of God became incarnate, and He became the Son of the Virgin, by the good pleasure of the Father and the cooperation of the Holy Spirit. And being almighty, He refashioned my distorted image."
 
-meMA.Ode9C21.ode = misc_en_US_goadedes.Ode9
-meMA.Ode9C21.mode = misc_en_US_goadedes.Mode4
+meMA.Ode9C21.ode = miscellanea_en_US_goadedes.misc.Ode9
+meMA.Ode9C21.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode9C21.melody = he.h.m4_en_US_goadedes.EpoiiseKratos.name
 meMA.Ode9C21.incipit = "…"
 meMA.Ode9C21.text = ""
 
-meMA.Ode9C22.ode = misc_en_US_goadedes.Ode9
-meMA.Ode9C22.mode = misc_en_US_goadedes.Mode4
+meMA.Ode9C22.ode = miscellanea_en_US_goadedes.misc.Ode9
+meMA.Ode9C22.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode9C22.melody = he.h.m4_en_US_goadedes.EpoiiseKratos.name
 meMA.Ode9C22.incipit = "…"
 meMA.Ode9C22.text = ""
 
-meMA.Ode9C23.ode = misc_en_US_goadedes.Ode9
-meMA.Ode9C23.mode = misc_en_US_goadedes.Mode4
+meMA.Ode9C23.ode = miscellanea_en_US_goadedes.misc.Ode9
+meMA.Ode9C23.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode9C23.melody = he.h.m4_en_US_goadedes.EpoiiseKratos.name
 meMA.Ode9C23.incipit = "…"
 meMA.Ode9C23.text = ""
 
-meMA.Ode9C2T.ode = misc_en_US_goadedes.Ode9
-meMA.Ode9C2T.mode = misc_en_US_goadedes.Mode4
+meMA.Ode9C2T.ode = miscellanea_en_US_goadedes.misc.Ode9
+meMA.Ode9C2T.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode9C2T.melody = he.h.m4_en_US_goadedes.EpoiiseKratos.name
 meMA.Ode9C2T.incipit = "…"
 meMA.Ode9C2T.text = ""
 
-meMA.Ode9H.ode = misc_en_US_goadedes.Ode9
-meMA.Ode9H.mode = misc_en_US_goadedes.Mode4
+meMA.Ode9H.ode = miscellanea_en_US_goadedes.misc.Ode9
+meMA.Ode9H.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode9H.melody = he.h.m4_en_US_goadedes.EpoiiseKratos.melody
 meMA.Ode9H.incipit = he.h.m4_en_US_goadedes.EpoiiseKratos.incipit
 meMA.Ode9H.text = he.h.m4_en_US_goadedes.EpoiiseKratos.text
 
-meMA.Exaposteilarion1.mode = misc_en_US_goadedes.Mode2
+meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
-meMA.ExapTheotokion.mode = misc_en_US_goadedes.Mode2
+meMA.ExapTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_goadedes.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""

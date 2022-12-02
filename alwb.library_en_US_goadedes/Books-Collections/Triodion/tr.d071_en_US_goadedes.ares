@@ -15,72 +15,72 @@ trHO.note2 = ""
 trCO.header = ""
 trVL.header = "" //for pdf headers of presanctified and vesperal liturgies
 
-trVE.Stichera01.mode = misc_en_US_goadedes.Mode1
+trVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode1
 trVE.Stichera01.melody = ""
 trVE.Stichera01.incipit = oc.m1.d1_en_US_goadedes.ocVE.Stichera1.incipit
 trVE.Stichera01.text = oc.m1.d1_en_US_goadedes.ocVE.Stichera1.text
 
-trVE.Stichera02.mode = misc_en_US_goadedes.Mode1
+trVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode1
 trVE.Stichera02.melody = ""
 trVE.Stichera02.incipit = oc.m1.d1_en_US_goadedes.ocVE.Stichera2.incipit
 trVE.Stichera02.text = oc.m1.d1_en_US_goadedes.ocVE.Stichera2.text
 
-trVE.Stichera03.mode = misc_en_US_goadedes.Mode1
+trVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode1
 trVE.Stichera03.melody = ""
 trVE.Stichera03.incipit = oc.m1.d1_en_US_goadedes.ocVE.Stichera3.incipit
 trVE.Stichera03.text = oc.m1.d1_en_US_goadedes.ocVE.Stichera3.text
 
-trVE.Stichera04.mode = misc_en_US_goadedes.Mode1
+trVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode1
 trVE.Stichera04.melody = ""
 trVE.Stichera04.incipit = oc.m1.d1_en_US_goadedes.ocVE.Aposticha1.incipit
 trVE.Stichera04.text = oc.m1.d1_en_US_goadedes.ocVE.Aposticha1.text
 
-trVE.Stichera05.mode = misc_en_US_goadedes.Mode8
-trVE.Stichera05.melody = misc_en_US_goadedes.Idiomelon
+trVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode8
+trVE.Stichera05.melody = miscellanea_en_US_goadedes.misc.Idiomelon
 trVE.Stichera05.incipit = "…"
 trVE.Stichera05.text = ""
 
-trVE.Stichera06.mode = misc_en_US_goadedes.Mode8
-trVE.Stichera06.melody = misc_en_US_goadedes.Idiomelon
+trVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode8
+trVE.Stichera06.melody = miscellanea_en_US_goadedes.misc.Idiomelon
 trVE.Stichera06.incipit = "…"
 trVE.Stichera06.text = ""
 
-trVE.Stichera07.mode = misc_en_US_goadedes.Mode8
-trVE.Stichera07.melody = misc_en_US_goadedes.Idiomelon
+trVE.Stichera07.mode = miscellanea_en_US_goadedes.misc.Mode8
+trVE.Stichera07.melody = miscellanea_en_US_goadedes.misc.Idiomelon
 trVE.Stichera07.incipit = "…"
 trVE.Stichera07.text = ""
 
-trVE.SticGlory.mode = misc_en_US_goadedes.Mode6
-trVE.SticGlory.melody = misc_en_US_goadedes.Idiomelon
+trVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
+trVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
 trVE.SticGlory.incipit = tr.d070_en_US_goadedes.trMA.LaudsGlory.incipit
 trVE.SticGlory.text = tr.d070_en_US_goadedes.trMA.LaudsGlory.text
 
-trVE.SticTheotokion.mode = misc_en_US_goadedes.Mode1
+trVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode1
 trVE.SticTheotokion.melody = ""
 trVE.SticTheotokion.incipit = oc.m1.d1_en_US_goadedes.ocVE.SticTheotokion.incipit
 trVE.SticTheotokion.text = oc.m1.d1_en_US_goadedes.ocVE.SticTheotokion.text
 
 // Hymn of the Three Servants
 trHW.SaturdayHymn.title = ""
-trHW.SaturdayHymn.mode = misc_en_US_goadedes.Mode1
+trHW.SaturdayHymn.mode = miscellanea_en_US_goadedes.misc.Mode1
 trHW.SaturdayHymn.text = properties_en_US_goadedes.media.key
 
 trHW.SaturdayArise.text = properties_en_US_goadedes.media.key
 
 trHW.CherubicHymn.title = ""
-trHW.CherubicHymn.mode = misc_en_US_goadedes.Mode5
+trHW.CherubicHymn.mode = miscellanea_en_US_goadedes.misc.Mode5
 trHW.CherubicHymnPart1.incipit = "…"
 trHW.CherubicHymnPart1.text = ""
 trHW.CherubicHymnPart2.incipit = "…"
 trHW.CherubicHymnPart2.text = ""
 
-trHW.TheotokosHymn.mode = misc_en_US_goadedes.Mode8
+trHW.TheotokosHymn.mode = miscellanea_en_US_goadedes.misc.Mode8
 trHW.TheotokosHymn.incipit = oc.m8.d1_en_US_goadedes.ocMA.Kathisma23.incipit
 trHW.TheotokosHymn.text = oc.m8.d1_en_US_goadedes.ocMA.Kathisma23.text
 
 trHW.CommunionHymn.text = properties_en_US_goadedes.media.key
 
-trHW.AfterCommunion.mode = misc_en_US_goadedes.Mode3
+trHW.AfterCommunion.mode = miscellanea_en_US_goadedes.misc.Mode3
 trHW.AfterCommunion.incipit = "…"
 trHW.AfterCommunion.text = ""
 

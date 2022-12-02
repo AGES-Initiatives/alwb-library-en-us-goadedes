@@ -8,8 +8,8 @@ hoSA.title5 = ""
 
 hoSA.R01 = ""
 
-hoSA.LastHymn.mode = misc_en_US_goadedes.Mode3
-hoSA.LastHymn.melody = misc_en_US_goadedes.Automelon
+hoSA.LastHymn.mode = miscellanea_en_US_goadedes.misc.Mode3
+hoSA.LastHymn.melody = miscellanea_en_US_goadedes.misc.Automelon
 hoSA.LastHymn.incipit = he.a.m3_en_US_goadedes.TinOraiotita.incipit
 hoSA.LastHymn.text = he.a.m3_en_US_goadedes.TinOraiotita.text
 

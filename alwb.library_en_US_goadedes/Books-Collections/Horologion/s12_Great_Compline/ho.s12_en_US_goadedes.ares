@@ -18,14 +18,14 @@ hoCO.Key0202.title = ""
 
 hoCO.Key0203.title = ""
 
-hoCO.Key0300.mode = misc_en_US_goadedes.Mode6
+hoCO.Key0300.mode = miscellanea_en_US_goadedes.misc.Mode6
 hoCO.Key0301.text = properties_en_US_goadedes.media.key
 
 hoCO.Key0401.text = ""
 hoCO.Key0402.text = ""
 hoCO.Key0403.text = ""
 
-hoCO.Key0501.mode = misc_en_US_goadedes.Mode6
+hoCO.Key0501.mode = miscellanea_en_US_goadedes.misc.Mode6
 hoCO.Key0501.text = ""
 hoCO.Key0502.text = ""
 hoCO.Key0503.text = ""
@@ -39,7 +39,7 @@ hoCO.Key0510.text = ""
 hoCO.Key0511.title = ""
 hoCO.Key0511.text = prayers_en_US_goadedes.pr.Creed.text
 
-hoCO.Key0601.mode = misc_en_US_goadedes.Mode6
+hoCO.Key0601.mode = miscellanea_en_US_goadedes.misc.Mode6
 hoCO.Key0601.text = ""
 hoCO.Key0602.text = ""
 hoCO.Key0603.text = ""
@@ -51,12 +51,12 @@ hoCO.Key0608.text = ""
 hoCO.Key0609.text = ""
 
 hoCO.Key0701.rubric = ""
-hoCO.Key0701.mode = misc_en_US_goadedes.Mode2
+hoCO.Key0701.mode = miscellanea_en_US_goadedes.misc.Mode2
 hoCO.Key0701.text = ""
 hoCO.Key0702.text = ""
 hoCO.Key0703.text = ""
 hoCO.Key0704.rubric = ""
-hoCO.Key0704.mode = misc_en_US_goadedes.Mode8
+hoCO.Key0704.mode = miscellanea_en_US_goadedes.misc.Mode8
 hoCO.Key0704.text = ""
 hoCO.Key0705.text = ""
 hoCO.Key0706.text = ""
@@ -74,7 +74,7 @@ hoCO.Key0803.title = ""
 hoCO.Key0803.text = ""
 
 hoCO.Key0804.rubric = ""
-hoCO.Key0804.mode = misc_en_US_goadedes.Mode6
+hoCO.Key0804.mode = miscellanea_en_US_goadedes.misc.Mode6
 hoCO.Key0804.text = oc.m6.d2_en_US_goadedes.ocMA.Kathisma21.text
 hoCO.Key0805.text = oc.m6.d2_en_US_goadedes.ocMA.Kathisma22.text
 hoCO.Key0806.text = oc.m6.d5_en_US_goadedes.ocMA.Kathisma13.text
@@ -96,15 +96,15 @@ hoCO.Key0908.rubric = ""
 hoCO.Key0909.rubric = ""
 hoCO.Key0910.rubric = ""
 
-hoCO.Key1001.mode = misc_en_US_goadedes.Mode6
+hoCO.Key1001.mode = miscellanea_en_US_goadedes.misc.Mode6
 hoCO.Key1001.text = ""
 hoCO.Key1009.text = ""
 hoCO.Key1010.text = ""
 
-hoCO.Key1011.mode = misc_en_US_goadedes.Mode2
+hoCO.Key1011.mode = miscellanea_en_US_goadedes.misc.Mode2
 hoCO.Key1011.text = oc.m6.d3_en_US_goadedes.ocMA.Aposticha3.text
 hoCO.Key1012.text = oc.m6.d3_en_US_goadedes.ocMA.Kathisma33.text
-hoCO.Key1013.mode = misc_en_US_goadedes.Mode2
+hoCO.Key1013.mode = miscellanea_en_US_goadedes.misc.Mode2
 hoCO.Key1013.text = oc.m6.d6_en_US_goadedes.ocMA.Kathisma33.text
 hoCO.Key1014.text = ho.s23_en_US_goadedes.hoCA.Troparion7.text
 
@@ -139,19 +139,19 @@ hoCO.Key1207.rubric = ""
 
 hoCO.Key1300.rubric = ""
 hoCO.Key1301.rubric = ""
-hoCO.Key1301.mode = misc_en_US_goadedes.Mode2
+hoCO.Key1301.mode = miscellanea_en_US_goadedes.misc.Mode2
 hoCO.Key1301.melody = he.a.m2_en_US_goadedes.OteEkTouXylou.name
 hoCO.Key1301.incipit = oc.m2.d5_en_US_goadedes.ocVE.AposTheotokion.incipit
 hoCO.Key1301.text = oc.m2.d5_en_US_goadedes.ocVE.AposTheotokion.text
 
 hoCO.Key1302.rubric = ""
-hoCO.Key1302.mode = misc_en_US_goadedes.Mode1
+hoCO.Key1302.mode = miscellanea_en_US_goadedes.misc.Mode1
 hoCO.Key1302.melody = he.a.m1_en_US_goadedes.PaneffimoiMartyres.name
 hoCO.Key1302.incipit = oc.m1.d3_en_US_goadedes.ocMA.AposTheotokion.incipit
 hoCO.Key1302.text = oc.m1.d3_en_US_goadedes.ocMA.AposTheotokion.text
 
 hoCO.Key1303.rubric = ""
-hoCO.Key1303.mode = misc_en_US_goadedes.Mode1
+hoCO.Key1303.mode = miscellanea_en_US_goadedes.misc.Mode1
 hoCO.Key1303.melody = he.a.m1_en_US_goadedes.PaneffimoiMartyres.name
 hoCO.Key1303.incipit = oc.m1.d4_en_US_goadedes.ocVE.SticTheotokion.incipit
 hoCO.Key1303.text = oc.m1.d4_en_US_goadedes.ocVE.SticTheotokion.text

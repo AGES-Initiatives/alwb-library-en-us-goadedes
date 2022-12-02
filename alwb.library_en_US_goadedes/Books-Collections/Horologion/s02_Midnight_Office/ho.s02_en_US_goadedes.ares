@@ -25,7 +25,7 @@ hoMO.PrayerForDeceased.title = ""
 hoMO.PrayerForDeceased.text = ""
 
 hoMO.TriadicMegalynaria.title = "Megalynaria to the Trinity"
-hoMO.TriadicMegalynaria.mode = misc_en_US_goadedes.Mode2
+hoMO.TriadicMegalynaria.mode = miscellanea_en_US_goadedes.misc.Mode2
 hoMO.TriadicMegalynaria01.incipit = "It is truly proper…"
 hoMO.TriadicMegalynaria01.text = "It is truly proper to extol the Trinity divine and holy: Unoriginate Father, Maker of all, co-eternal Logos, begotten before all time without change from the Father, and the all-holy Spirit, the Giver of life, who proceeds from the Father timelessly."
 hoMO.TriadicMegalynaria02.incipit = "It is truly proper to extol…"
@@ -35,7 +35,7 @@ hoMO.TriadicMegalynaria03.text = "Come and let us all sing inspired songs, * sol
 hoMO.TriadicMegalynaria04.incipit = "Immaculate Virgin…"
 hoMO.TriadicMegalynaria04.text = "Immaculate Virgin, when creation saw your Son risen, as befits God, it was filled with great joy and ineffable gladness, and it glorified the Savior, and it honored you."
 
-hoMO.SaturdayTroparion1.mode = misc_en_US_goadedes.Mode2
+hoMO.SaturdayTroparion1.mode = miscellanea_en_US_goadedes.misc.Mode2
 hoMO.SaturdayTroparion1.incipit = "…"
 hoMO.SaturdayTroparion1.text = "" //oc.m2.d2_en_US_goadedes.octrMA.Triadic2.text
 hoMO.SaturdayTroparion2.incipit = "…"
