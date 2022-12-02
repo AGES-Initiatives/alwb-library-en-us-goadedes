@@ -47,7 +47,7 @@ pePA.ChristIsRisenShort.text = "" //for media
 pePA.C1.poet = poets_en_US_goadedes.IoannouTouDamaskinou
 pePA.C1.text = "" //for media
 pePA.C1.title = titles_en_US_goadedes.ti.CanonPascha
-pePA.C1.verse = prayers_en_US_goadedes.verse_Resurrection.text
+pePA.C1.verse = prayers_en_US_goadedes.pr.verse_Resurrection.text
 
 pePA.CTh.acrostic.title = "Canon for the Theotokos."
 pePA.CTh.acrostic.notice1 = ""

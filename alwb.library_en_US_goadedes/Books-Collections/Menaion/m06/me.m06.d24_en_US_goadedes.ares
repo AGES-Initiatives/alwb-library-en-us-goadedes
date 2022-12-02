@@ -228,14 +228,14 @@ meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.poet = poets_en_US_goadedes.IoannouTouDamaskinou
 meMA.C1.title = titles_en_US_goadedes.ti.Canon1Forerunner
-meMA.C1.verse = prayers_en_US_goadedes.verse_Baptist.text
+meMA.C1.verse = prayers_en_US_goadedes.pr.verse_Baptist.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
 meMA.C2.poet = poets_en_US_goadedes.Georgiou
 meMA.C2.title = titles_en_US_goadedes.ti.Canon2Forerunner
-meMA.C2.verse = prayers_en_US_goadedes.verse_Baptist.text
+meMA.C2.verse = prayers_en_US_goadedes.pr.verse_Baptist.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode4

@@ -81,12 +81,12 @@ peMA.C1.acrostic.text = ""
 peMA.C1.acrostic.notice2 = ""
 peMA.C1.poet = poets_en_US_goadedes.Theofanous
 peMA.C1.title = titles_en_US_goadedes.ti.Canon1MidPentecost
-peMA.C1.verse = prayers_en_US_goadedes.verse_God.text
+peMA.C1.verse = prayers_en_US_goadedes.pr.verse_God.text
 
 peMA.C2.acrostic.title = "The Canon in Mode pl. 4."
 peMA.C2.poet = poets_en_US_goadedes.AndreouKritis
 peMA.C2.title = titles_en_US_goadedes.ti.Canon2MidPentecost
-peMA.C2.verse = prayers_en_US_goadedes.verse_God.text
+peMA.C2.verse = prayers_en_US_goadedes.pr.verse_God.text
 
 peMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 peMA.Ode1C1H.mode = misc_en_US_goadedes.Mode4

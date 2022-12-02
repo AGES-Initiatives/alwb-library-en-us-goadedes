@@ -13,25 +13,25 @@ euPL.Key0107.text = ""
 euPL.Key0108.text = ""
 
 euPL.Key0200.title = ""
-euPL.Key0201.text = prayers_en_US_goadedes.enarxis02
+euPL.Key0201.text = prayers_en_US_goadedes.pr.enarxis02.text
 euPL.Key0203.title = ""
 euPL.Key0203.text = hi.s01_en_US_goadedes.hiVE.Key1101.text
-euPL.Key0204.text = prayers_en_US_goadedes.exc01
+euPL.Key0204.text = prayers_en_US_goadedes.pr.exc01.text
 
 euPL.Key0300.title = ""
 euPL.Key0306.title = ""
 euPL.Key0306.text = hi.s01_en_US_goadedes.hiVE.Key1102.text
-euPL.Key0307.text = prayers_en_US_goadedes.exc02
+euPL.Key0307.text = prayers_en_US_goadedes.pr.exc02.text
 
 euPL.Key0400.title = ""
 euPL.Key0406.title = ""
 euPL.Key0406.text = hi.s01_en_US_goadedes.hiVE.Key1103.text
-euPL.Key0407.text = prayers_en_US_goadedes.exc03
+euPL.Key0407.text = prayers_en_US_goadedes.pr.exc03.text
 
 euPL.Key0500.title = ""
 euPL.Key0506.title = ""
 euPL.Key0506.text = hi.s01_en_US_goadedes.hiVE.Key1104.text
-euPL.Key0507.text = prayers_en_US_goadedes.exc22
+euPL.Key0507.text = prayers_en_US_goadedes.pr.exc22.text
 
 euPL.Key0600.title = ""
 //Vespers with entrance
@@ -46,13 +46,13 @@ euPL.Key0800.text = properties_en_US_goadedes.media.key
 //euPL.Key0900
 euPL.Key0901.title = ""
 euPL.Key0901.text = ""
-euPL.Key0902.text = prayers_en_US_goadedes.petCatechumens09
+euPL.Key0902.text = prayers_en_US_goadedes.pr.petCatechumens09.text
 euPL.Key0903.title = ""
 euPL.Key0903.text = ""
-euPL.Key0904.text = prayers_en_US_goadedes.petCatechumens24
+euPL.Key0904.text = prayers_en_US_goadedes.pr.petCatechumens24.text
 euPL.Key0905.title = ""
 euPL.Key0905.text = ""
-euPL.Key0906.text = prayers_en_US_goadedes.exc01
+euPL.Key0906.text = prayers_en_US_goadedes.pr.exc01.text
 euPL.Key0907.title = ""
 euPL.Key0907.text = ""
 euPL.Key0908.text = ""
@@ -75,7 +75,7 @@ euPL.Key1202.text = ""
 euPL.Key1203.text = ""
 euPL.Key1204.title = ""
 euPL.Key1204.text = ""
-euPL.Key1205.text = prayers_en_US_goadedes.exc24
+euPL.Key1205.text = prayers_en_US_goadedes.pr.exc24.text
 euPL.Key1206.title = ""
 euPL.Key1206.text = ""
 euPL.Key1207.text = properties_en_US_goadedes.media.key

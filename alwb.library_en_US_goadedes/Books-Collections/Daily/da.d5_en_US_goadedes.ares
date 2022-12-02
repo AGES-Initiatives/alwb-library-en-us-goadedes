@@ -21,15 +21,15 @@ daVE.ApolTheotokion.text = oc.m4.d3_en_US_goadedes.ocMA.Kathisma13.text
 
 daMA.Triadic1Ending.text = ""
 daMA.Triadic2Ending.text = ""
-daMA.Triadic3Ending.text = prayers_en_US_goadedes.trDiaTisTheotokou
+daMA.Triadic3Ending.text = prayers_en_US_goadedes.pr.triadic_end_Theotokos.text
 
 daMA.Photagogic1Ending.text = ""
 daMA.Photagogic2Ending.text = ""
-daMA.Photagogic3Ending.text = prayers_en_US_goadedes.fePresveiaisTisTheotokou
+daMA.Photagogic3Ending.text = prayers_en_US_goadedes.pr.photagogic_end_Theotokos.text
 
 daMA.Photagogic1Beginning.text = ""
 daMA.Photagogic2Beginning.text = ""
-daMA.Photagogic3Beginning.text = prayers_en_US_goadedes.fbPresveiaisKyrieTisTheotokou
+daMA.Photagogic3Beginning.text = prayers_en_US_goadedes.pr.photagogic_begin_Theotokos.text
 
 daMA.Exaposteilarion1.mode = misc_en_US_goadedes.Mode3
 daMA.Exaposteilarion1.melody = he.a.m3_en_US_goadedes.OOuranonToisAstrois.name

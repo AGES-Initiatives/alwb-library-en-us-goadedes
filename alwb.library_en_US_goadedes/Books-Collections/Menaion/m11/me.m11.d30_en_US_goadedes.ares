@@ -158,14 +158,14 @@ meMA.PostGospelIdiomelon.incipit = meVE.Lity1.incipit
 meMA.PostGospelIdiomelon.text = meVE.Lity1.text
 
 meMA.C1.title = titles_en_US_goadedes.ti.CanonTheotokos
-meMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
+meMA.C1.verse = prayers_en_US_goadedes.pr.verse_Theotokos.text
 
 meMA.C2.poet = poets_en_US_goadedes.IoannouMonachou
 meMA.C2.title = titles_en_US_goadedes.ti.Canon1Apostle
-meMA.C2.verse = prayers_en_US_goadedes.verse_Apostle.text
+meMA.C2.verse = prayers_en_US_goadedes.pr.verse_Apostle.text
 
 meMA.C3.title = titles_en_US_goadedes.ti.Canon2Apostle
-meMA.C3.verse = prayers_en_US_goadedes.verse_Apostle.text
+meMA.C3.verse = prayers_en_US_goadedes.pr.verse_Apostle.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode1

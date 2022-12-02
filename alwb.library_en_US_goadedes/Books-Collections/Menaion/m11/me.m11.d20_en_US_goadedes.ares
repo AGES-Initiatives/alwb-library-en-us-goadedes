@@ -98,17 +98,17 @@ meMA.C1.acrostic.title = "Canon for the Forefeast."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.poet = poets_en_US_goadedes.Iosif
 meMA.C1.title = titles_en_US_goadedes.ti.CanonForefeast
-meMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
+meMA.C1.verse = prayers_en_US_goadedes.pr.verse_Theotokos.text
 
 meMA.C2.acrostic.title = "Canon for St. Gregory."
 meMA.C2.poet = poets_en_US_goadedes.Iosif
 meMA.C2.title = "Canon for St. Gregory."
-meMA.C2.verse = prayers_en_US_goadedes.verse_DevoutMan.text
+meMA.C2.verse = prayers_en_US_goadedes.pr.verse_DevoutMan.text
 
 meMA.C3.acrostic.title = "Canon for St. Proclus."
 meMA.C3.poet = poets_en_US_goadedes.Theofanous
 meMA.C3.title = "Canon for St. Proclus."
-meMA.C3.verse = prayers_en_US_goadedes.verse_SaintM.text
+meMA.C3.verse = prayers_en_US_goadedes.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode4

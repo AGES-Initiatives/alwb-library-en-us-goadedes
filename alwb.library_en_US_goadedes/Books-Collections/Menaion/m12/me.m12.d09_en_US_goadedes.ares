@@ -117,18 +117,18 @@ meMA.Kathisma31.text = ""
 
 meMA.C1.poet = poets_en_US_goadedes.IoannouMonachou
 meMA.C1.title = titles_en_US_goadedes.ti.CanonConsecration
-meMA.C1.verse = prayers_en_US_goadedes.verse_God.text
+meMA.C1.verse = prayers_en_US_goadedes.pr.verse_God.text
 
 meMA.C2.acrostic.title = "Canon for St. Anna."
 meMA.C2.poet = poets_en_US_goadedes.AndreouKritis
 meMA.C2.title = titles_en_US_goadedes.ti.Canon1SaintW
-meMA.C2.verse = prayers_en_US_goadedes.verse_SaintW.text
+meMA.C2.verse = prayers_en_US_goadedes.pr.verse_SaintW.text
 
 meMA.C3.acrostic.title = "Another Canon for St. Anna."
 meMA.C3.acrostic.notice1 = ""
 meMA.C3.acrostic.text = ""
 meMA.C3.title = titles_en_US_goadedes.ti.Canon2SaintW
-meMA.C3.verse = prayers_en_US_goadedes.verse_SaintW.text
+meMA.C3.verse = prayers_en_US_goadedes.pr.verse_SaintW.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode4

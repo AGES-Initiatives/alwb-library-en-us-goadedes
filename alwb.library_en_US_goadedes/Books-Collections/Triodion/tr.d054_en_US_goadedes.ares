@@ -172,10 +172,10 @@ trGC.SticheraT.text = ""
 
 trGC.title = ""
 trGC.C1.poet = poets_en_US_goadedes.AndreouKritis
-trGC.Verse1 = prayers_en_US_goadedes.EleisonMeOTheos.text
-trGC.Verse2 = prayers_en_US_goadedes.verse_DevoutWoman.text
-trGC.Verse3 = prayers_en_US_goadedes.verse_SaintM.text
-trGC.Verse4 = prayers_en_US_goadedes.verse_Theotokos.text
+trGC.Verse1 = prayers_en_US_goadedes.pr.verse_Mercy.text
+trGC.Verse2 = prayers_en_US_goadedes.pr.verse_DevoutWoman.text
+trGC.Verse3 = prayers_en_US_goadedes.pr.verse_SaintM.text
+trGC.Verse4 = prayers_en_US_goadedes.pr.verse_Theotokos.text
 
 //Ode 1
 

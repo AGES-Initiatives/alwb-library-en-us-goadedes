@@ -184,7 +184,7 @@ peMA.PostGospelIdiomelon.text = ""
 peMA.C1.acrostic.title = "The Canon in Mode pl. 1."
 peMA.C1.poet = poets_en_US_goadedes.IoannouMonachou
 peMA.C1.title = titles_en_US_goadedes.ti.Canon1Feast
-peMA.C1.verse = prayers_en_US_goadedes.verse_God.text
+peMA.C1.verse = prayers_en_US_goadedes.pr.verse_God.text
 
 peMA.C2.acrostic.title = "The Canon in Mode 4."
 peMA.C2.acrostic.notice1 = ""
@@ -192,7 +192,7 @@ peMA.C2.acrostic.text = ""
 peMA.C2.acrostic.notice2 = ""
 peMA.C2.poet = poets_en_US_goadedes.IosifThessalonikis
 peMA.C2.title = titles_en_US_goadedes.ti.Canon2Feast
-peMA.C2.verse = prayers_en_US_goadedes.verse_God.text
+peMA.C2.verse = prayers_en_US_goadedes.pr.verse_God.text
 
 peMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 peMA.Ode1C1H.mode = misc_en_US_goadedes.Mode5

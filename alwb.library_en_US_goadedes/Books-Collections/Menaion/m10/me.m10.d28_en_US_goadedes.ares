@@ -60,14 +60,14 @@ meVE.SticStavrotheotokion.incipit = me.m03.d12_en_US_goadedes.meVE.SticStavrothe
 meVE.SticStavrotheotokion.text = me.m03.d12_en_US_goadedes.meVE.SticStavrotheotokion.text
 
 meMA.C1.title = titles_en_US_goadedes.ti.CanonMartyrs
-meMA.C1.verse = prayers_en_US_goadedes.verse_SaintsM.text
+meMA.C1.verse = prayers_en_US_goadedes.pr.verse_SaintsM.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
 meMA.C2.poet = poets_en_US_goadedes.Theofanous
 meMA.C2.title = titles_en_US_goadedes.ti.CanonDevoutM
-meMA.C2.verse = prayers_en_US_goadedes.verse_DevoutMan.text
+meMA.C2.verse = prayers_en_US_goadedes.pr.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode4
@@ -720,13 +720,13 @@ alt1.meMA.C1.acrostic.title = "First Canon."
 alt1.meMA.C1.acrostic.notice1 = ""
 alt1.meMA.C1.acrostic.text = ""
 alt1.meMA.C1.title = titles_en_US_goadedes.ti.Canon1Theotokos
-alt1.meMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
+alt1.meMA.C1.verse = prayers_en_US_goadedes.pr.verse_Theotokos.text
 
 alt1.meMA.C2.acrostic.title = "Second Canon."
 alt1.meMA.C2.acrostic.notice1 = ""
 alt1.meMA.C2.acrostic.text = ""
 alt1.meMA.C2.title = titles_en_US_goadedes.ti.Canon2Theotokos
-alt1.meMA.C2.verse = prayers_en_US_goadedes.verse_Theotokos.text
+alt1.meMA.C2.verse = prayers_en_US_goadedes.pr.verse_Theotokos.text
 
 alt1.meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 alt1.meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode4

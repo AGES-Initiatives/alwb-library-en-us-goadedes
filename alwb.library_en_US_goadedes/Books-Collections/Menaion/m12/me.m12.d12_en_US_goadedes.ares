@@ -127,7 +127,7 @@ meMA.PostGospelIdiomelon.text = ""
 
 meMA.C1.poet = poets_en_US_goadedes.Theofanous
 meMA.C1.title = titles_en_US_goadedes.ti.CanonSaintM
-meMA.C1.verse = prayers_en_US_goadedes.verse_SaintM.text
+meMA.C1.verse = prayers_en_US_goadedes.pr.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode2
@@ -606,7 +606,7 @@ alt1.meMA.PostGospelIdiomelon.incipit = me.m12.d12_en_US_goadedes.meMA.PostGospe
 alt1.meMA.PostGospelIdiomelon.text = me.m12.d12_en_US_goadedes.meMA.PostGospelIdiomelon.text
 
 alt1.meMA.C1.title = titles_en_US_goadedes.ti.Canon2SaintM
-alt1.meMA.C1.verse = prayers_en_US_goadedes.verse_SaintM.text
+alt1.meMA.C1.verse = prayers_en_US_goadedes.pr.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 alt1.meMA.Ode1C11.mode = misc_en_US_goadedes.Mode1

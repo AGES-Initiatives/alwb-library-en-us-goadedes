@@ -101,7 +101,7 @@ meCO.C1.acrostic.title = "Three-ode Canon."
 meCO.C1.acrostic.notice1 = ""
 meCO.C1.acrostic.text = ""
 meCO.C1.title = "Three-ode Canon of the Forefeast."
-meCO.C1.verse = prayers_en_US_goadedes.verse_God.text
+meCO.C1.verse = prayers_en_US_goadedes.pr.verse_God.text
 
 meCO.Ode3C1H.ode = misc_en_US_goadedes.Ode3
 meCO.Ode3C1H.mode = misc_en_US_goadedes.Mode2
@@ -183,17 +183,17 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.title = titles_en_US_goadedes.ti.CanonForefeast
-meMA.C1.verse = prayers_en_US_goadedes.verse_God.text
+meMA.C1.verse = prayers_en_US_goadedes.pr.verse_God.text
 
 meMA.C2.poet = poets_en_US_goadedes.Iosif
 meMA.C2.title = titles_en_US_goadedes.ti.Canon1SaintW
-meMA.C2.verse = prayers_en_US_goadedes.verse_SaintW.text
+meMA.C2.verse = prayers_en_US_goadedes.pr.verse_SaintW.text
 
 meMA.C3.acrostic.title = ""
 meMA.C3.acrostic.notice1 = ""
 meMA.C3.acrostic.text = ""
 meMA.C3.title = titles_en_US_goadedes.ti.Canon2SaintW
-meMA.C3.verse = prayers_en_US_goadedes.verse_SaintW.text
+meMA.C3.verse = prayers_en_US_goadedes.pr.verse_SaintW.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode6

@@ -81,7 +81,7 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.title = titles_en_US_goadedes.ti.CanonSaintM
-meMA.C1.verse = prayers_en_US_goadedes.verse_SaintM.text
+meMA.C1.verse = prayers_en_US_goadedes.pr.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode2
@@ -641,21 +641,21 @@ alt1.meMA.C1.acrostic.notice1 = ""
 alt1.meMA.C1.acrostic.text = ""
 alt1.meMA.C1.poet = poets_en_US_goadedes.Gerasimou
 alt1.meMA.C1.title = titles_en_US_goadedes.ti.CanonTheotokos
-alt1.meMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
+alt1.meMA.C1.verse = prayers_en_US_goadedes.pr.verse_Theotokos.text
 
 alt1.meMA.C2.acrostic.title = ""
 alt1.meMA.C2.acrostic.notice1 = ""
 alt1.meMA.C2.acrostic.text = ""
 alt1.meMA.C2.poet = poets_en_US_goadedes.Gerasimou
 alt1.meMA.C2.title = titles_en_US_goadedes.ti.Canon1DevoutM
-alt1.meMA.C2.verse = prayers_en_US_goadedes.verse_DevoutMan.text
+alt1.meMA.C2.verse = prayers_en_US_goadedes.pr.verse_DevoutMan.text
 
 alt1.meMA.C3.acrostic.title = ""
 alt1.meMA.C3.acrostic.notice1 = ""
 alt1.meMA.C3.acrostic.text = ""
 alt1.meMA.C3.poet = poets_en_US_goadedes.Gerasimou
 alt1.meMA.C3.title = titles_en_US_goadedes.ti.Canon2DevoutM
-alt1.meMA.C3.verse = prayers_en_US_goadedes.verse_DevoutMan.text
+alt1.meMA.C3.verse = prayers_en_US_goadedes.pr.verse_DevoutMan.text
 
 alt1.meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 alt1.meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode8

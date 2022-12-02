@@ -106,10 +106,10 @@ meMA.Kathisma21.text = ""
 
 meMA.C1.poet = poets_en_US_goadedes.IoannouMonachou
 meMA.C1.title = ""
-meMA.C1.verse = prayers_en_US_goadedes.verse_SaintM.text
+meMA.C1.verse = prayers_en_US_goadedes.pr.verse_SaintM.text
 
 meMA.C2.title = ""
-meMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
+meMA.C2.verse = prayers_en_US_goadedes.pr.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode5

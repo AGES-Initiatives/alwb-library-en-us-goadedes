@@ -37,7 +37,7 @@ hoCO.Key0508.text = ""
 hoCO.Key0509.text = ""
 hoCO.Key0510.text = ""
 hoCO.Key0511.title = ""
-hoCO.Key0511.text = prayers_en_US_goadedes.Pistevo.text
+hoCO.Key0511.text = prayers_en_US_goadedes.pr.Creed.text
 
 hoCO.Key0601.mode = misc_en_US_goadedes.Mode6
 hoCO.Key0601.text = ""
@@ -108,13 +108,13 @@ hoCO.Key1013.mode = misc_en_US_goadedes.Mode2
 hoCO.Key1013.text = oc.m6.d6_en_US_goadedes.ocMA.Kathisma33.text
 hoCO.Key1014.text = ho.s23_en_US_goadedes.hoCA.Troparion7.text
 
-hoCO.Key1015.text = prayers_en_US_goadedes.OEnPantiKairo.text
+hoCO.Key1015.text = prayers_en_US_goadedes.pr.PrayerOfHours.text
 
 hoCO.Key1016.title = ""
-hoCO.Key1016.text = prayers_en_US_goadedes.KyrieKaiDespota1.text
-hoCO.Key1017.text = prayers_en_US_goadedes.KyrieKaiDespota2.text
-hoCO.Key1018.text = prayers_en_US_goadedes.KyrieKaiDespota3.text
-hoCO.Key1019.text = prayers_en_US_goadedes.KyrieKaiDespota4.text
+hoCO.Key1016.text = prayers_en_US_goadedes.pr.PrayerOfStEphrem1.text
+hoCO.Key1017.text = prayers_en_US_goadedes.pr.PrayerOfStEphrem2.text
+hoCO.Key1018.text = prayers_en_US_goadedes.pr.PrayerOfStEphrem3.text
+hoCO.Key1019.text = prayers_en_US_goadedes.pr.PrayerOfStEphrem4.text
 
 hoCO.Key1101.title = ""
 hoCO.Key1101.poet = ""

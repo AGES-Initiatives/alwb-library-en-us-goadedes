@@ -68,15 +68,15 @@ trMA.C1.acrostic.title = "Canon for the precious Cross."
 trMA.C1.acrostic.notice1 = ""
 trMA.C1.acrostic.text = ""
 trMA.C1.title = titles_en_US_goadedes.ti.Canon1Triodion
-trMA.C1.verse = prayers_en_US_goadedes.verse_Cross.text
+trMA.C1.verse = prayers_en_US_goadedes.pr.verse_Cross.text
 
 trMA.C2.poet = poets_en_US_goadedes.Iosif
 trMA.C2.title = "The three-ode Canon."
-trMA.C2.verse = prayers_en_US_goadedes.verse_Cross.text
+trMA.C2.verse = prayers_en_US_goadedes.pr.verse_Cross.text
 
 trMA.C3.poet = poets_en_US_goadedes.Theodorou
 trMA.C3.title = "Another three-ode Canon."
-trMA.C3.verse = prayers_en_US_goadedes.verse_Cross.text
+trMA.C3.verse = prayers_en_US_goadedes.pr.verse_Cross.text
 
 trMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 trMA.Ode1C1H.mode = misc_en_US_goadedes.Mode8

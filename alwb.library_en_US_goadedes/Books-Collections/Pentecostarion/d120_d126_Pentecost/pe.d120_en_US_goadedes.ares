@@ -145,7 +145,7 @@ peMA.C1.acrostic.text = ""
 peMA.C1.acrostic.notice2 = ""
 peMA.C1.poet = poets_en_US_goadedes.KosmaMonachou
 peMA.C1.title = titles_en_US_goadedes.ti.Canon1Feast
-peMA.C1.verse = prayers_en_US_goadedes.verse_God.text
+peMA.C1.verse = prayers_en_US_goadedes.pr.verse_God.text
 
 peMA.C2.acrostic.title = "Another Canon."
 peMA.C2.acrostic.notice1 = "The Acrostic formed by the first letter of each line is as follows:"
@@ -153,7 +153,7 @@ peMA.C2.acrostic.text = "Logos Son of God, You sent the Spirit, another Advocate
 peMA.C2.acrostic.notice2 = ""
 peMA.C2.poet = poets_en_US_goadedes.KyriouIoannouArkla
 peMA.C2.title = titles_en_US_goadedes.ti.Canon2Feast
-peMA.C2.verse = prayers_en_US_goadedes.verse_God.text
+peMA.C2.verse = prayers_en_US_goadedes.pr.verse_God.text
 
 peMA.C2.acrostic.line1.text = "Logos Son of God, You sent the Spirit,"
 peMA.C2.acrostic.line2.text = "another Advocate, from the Father's bosom"

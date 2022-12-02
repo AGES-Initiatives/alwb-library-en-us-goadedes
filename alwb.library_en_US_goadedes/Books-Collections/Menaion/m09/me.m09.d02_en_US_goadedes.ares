@@ -91,11 +91,11 @@ meVE.GeneralApolytikion2.name = ""
 
 meMA.C1.poet = poets_en_US_goadedes.Theofanous
 meMA.C1.title = titles_en_US_goadedes.ti.CanonMartyrM
-meMA.C1.verse = prayers_en_US_goadedes.verse_SaintM.text
+meMA.C1.verse = prayers_en_US_goadedes.pr.verse_SaintM.text
 
 meMA.C2.poet = poets_en_US_goadedes.Germanou
 meMA.C2.title = titles_en_US_goadedes.ti.CanonDevoutM
-meMA.C2.verse = prayers_en_US_goadedes.verse_SaintM.text
+meMA.C2.verse = prayers_en_US_goadedes.pr.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode8

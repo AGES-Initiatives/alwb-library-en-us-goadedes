@@ -70,7 +70,7 @@ trVE.Apolytikion1.text = ""
 
 trCO.C1.poet = poets_en_US_goadedes.AndreouKritis
 trCO.C1.title = ""
-trCO.C1.verse = prayers_en_US_goadedes.verse_God.text
+trCO.C1.verse = prayers_en_US_goadedes.pr.verse_God.text
 
 trCO.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 trCO.Ode1C1H.mode = misc_en_US_goadedes.Mode1
@@ -609,7 +609,7 @@ trMA.Ode1C1H.incipit = he.h.m8_en_US_goadedes.AsomenToKyrio.incipit
 trMA.Ode1C1H.text = he.h.m8_en_US_goadedes.AsomenToKyrio.text
 
 trMA.C1.title = titles_en_US_goadedes.ti.Canon1
-trMA.C1.verse = prayers_en_US_goadedes.verse_God.text
+trMA.C1.verse = prayers_en_US_goadedes.pr.verse_God.text
 
 trMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 trMA.Ode1C11.mode = misc_en_US_goadedes.Mode8
@@ -636,7 +636,7 @@ trMA.Ode1C14.incipit = "…"
 trMA.Ode1C14.text = ""
 
 trMA.C2.title = titles_en_US_goadedes.ti.Canon2
-trMA.C2.verse = prayers_en_US_goadedes.verse_God.text
+trMA.C2.verse = prayers_en_US_goadedes.pr.verse_God.text
 
 trMA.Ode1C21.ode = misc_en_US_goadedes.Ode1
 trMA.Ode1C21.mode = misc_en_US_goadedes.Mode8

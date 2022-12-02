@@ -5,7 +5,7 @@ euUNC.translator = ""
 
 euUNC.R101 = ""
 euUNC.Key0100.mode = misc_en_US_goadedes.Mode6
-euUNC.Key0100.text = prayers_en_US_goadedes.Allilouia3.text
+euUNC.Key0100.text = prayers_en_US_goadedes.pr.Alleluia3.text
 
 euUNC.Key0103.incipit = oc.m6.d2_en_US_goadedes.ocMA.Kathisma21.incipit
 euUNC.Key0103.text = oc.m6.d2_en_US_goadedes.ocMA.Kathisma21.text
@@ -226,7 +226,7 @@ euUNC.Ode9T.melody = he.h.m4_en_US_goadedes.LithosAcheirotmitos.name
 euUNC.Ode9T.incipit = "…"
 euUNC.Ode9T.text = ""
 
-euUNC.Ode9End.text = prayers_en_US_goadedes.AxionEstinComplete.text
+euUNC.Ode9End.text = prayers_en_US_goadedes.pr.ItIsTrulyRight_complete.text
 
 euUNC.Exaposteilarion.mode = misc_en_US_goadedes.Mode3
 euUNC.Exaposteilarion.melody = he.a.m3_en_US_goadedes.EpeskepsatoImas.name
@@ -276,21 +276,21 @@ euUNC.Key0212.title = titles_en_US_goadedes.ti.Theotokion
 euUNC.Key0300.title = ""
 euUNC.Key0301.text = ""
 euUNC.Key0302.text = ""
-euUNC.Key0303.text = prayers_en_US_goadedes.exc13
+euUNC.Key0303.text = prayers_en_US_goadedes.pr.exc13.text
 euUNC.Key0304.text = ""
 euUNC.Key0305.text = ""
 
 euUNC.Key0400.title = ""
 euUNC.Key0401.text = ""
-euUNC.Key0402.text = prayers_en_US_goadedes.exc07a
+euUNC.Key0402.text = prayers_en_US_goadedes.pr.exc07a.text
 
 euUNC.Key0500.title = ""
 euUNC.Key0501.text = ""
-euUNC.Key0502.text = prayers_en_US_goadedes.exc13
+euUNC.Key0502.text = prayers_en_US_goadedes.pr.exc13.text
 
 euUNC.Key0600.title = ""
 euUNC.Key0601.text = ""
-euUNC.Key0602.text = prayers_en_US_goadedes.exc13
+euUNC.Key0602.text = prayers_en_US_goadedes.pr.exc13.text
 
 euUNC.Key0700.title = ""
 euUNC.Key0701.text = ""

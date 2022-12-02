@@ -108,7 +108,7 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.title = titles_en_US_goadedes.ti.CanonSaintM
-meMA.C1.verse = prayers_en_US_goadedes.verse_SaintM.text
+meMA.C1.verse = prayers_en_US_goadedes.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode6
@@ -657,7 +657,7 @@ alt1.meMA.PostGospelIdiomelon.incipit = me.m01.d01_en_US_goadedes.meVE.LityGlory
 alt1.meMA.PostGospelIdiomelon.text = me.m01.d01_en_US_goadedes.meVE.LityGlory.text
 
 alt1.meMA.C1.title = titles_en_US_goadedes.ti.CanonSaintM
-alt1.meMA.C1.verse = prayers_en_US_goadedes.verse_SaintM.text
+alt1.meMA.C1.verse = prayers_en_US_goadedes.pr.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 alt1.meMA.Ode1C11.mode = misc_en_US_goadedes.Mode4
@@ -1167,7 +1167,7 @@ alt2.meMA.C1.acrostic.notice1 = ""
 alt2.meMA.C1.acrostic.text = ""
 alt2.meMA.C1.poet = poets_en_US_goadedes.GerasimouMonachouMikragiannanitou
 alt2.meMA.C1.title = titles_en_US_goadedes.ti.CanonSaints
-alt2.meMA.C1.verse = prayers_en_US_goadedes.verse_DevoutMen.text
+alt2.meMA.C1.verse = prayers_en_US_goadedes.pr.verse_DevoutMen.text
 
 alt2.meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 alt2.meMA.Ode1C11.mode = misc_en_US_goadedes.Mode8

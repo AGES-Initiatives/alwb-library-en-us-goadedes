@@ -106,10 +106,10 @@ meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.poet = poets_en_US_goadedes.IoannouMonachou
 meMA.C1.title = titles_en_US_goadedes.ti.CanonApostle
-meMA.C1.verse = prayers_en_US_goadedes.verse_Apostle.text
+meMA.C1.verse = prayers_en_US_goadedes.pr.verse_Apostle.text
 
 meMA.C2.title = titles_en_US_goadedes.ti.CanonDevoutM
-meMA.C2.verse = prayers_en_US_goadedes.verse_DevoutMan.text
+meMA.C2.verse = prayers_en_US_goadedes.pr.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_goadedes.Mode8
@@ -787,14 +787,14 @@ alt1.meMA.C1.acrostic.notice1 = ""
 alt1.meMA.C1.acrostic.text = ""
 alt1.meMA.C1.poet = poets_en_US_goadedes.GerasimouMonachouMikragiannanitou
 alt1.meMA.C1.title = titles_en_US_goadedes.ti.Canon1Theotokos
-alt1.meMA.C1.verse = prayers_en_US_goadedes.verse_Theotokos.text
+alt1.meMA.C1.verse = prayers_en_US_goadedes.pr.verse_Theotokos.text
 
 alt1.meMA.C2.acrostic.title = ""
 alt1.meMA.C2.acrostic.notice1 = ""
 alt1.meMA.C2.acrostic.text = ""
 alt1.meMA.C2.poet = poets_en_US_goadedes.GerasimouMonachouMikragiannanitou
 alt1.meMA.C2.title = titles_en_US_goadedes.ti.Canon2Theotokos
-alt1.meMA.C2.verse = prayers_en_US_goadedes.verse_Theotokos.text
+alt1.meMA.C2.verse = prayers_en_US_goadedes.pr.verse_Theotokos.text
 
 alt1.meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 alt1.meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode4

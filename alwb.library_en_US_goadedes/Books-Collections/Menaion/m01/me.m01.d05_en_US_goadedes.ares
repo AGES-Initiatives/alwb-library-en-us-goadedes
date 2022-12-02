@@ -85,7 +85,7 @@ meCO.C1.acrostic.title = ""
 meCO.C1.acrostic.notice1 = ""
 meCO.C1.acrostic.text = ""
 meCO.C1.title = titles_en_US_goadedes.ti.TheCanon
-meCO.C1.verse = prayers_en_US_goadedes.verse_God.text
+meCO.C1.verse = prayers_en_US_goadedes.pr.verse_God.text
 
 meCO.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 meCO.Ode1C1H.mode = misc_en_US_goadedes.Mode6
@@ -307,13 +307,13 @@ meMA.Kathisma22.text = ""
 
 meMA.C1.poet = poets_en_US_goadedes.Iosif
 meMA.C1.title = titles_en_US_goadedes.ti.CanonForefeast
-meMA.C1.verse = prayers_en_US_goadedes.verse_God.text
+meMA.C1.verse = prayers_en_US_goadedes.pr.verse_God.text
 
 meMA.C2.title = titles_en_US_goadedes.ti.CanonDevoutW
-meMA.C2.verse = prayers_en_US_goadedes.verse_DevoutWoman.text
+meMA.C2.verse = prayers_en_US_goadedes.pr.verse_DevoutWoman.text
 
 meMA.C3.title = titles_en_US_goadedes.ti.CanonMartyrs
-meMA.C3.verse = prayers_en_US_goadedes.verse_SaintsM.text
+meMA.C3.verse = prayers_en_US_goadedes.pr.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_en_US_goadedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_goadedes.Mode1

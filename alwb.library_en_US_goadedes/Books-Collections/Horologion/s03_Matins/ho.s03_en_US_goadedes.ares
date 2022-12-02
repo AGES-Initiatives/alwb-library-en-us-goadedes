@@ -103,7 +103,7 @@ hoMA.ResEvlog6.mode = misc_en_US_goadedes.Mode5
 hoMA.ResEvlog6.incipit = "…"
 hoMA.ResEvlog6.text = ""
 hoMA.ResEvlog7.mode = misc_en_US_goadedes.Mode5
-hoMA.ResEvlog7.text = prayers_en_US_goadedes.Allilouia3Doxa.text
+hoMA.ResEvlog7.text = prayers_en_US_goadedes.pr.Alleluia3Glory.text
 
 hoMA.FuneralEvlog.title1 = ""
 hoMA.FuneralEvlog.title2 = ""
@@ -134,7 +134,7 @@ hoMA.FuneralEvlog8.mode = misc_en_US_goadedes.Mode5
 hoMA.FuneralEvlog8.incipit = "…"
 hoMA.FuneralEvlog8.text = ""
 hoMA.FuneralEvlog9.mode = misc_en_US_goadedes.Mode5
-hoMA.FuneralEvlog9.text = prayers_en_US_goadedes.Allilouia3Doxa.text
+hoMA.FuneralEvlog9.text = prayers_en_US_goadedes.pr.Alleluia3Glory.text
 
 //Psalm 50
 hoMA.Psalm50.text = properties_en_US_goadedes.media.key //for media

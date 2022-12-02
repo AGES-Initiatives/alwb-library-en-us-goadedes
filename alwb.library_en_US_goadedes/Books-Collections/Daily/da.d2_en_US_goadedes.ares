@@ -16,16 +16,16 @@ daVE.ApolTheotokion.incipit = oc.m4.d2_en_US_goadedes.ocMA.Kathisma33.incipit
 daVE.ApolTheotokion.text = oc.m4.d2_en_US_goadedes.ocMA.Kathisma33.text
 
 daMA.Triadic1Ending.text = ""
-daMA.Triadic2Ending.text = prayers_en_US_goadedes.trPresveiaisTonAgion
-daMA.Triadic3Ending.text = prayers_en_US_goadedes.trDiaTisTheotokou
+daMA.Triadic2Ending.text = prayers_en_US_goadedes.pr.triadic_end_Saints.text
+daMA.Triadic3Ending.text = prayers_en_US_goadedes.pr.triadic_end_Theotokos.text
 
 daMA.Photagogic1Ending.text = ""
-daMA.Photagogic2Ending.text = prayers_en_US_goadedes.fePresveiaisTonAgionKaiSosonMe
-daMA.Photagogic3Ending.text = prayers_en_US_goadedes.fePresveiaisTisTheotokou
+daMA.Photagogic2Ending.text = prayers_en_US_goadedes.pr.photagogic_end_Saints.text
+daMA.Photagogic3Ending.text = prayers_en_US_goadedes.pr.photagogic_end_Theotokos.text
 
 daMA.Photagogic1Beginning.text = ""
-daMA.Photagogic2Beginning.text = prayers_en_US_goadedes.fbPresveiaisKyrieTonAgion
-daMA.Photagogic3Beginning.text = prayers_en_US_goadedes.fbPresveiaisKyrieTisTheotokou
+daMA.Photagogic2Beginning.text = prayers_en_US_goadedes.pr.photagogic_begin_Saints.text
+daMA.Photagogic3Beginning.text = prayers_en_US_goadedes.pr.photagogic_begin_Theotokos.text
 
 daMA.Exaposteilarion1.mode = misc_en_US_goadedes.Mode2
 daMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.GynaikesAkoutisthite.name

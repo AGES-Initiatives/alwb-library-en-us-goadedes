@@ -99,7 +99,7 @@ euMA.Kathisma31.incipit = "…"
 euMA.Kathisma31.text = ""
 
 euMA.C1.title = ""
-euMA.C1.verse = prayers_en_US_goadedes.verse_God.text
+euMA.C1.verse = prayers_en_US_goadedes.pr.verse_God.text
 
 euMA.MM.Ode1.text = properties_en_US_goadedes.media.key
 euMA.MM.Ode3.text = properties_en_US_goadedes.media.key
@@ -159,15 +159,15 @@ euMA.MM.Lauds123as456.text = properties_en_US_goadedes.media.key
 
 euCON.Key4000.title = ""
 euCON.Key4100.title = ""
-euCON.Key4101.text = prayers_en_US_goadedes.enarxis02
+euCON.Key4101.text = prayers_en_US_goadedes.pr.enarxis02.text
 euCON.R410 = ""
-euCON.Key4102.text = prayers_en_US_goadedes.enarxis01
+euCON.Key4102.text = prayers_en_US_goadedes.pr.enarxis01.text
 //Litany
 euCON.R411 = ""
 euCON.Key4104.text = ""
-euCON.Key4105.text = prayers_en_US_goadedes.exc07b
+euCON.Key4105.text = prayers_en_US_goadedes.pr.exc07b.text
 euCON.Key4106.text = ""
-euCON.Key4107.text = prayers_en_US_goadedes.exc14
+euCON.Key4107.text = prayers_en_US_goadedes.pr.exc14.text
 
 euCON.Key4200.title = ""
 euCON.R420 = ""
@@ -217,9 +217,9 @@ euCON.Key4211a.incipit = "O God and Father…"
 euCON.Key4211a.text = "O God and Father of our Lord Jesus Christ, You are the One is blessed forever. Through the veil of Your Son's flesh, You inaugurated an entrance for us into the Church of the firstborn who are enrolled in heaven, where they celebrate with a clear voice of great joy. We entreat You, Master who love humanity, look upon us Your sinful and unworthy servants, as we conduct the consecration of this holy church of "
 euCON.Key4211b.text = "[name]"
 euCON.Key4211c.text = "May it symbolize Your most holy Church, namely this body of ours, which You have qualified to be called temple and members of Your Christ, by St. Paul, the all-lauded Apostle. Keep this structure standing strong till the end of time, unshaken, and glorified in You. Allow us to enter it without reproach, understanding and sensing everything, and to offer praises and doxologies to Your glory, and to Your only-begotten Son, our Lord Jesus Christ, and to Your Holy Spirit. May we worship You in fear of You, and thus be found worthy of Your divine tender mercies. Graciously accept these prayers that we offer to Your ineffable compassion, for ourselves and for all Your people, at the intercessions of our immaculate Lady Theotokos and ever-virgin Mary."
-euCON.Key4212.text = prayers_en_US_goadedes.exc06
+euCON.Key4212.text = prayers_en_US_goadedes.pr.exc06.text
 euCON.Key4213.text = "" //eu.lichrysbasil_en_US_goadedes.euLI.Key0501.text
-euCON.Key4214.text = prayers_en_US_goadedes.exc01
+euCON.Key4214.text = prayers_en_US_goadedes.pr.exc01.text
 
 euCON.Key4300.title = ""
 euCON.R430 = ""
@@ -237,37 +237,37 @@ euCON.Key4402.text = ""
 euCON.R441 = ""
 euCON.R442 = ""
 euCON.Key4403.text = ""
-euCON.Key4404.text = prayers_en_US_goadedes.exc20
+euCON.Key4404.text = prayers_en_US_goadedes.pr.exc20.text
 euCON.Key4405a.text = ""
 euCON.Key4405b.text = ""
 euCON.Key4405c.text = ""
-euCON.Key4406.text = prayers_en_US_goadedes.exc01
+euCON.Key4406.text = prayers_en_US_goadedes.pr.exc01.text
 euCON.R443 = ""
 euCON.R444 = ""
 
 euCON.Key4500.title = ""
 euCON.R450 = ""
-euCON.Key4501.text = prayers_en_US_goadedes.enarxis01
-euCON.Key4502.text = prayers_en_US_goadedes.petKneel07
+euCON.Key4501.text = prayers_en_US_goadedes.pr.enarxis01.text
+euCON.Key4502.text = prayers_en_US_goadedes.pr.petKneel07.text
 euCON.R451 = ""
 euCON.Key4503a.text = ""
 euCON.Key4503b.text = ""
 euCON.Key4503c.text = ""
 euCON.Key4504.text = ""
-euCON.Key4505.text = prayers_en_US_goadedes.petKneel08
+euCON.Key4505.text = prayers_en_US_goadedes.pr.petKneel08.text
 //Litany
 euCON.Key4506.text = ""
 euCON.R452 = ""
 euCON.Key4507.text = ""
-euCON.Key4508.text = prayers_en_US_goadedes.EisToOnoma
+euCON.Key4508.text = prayers_en_US_goadedes.pr.InTheNameOfFather.text
 euCON.R453 = ""
 euCON.Key4510.text = ""
 
 euCON.Key4600.title = ""
 euCON.R460 = ""
 euCON.R461 = ""
-euCON.Key4603.text = prayers_en_US_goadedes.enarxis01
-euCON.Key4604.text = prayers_en_US_goadedes.Allilouia3.text
+euCON.Key4603.text = prayers_en_US_goadedes.pr.enarxis01.text
+euCON.Key4604.text = prayers_en_US_goadedes.pr.Alleluia3.text
 euCON.R462 = ""
 euCON.Key4606.text = ""
 euCON.Key4607.text = ""
