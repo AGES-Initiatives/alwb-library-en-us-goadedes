@@ -85,11 +85,11 @@ meVE.Apolytikion1.melody = he.a.m1_en_US_goadedes.heAU.TouLithouSfragisthentos.n
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
-meVE.Apolytikion2.poet = poets_en_US_goadedes.po.Gerasimou
-meVE.Apolytikion2.mode = miscellanea_en_US_goadedes.misc.Mode4
-meVE.Apolytikion2.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
-meVE.Apolytikion2.incipit = "…"
-meVE.Apolytikion2.text = ""
+meVE.Apolytikion2ger.poet = poets_en_US_goadedes.po.Gerasimou
+meVE.Apolytikion2ger.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.Apolytikion2ger.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
+meVE.Apolytikion2ger.incipit = "…"
+meVE.Apolytikion2ger.text = ""
 
 meVE.MM.GeneralApolytikion1.text = properties_en_US_goadedes.media.key
 meVE.MM.GeneralApolytikion3.text = properties_en_US_goadedes.media.key
@@ -739,10 +739,10 @@ alt1.meVE.Apolytikion1.melody = he.a.m1_en_US_goadedes.heAU.TisErimouPolitis.nam
 alt1.meVE.Apolytikion1.incipit = "…"
 alt1.meVE.Apolytikion1.text = ""
 
-alt1.meVE.Apolytikion2.mode = me.m11.d09_en_US_goadedes.meVE.Apolytikion1.mode
-alt1.meVE.Apolytikion2.melody = me.m11.d09_en_US_goadedes.meVE.Apolytikion1.melody
-alt1.meVE.Apolytikion2.incipit = me.m11.d09_en_US_goadedes.meVE.Apolytikion1.incipit
-alt1.meVE.Apolytikion2.text = me.m11.d09_en_US_goadedes.meVE.Apolytikion1.text
+alt1.meVE.Apolytikion2.mode = me.m11.d09_en_US_goadedes.alt1.meVE.Apolytikion1.mode
+alt1.meVE.Apolytikion2.melody = me.m11.d09_en_US_goadedes.alt1.meVE.Apolytikion1.melody
+alt1.meVE.Apolytikion2.incipit = me.m11.d09_en_US_goadedes.alt1.meVE.Apolytikion1.incipit
+alt1.meVE.Apolytikion2.text = me.m11.d09_en_US_goadedes.alt1.meVE.Apolytikion1.text
 
 alt1.meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt1.meMA.Kathisma11.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name

@@ -39,17 +39,17 @@ meVE.Apolytikion1.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 meVE.Apolytikion1.incipit = "Today, O believers,…"
 meVE.Apolytikion1.text = "Today, O believers, let us honor Timothy * and Maura, the bride of Christ, his fellow martyr and spouse, * extolling their martyrdom, * bravery, and endurance. They were crucified together. * With longing they followed the example of the Savior, * who was slaughtered and who nailed to the Cross the sins of all."
 
-meVE.Apolytikion2.poet = poets_en_US_goadedes.po.Gerasimou
-meVE.Apolytikion2.mode = miscellanea_en_US_goadedes.misc.Mode4
-meVE.Apolytikion2.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
-meVE.Apolytikion2.incipit = "…"
-meVE.Apolytikion2.text = ""
+meVE.Apolytikion2ger.poet = poets_en_US_goadedes.po.Gerasimou
+meVE.Apolytikion2ger.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.Apolytikion2ger.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
+meVE.Apolytikion2ger.incipit = "…"
+meVE.Apolytikion2ger.text = ""
 
-meVE.Apolytikion3.poet = poets_en_US_goadedes.po.Gerasimou
-meVE.Apolytikion3.mode = miscellanea_en_US_goadedes.misc.Mode3
-meVE.Apolytikion3.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
-meVE.Apolytikion3.incipit = "…"
-meVE.Apolytikion3.text = ""
+meVE.Apolytikion3ger.poet = poets_en_US_goadedes.po.Gerasimou
+meVE.Apolytikion3ger.mode = miscellanea_en_US_goadedes.misc.Mode3
+meVE.Apolytikion3ger.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
+meVE.Apolytikion3ger.incipit = "…"
+meVE.Apolytikion3ger.text = ""
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
@@ -205,11 +205,11 @@ meMA.Kontakion1.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
 
-meMA.Kontakion2.poet = poets_en_US_goadedes.po.Gerasimou
-meMA.Kontakion2.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Kontakion2.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
-meMA.Kontakion2.incipit = "…"
-meMA.Kontakion2.text = ""
+meMA.Kontakion2ger.poet = poets_en_US_goadedes.po.Gerasimou
+meMA.Kontakion2ger.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kontakion2ger.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
+meMA.Kontakion2ger.incipit = "…"
+meMA.Kontakion2ger.text = ""
 
 meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode6

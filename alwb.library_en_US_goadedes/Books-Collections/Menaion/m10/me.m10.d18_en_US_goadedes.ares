@@ -98,11 +98,11 @@ meVE.GeneralApolytikion1.melody = he.ga_en_US_goadedes.heGA.ApostoleAgie.name
 meVE.GeneralApolytikion1.name = ""
 meVE.MM.GeneralApolytikion1.text = "" // for media
 
-meVE.Apolytikion2.poet = poets_en_US_goadedes.po.Gerasimou
-meVE.Apolytikion2.mode = miscellanea_en_US_goadedes.misc.Mode4
-meVE.Apolytikion2.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
-meVE.Apolytikion2.incipit = "…"
-meVE.Apolytikion2.text = ""
+meVE.Apolytikion2ger.poet = poets_en_US_goadedes.po.Gerasimou
+meVE.Apolytikion2ger.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.Apolytikion2ger.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
+meVE.Apolytikion2ger.incipit = "…"
+meVE.Apolytikion2ger.text = ""
 
 meMA.C1.poet = poets_en_US_goadedes.po.Theofanous
 meMA.C1.title = titles_en_US_goadedes.ti.CanonEvangelist
@@ -438,7 +438,6 @@ alt1.meVE.LityBoth.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
 alt1.meVE.LityBoth.incipit = "…"
 alt1.meVE.LityBoth.text = ""
 
-alt1.meVE.Apolytikion3.poet = ""
 alt1.meVE.Apolytikion3.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt1.meVE.Apolytikion3.melody = he.a.m1_en_US_goadedes.heAU.TisErimouPolitis.name
 alt1.meVE.Apolytikion3.incipit = "…"

@@ -44,11 +44,11 @@ meVE.SticStavrotheotokion.melody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyre
 meVE.SticStavrotheotokion.incipit = oc.m1.d4_en_US_goadedes.ocVE.SticTheotokion.incipit
 meVE.SticStavrotheotokion.text = oc.m1.d4_en_US_goadedes.ocVE.SticTheotokion.text
 
-meVE.Apolytikion1.poet = poets_en_US_goadedes.po.Gerasimou
-meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode5
-meVE.Apolytikion1.melody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.name
-meVE.Apolytikion1.incipit = "…"
-meVE.Apolytikion1.text = ""
+meVE.Apolytikion1ger.poet = poets_en_US_goadedes.po.Gerasimou
+meVE.Apolytikion1ger.mode = miscellanea_en_US_goadedes.misc.Mode5
+meVE.Apolytikion1ger.melody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.name
+meVE.Apolytikion1ger.incipit = "…"
+meVE.Apolytikion1ger.text = ""
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
@@ -239,11 +239,11 @@ meMA.Ode6C1T.melody = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.name
 meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = ""
 
-meMA.Kontakion1.poet = poets_en_US_goadedes.po.Gerasimou
-meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode3
-meMA.Kontakion1.melody = he.a.m3_en_US_goadedes.heAU.IParthenosSimeron.name
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
+meMA.Kontakion1ger.poet = poets_en_US_goadedes.po.Gerasimou
+meMA.Kontakion1ger.mode = miscellanea_en_US_goadedes.misc.Mode3
+meMA.Kontakion1ger.melody = he.a.m3_en_US_goadedes.heAU.IParthenosSimeron.name
+meMA.Kontakion1ger.incipit = "…"
+meMA.Kontakion1ger.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_goadedes.misc.Mode8
@@ -353,10 +353,10 @@ meMA.Ode9C1T.melody = he.h.m8_en_US_goadedes.heHE.KyriosTheotokon.name
 meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = ""
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
+meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
+meLI.Kontakion1.text = meMA.Kontakion1ger.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 

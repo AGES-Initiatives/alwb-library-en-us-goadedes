@@ -87,11 +87,11 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.incipit = oc.m2.d4_en_US_goadedes.ocMA.Kathisma32.incipit
 meVE.Apolytikion1.text = oc.m2.d4_en_US_goadedes.ocMA.Kathisma32.text
 
-meVE.Apolytikion2.poet = poets_en_US_goadedes.po.Gerasimou
-meVE.Apolytikion2.mode = miscellanea_en_US_goadedes.misc.Mode4
-meVE.Apolytikion2.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
-meVE.Apolytikion2.incipit = "…"
-meVE.Apolytikion2.text = ""
+meVE.Apolytikion2ger.poet = poets_en_US_goadedes.po.Gerasimou
+meVE.Apolytikion2ger.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.Apolytikion2ger.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
+meVE.Apolytikion2ger.incipit = "…"
+meVE.Apolytikion2ger.text = ""
 
 meVE.Apolytikion3.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Apolytikion3.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name

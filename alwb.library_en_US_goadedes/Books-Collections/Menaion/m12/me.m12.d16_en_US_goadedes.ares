@@ -44,17 +44,17 @@ meVE.SticStavrotheotokion.melody = he.a.m8_en_US_goadedes.heAU.OiMartyresSouKyri
 meVE.SticStavrotheotokion.incipit = me.m01.d23_en_US_goadedes.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m01.d23_en_US_goadedes.meVE.SticStavrotheotokion.text
 
-meVE.Apolytikion1.poet = poets_en_US_goadedes.po.Gerasimou
-meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode4
-meVE.Apolytikion1.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
-meVE.Apolytikion1.incipit = "…"
-meVE.Apolytikion1.text = ""
+meVE.Apolytikion1ger.poet = poets_en_US_goadedes.po.Gerasimou
+meVE.Apolytikion1ger.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.Apolytikion1ger.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
+meVE.Apolytikion1ger.incipit = "…"
+meVE.Apolytikion1ger.text = ""
 
-meVE.Apolytikion2.poet = poets_en_US_goadedes.po.Gerasimou
-meVE.Apolytikion2.mode = miscellanea_en_US_goadedes.misc.Mode3
-meVE.Apolytikion2.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
-meVE.Apolytikion2.incipit = "…"
-meVE.Apolytikion2.text = ""
+meVE.Apolytikion2ger.poet = poets_en_US_goadedes.po.Gerasimou
+meVE.Apolytikion2ger.mode = miscellanea_en_US_goadedes.misc.Mode3
+meVE.Apolytikion2ger.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
+meVE.Apolytikion2ger.incipit = "…"
+meVE.Apolytikion2ger.text = ""
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
@@ -465,8 +465,8 @@ alt1.meVE.AposBoth.text = me.m11.d30_en_US_goadedes.meMA.LaudsBoth.text
 
 alt1.meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode3
 alt1.meVE.Apolytikion1.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
-alt1.meVE.Apolytikion1.incipit = me.m12.d16_en_US_goadedes.meVE.Apolytikion2.incipit
-alt1.meVE.Apolytikion1.text = me.m12.d16_en_US_goadedes.meVE.Apolytikion2.text
+alt1.meVE.Apolytikion1.incipit = me.m12.d16_en_US_goadedes.meVE.Apolytikion2ger.incipit
+alt1.meVE.Apolytikion1.text = me.m12.d16_en_US_goadedes.meVE.Apolytikion2ger.text
 
 alt1.meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt1.meMA.Kathisma11.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name

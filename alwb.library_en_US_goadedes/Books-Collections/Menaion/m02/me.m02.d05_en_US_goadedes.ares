@@ -88,11 +88,11 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.incipit = me.m02.d02_en_US_goadedes.meVE.Apolytikion1.incipit
 meVE.Apolytikion1.text = me.m02.d02_en_US_goadedes.meVE.Apolytikion1.text
 
-meVE.Apolytikion2.poet = poets_en_US_goadedes.po.Gerasimou
-meVE.Apolytikion2.mode = miscellanea_en_US_goadedes.misc.Mode3
-meVE.Apolytikion2.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
-meVE.Apolytikion2.incipit = "…"
-meVE.Apolytikion2.text = ""
+meVE.Apolytikion2ger.poet = poets_en_US_goadedes.po.Gerasimou
+meVE.Apolytikion2ger.mode = miscellanea_en_US_goadedes.misc.Mode3
+meVE.Apolytikion2ger.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
+meVE.Apolytikion2ger.incipit = "…"
+meVE.Apolytikion2ger.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Kathisma11.melody = miscellanea_en_US_goadedes.misc.Automelon
