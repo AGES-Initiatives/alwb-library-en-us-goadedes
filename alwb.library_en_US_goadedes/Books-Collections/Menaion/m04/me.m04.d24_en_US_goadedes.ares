@@ -20,19 +20,20 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode8
+meVE.Stichera01.greekmelody = he.a.m8_en_US_goadedes.heAU.OiMartyresSouKyrie.greekname
 meVE.Stichera01.melody = he.a.m8_en_US_goadedes.heAU.OiMartyresSouKyrie.name
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
+meVE.Stichera01.incipit = "O holy Mother…"
+meVE.Stichera01.text = "O holy Mother, you persisted in ascetic labors, and you were given * the divine grace to remedy diseases * of both the body and the soul, * and to help all people who were suffering, * and to drive out spirits by the Spirit of God. * By your intercessions, * pray that good health and great mercy may be given to all."
 
 meVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Stichera02.melody = he.a.m8_en_US_goadedes.heAU.OiMartyresSouKyrie.name
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
+meVE.Stichera02.incipit = "The powder from your relics…"
+meVE.Stichera02.text = "The powder from your relics is a source of help for all those who approach you * with ardent faith; for you provide assistance, * restoring vision to the blind, * and curing the people of their illnesses, * honorable Mother, St. Elizabeth. * Now by your intercessions, * pray that good health and great mercy may be given to all."
 
 meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Stichera03.melody = he.a.m8_en_US_goadedes.heAU.OiMartyresSouKyrie.name
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
+meVE.Stichera03.incipit = "You exercised compassion…"
+meVE.Stichera03.text = "You exercised compassion and you practiced love for God and for your neighbor, * holding fast to the Orthodox confession, * O holy Mother blessed by God. * That is why the Holy Spirit's grace divine * found repose in you, O St. Elizabeth. * Now by your intercessions, * pray that good health and great mercy may be given to all."
 
 meVE.Apolytikion1ger.poet = poets_en_US_goadedes.po.Gerasimou
 meVE.Apolytikion1ger.mode = miscellanea_en_US_goadedes.misc.Mode5

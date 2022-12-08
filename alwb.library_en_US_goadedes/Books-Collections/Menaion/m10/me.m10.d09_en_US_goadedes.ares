@@ -20,6 +20,7 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.Stichera01.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 meVE.Stichera01.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 meVE.Stichera01.incipit = me.m04.d30_en_US_goadedes.meMA.Lauds1.incipit
 meVE.Stichera01.text = me.m04.d30_en_US_goadedes.meMA.Lauds1.text
@@ -35,6 +36,7 @@ meVE.Stichera03.incipit = me.m04.d30_en_US_goadedes.meMA.Lauds3.incipit
 meVE.Stichera03.text = me.m04.d30_en_US_goadedes.meMA.Lauds3.text
 
 meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode6
+meVE.Stichera04.greekmelody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.greekname
 meVE.Stichera04.melody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.name
 meVE.Stichera04.incipit = "…"
 meVE.Stichera04.text = ""

@@ -20,6 +20,7 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode8
+meVE.Stichera01.greekmelody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.greekname
 meVE.Stichera01.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
 meVE.Stichera01.incipit = me.m09.d14_en_US_goadedes.meMA.Lauds1.incipit
 meVE.Stichera01.text = me.m09.d14_en_US_goadedes.meMA.Lauds1.text
@@ -35,6 +36,7 @@ meVE.Stichera03.incipit = me.m09.d14_en_US_goadedes.meMA.Lauds3.incipit
 meVE.Stichera03.text = me.m09.d14_en_US_goadedes.meMA.Lauds3.text
 
 meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode8
+meVE.Stichera04.greekmelody = he.a.m8_en_US_goadedes.heAU.OiMartyresSouKyrie.greekname
 meVE.Stichera04.melody = he.a.m8_en_US_goadedes.heAU.OiMartyresSouKyrie.name
 meVE.Stichera04.incipit = "…"
 meVE.Stichera04.text = ""
