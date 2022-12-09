@@ -63,6 +63,7 @@ meVE.SticBoth.incipit = me.m12.d06_en_US_goadedes.meVE.AposBoth.incipit
 meVE.SticBoth.text = me.m12.d06_en_US_goadedes.meVE.AposBoth.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meVE.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
 meVE.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 meVE.Aposticha1.incipit = "…"
 meVE.Aposticha1.text = ""
@@ -803,16 +804,19 @@ meMA.Ode9H.incipit = he.h.m8_en_US_goadedes.heHE.KyriosTheotokon.incipit
 meMA.Ode9H.text = he.h.m8_en_US_goadedes.heHE.KyriosTheotokon.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion1.incipit = "Glorious virgin martyr…"
 meMA.Exaposteilarion1.text = "Glorious virgin martyr Saint, * pride of the medal winners, * O Anastasia, shrewd and wise, * please never cease imploring the Son of the holy Virgin * and all-pure Theotokos, * who is proceeding to be born * in the cave and the manger, and who forgives * sins of all who keep today your all-holy * memory and who honor you * and extol you with longing."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion2.incipit = "Your glowing sacred memory…"
 meMA.Exaposteilarion2.text = "Your glowing sacred memory * each year heralds the coming * of the Nativity of Christ, * who was born of the Virgin in Bethlehem; and it summons * Wise Men of Persia bearing * gifts, and the shepherds with the hosts * of Angels singing \"Gloria!\" And instead * of gold, myrrh, and frankincense, you competed * and to the Master gave yourself, * O Martyr Anastasia."
 
 meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Lauds1.greekmelody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.greekname
 meMA.Lauds1.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
 meMA.Lauds1.incipit = "…"
 meMA.Lauds1.text = ""
@@ -828,6 +832,7 @@ meMA.Lauds3.incipit = "…"
 meMA.Lauds3.text = ""
 
 meMA.Lauds4.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Lauds4.greekmelody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.greekname
 meMA.Lauds4.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
 meMA.Lauds4.incipit = "…"
 meMA.Lauds4.text = ""
@@ -843,6 +848,7 @@ meMA.LaudsBoth.incipit = "…"
 meMA.LaudsBoth.text = ""
 
 meMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 meMA.Aposticha1.incipit = "…"
 meMA.Aposticha1.text = ""

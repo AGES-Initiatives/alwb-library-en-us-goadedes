@@ -37,11 +37,13 @@ meVE.Stichera03.text = ""
 
 //Found in the back of Menaion
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.SticTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.SticTheotokion.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
 meVE.SticTheotokion.incipit = oc.m4.d4_en_US_goadedes.ocVE.Stichera4.incipit
 meVE.SticTheotokion.text = oc.m4.d4_en_US_goadedes.ocVE.Stichera4.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = ""

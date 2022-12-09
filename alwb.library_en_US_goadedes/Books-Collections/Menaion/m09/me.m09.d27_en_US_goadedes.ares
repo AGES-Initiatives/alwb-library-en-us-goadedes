@@ -42,11 +42,13 @@ meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.SticTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.SticTheotokion.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
 meVE.SticTheotokion.incipit = "You are like the sun…"
 meVE.SticTheotokion.text = "You are like the sun. Rejoice! You are the Sun's spotless chariot. * You gave rise to the Sun, your Son, * whom no one can comprehend. * Intellect aglow with divine beacon fires, * rejoice! The lightning flash that shines, * illuminating the corners of the earth. * Indeed you shine like gold, all-holy Virgin, blameless and beautiful. * The divine, never-setting Light * to the faithful shone forth from you."
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
 meVE.SticStavrotheotokion.incipit = me.m07.d18_en_US_goadedes.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m07.d18_en_US_goadedes.meVE.SticStavrotheotokion.text
@@ -332,6 +334,7 @@ meMA.Ode9H.incipit = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.incipit
 meMA.Ode9H.text = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""

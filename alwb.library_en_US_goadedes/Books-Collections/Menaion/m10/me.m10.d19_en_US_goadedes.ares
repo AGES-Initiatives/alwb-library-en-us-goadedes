@@ -52,11 +52,13 @@ meVE.Stichera06.incipit = "…"
 meVE.Stichera06.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
+meVE.SticTheotokion.greekmelody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.greekname
 meVE.SticTheotokion.melody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.name
 meVE.SticTheotokion.incipit = me.m10.d16_en_US_goadedes.meVE.SticTheotokion.incipit
 meVE.SticTheotokion.text = me.m10.d16_en_US_goadedes.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
+meVE.SticStavrotheotokion.greekmelody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.greekname
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.name
 meVE.SticStavrotheotokion.incipit = me.m01.d15_en_US_goadedes.meVE.AposStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m01.d15_en_US_goadedes.meVE.AposStavrotheotokion.text

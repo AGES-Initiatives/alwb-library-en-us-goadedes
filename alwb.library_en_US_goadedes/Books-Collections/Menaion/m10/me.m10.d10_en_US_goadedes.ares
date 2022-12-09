@@ -42,11 +42,13 @@ meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.SticTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.SticTheotokion.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
 meVE.SticTheotokion.incipit = "We salute you, Lady…"
 meVE.SticTheotokion.text = "We salute you, Lady, who became the luminous chariot * of your Son, the unsetting Sun, * whom no one can comprehend, * and whom you made shine forth. * Brilliant mind aglow with divine, resplendent light. Rejoice! * For you illuminate every place on earth. * Rejoice! You are the beautiful and blameless Virgin who gleam like gold, * and you shine the unsetting light * of your Son on believers all."
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = ""
@@ -57,11 +59,13 @@ meVE.AposGlory.incipit = "…"
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.AposTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.AposTheotokion.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
 meVE.AposTheotokion.incipit = oc.m4.d6_en_US_goadedes.ocVE.Stichera4.incipit
 meVE.AposTheotokion.text = oc.m4.d6_en_US_goadedes.ocVE.Stichera4.text
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.AposStavrotheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.AposStavrotheotokion.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
 meVE.AposStavrotheotokion.incipit = "…"
 meVE.AposStavrotheotokion.text = ""
@@ -335,6 +339,7 @@ meMA.Ode9H.incipit = he.h.m6_en_US_goadedes.heHE.TheonAnthropois.incipit
 meMA.Ode9H.text = he.h.m6_en_US_goadedes.heHE.TheonAnthropois.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""

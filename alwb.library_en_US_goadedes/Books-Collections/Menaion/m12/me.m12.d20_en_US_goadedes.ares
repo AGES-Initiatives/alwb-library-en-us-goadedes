@@ -746,21 +746,25 @@ meMA.Ode9C2T.incipit = "…"
 meMA.Ode9C2T.text = ""
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_goadedes.heAU.EpeskepsatoImas.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_goadedes.heAU.EpeskepsatoImas.name
 meMA.Exaposteilarion1.incipit = "Get ready, O Bethlehem…"
 meMA.Exaposteilarion1.text = "Get ready, O Bethlehem, * and you, O Cave, prepare yourself; * and you, O Manger, receive Him, * our God who is uncircumscribed * and physically now circumscribed. * For He is coming to be born * as He wills in His good pleasure."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion2.incipit = "O St. Ignatius, God-bearer…"
 meMA.Exaposteilarion2.text = "O St. Ignatius, God-bearer, * you wrote in your epistle, * \"I am the wheat of God, my Lord * and Savior. So now let me become the food for the wild beasts. * I must be ground by their teeth, * that I be found the sweet and pure * bread of Christ.\" Please remember us who observe * your most splendid memory, as you stand now * near the all-holy Trinity, * wise Hierarch and Martyr."
 
 meMA.Exaposteilarion3.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Exaposteilarion3.greekmelody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion3.melody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion3.incipit = "Ignatius, being wounded…"
 meMA.Exaposteilarion3.text = "Ignatius, being wounded by the love of God your Lord, you said, * \"My love, namely Christ my Savior, * has been crucified of His own will. * I thirst now to be thirsted for; alive, I love to be loved by Him. * I wish to be imitating * His passion and long to join Him * in His everlasting kingdom.\""
 
 meMA.Exaposteilarion4.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Exaposteilarion4.greekmelody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion4.melody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion4.incipit = "…"
 meMA.Exaposteilarion4.text = "Come, all you faithful, let us now with faith anticipating sing * the pre-festal hymns of Christmas. * For Christ our Savior is coming * to Bethlehem, where He will be as human from the Virgin born. * He who is pre-eternal God * will be seen to be an infant * in swaddling clothes in a manger."
@@ -785,6 +789,7 @@ meMA.Lauds3.text = ""
 
 meMA.Lauds4.poet = poets_en_US_goadedes.po.RomanouTouMelodou
 meMA.Lauds4.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Lauds4.greekmelody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.greekname
 meMA.Lauds4.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
 meMA.Lauds4.incipit = "…"
 meMA.Lauds4.text = ""

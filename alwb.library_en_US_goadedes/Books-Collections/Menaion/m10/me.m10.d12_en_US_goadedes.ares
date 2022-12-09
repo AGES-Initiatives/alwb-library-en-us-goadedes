@@ -42,11 +42,13 @@ meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.SticTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.SticTheotokion.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
 meVE.SticTheotokion.incipit = oc.m4.d6_en_US_goadedes.ocVE.Stichera4.incipit
 meVE.SticTheotokion.text = oc.m4.d6_en_US_goadedes.ocVE.Stichera4.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
 meVE.SticStavrotheotokion.incipit = oc.m4.d4_en_US_goadedes.ocVE.SticTheotokion.incipit
 meVE.SticStavrotheotokion.text = oc.m4.d4_en_US_goadedes.ocVE.SticTheotokion.text
@@ -58,11 +60,13 @@ meVE.AposGlory.incipit = "…"
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode1
+meVE.AposTheotokion.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname
 meVE.AposTheotokion.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 meVE.AposTheotokion.incipit = "…"
 meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode1
+meVE.AposStavrotheotokion.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname
 meVE.AposStavrotheotokion.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 meVE.AposStavrotheotokion.incipit = oc.m1.d6_en_US_goadedes.ocVE.SticTheotokion.incipit
 meVE.AposStavrotheotokion.text = oc.m1.d6_en_US_goadedes.ocVE.SticTheotokion.text
@@ -348,6 +352,7 @@ meMA.Ode9H.incipit = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.incipit
 meMA.Ode9H.text = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
@@ -363,11 +368,13 @@ meMA.AposGlory.incipit = meVE.SticGlory.incipit
 meMA.AposGlory.text = meVE.SticGlory.text
 
 meMA.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.AposTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meMA.AposTheotokion.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
 meMA.AposTheotokion.incipit = "…"
 meMA.AposTheotokion.text = ""
 
 meMA.AposStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.AposStavrotheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meMA.AposStavrotheotokion.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
 meMA.AposStavrotheotokion.incipit = "Savior, when Your side…"
 meMA.AposStavrotheotokion.text = "Savior, when Your side was pierced, the bond that from the beginning stood * against Adam our ancestor, * was cancelled and torn apart; * and our human nature, * which of old was banished, * is sanctified now by Your blood, * O very merciful Lord. We sing to You: * O Jesus the almighty Savior of our souls, we all glorify * your compassion, extolling Your * crucifixion that saved the world."

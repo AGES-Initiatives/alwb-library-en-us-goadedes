@@ -50,16 +50,19 @@ meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
+meVE.SticTheotokion.greekmelody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.greekname
 meVE.SticTheotokion.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
+meVE.SticStavrotheotokion.greekmelody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.greekname
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
 meVE.SticStavrotheotokion.incipit = oc.m6.d4_en_US_goadedes.ocVE.AposTheotokion.incipit
 meVE.SticStavrotheotokion.text = oc.m6.d4_en_US_goadedes.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode1
+meVE.Aposticha1.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname
 meVE.Aposticha1.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 meVE.Aposticha1.incipit = "O lovely virgin St. Thecla…"
 meVE.Aposticha1.text = "O lovely virgin St. Thecla, renowned Apostles' peer, * the pride of women martyrs * as their first, O Protomartyr: * Heal my soul and body, I beg you, from all * woeful passions and every wound, * and snatch me out of the fire that never ends, * by your prayers that are answered by God."
@@ -81,11 +84,13 @@ meVE.AposGlory.incipit = "…"
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
+meVE.AposTheotokion.greekmelody = he.a.m8_en_US_goadedes.heAU.OiMartyresSouKyrie.greekname
 meVE.AposTheotokion.melody = he.a.m8_en_US_goadedes.heAU.OiMartyresSouKyrie.name
 meVE.AposTheotokion.incipit = "…"
 meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
+meVE.AposStavrotheotokion.greekmelody = he.a.m8_en_US_goadedes.heAU.OiMartyresSouKyrie.greekname
 meVE.AposStavrotheotokion.melody = he.a.m8_en_US_goadedes.heAU.OiMartyresSouKyrie.name
 meVE.AposStavrotheotokion.incipit = me.m01.d23_en_US_goadedes.meVE.SticStavrotheotokion.incipit
 meVE.AposStavrotheotokion.text = me.m01.d23_en_US_goadedes.meVE.SticStavrotheotokion.text
@@ -367,6 +372,7 @@ meMA.Ode9H.incipit = he.h.m8_en_US_goadedes.heHE.SeTinApeirogamon.incipit
 meMA.Ode9H.text = he.h.m8_en_US_goadedes.heHE.SeTinApeirogamon.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
@@ -406,11 +412,13 @@ meMA.LaudsGlory.incipit = "O Protomartyr of Christ…"
 meMA.LaudsGlory.text = "O Protomartyr of Christ, not only did people marvel at your superhuman feats, but even wild animals were amazed. The flames of fire were reckoned as not flames, O fair virgin Thecla, because of Christ your Bridegroom; for you were happy to suffered for Him. You divorced yourself from the world so that you might obtain the blessedness of heaven. And now with confidence you intercede on behalf of our souls."
 
 meMA.LaudsTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.LaudsTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 meMA.LaudsTheotokion.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 meMA.LaudsTheotokion.incipit = "…"
 meMA.LaudsTheotokion.text = ""
 
 meMA.LaudsStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.LaudsStavrotheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 meMA.LaudsStavrotheotokion.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 meMA.LaudsStavrotheotokion.incipit = me.m02.d27_en_US_goadedes.meVE.SticStavrotheotokion.incipit
 meMA.LaudsStavrotheotokion.text = me.m02.d27_en_US_goadedes.meVE.SticStavrotheotokion.text
@@ -422,11 +430,13 @@ meMA.AposGlory.incipit = "…"
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.AposTheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
 meMA.AposTheotokion.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
 meMA.AposTheotokion.incipit = "…"
 meMA.AposTheotokion.text = ""
 
 meMA.AposStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.AposStavrotheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
 meMA.AposStavrotheotokion.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
 meMA.AposStavrotheotokion.incipit = "…"
 meMA.AposStavrotheotokion.text = ""

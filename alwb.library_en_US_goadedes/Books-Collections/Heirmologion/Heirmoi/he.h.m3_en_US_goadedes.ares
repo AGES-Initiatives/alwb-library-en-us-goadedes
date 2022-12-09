@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = he.h.m3_en_US_goadedes
 
 heHE.AnagageEkFthoras.notmetered = "N/M ()"
+heHE.AnagageEkFthoras.greekname = "Ἀνάγαγε ἐκ φθορᾶς."
 heHE.AnagageEkFthoras.name = ""
 heHE.AnagageEkFthoras.incipit = "…"
 heHE.AnagageEkFthoras.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -9,6 +10,7 @@ heHE.AnagageEkFthoras.ode = miscellanea_en_US_goadedes.misc.Ode6
 heHE.AnagageEkFthoras.text = ""
 
 heHE.AsmaKainon.notmetered = "N/M ()"
+heHE.AsmaKainon.greekname = "ᾎσμα καινόν."
 heHE.AsmaKainon.name = ""
 heHE.AsmaKainon.incipit = "…"
 heHE.AsmaKainon.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -17,6 +19,7 @@ heHE.AsmaKainon.ode = miscellanea_en_US_goadedes.misc.Ode1
 heHE.AsmaKainon.text = ""
 
 heHE.AsomenToKyrio.notmetered = "N/M ()"
+heHE.AsomenToKyrio.greekname = "ᾌσωμεν τῷ Κυρίῳ."
 heHE.AsomenToKyrio.name = ""
 heHE.AsomenToKyrio.incipit = "…"
 heHE.AsomenToKyrio.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -25,6 +28,7 @@ heHE.AsomenToKyrio.ode = miscellanea_en_US_goadedes.misc.Ode1
 heHE.AsomenToKyrio.text = ""
 
 heHE.AstektoPyri.notmetered = "N/M (Unharmed were the young men.)"
+heHE.AstektoPyri.greekname = "Ἀστέκτῳ πυρί."
 heHE.AstektoPyri.name = "Unharmed were the young men."
 heHE.AstektoPyri.incipit = "Unharmed were the young men…"
 heHE.AstektoPyri.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -33,6 +37,7 @@ heHE.AstektoPyri.ode = miscellanea_en_US_goadedes.misc.Ode8
 heHE.AstektoPyri.text = "Unharmed were the young men, who were champions * of belief in God, when they were thrown into the furnace * and they faced unbearable fire; and they sang a hymn to God: * \"All you works of the Lord, bless the Lord, * and exalt Him beyond measure unto all the ages.\""
 
 heHE.AvyssosEschati.notmetered = "N/M (Sinfulness encircles me.)"
+heHE.AvyssosEschati.greekname = "Ἄβυσσος ἐσχάτη."
 heHE.AvyssosEschati.name = "Sinfulness encircles me."
 heHE.AvyssosEschati.incipit = "Sinfulness encircles me…"
 heHE.AvyssosEschati.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -41,6 +46,7 @@ heHE.AvyssosEschati.ode = miscellanea_en_US_goadedes.misc.Ode6
 heHE.AvyssosEschati.text = "Sinfulness encircles me as the lowest depth did Jonah, * and my spirit is failing me. * I cry out to You, O Master. Reach out Your exalted arm. * Pilot, rescue me, as You saved Your Apostle of old."
 
 heHE.ChersonAvyssotokon.notmetered = "N/M (Sunlight once hovered.)"
+heHE.ChersonAvyssotokon.greekname = "Χέρσον ἀβυσσοτόκον."
 heHE.ChersonAvyssotokon.name = "Sunlight once hovered."
 heHE.ChersonAvyssotokon.incipit = "Sunlight once hovered…"
 heHE.ChersonAvyssotokon.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -49,6 +55,7 @@ heHE.ChersonAvyssotokon.ode = miscellanea_en_US_goadedes.misc.Ode1
 heHE.ChersonAvyssotokon.text = "Sunlight once hovered over the abyssal plain that was rendered dry of old. * For the water like a wall on either side became solid, * and people walked across on dry land and sang an ode, pleasing to God, * \"Sing to the Lord, who triumphed; for He is greatly glorified.\""
 
 heHE.EisakikoaTinAkoin.notmetered = "N/M ()"
+heHE.EisakikoaTinAkoin.greekname = "Εἰσακήκοα τὴν ἀκοήν."
 heHE.EisakikoaTinAkoin.name = ""
 heHE.EisakikoaTinAkoin.incipit = "…"
 heHE.EisakikoaTinAkoin.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -57,6 +64,7 @@ heHE.EisakikoaTinAkoin.ode = miscellanea_en_US_goadedes.misc.Ode4
 heHE.EisakikoaTinAkoin.text = ""
 
 heHE.EkalypsenOuranous.notmetered = "N/M (The heavens were covered.)"
+heHE.EkalypsenOuranous.greekname = "Ἐκάλυψεν οὐρανούς."
 heHE.EkalypsenOuranous.name = "The heavens were covered."
 heHE.EkalypsenOuranous.incipit = "The heavens were covered…"
 heHE.EkalypsenOuranous.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -65,6 +73,7 @@ heHE.EkalypsenOuranous.ode = miscellanea_en_US_goadedes.misc.Ode4
 heHE.EkalypsenOuranous.text = "The heavens were covered by Your virtue, O Christ. * For coming forth from the Ark of Your holiness, Your Mother who sustained no corruption, * You appeared today in Your glorious Temple, as an infant held in arms. * And the entire creation was filled with Your praise."
 
 heHE.EnNomoSkia.notmetered = "N/M (In the shadow and the letter.)"
+heHE.EnNomoSkia.greekname = "Ἐν νόμῳ σκιᾷ."
 heHE.EnNomoSkia.name = "In the shadow and the letter."
 heHE.EnNomoSkia.incipit = "In the shadow and the letter…"
 heHE.EnNomoSkia.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -73,6 +82,7 @@ heHE.EnNomoSkia.ode = miscellanea_en_US_goadedes.misc.Ode9
 heHE.EnNomoSkia.text = "In the shadow and the letter of the Law, * we the faithful perceive the decree: * Consecrate to God every male, the first-born opening the womb. * Now the unoriginate Father's first-born Logos and Son * is also first-born of a virgin Mother, and we magnify Him."
 
 heHE.EnSinaioToOrei.notmetered = "N/M ()"
+heHE.EnSinaioToOrei.greekname = "Ἐν Σιναίῳ τῷ ὅρει."
 heHE.EnSinaioToOrei.name = ""
 heHE.EnSinaioToOrei.incipit = "…"
 heHE.EnSinaioToOrei.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -81,6 +91,7 @@ heHE.EnSinaioToOrei.ode = miscellanea_en_US_goadedes.misc.Ode9
 heHE.EnSinaioToOrei.text = ""
 
 heHE.EnylouFlogaPyros.notmetered = "N/M ()"
+heHE.EnylouFlogaPyros.greekname = "Ἐνύλου φλόγα πυρός."
 heHE.EnylouFlogaPyros.name = ""
 heHE.EnylouFlogaPyros.incipit = "…"
 heHE.EnylouFlogaPyros.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -89,6 +100,7 @@ heHE.EnylouFlogaPyros.ode = miscellanea_en_US_goadedes.misc.Ode8
 heHE.EnylouFlogaPyros.text = ""
 
 heHE.EpiTisGis.notmetered = "N/M ()"
+heHE.EpiTisGis.greekname = "Ἐπὶ τῆς γῆς."
 heHE.EpiTisGis.name = ""
 heHE.EpiTisGis.incipit = "…"
 heHE.EpiTisGis.melody = miscellanea_en_US_goadedes.misc.HeirmosNotMetered
@@ -97,6 +109,7 @@ heHE.EpiTisGis.ode = miscellanea_en_US_goadedes.misc.Ode5
 heHE.EpiTisGis.text = "Although invisible, You were seen on earth, and although incomprehensible, you willingly dwelt among men. We rise early to you and sing Your praises, O Lover of humanity."
 
 heHE.EstereothiIKardiaMou.notmetered = "N/M ()"
+heHE.EstereothiIKardiaMou.greekname = "Ἐστερεώθη ἡ καρδία μου."
 heHE.EstereothiIKardiaMou.name = ""
 heHE.EstereothiIKardiaMou.incipit = "…"
 heHE.EstereothiIKardiaMou.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -105,6 +118,7 @@ heHE.EstereothiIKardiaMou.ode = miscellanea_en_US_goadedes.misc.Ode3
 heHE.EstereothiIKardiaMou.text = ""
 
 heHE.EthouProsImas.notmetered = "N/M (Lord, You have established.)"
+heHE.EthouProsImas.greekname = "Ἔθου πρὸς ἡμᾶς."
 heHE.EthouProsImas.name = "Lord, You have established."
 heHE.EthouProsImas.incipit = "Lord, You have established…"
 heHE.EthouProsImas.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -113,6 +127,7 @@ heHE.EthouProsImas.ode = miscellanea_en_US_goadedes.misc.Ode4
 heHE.EthouProsImas.text = "Lord, You have established a mighty love of Your strength for us; * God of our deliverance, You gave Your only-begotten Son to die for us. * And now with thanksgiving we sing out and praise You: * Glory to Your strength, O Lord!"
 
 heHE.EvlogitosKyrios.notmetered = "N/M (Blessed is the Lord.)"
+heHE.EvlogitosKyrios.greekname = "Εὐλογητὸς Κύριος."
 heHE.EvlogitosKyrios.name = ""
 heHE.EvlogitosKyrios.incipit = "…"
 heHE.EvlogitosKyrios.melody = miscellanea_en_US_goadedes.misc.HeirmosNotMetered
@@ -121,6 +136,7 @@ heHE.EvlogitosKyrios.ode = miscellanea_en_US_goadedes.misc.Ode9
 heHE.EvlogitosKyrios.text = "Blessed is the Lord God of Israel, who has raised up a horn of salvation for us in the house of His servant David, through the tender mercy of our God, with which the Dayspring from on high has visited us; to guide us into the way of peace."
 
 heHE.EvoisaEnStenagmois.notmetered = "N/M ()"
+heHE.EvoisaEnStenagmois.greekname = "Ἐβόησα ἐν στεναγμοῖς."
 heHE.EvoisaEnStenagmois.name = ""
 heHE.EvoisaEnStenagmois.incipit = "…"
 heHE.EvoisaEnStenagmois.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -129,6 +145,7 @@ heHE.EvoisaEnStenagmois.ode = miscellanea_en_US_goadedes.misc.Ode6
 heHE.EvoisaEnStenagmois.text = ""
 
 heHE.EvoiseSoi.notmetered = "N/M (To You, the Elder.)"
+heHE.EvoiseSoi.greekname = "Ἐβόησέ σοι."
 heHE.EvoiseSoi.name = "To You, the Elder."
 heHE.EvoiseSoi.incipit = "To You, the Elder…"
 heHE.EvoiseSoi.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -137,6 +154,7 @@ heHE.EvoiseSoi.ode = miscellanea_en_US_goadedes.misc.Ode6
 heHE.EvoiseSoi.text = "To You, the Elder cried out, on seeing * with his own eyes the salvation that You prepared for all people, * \"God from God are You, Christ my Savior.\""
 
 heHE.FaraoTaArmata.notmetered = "N/M ()"
+heHE.FaraoTaArmata.greekname = "Φαραὼ τὰ ἅρματα."
 heHE.FaraoTaArmata.name = ""
 heHE.FaraoTaArmata.incipit = "…"
 heHE.FaraoTaArmata.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -145,6 +163,7 @@ heHE.FaraoTaArmata.ode = miscellanea_en_US_goadedes.misc.Ode1
 heHE.FaraoTaArmata.text = ""
 
 heHE.FotiToAnespero.notmetered = "N/M ()"
+heHE.FotiToAnespero.greekname = "Φωτὶ τῷ ἀνεσπέρῳ."
 heHE.FotiToAnespero.name = ""
 heHE.FotiToAnespero.incipit = "…"
 heHE.FotiToAnespero.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -153,6 +172,7 @@ heHE.FotiToAnespero.ode = miscellanea_en_US_goadedes.misc.Ode5
 heHE.FotiToAnespero.text = ""
 
 heHE.IdeteIdete.notmetered = "N/M ()"
+heHE.IdeteIdete.greekname = "Ἴδετε, ἴδετε."
 heHE.IdeteIdete.name = ""
 heHE.IdeteIdete.incipit = "…"
 heHE.IdeteIdete.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -161,6 +181,7 @@ heHE.IdeteIdete.ode = miscellanea_en_US_goadedes.misc.Ode2
 heHE.IdeteIdete.text = ""
 
 heHE.KainonToThavma.notmetered = "N/M (O novel wonder.)"
+heHE.KainonToThavma.greekname = "Καινὸν τὸ θαῦμα."
 heHE.KainonToThavma.name = "O novel wonder."
 heHE.KainonToThavma.incipit = "O novel wonder…"
 heHE.KainonToThavma.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -169,6 +190,7 @@ heHE.KainonToThavma.ode = miscellanea_en_US_goadedes.misc.Ode9
 heHE.KainonToThavma.text = "O novel wonder, so befitting God! * For the Lord himself has manifestly passed through * the gate of the Virgin, which was shut. * Naked God, He entered, and He appeared wearing flesh when He exited, * the gate remaining shut notwithstanding. * We magnify her who is ineffably the Mother of God."
 
 heHE.LatreveinZontiTheo.notmetered = "N/M ()"
+heHE.LatreveinZontiTheo.greekname = "Λατρεύειν ζῶντι Θεῷ."
 heHE.LatreveinZontiTheo.name = ""
 heHE.LatreveinZontiTheo.incipit = "…"
 heHE.LatreveinZontiTheo.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -177,6 +199,7 @@ heHE.LatreveinZontiTheo.ode = miscellanea_en_US_goadedes.misc.Ode8
 heHE.LatreveinZontiTheo.text = ""
 
 heHE.MiEnPotamois.notmetered = "N/M ()"
+heHE.MiEnPotamois.greekname = "Μὴ ἐν ποταμοῖς."
 heHE.MiEnPotamois.name = ""
 heHE.MiEnPotamois.incipit = "…"
 heHE.MiEnPotamois.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -185,6 +208,7 @@ heHE.MiEnPotamois.ode = miscellanea_en_US_goadedes.misc.Ode4
 heHE.MiEnPotamois.text = ""
 
 heHE.OEkMiOnton.notmetered = "N/M (From non-existence.)"
+heHE.OEkMiOnton.greekname = "Ὁ ἐκ μὴ ὄντων."
 heHE.OEkMiOnton.name = "From non-existence."
 heHE.OEkMiOnton.incipit = "From non-existence…"
 heHE.OEkMiOnton.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -193,6 +217,7 @@ heHE.OEkMiOnton.ode = miscellanea_en_US_goadedes.misc.Ode3
 heHE.OEkMiOnton.text = "From non-existence You brought forth all things, O God, * through the Word creating them, in the Spirit perfecting them. * Most High Ruler over all, * firmly establish me in Your love, O Master."
 
 heHE.OTaYdata.notmetered = "N/M (He who gathered the water.)"
+heHE.OTaYdata.greekname = "Ὁ τὰ ὕδατα."
 heHE.OTaYdata.name = "He who gathered the water."
 heHE.OTaYdata.incipit = "He who gathered the water…"
 heHE.OTaYdata.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -201,6 +226,7 @@ heHE.OTaYdata.ode = miscellanea_en_US_goadedes.misc.Ode1
 heHE.OTaYdata.text = "He who gathered the water into its places * of old by divine decree is the same One * who for the Israelite people parted the sea. * He is our God and Lord, and He is glorified greatly. * To Him only let us sing, for He is glorified."
 
 heHE.OTinFloga.notmetered = "N/M ()"
+heHE.OTinFloga.greekname = "Ὁ τὴν φλόγα."
 heHE.OTinFloga.name = ""
 heHE.OTinFloga.incipit = "…"
 heHE.OTinFloga.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -209,6 +235,7 @@ heHE.OTinFloga.ode = miscellanea_en_US_goadedes.misc.Ode7
 heHE.OTinFloga.text = ""
 
 heHE.OiToGlykei.notmetered = "N/M ()"
+heHE.OiToGlykei.greekname = "Οἱ τῷ γλυκεῖ."
 heHE.OiToGlykei.name = ""
 heHE.OiToGlykei.incipit = "…"
 heHE.OiToGlykei.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -217,6 +244,7 @@ heHE.OiToGlykei.ode = miscellanea_en_US_goadedes.misc.Ode9
 heHE.OiToGlykei.text = ""
 
 heHE.OrthrizontesAnymnoumen.notmetered = "N/M ()"
+heHE.OrthrizontesAnymnoumen.greekname = "Ὀρθρίζοντες ἀνυμνοῦμεν."
 heHE.OrthrizontesAnymnoumen.name = ""
 heHE.OrthrizontesAnymnoumen.incipit = "…"
 heHE.OrthrizontesAnymnoumen.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -225,6 +253,7 @@ heHE.OrthrizontesAnymnoumen.ode = miscellanea_en_US_goadedes.misc.Ode5
 heHE.OrthrizontesAnymnoumen.text = ""
 
 heHE.OsEidenIsaias.notmetered = "N/M (Isaiah had a mystical vision.)"
+heHE.OsEidenIsaias.greekname = "Ὡς εἶδεν Ἠσαΐας."
 heHE.OsEidenIsaias.name = "Isaiah had a mystical vision."
 heHE.OsEidenIsaias.incipit = "Isaiah had a mystical vision…"
 heHE.OsEidenIsaias.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -233,6 +262,7 @@ heHE.OsEidenIsaias.ode = miscellanea_en_US_goadedes.misc.Ode5
 heHE.OsEidenIsaias.text = "Isaiah had a mystical vision of God * sitting on a throne lifted up, * and around Him stood the glorious Seraphim. * The Prophet cried out, \"Woe is me! * With my eyes I have foreseen incarnate God; * and He is the Master of never-setting light and peace.\""
 
 heHE.OsOmvrosEpAgrostin.notmetered = "N/M ()"
+heHE.OsOmvrosEpAgrostin.greekname = "Ὡς ὄμβρος ἐπʼ ἄγρωστιν."
 heHE.OsOmvrosEpAgrostin.name = "N/M ()"
 heHE.OsOmvrosEpAgrostin.incipit = "N/M ()…"
 heHE.OsOmvrosEpAgrostin.melody = miscellanea_en_US_goadedes.misc.HeirmosNotMetered
@@ -241,6 +271,7 @@ heHE.OsOmvrosEpAgrostin.ode = miscellanea_en_US_goadedes.misc.Ode2
 heHE.OsOmvrosEpAgrostin.text = "Let my words come down as raindrops on the wild grass, and as snowfall on the sown grass." //(SAAS)
 
 heHE.OsPalaiTousEfseveis.notmetered = "N/M (Of old You refreshed.)"
+heHE.OsPalaiTousEfseveis.greekname = "Ὡς πάλαι τοὺς εὐσεβεῖς."
 heHE.OsPalaiTousEfseveis.name = "Of old You refreshed."
 heHE.OsPalaiTousEfseveis.incipit = "Of old You refreshed…"
 heHE.OsPalaiTousEfseveis.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -249,6 +280,7 @@ heHE.OsPalaiTousEfseveis.ode = miscellanea_en_US_goadedes.misc.Ode7
 heHE.OsPalaiTousEfseveis.text = "Of old You refreshed with dew the God-fearing three young men * in the Chaldean furnace's flames. * Master, with Your Godhead's illuminating fire, * we pray You enlighten us, * as we cry out and sing to You: * Blessed are You, O God of our fathers."
 
 heHE.ProsSeOrthrizo.notmetered = "N/M (I rise early in the morning.)"
+heHE.ProsSeOrthrizo.greekname = "Πρὸς σὲ ὀρθρίζω."
 heHE.ProsSeOrthrizo.name = "I rise early in the morning."
 heHE.ProsSeOrthrizo.incipit = "I rise early in the morning…"
 heHE.ProsSeOrthrizo.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -257,6 +289,7 @@ heHE.ProsSeOrthrizo.ode = miscellanea_en_US_goadedes.misc.Ode5
 heHE.ProsSeOrthrizo.text = "I rise early in the morning, Fashioner of all, * to You, the peace that passes all understanding. * O Lord our God, Your commands and judgments * are light. I pray You, guide me by them."
 
 heHE.ProsecheGiKaiOurane.notmetered = "N/M ()"
+heHE.ProsecheGiKaiOurane.greekname = "Πρόσεχε γῆ καὶ οὐρανέ."
 heHE.ProsecheGiKaiOurane.name = ""
 heHE.ProsecheGiKaiOurane.incipit = "…"
 heHE.ProsecheGiKaiOurane.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -265,6 +298,7 @@ heHE.ProsecheGiKaiOurane.ode = miscellanea_en_US_goadedes.misc.Ode2
 heHE.ProsecheGiKaiOurane.text = ""
 
 heHE.SeTinAkataflekton.notmetered = "N/M (We, O holy Virgin, perceive you.)"
+heHE.SeTinAkataflekton.greekname = "Σὲ τὴν ἀκατάφλεκτον."
 heHE.SeTinAkataflekton.name = "We, O holy Virgin, perceive you."
 heHE.SeTinAkataflekton.incipit = "We, O holy Virgin, perceive you…"
 heHE.SeTinAkataflekton.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -273,6 +307,7 @@ heHE.SeTinAkataflekton.ode = miscellanea_en_US_goadedes.misc.Ode9
 heHE.SeTinAkataflekton.text = "We, O holy Virgin, perceive you * as the bush that did not burn, * as the Mother of the Light, and Theotokos, * and the hope of all of us, and we magnify you."
 
 heHE.SeTinAthanaton.notmetered = "N/M (We ever magnify you.)"
+heHE.SeTinAthanaton.greekname = "Σὲ τὴν ἀθάνατον."
 heHE.SeTinAthanaton.name = "N/M (We ever magnify you.)"
 heHE.SeTinAthanaton.incipit = "We ever magnify you.…"
 heHE.SeTinAthanaton.melody = miscellanea_en_US_goadedes.misc.HeirmosNotMetered
@@ -281,6 +316,7 @@ heHE.SeTinAthanaton.ode = miscellanea_en_US_goadedes.misc.Ode9
 heHE.SeTinAthanaton.text = "We ever magnify you, the immortal fountain, that through the saints gives cures and healings to the human race, for you save our souls."
 
 heHE.SeTonEnPyri.notmetered = "N/M (Servants in the furnace.)"
+heHE.SeTonEnPyri.greekname = "Σὲ τὸν ἐν πυρί."
 heHE.SeTonEnPyri.name = "Servants in the furnace."
 heHE.SeTonEnPyri.incipit = "Servants in the furnace…"
 heHE.SeTonEnPyri.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -289,6 +325,7 @@ heHE.SeTonEnPyri.ode = miscellanea_en_US_goadedes.misc.Ode7
 heHE.SeTonEnPyri.text = "Servants in the furnace spoke of God. * You bedewed them, O God the Logos; * and You dwelt in the womb of the immaculate, holy Virgin. We praise You * and sing to You devoutly: * Blessed are You, O Lord, the God of our fathers."
 
 heHE.SkinoseosIonas.notmetered = "N/M ()"
+heHE.SkinoseosIonas.greekname = "Σκηνώσεως Ἰωνᾶς."
 heHE.SkinoseosIonas.name = ""
 heHE.SkinoseosIonas.incipit = "…"
 heHE.SkinoseosIonas.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -297,6 +334,7 @@ heHE.SkinoseosIonas.ode = miscellanea_en_US_goadedes.misc.Ode6
 heHE.SkinoseosIonas.text = ""
 
 heHE.SovarosOTyrannos.notmetered = "N/M ()"
+heHE.SovarosOTyrannos.greekname = "Σοβαρὸς ὁ τύραννος."
 heHE.SovarosOTyrannos.name = ""
 heHE.SovarosOTyrannos.incipit = "…"
 heHE.SovarosOTyrannos.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -305,6 +343,7 @@ heHE.SovarosOTyrannos.ode = miscellanea_en_US_goadedes.misc.Ode7
 heHE.SovarosOTyrannos.text = ""
 
 heHE.SteiraPsychi.notmetered = "N/M ()"
+heHE.SteiraPsychi.greekname = "Στεῖρα ψυχή."
 heHE.SteiraPsychi.name = ""
 heHE.SteiraPsychi.incipit = "…"
 heHE.SteiraPsychi.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -313,6 +352,7 @@ heHE.SteiraPsychi.ode = miscellanea_en_US_goadedes.misc.Ode3
 heHE.SteiraPsychi.text = ""
 
 heHE.StereosonKyrie.notmetered = "N/M ()"
+heHE.StereosonKyrie.greekname = "Στερέωσον Κύριε."
 heHE.StereosonKyrie.name = ""
 heHE.StereosonKyrie.incipit = "…"
 heHE.StereosonKyrie.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -321,6 +361,7 @@ heHE.StereosonKyrie.ode = miscellanea_en_US_goadedes.misc.Ode3
 heHE.StereosonKyrie.text = ""
 
 heHE.TemnomeninThalassan.notmetered = "N/M ()"
+heHE.TemnomeninThalassan.greekname = "Τεμνομένην θάλασσαν."
 heHE.TemnomeninThalassan.name = ""
 heHE.TemnomeninThalassan.incipit = "…"
 heHE.TemnomeninThalassan.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -329,6 +370,7 @@ heHE.TemnomeninThalassan.ode = miscellanea_en_US_goadedes.misc.Ode1
 heHE.TemnomeninThalassan.text = ""
 
 heHE.ThavmastosEndoxos.notmetered = "N/M ()"
+heHE.ThavmastosEndoxos.greekname = "Θαυμαστὸς ἐνδόξως."
 heHE.ThavmastosEndoxos.name = ""
 heHE.ThavmastosEndoxos.incipit = "…"
 heHE.ThavmastosEndoxos.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -337,6 +379,7 @@ heHE.ThavmastosEndoxos.ode = miscellanea_en_US_goadedes.misc.Ode1
 heHE.ThavmastosEndoxos.text = ""
 
 heHE.TinEnVatoKaiPyri.notmetered = "N/M ()"
+heHE.TinEnVatoKaiPyri.greekname = "Τὴν ἐν βάτῳ καὶ πυρί."
 heHE.TinEnVatoKaiPyri.name = ""
 heHE.TinEnVatoKaiPyri.incipit = "…"
 heHE.TinEnVatoKaiPyri.melody = miscellanea_en_US_goadedes.misc.HeirmosNotMetered
@@ -345,6 +388,7 @@ heHE.TinEnVatoKaiPyri.ode = miscellanea_en_US_goadedes.misc.Ode9
 heHE.TinEnVatoKaiPyri.text = "We magnify the only Theotokos. She was prefigured on Sinai to Moses the Lawgiver in the bush and the fire, as the one who would conceive unburnt the Divine Fire in her womb. We honor her with hymns, as the unquenchable lamp shining splendid light."
 
 heHE.TinSinEirinin.notmetered = "N/M ()"
+heHE.TinSinEirinin.greekname = "Τὴν σὴν εἰρήνην."
 heHE.TinSinEirinin.name = ""
 heHE.TinSinEirinin.incipit = "…"
 heHE.TinSinEirinin.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -353,6 +397,7 @@ heHE.TinSinEirinin.ode = miscellanea_en_US_goadedes.misc.Ode5
 heHE.TinSinEirinin.text = ""
 
 heHE.ToFosSouToAnesperon.notmetered = "N/M ()"
+heHE.ToFosSouToAnesperon.greekname = "Τὸ φῶς σου τὸ ἀνέσπερον."
 heHE.ToFosSouToAnesperon.name = ""
 heHE.ToFosSouToAnesperon.incipit = "…"
 heHE.ToFosSouToAnesperon.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -361,6 +406,7 @@ heHE.ToFosSouToAnesperon.ode = miscellanea_en_US_goadedes.misc.Ode5
 heHE.ToFosSouToAnesperon.text = ""
 
 heHE.ToKataskionOros.notmetered = "N/M ()"
+heHE.ToKataskionOros.greekname = "Τὸ κατάσκιον ὄρος."
 heHE.ToKataskionOros.name = ""
 heHE.ToKataskionOros.incipit = "…"
 heHE.ToKataskionOros.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -369,6 +415,7 @@ heHE.ToKataskionOros.ode = miscellanea_en_US_goadedes.misc.Ode4
 heHE.ToKataskionOros.text = ""
 
 heHE.ToPrinEikoni.notmetered = "N/M ()"
+heHE.ToPrinEikoni.greekname = "Τὸ πρὶν εἰκόνι."
 heHE.ToPrinEikoni.name = ""
 heHE.ToPrinEikoni.incipit = "…"
 heHE.ToPrinEikoni.melody = miscellanea_en_US_goadedes.misc.HeirmosNotMetered
@@ -377,6 +424,7 @@ heHE.ToPrinEikoni.ode = miscellanea_en_US_goadedes.misc.Ode7
 heHE.ToPrinEikoni.text = "Those three Servants of old would not worship the golden image and Persian deity; rather standing in the furnace they sang this hymn: \"Blessed are You, O God of our Fathers.\""
 
 heHE.ToStereoma.notmetered = "N/M (As the firm support.)"
+heHE.ToStereoma.greekname = "Τὸ στερέωμα."
 heHE.ToStereoma.name = "As the firm support."
 heHE.ToStereoma.incipit = "As the firm support…"
 heHE.ToStereoma.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -385,6 +433,7 @@ heHE.ToStereoma.ode = miscellanea_en_US_goadedes.misc.Ode3
 heHE.ToStereoma.text = "As the firm support of those who hope in You firmly, * O Lord and our Savior, support us, Your holy * Church You purchased * with Your most precious blood, O Christ."
 
 heHE.ToXenonKaiAporriton.notmetered = "N/M ()"
+heHE.ToXenonKaiAporriton.greekname = "Τὸ ξένον καὶ ἀπόῤῥητον."
 heHE.ToXenonKaiAporriton.name = ""
 heHE.ToXenonKaiAporriton.incipit = "…"
 heHE.ToXenonKaiAporriton.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -392,15 +441,17 @@ heHE.ToXenonKaiAporriton.mode = miscellanea_en_US_goadedes.misc.Mode3
 heHE.ToXenonKaiAporriton.ode = miscellanea_en_US_goadedes.misc.Ode4
 heHE.ToXenonKaiAporriton.text = ""
 
-heHE.TonEnFlogi.notmetered = "N/M ()"
-heHE.TonEnFlogi.name = ""
-heHE.TonEnFlogi.incipit = "…"
+heHE.TonEnFlogi.notmetered = "N/M (By His dominion as God.)"
+heHE.TonEnFlogi.greekname = "Τὸν ἐν φλογί."
+heHE.TonEnFlogi.name = "By His dominion as God."
+heHE.TonEnFlogi.incipit = "By His dominion as God…"
 heHE.TonEnFlogi.melody = miscellanea_en_US_goadedes.misc.Heirmos
 heHE.TonEnFlogi.mode = miscellanea_en_US_goadedes.misc.Mode3
 heHE.TonEnFlogi.ode = miscellanea_en_US_goadedes.misc.Ode8
-heHE.TonEnFlogi.text = ""
+heHE.TonEnFlogi.text = "By His dominion as God, He descended * into the furnace with the pious Hebrew Servants * and was seen, as Lord of all. * Bless Him, priests; and people, exalt Him beyond measure, * unto all the ages."
 
 heHE.TonExAnarchou.notmetered = "N/M (Extol Him who is God.)"
+heHE.TonExAnarchou.greekname = "Τὸν ἐξ ἀνάρχου."
 heHE.TonExAnarchou.name = ""
 heHE.TonExAnarchou.incipit = "Extol Him who is God…"
 heHE.TonExAnarchou.melody = miscellanea_en_US_goadedes.misc.HeirmosNotMetered
@@ -409,6 +460,7 @@ heHE.TonExAnarchou.ode = miscellanea_en_US_goadedes.misc.Ode8
 heHE.TonExAnarchou.text = "Extol Him who is God, who before the ages was begotten from the unoriginate Father, and who in latter times put on flesh from the Theotokos. He is perfect man, and God from God. Extol Him and bless Him, and supremely exalt Him, unto all the ages."
 
 heHE.TonYpAngelon.notmetered = "N/M ()"
+heHE.TonYpAngelon.greekname = "Τὸν ὑπʼ Ἀγγέλων."
 heHE.TonYpAngelon.name = ""
 heHE.TonYpAngelon.incipit = "…"
 heHE.TonYpAngelon.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -417,6 +469,7 @@ heHE.TonYpAngelon.ode = miscellanea_en_US_goadedes.misc.Ode8
 heHE.TonYpAngelon.text = ""
 
 heHE.TousEisTaTeli.notmetered = "N/M ()"
+heHE.TousEisTaTeli.greekname = "Τοὺς εἰς τὰ τέλη."
 heHE.TousEisTaTeli.name = ""
 heHE.TousEisTaTeli.incipit = "…"
 heHE.TousEisTaTeli.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -425,6 +478,7 @@ heHE.TousEisTaTeli.ode = miscellanea_en_US_goadedes.misc.Ode6
 heHE.TousEisTaTeli.text = ""
 
 heHE.ToxonEthrafsasEchthron.notmetered = "N/M ()"
+heHE.ToxonEthrafsasEchthron.greekname = "Τόξον ἔθραυσας ἐχθρῶν."
 heHE.ToxonEthrafsasEchthron.name = ""
 heHE.ToxonEthrafsasEchthron.incipit = "…"
 heHE.ToxonEthrafsasEchthron.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -433,6 +487,7 @@ heHE.ToxonEthrafsasEchthron.ode = miscellanea_en_US_goadedes.misc.Ode3
 heHE.ToxonEthrafsasEchthron.text = ""
 
 heHE.TreisPaidesEnKamino.notmetered = "N/M ()"
+heHE.TreisPaidesEnKamino.greekname = "Τρεῖς Παῖδες ἐν καμίνῳ."
 heHE.TreisPaidesEnKamino.name = ""
 heHE.TreisPaidesEnKamino.incipit = "…"
 heHE.TreisPaidesEnKamino.melody = miscellanea_en_US_goadedes.misc.Heirmos
@@ -441,6 +496,7 @@ heHE.TreisPaidesEnKamino.ode = miscellanea_en_US_goadedes.misc.Ode7
 heHE.TreisPaidesEnKamino.text = ""
 
 heHE.VavyloniaKaminos.notmetered = "N/M ()"
+heHE.VavyloniaKaminos.greekname = "Βαβυλωνία κάμινος."
 heHE.VavyloniaKaminos.name = ""
 heHE.VavyloniaKaminos.incipit = "…"
 heHE.VavyloniaKaminos.melody = miscellanea_en_US_goadedes.misc.HeirmosNotMetered
@@ -449,6 +505,7 @@ heHE.VavyloniaKaminos.ode = miscellanea_en_US_goadedes.misc.Ode8
 heHE.VavyloniaKaminos.text = "The furnace in Babylon did not burn the Servants, nor did the fire of the Godhead injure the Virgin. Therefore, O believers, let us sing with the Servants: \"O you works of the Lord, bless the Lord.\""
 
 heHE.VythosMoiTonPathon.notmetered = "N/M ()"
+heHE.VythosMoiTonPathon.greekname = "Βυθός μοι τῶν παθῶν."
 heHE.VythosMoiTonPathon.name = ""
 heHE.VythosMoiTonPathon.incipit = "…"
 heHE.VythosMoiTonPathon.melody = miscellanea_en_US_goadedes.misc.Heirmos

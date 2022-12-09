@@ -122,6 +122,7 @@ meVE.LityGlory.incipit = "…"
 meVE.LityGlory.text = ""
 
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode5
+meVE.Aposticha1.greekmelody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.greekname
 meVE.Aposticha1.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name
 meVE.Aposticha1.incipit = "…"
 meVE.Aposticha1.text = ""
@@ -885,11 +886,13 @@ meMA.Ode9C2T.incipit = "…"
 meMA.Ode9C2T.text = ""
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
 meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Lauds1.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname
 meMA.Lauds1.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 meMA.Lauds1.incipit = "…"
 meMA.Lauds1.text = ""
@@ -905,6 +908,7 @@ meMA.Lauds3.incipit = "…"
 meMA.Lauds3.text = ""
 
 meMA.Lauds4.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Lauds4.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname
 meMA.Lauds4.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 meMA.Lauds4.incipit = "…"
 meMA.Lauds4.text = ""

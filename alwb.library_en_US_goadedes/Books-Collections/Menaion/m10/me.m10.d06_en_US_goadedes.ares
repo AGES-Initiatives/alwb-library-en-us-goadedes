@@ -46,6 +46,7 @@ meVE.SticTheotokion.incipit = he.o_en_US_goadedes.heOT.TheotokeSyEi.incipit
 meVE.SticTheotokion.text = he.o_en_US_goadedes.heOT.TheotokeSyEiApostolou.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.Aposticha1.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.Aposticha1.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
 meVE.Aposticha1.incipit = "…"
 meVE.Aposticha1.text = ""
@@ -67,6 +68,7 @@ meVE.AposGlory.incipit = "v…"
 meVE.AposGlory.text = "You witnessed divine mysteries, O Apostle Thomas, and mystically you became the spiritual wine bowl of the wisdom of Christ, by which the souls of believers are gladdened. With the divine net of the Spirit, you pulled people up from the depths of despair. You came forth from Zion like a river of grace, pouring out your inspired teachings to all of creation. Then you imitated the Passion of Christ, and you were pierced in the side. Now that you have entered the divine darkness of incorruption, implore Him to have mercy on our souls."
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
+meVE.AposTheotokion.greekmelody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.greekname
 meVE.AposTheotokion.melody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.name
 meVE.AposTheotokion.incipit = "…"
 meVE.AposTheotokion.text = "All-pure Virgin, as I think about the frightful tribunal * and the judgment of the world * by your Son, our Lord and God, when He comes again, * at a loss and afraid, trembling, I am dreading * the examination of my deeds, * all reprehensible, * shameful and despicable, all of them, * indeed deserving odium, * and worthy of darkness and punishment. * See my consternation, see also the contrition of my soul, * and in your pity deliver me * from that painful punishment."
@@ -333,11 +335,13 @@ meMA.Ode9H.incipit = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.incipit
 meMA.Ode9H.text = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion2.incipit = "O wise Apostle…"
 meMA.Exaposteilarion2.text = "O wise Apostle, you were sent * to India by Christ the great * and divine Sun, like a brilliant * ray of sunlight, O St. Thomas; * You went and mightily drove out * the darkness of idolatry * enlightening all to worship * the Trinity in one Godhead, * by which we are all protected."

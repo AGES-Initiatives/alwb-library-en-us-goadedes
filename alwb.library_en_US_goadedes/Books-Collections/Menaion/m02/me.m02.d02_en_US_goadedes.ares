@@ -452,11 +452,13 @@ meMA.Ode9C13.incipit = "The chaste and devout…"
 meMA.Ode9C13.text = "The chaste and devout and elderly Anna, * coming up in the Temple inspired by God, explicitly explained the prophecies * and with sacred reverence gave thanks to the Master. * And to all who were there she proclaimed * the Theotokos and magnified her."
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_goadedes.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion1.melody = miscellanea_en_US_goadedes.misc.Automelon
 meMA.Exaposteilarion1.incipit = he.a.m3_en_US_goadedes.heAU.EnPnevmatiToIero.incipit
 meMA.Exaposteilarion1.text = he.a.m3_en_US_goadedes.heAU.EnPnevmatiToIero.text
 
 meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Lauds1.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meMA.Lauds1.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
 meMA.Lauds1.incipit = "…"
 meMA.Lauds1.text = ""

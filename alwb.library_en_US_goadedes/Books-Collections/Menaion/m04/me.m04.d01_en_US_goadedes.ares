@@ -36,11 +36,13 @@ meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
+meVE.SticTheotokion.greekmelody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.greekname
 meVE.SticTheotokion.melody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.name
 meVE.SticTheotokion.incipit = oc.m6.d4_en_US_goadedes.ocVE.Stichera4.incipit
 meVE.SticTheotokion.text = oc.m6.d4_en_US_goadedes.ocVE.Stichera4.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
+meVE.SticStavrotheotokion.greekmelody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.greekname
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.name
 meVE.SticStavrotheotokion.incipit = oc.m6.d4_en_US_goadedes.ocVE.SticTheotokion.incipit
 meVE.SticStavrotheotokion.text = oc.m6.d4_en_US_goadedes.ocVE.SticTheotokion.text
@@ -51,11 +53,13 @@ meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion2.mode = miscellanea_en_US_goadedes.misc.Mode2
+meVE.SticTheotokion2.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
 meVE.SticTheotokion2.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
 meVE.SticTheotokion2.incipit = "…"
 meVE.SticTheotokion2.text = ""
 
 meVE.SticStavrotheotokion2.mode = miscellanea_en_US_goadedes.misc.Mode2
+meVE.SticStavrotheotokion2.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
 meVE.SticStavrotheotokion2.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
 meVE.SticStavrotheotokion2.incipit = "…"
 meVE.SticStavrotheotokion2.text = ""

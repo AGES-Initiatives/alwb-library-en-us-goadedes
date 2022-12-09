@@ -63,6 +63,7 @@ meVE.SticBoth.incipit = me.m09.d13_en_US_goadedes.meVE.AposBoth.incipit
 meVE.SticBoth.text = me.m09.d13_en_US_goadedes.meVE.AposBoth.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode6
+meVE.Aposticha1.greekmelody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.greekname
 meVE.Aposticha1.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
 meVE.Aposticha1.incipit = me.m09.d16_en_US_goadedes.meVE.Aposticha1.incipit
 meVE.Aposticha1.text = me.m09.d16_en_US_goadedes.meVE.Aposticha1.text
@@ -327,6 +328,7 @@ meMA.Ode9H.incipit = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.incipit
 meMA.Ode9H.text = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_goadedes.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_goadedes.heAU.EnPnevmatiToIero.name
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
@@ -364,6 +366,7 @@ meMA.LaudsBoth.incipit = me.m09.d14_en_US_goadedes.meVE.AposGlory.incipit
 meMA.LaudsBoth.text = me.m09.d14_en_US_goadedes.meVE.AposGlory.text
 
 meMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 meMA.Aposticha1.incipit = me.m09.d14_en_US_goadedes.meSV.Aposticha2.incipit
 meMA.Aposticha1.text = me.m09.d14_en_US_goadedes.meSV.Aposticha2.text

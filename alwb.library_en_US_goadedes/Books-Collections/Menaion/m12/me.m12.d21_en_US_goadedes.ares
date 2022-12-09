@@ -57,6 +57,7 @@ meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = ""
 
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meVE.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
 meVE.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 meVE.Aposticha1.incipit = "…"
 meVE.Aposticha1.text = ""
@@ -600,16 +601,19 @@ meMA.Ode9H.incipit = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.incipit
 meMA.Ode9H.text = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_goadedes.heAU.TonNymfonaSouVlepo.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_goadedes.heAU.TonNymfonaSouVlepo.name
 meMA.Exaposteilarion1.incipit = "O Word, Your holy Martyr…"
 meMA.Exaposteilarion1.text = "O Word, Your holy Martyr, * longing for Your bridal chamber, * endured every kind of torture * steadfastly with Your assistance. * At her intercessions, O God, * I entreat You * show tender mercy to my soul."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_goadedes.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_goadedes.heAU.TonNymfonaSouVlepo.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_en_US_goadedes.heAU.TonNymfonaSouVlepo.name
 meMA.Exaposteilarion2.incipit = "O Bethlehem, land of Judah…"
 meMA.Exaposteilarion2.text = "O Bethlehem, land of Judah, * prepare your portals of entry; * for the Virgin Theotokos * is now arriving at your gates * to give birth within a Cave * to my God and Lord, * who came as a mortal infant."
 
 meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Lauds1.greekmelody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.greekname
 meMA.Lauds1.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
 meMA.Lauds1.incipit = "…"
 meMA.Lauds1.text = ""
@@ -625,6 +629,7 @@ meMA.Lauds3.incipit = "…"
 meMA.Lauds3.text = ""
 
 meMA.Lauds4.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Lauds4.greekmelody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.greekname
 meMA.Lauds4.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
 meMA.Lauds4.incipit = "…"
 meMA.Lauds4.text = ""
@@ -640,6 +645,7 @@ meMA.LaudsBoth.incipit = "…"
 meMA.LaudsBoth.text = ""
 
 meMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 meMA.Aposticha1.incipit = "…"
 meMA.Aposticha1.text = ""

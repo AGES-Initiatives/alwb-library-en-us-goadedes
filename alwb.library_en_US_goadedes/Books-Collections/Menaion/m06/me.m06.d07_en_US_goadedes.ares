@@ -37,11 +37,13 @@ meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode1
+meVE.SticTheotokion.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname
 meVE.SticTheotokion.melody = miscellanea_en_US_goadedes.misc.Automelon
 meVE.SticTheotokion.incipit = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.incipit
 meVE.SticTheotokion.text = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode1
+meVE.SticStavrotheotokion.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname
 meVE.SticStavrotheotokion.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = ""

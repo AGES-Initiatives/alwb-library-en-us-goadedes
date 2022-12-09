@@ -63,6 +63,7 @@ meVE.SticBoth.incipit = me.m08.d15_en_US_goadedes.meVE.Lity1.incipit
 meVE.SticBoth.text = me.m08.d15_en_US_goadedes.meVE.Lity1.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meVE.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
 meVE.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 meVE.Aposticha1.incipit = me.m08.d14_en_US_goadedes.meMA.Aposticha1.incipit
 meVE.Aposticha1.text = me.m08.d14_en_US_goadedes.meMA.Aposticha1.text
@@ -558,16 +559,19 @@ meMA.Ode9H.incipit = he.h.m4_en_US_goadedes.heHE.EvaMenToTisParakois.incipit
 meMA.Ode9H.text = he.h.m4_en_US_goadedes.heHE.EvaMenToTisParakois.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_goadedes.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
 meMA.Exaposteilarion2.incipit = he.a.m3_en_US_goadedes.heAU.ApostoloiEkPeraton.incipit
 meMA.Exaposteilarion2.text = he.a.m3_en_US_goadedes.heAU.ApostoloiEkPeraton.text
 
 meMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 meMA.Aposticha1.incipit = me.m08.d16_en_US_goadedes.meMA.Aposticha3.incipit
 meMA.Aposticha1.text = me.m08.d16_en_US_goadedes.meMA.Aposticha3.text

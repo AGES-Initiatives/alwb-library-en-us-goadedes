@@ -36,11 +36,13 @@ meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.SticTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.SticTheotokion.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
 meVE.SticStavrotheotokion.incipit = me.m02.d03_en_US_goadedes.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m02.d03_en_US_goadedes.meVE.SticStavrotheotokion.text
@@ -52,11 +54,13 @@ meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion2.mode = miscellanea_en_US_goadedes.misc.Mode6
+meVE.SticTheotokion2.greekmelody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.greekname
 meVE.SticTheotokion2.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
 meVE.SticTheotokion2.incipit = "…"
 meVE.SticTheotokion2.text = ""
 
 meVE.SticStavrotheotokion2.mode = miscellanea_en_US_goadedes.misc.Mode6
+meVE.SticStavrotheotokion2.greekmelody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.greekname
 meVE.SticStavrotheotokion2.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
 meVE.SticStavrotheotokion2.incipit = oc.m6.d4_en_US_goadedes.ocVE.AposTheotokion.incipit
 meVE.SticStavrotheotokion2.text = oc.m6.d4_en_US_goadedes.ocVE.AposTheotokion.text

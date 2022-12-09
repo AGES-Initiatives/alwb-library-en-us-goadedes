@@ -587,11 +587,13 @@ meMA.Ode9C23.incipit = "…"
 meMA.Ode9C23.text = ""
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_goadedes.heAU.FosAnalloioton.greekname
 meMA.Exaposteilarion1.melody = miscellanea_en_US_goadedes.misc.Automelon
 meMA.Exaposteilarion1.incipit = he.a.m3_en_US_goadedes.heAU.FosAnalloioton.incipit
 meMA.Exaposteilarion1.text = he.a.m3_en_US_goadedes.heAU.FosAnalloioton.text
 
 meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Lauds1.greekmelody = he.a.m4_en_US_goadedes.heAU.OExYpsistouKlitheis.greekname
 meMA.Lauds1.melody = he.a.m4_en_US_goadedes.heAU.OExYpsistouKlitheis.name
 meMA.Lauds1.incipit = "…"
 meMA.Lauds1.text = ""

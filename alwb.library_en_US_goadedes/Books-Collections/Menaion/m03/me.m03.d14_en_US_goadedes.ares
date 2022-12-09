@@ -36,11 +36,13 @@ meVE.Stichera03.incipit = "Father, by your holy prayers…"
 meVE.Stichera03.text = "Father, by your holy prayers you brought * rain down from the sky, as Elijah that man of God did of old; * and you made an empty vessel fill with oil, O Saint. * You revived someone who had died * and did many other * miracles to glorify the God and Savior of all. * Therefore every year we assemble * on this day with love and with longing * to observe your memory, O Benedict."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
+meVE.SticTheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
 meVE.SticTheotokion.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
+meVE.SticStavrotheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
 meVE.SticStavrotheotokion.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
 meVE.SticStavrotheotokion.incipit = oc.m2.d6_en_US_goadedes.ocMA.AposTheotokion.incipit
 meVE.SticStavrotheotokion.text = oc.m2.d6_en_US_goadedes.ocMA.AposTheotokion.text

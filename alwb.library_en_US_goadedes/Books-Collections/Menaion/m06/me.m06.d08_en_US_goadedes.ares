@@ -47,6 +47,7 @@ meVE.SticTheotokion.incipit = oc.m8.d5_en_US_goadedes.ocMA.AposTheotokion.incipi
 meVE.SticTheotokion.text = oc.m8.d5_en_US_goadedes.ocMA.AposTheotokion.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode5
+meVE.Aposticha1.greekmelody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.greekname
 meVE.Aposticha1.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name
 meVE.Aposticha1.incipit = me.m02.d08_en_US_goadedes.meVE.Stichera01.incipit
 meVE.Aposticha1.text = me.m02.d08_en_US_goadedes.meVE.Stichera01.text
@@ -317,6 +318,7 @@ meMA.Ode9H.incipit = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.incipit
 meMA.Ode9H.text = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_goadedes.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_goadedes.heAU.EnPnevmatiToIero.name
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""

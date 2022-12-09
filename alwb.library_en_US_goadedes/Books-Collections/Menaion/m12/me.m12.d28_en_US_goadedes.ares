@@ -58,6 +58,7 @@ meVE.SticGlory.incipit = me.m12.d25_en_US_goadedes.meVE.AposGlory.incipit
 meVE.SticGlory.text = me.m12.d25_en_US_goadedes.meVE.AposGlory.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meVE.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
 meVE.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 meVE.Aposticha1.incipit = "…"
 meVE.Aposticha1.text = ""
@@ -331,16 +332,19 @@ meMA.Ode9H.incipit = he.h.m1_en_US_goadedes.heHE.TinFotoforonNefelin.incipit
 meMA.Ode9H.text = he.h.m1_en_US_goadedes.heHE.TinFotoforonNefelin.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion2.incipit = me.m09.d06_en_US_goadedes.meMA.ExapTheotokion.incipit
 meMA.Exaposteilarion2.text = me.m09.d06_en_US_goadedes.meMA.ExapTheotokion.text
 
 meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Lauds1.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 meMA.Lauds1.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 meMA.Lauds1.incipit = "…"
 meMA.Lauds1.text = ""
@@ -361,6 +365,7 @@ meMA.LaudsGlory.incipit = me.m12.d27_en_US_goadedes.meMA.LaudsBoth.incipit
 meMA.LaudsGlory.text = me.m12.d27_en_US_goadedes.meMA.LaudsBoth.text
 
 meMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Aposticha1.greekmelody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.greekname
 meMA.Aposticha1.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
 meMA.Aposticha1.incipit = "…"
 meMA.Aposticha1.text = ""
