@@ -172,6 +172,7 @@ meMA.C2.verse = prayers_en_US_goadedes.pr.verse_SaintW.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_US_goadedes.heHE.YgranDiodefsas.greekname
 meMA.Ode1C11.melody = he.h.m8_en_US_goadedes.heHE.YgranDiodefsas.name
 meMA.Ode1C11.incipit = "O Martyr, you dance…"
 meMA.Ode1C11.text = "O Martyr, you dance now around our God, * filled with divine splendor and the flashes that come from Him. * By your intercessions, lovely maiden, * grant me to share in your luminous radiance."
@@ -202,6 +203,7 @@ meMA.Ode1C1T.text = "You showed us the path to eternal life, * for you had conce
 
 meMA.Ode1C21.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode1C21.greekmelody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.greekname
 meMA.Ode1C21.melody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.name
 meMA.Ode1C21.incipit = "…"
 meMA.Ode1C21.text = ""
@@ -232,6 +234,7 @@ meMA.Ode1C2T.text = ""
 
 meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_US_goadedes.heHE.OukEstinAgiosOsOTheos.greekname
 meMA.Ode3C11.melody = he.h.m8_en_US_goadedes.heHE.OukEstinAgiosOsOTheos.name
 meMA.Ode3C11.incipit = "Nothing separated you…"
 meMA.Ode3C11.text = "Nothing separated you from the love of God, * neither whips, nor the edge of swords, * nor the cruelty of the tyrants, nor fierceness of beasts, neither death itself, * O truly happy Martyr Saint."
@@ -262,6 +265,7 @@ meMA.Ode3C1T.text = "By grace we are energized to concordantly * glorify you, O 
 
 meMA.Ode3C21.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3C21.greekmelody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3C21.melody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.name
 meMA.Ode3C21.incipit = "…"
 meMA.Ode3C21.text = ""
@@ -292,6 +296,7 @@ meMA.Ode3C2T.text = ""
 
 meMA.Ode3H.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3H.greekmelody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3H.melody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.melody
 meMA.Ode3H.incipit = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.incipit
 meMA.Ode3H.text = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.text
@@ -308,6 +313,7 @@ meMA.Ode3KathismaT.text = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_US_goadedes.heHE.SyMouIschys.greekname
 meMA.Ode4C11.melody = he.h.m8_en_US_goadedes.heHE.SyMouIschys.name
 meMA.Ode4C11.incipit = "You led a life…"
 meMA.Ode4C11.text = "You led a life * worthy of God, truly dignified. * You were very dear to the angelic hosts. You proved to be * wholly out of reach * of the demons' armies and of their servants and ministers * of their inhuman fury. * And to Christ you sang, \"Glory * to Your strength, O Lord who love humanity!\""
@@ -338,6 +344,7 @@ meMA.Ode4C1T.text = "O Bride of God, * you are the one woman who remained * virg
 
 meMA.Ode4C21.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode4C21.greekmelody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.greekname
 meMA.Ode4C21.melody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.name
 meMA.Ode4C21.incipit = "…"
 meMA.Ode4C21.text = ""
@@ -368,6 +375,7 @@ meMA.Ode4C2T.text = ""
 
 meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.greekname
 meMA.Ode5C11.melody = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.name
 meMA.Ode5C11.incipit = "In the athletes' arena…"
 meMA.Ode5C11.text = "In the athletes' arena, * maiden, you most vigorously ran the race and won. * For your divine longing * gave new wings to your feminine frailty, * clearly demonstrating * mind over matter, holy Martyr, * for you mastered the pain you were suffering."
@@ -398,6 +406,7 @@ meMA.Ode5C1T.text = "As we see human nature * cleansed of the ancestral curse by
 
 meMA.Ode5C21.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode5C21.greekmelody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.greekname
 meMA.Ode5C21.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.name
 meMA.Ode5C21.incipit = "…"
 meMA.Ode5C21.text = ""
@@ -428,6 +437,7 @@ meMA.Ode5C2T.text = ""
 
 meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_US_goadedes.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C11.melody = he.h.m8_en_US_goadedes.heHE.IlasthitiMoiSotir.name
 meMA.Ode6C11.incipit = "You are an unblemished gem…"
 meMA.Ode6C11.text = "You are an unblemished gem, * a thing of beauty reserved for Christ, * also a translucent spring, * a garden with many fruits, * a genuine bride of Christ, glorious Marina, * and inviolate like Paradise."
@@ -452,6 +462,7 @@ meMA.Ode6C1T.text = "O Mary, you are the clean, * divine, and all-holy dwelling 
 
 meMA.Ode6C21.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode6C21.greekmelody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C21.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.name
 meMA.Ode6C21.incipit = "…"
 meMA.Ode6C21.text = ""
@@ -482,6 +493,7 @@ meMA.Ode6C2T.text = ""
 
 meMA.Ode6H.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode6H.greekmelody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6H.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.melody
 meMA.Ode6H.incipit = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.text
@@ -495,6 +507,7 @@ meMA.Oikos1.text = ""
 
 meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.greekname
 meMA.Ode7C11.melody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.name
 meMA.Ode7C11.incipit = "Light unapproachable…"
 meMA.Ode7C11.text = "Light unapproachable illumined * your most worthy soul, O Martyr St. Marina. * As it shined holy light upon it, you were singing, * \"Blessed are You, O Lord, the God of our fathers to the ages.\""
@@ -519,6 +532,7 @@ meMA.Ode7C1T.text = "Judah no longer had a scepter; * it departed. Then ineffabl
 
 meMA.Ode7C21.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode7C21.greekmelody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.greekname
 meMA.Ode7C21.melody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.name
 meMA.Ode7C21.incipit = "…"
 meMA.Ode7C21.text = ""
@@ -543,6 +557,7 @@ meMA.Ode7C2T.text = ""
 
 meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_US_goadedes.heHE.MousikonOrganon.greekname
 meMA.Ode8C11.melody = he.h.m8_en_US_goadedes.heHE.MousikonOrganon.name
 meMA.Ode8C11.incipit = "Steadfast was your purpose…"
 meMA.Ode8C11.text = "Steadfast was your purpose and intention, * likewise your endurance in the contests. * As you received the winner's crown, O Martyr, you were singing, * \"Sing praises to the Lord and exalt Him beyond measure, unto all the ages.\""
@@ -573,6 +588,7 @@ meMA.Ode8C1T.text = "Expiation has to us been given * through you, O all-holy Th
 
 meMA.Ode8C21.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode8C21.greekmelody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8C21.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.name
 meMA.Ode8C21.incipit = "…"
 meMA.Ode8C21.text = ""
@@ -597,12 +613,14 @@ meMA.Ode8C2T.text = ""
 
 meMA.Ode8H.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode8H.greekmelody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8H.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.melody
 meMA.Ode8H.incipit = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.incipit
 meMA.Ode8H.text = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.greekname
 meMA.Ode9C11.melody = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.name
 meMA.Ode9C11.incipit = "Martyr of Christ…"
 meMA.Ode9C11.text = "Martyr of Christ, aptly indeed * you have gathered in the Garden of Paradise * the indestructible, * eternal life, O Marina, for yourself. * As you were radiant and bright * with blood of your martyrdom, * you passed the flaming sword * unimpeded, as beautiful maiden of God."
@@ -633,6 +651,7 @@ meMA.Ode9C1T.text = "Now I pick ripened fruit of life, * and the tree of knowled
 
 meMA.Ode9C21.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode9C21.greekmelody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9C21.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.name
 meMA.Ode9C21.incipit = "…"
 meMA.Ode9C21.text = ""
@@ -669,6 +688,7 @@ meMA.Ode9C2T.text = ""
 
 meMA.Ode9H.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode9H.greekmelody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9H.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.melody
 meMA.Ode9H.incipit = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.incipit
 meMA.Ode9H.text = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.text

@@ -196,12 +196,14 @@ meMA.C3.verse = prayers_en_US_goadedes.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode1C1H.greekmelody = he.h.m6_en_US_goadedes.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C1H.melody = he.h.m6_en_US_goadedes.heHE.OsEnIpeiroPezefsas.melody
 meMA.Ode1C1H.incipit = he.h.m6_en_US_goadedes.heHE.OsEnIpeiroPezefsas.incipit
 meMA.Ode1C1H.text = he.h.m6_en_US_goadedes.heHE.OsEnIpeiroPezefsas.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode1C11.greekmelody = he.h.m6_en_US_goadedes.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C11.melody = he.h.m6_en_US_goadedes.heHE.OsEnIpeiroPezefsas.name
 meMA.Ode1C11.incipit = "…"
 meMA.Ode1C11.text = ""
@@ -226,6 +228,7 @@ meMA.Ode1C1T.text = ""
 
 meMA.Ode1C21.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode1C21.greekmelody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.greekname
 meMA.Ode1C21.melody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.name
 meMA.Ode1C21.incipit = "…"
 meMA.Ode1C21.text = ""
@@ -250,6 +253,7 @@ meMA.Ode1C2T.text = ""
 
 meMA.Ode1C31.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C31.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode1C31.greekmelody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.greekname
 meMA.Ode1C31.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
 meMA.Ode1C31.incipit = "Great Martyr Demetrius…"
 meMA.Ode1C31.text = "Great Martyr Demetrius, you are my God-given pride and joy. * I count myself as a sheep of your beloved flock. * Decorated Saint, I pray, accept this canon, * extolling the grace of your most fragrant myrrh today."
@@ -280,12 +284,14 @@ meMA.Ode1C3T.text = "O Virgin, the alabaster flask of ointment embodies you, * f
 
 meMA.Ode3C1H.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode3C1H.greekmelody = he.h.m6_en_US_goadedes.heHE.OukEstinAgios.greekname
 meMA.Ode3C1H.melody = he.h.m6_en_US_goadedes.heHE.OukEstinAgios.melody
 meMA.Ode3C1H.incipit = he.h.m6_en_US_goadedes.heHE.OukEstinAgios.incipit
 meMA.Ode3C1H.text = he.h.m6_en_US_goadedes.heHE.OukEstinAgios.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode3C11.greekmelody = he.h.m6_en_US_goadedes.heHE.OukEstinAgios.greekname
 meMA.Ode3C11.melody = he.h.m6_en_US_goadedes.heHE.OukEstinAgios.name
 meMA.Ode3C11.incipit = "…"
 meMA.Ode3C11.text = ""
@@ -310,6 +316,7 @@ meMA.Ode3C1T.text = ""
 
 meMA.Ode3C21.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3C21.greekmelody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3C21.melody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.name
 meMA.Ode3C21.incipit = "…"
 meMA.Ode3C21.text = ""
@@ -328,6 +335,7 @@ meMA.Ode3C2T.text = ""
 
 meMA.Ode3C31.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C31.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3C31.greekmelody = he.h.m4_en_US_goadedes.heHE.TousSousYmnologous.greekname
 meMA.Ode3C31.melody = he.h.m4_en_US_goadedes.heHE.TousSousYmnologous.name
 meMA.Ode3C31.incipit = "You bathed in the vivifying…"
 meMA.Ode3C31.text = "You bathed in the vivifying waters of Baptism, whereby you were cleansed; * and then again, Demetrius, you bathed in blood of martyrdom. * Combining both, you thus became a novel spring of most fragrant myrrh."
@@ -373,12 +381,14 @@ meMA.Ode3Kathisma3.text = ""
 
 meMA.Ode4C1H.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode4C1H.greekmelody = he.h.m6_en_US_goadedes.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C1H.melody = he.h.m6_en_US_goadedes.heHE.ChristosMouDynamis.melody
 meMA.Ode4C1H.incipit = he.h.m6_en_US_goadedes.heHE.ChristosMouDynamis.incipit
 meMA.Ode4C1H.text = he.h.m6_en_US_goadedes.heHE.ChristosMouDynamis.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode4C11.greekmelody = he.h.m6_en_US_goadedes.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C11.melody = he.h.m6_en_US_goadedes.heHE.ChristosMouDynamis.name
 meMA.Ode4C11.incipit = "…"
 meMA.Ode4C11.text = ""
@@ -403,6 +413,7 @@ meMA.Ode4C1T.text = ""
 
 meMA.Ode4C21.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode4C21.greekmelody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.greekname
 meMA.Ode4C21.melody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.name
 meMA.Ode4C21.incipit = "…"
 meMA.Ode4C21.text = ""
@@ -427,6 +438,7 @@ meMA.Ode4C2T.text = ""
 
 meMA.Ode4C31.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C31.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode4C31.greekmelody = he.h.m4_en_US_goadedes.heHE.TinAnexichniaston.greekname
 meMA.Ode4C31.melody = he.h.m4_en_US_goadedes.heHE.TinAnexichniaston.name
 meMA.Ode4C31.incipit = "From His divine grapevine…"
 meMA.Ode4C31.text = "From His divine grapevine did Christ harvest you, * as a ripened cluster, O blessed Saint; * and in your martyrdom, as if in a vat, * He pressed you and produced the wine, * namely the divine stream of fragrant myrrh."
@@ -451,12 +463,14 @@ meMA.Ode4C3T.text = "\"Tell me, O my Bridegroom, the One whom I love. * Tell me 
 
 meMA.Ode5C1H.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode5C1H.greekmelody = he.h.m6_en_US_goadedes.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C1H.melody = he.h.m6_en_US_goadedes.heHE.ToTheioFengeiSou.melody
 meMA.Ode5C1H.incipit = he.h.m6_en_US_goadedes.heHE.ToTheioFengeiSou.incipit
 meMA.Ode5C1H.text = he.h.m6_en_US_goadedes.heHE.ToTheioFengeiSou.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode5C11.greekmelody = he.h.m6_en_US_goadedes.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C11.melody = he.h.m6_en_US_goadedes.heHE.ToTheioFengeiSou.name
 meMA.Ode5C11.incipit = "…"
 meMA.Ode5C11.text = ""
@@ -481,6 +495,7 @@ meMA.Ode5C1T.text = ""
 
 meMA.Ode5C21.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode5C21.greekmelody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.greekname
 meMA.Ode5C21.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.name
 meMA.Ode5C21.incipit = "…"
 meMA.Ode5C21.text = ""
@@ -505,6 +520,7 @@ meMA.Ode5C2T.text = ""
 
 meMA.Ode5C31.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C31.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode5C31.greekmelody = he.h.m4_en_US_goadedes.heHE.ExestiTaSympanta.greekname
 meMA.Ode5C31.melody = he.h.m4_en_US_goadedes.heHE.ExestiTaSympanta.name
 meMA.Ode5C31.incipit = "Demetrius, great among…"
 meMA.Ode5C31.text = "Demetrius, great among the Martyrs, mixed the sweat and blood * of his holy contests and concocted * for us the myrrh that is filled with grace divine, * He boiled it well over the fire * of the Spirit, like a drug that is new and can cleanse the soul. "
@@ -529,12 +545,14 @@ meMA.Ode5C3T.text = "The Logos, who is the new and holy myrrh was in your womb, 
 
 meMA.Ode6C1H.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode6C1H.greekmelody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C1H.melody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.melody
 meMA.Ode6C1H.incipit = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.incipit
 meMA.Ode6C1H.text = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode6C11.greekmelody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C11.melody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.name
 meMA.Ode6C11.incipit = "…"
 meMA.Ode6C11.text = ""
@@ -559,6 +577,7 @@ meMA.Ode6C1T.text = ""
 
 meMA.Ode6C21.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode6C21.greekmelody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C21.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.name
 meMA.Ode6C21.incipit = "…"
 meMA.Ode6C21.text = ""
@@ -577,6 +596,7 @@ meMA.Ode6C2T.text = ""
 
 meMA.Ode6C31.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C31.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode6C31.greekmelody = he.h.m4_en_US_goadedes.heHE.TinTheianTaftin.greekname
 meMA.Ode6C31.melody = he.h.m4_en_US_goadedes.heHE.TinTheianTaftin.name
 meMA.Ode6C31.incipit = "O Saint, you washed…"
 meMA.Ode6C31.text = "O Saint, you washed in the sacred bath * of Baptism, and you were anointed with the Holy Spirit's myrrh, * which was preserved undefiled in you * and made the blood that flowed from your side become like myrrh."
@@ -614,12 +634,14 @@ meMA.Oikos1.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode7C1H.greekmelody = he.h.m6_en_US_goadedes.heHE.DrosovolonMenTinKaminon.greekname
 meMA.Ode7C1H.melody = he.h.m6_en_US_goadedes.heHE.DrosovolonMenTinKaminon.melody
 meMA.Ode7C1H.incipit = he.h.m6_en_US_goadedes.heHE.DrosovolonMenTinKaminon.incipit
 meMA.Ode7C1H.text = he.h.m6_en_US_goadedes.heHE.DrosovolonMenTinKaminon.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode7C11.greekmelody = he.h.m6_en_US_goadedes.heHE.DrosovolonMenTinKaminon.greekname
 meMA.Ode7C11.melody = he.h.m6_en_US_goadedes.heHE.DrosovolonMenTinKaminon.name
 meMA.Ode7C11.incipit = "…"
 meMA.Ode7C11.text = ""
@@ -644,6 +666,7 @@ meMA.Ode7C1T.text = ""
 
 meMA.Ode7C21.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode7C21.greekmelody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.greekname
 meMA.Ode7C21.melody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.name
 meMA.Ode7C21.incipit = "…"
 meMA.Ode7C21.text = ""
@@ -662,6 +685,7 @@ meMA.Ode7C2T.text = ""
 
 meMA.Ode7C31.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C31.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode7C31.greekmelody = he.h.m4_en_US_goadedes.heHE.OukElatrefsan.greekname
 meMA.Ode7C31.melody = he.h.m4_en_US_goadedes.heHE.OukElatrefsan.name
 meMA.Ode7C31.incipit = "O most excellent…"
 meMA.Ode7C31.text = "O most excellent * Demetrius, you sowed your blood for Christ the King of all, * as in a sacrament. * A spear also pierced your side, and thus you were like Him. * He rewarded you * appropriately, giving you * as a fragrant myrrh to others."
@@ -686,12 +710,14 @@ meMA.Ode7C3T.text = "Lady Virgin pure, * the Bridegroom, who is beautiful, selec
 
 meMA.Ode8C1H.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode8C1H.greekmelody = he.h.m6_en_US_goadedes.heHE.EkFlogosToisOsiois.greekname
 meMA.Ode8C1H.melody = he.h.m6_en_US_goadedes.heHE.EkFlogosToisOsiois.melody
 meMA.Ode8C1H.incipit = he.h.m6_en_US_goadedes.heHE.EkFlogosToisOsiois.incipit
 meMA.Ode8C1H.text = he.h.m6_en_US_goadedes.heHE.EkFlogosToisOsiois.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode8C11.greekmelody = he.h.m6_en_US_goadedes.heHE.EkFlogosToisOsiois.greekname
 meMA.Ode8C11.melody = he.h.m6_en_US_goadedes.heHE.EkFlogosToisOsiois.name
 meMA.Ode8C11.incipit = "…"
 meMA.Ode8C11.text = ""
@@ -722,6 +748,7 @@ meMA.Ode8C1T.text = ""
 
 meMA.Ode8C21.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode8C21.greekmelody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8C21.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.name
 meMA.Ode8C21.incipit = "…"
 meMA.Ode8C21.text = ""
@@ -746,6 +773,7 @@ meMA.Ode8C2T.text = ""
 
 meMA.Ode8C31.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C31.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode8C31.greekmelody = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.greekname
 meMA.Ode8C31.melody = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.name
 meMA.Ode8C31.incipit = "In Church, you exalted…"
 meMA.Ode8C31.text = "In Church, you exalted Christ, O Martyr. * Your mouth spoke the holy truth of His divinity; * words of wisdom came from your lips, * biblically, Demetrius. * According to the Song of Songs, your cheeks became like bowls * of spices. Therefore Christ made the holy * fragrant myrrh to flow for the world from your body."
@@ -776,12 +804,14 @@ meMA.Ode8C3T.text = "We who honor you, O Theotokos, * consider you as our glory 
 
 meMA.Ode9C1H.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode9C1H.greekmelody = he.h.m6_en_US_goadedes.heHE.TheonAnthropois.greekname
 meMA.Ode9C1H.melody = he.h.m6_en_US_goadedes.heHE.TheonAnthropois.melody
 meMA.Ode9C1H.incipit = he.h.m6_en_US_goadedes.heHE.TheonAnthropois.incipit
 meMA.Ode9C1H.text = he.h.m6_en_US_goadedes.heHE.TheonAnthropois.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode9C11.greekmelody = he.h.m6_en_US_goadedes.heHE.TheonAnthropois.greekname
 meMA.Ode9C11.melody = he.h.m6_en_US_goadedes.heHE.TheonAnthropois.name
 meMA.Ode9C11.incipit = "…"
 meMA.Ode9C11.text = ""
@@ -812,6 +842,7 @@ meMA.Ode9C1T.text = ""
 
 meMA.Ode9C21.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode9C21.greekmelody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9C21.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.name
 meMA.Ode9C21.incipit = "…"
 meMA.Ode9C21.text = ""
@@ -830,6 +861,7 @@ meMA.Ode9C2T.text = ""
 
 meMA.Ode9C31.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C31.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode9C31.greekmelody = he.h.m4_en_US_goadedes.heHE.ApasGigenis.greekname
 meMA.Ode9C31.melody = he.h.m4_en_US_goadedes.heHE.ApasGigenis.name
 meMA.Ode9C31.incipit = "Earth and heaven…"
 meMA.Ode9C31.text = "Earth and heaven both * admire your accomplishments, O great Demetrius. * You adorned your life in the flesh * with every virtue and excellence, O Saint, * restoring in yourself the undistorted image of God. * When your blood had dyed your body, it was like * fragrant myrrh that anointed a splendid king."

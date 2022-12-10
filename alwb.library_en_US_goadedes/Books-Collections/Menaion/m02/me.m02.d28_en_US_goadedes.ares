@@ -62,12 +62,14 @@ meMA.C1.verse = prayers_en_US_goadedes.pr.verse_DevoutMan.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode1C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.greekname
 meMA.Ode1C1H.melody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode1C11.greekmelody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.greekname
 meMA.Ode1C11.melody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.notmetered
 meMA.Ode1C11.incipit = "O father Basil…"
 meMA.Ode1C11.text = "O father Basil, your name in Greek eponymous with kingdom, your foot was set on the rock of faith, so you did not fear the force of temptations, but you remained unshaken as a champion of virtue."
@@ -92,12 +94,14 @@ meMA.Ode1C1T.text = "O all-lauded Theotokos, who gave birth to God, the Benefact
 
 meMA.Ode3C1H.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3C1H.melody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.melody
 meMA.Ode3C1H.incipit = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.incipit
 meMA.Ode3C1H.text = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3C11.greekmelody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3C11.melody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.notmetered
 meMA.Ode3C11.incipit = "O devout Saint…"
 meMA.Ode3C11.text = "O devout Saint, you diligently directed your heart to God, and you excelled in ascetic grace and in confessing the Faith."
@@ -137,12 +141,14 @@ meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C1H.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode4C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.greekname
 meMA.Ode4C1H.melody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.melody
 meMA.Ode4C1H.incipit = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.incipit
 meMA.Ode4C1H.text = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode4C11.greekmelody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.greekname
 meMA.Ode4C11.melody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.notmetered
 meMA.Ode4C11.incipit = "O devout, all-blessed Saint…"
 meMA.Ode4C11.text = "O devout, all-blessed Saint, how beautiful was your endurance! In old age, you exhibited the steadfastness of youth, and you sang, \"Glory to Your power, O Lord.\""
@@ -167,12 +173,14 @@ meMA.Ode4C1T.text = "O Lady, you were a virgin and yet conceive; and after child
 
 meMA.Ode5C1H.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode5C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.greekname
 meMA.Ode5C1H.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.melody
 meMA.Ode5C1H.incipit = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.incipit
 meMA.Ode5C1H.text = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode5C11.greekmelody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.greekname
 meMA.Ode5C11.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.notmetered
 meMA.Ode5C11.incipit = "O devout St. Basil…"
 meMA.Ode5C11.text = "O devout St. Basil, you contended illustriously, and you disparaged the harsh arrogance and injudicious judgments of the emperor Leo."
@@ -197,12 +205,14 @@ meMA.Ode5C1T.text = "O Bride of God, we invoke you as an unbreakable shield agai
 
 meMA.Ode6C1H.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode6C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C1H.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.melody
 meMA.Ode6C1H.incipit = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6C1H.text = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode6C11.greekmelody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C11.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C11.incipit = "O God-bearing Saint…"
 meMA.Ode6C11.text = "O God-bearing Saint, you had a strong desire for the kingdom on high, so you bravely disregarded the earthly king's unreasonable opinion, decrees, and doctrines."
@@ -226,12 +236,14 @@ meMA.Kontakion1.text = "When you had received divine revelation from on high, * 
 
 meMA.Ode7C1H.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode7C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.greekname
 meMA.Ode7C1H.melody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.melody
 meMA.Ode7C1H.incipit = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.incipit
 meMA.Ode7C1H.text = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode7C11.greekmelody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.greekname
 meMA.Ode7C11.melody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.notmetered
 meMA.Ode7C11.incipit = "O father, you were cultivated…"
 meMA.Ode7C11.text = "O father, you were cultivated and purified through ascetic discipline, and you persistently excelled in the contest. Then Christ received you, as you sang, \"You are blessed, O my God and Lord.\""
@@ -250,12 +262,14 @@ meMA.Ode7C1T.text = "O pure and all-blameless Lady, all we believers extol you a
 
 meMA.Ode8C1H.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode8C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8C1H.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.melody
 meMA.Ode8C1H.incipit = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.incipit
 meMA.Ode8C1H.text = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode8C11.greekmelody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8C11.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.notmetered
 meMA.Ode8C11.incipit = "O God-bearing Saint…"
 meMA.Ode8C11.text = "O God-bearing Saint, you offered your body and your mind to Christ as a whole-burnt offering, as a perfect sacrifice burnt in the fire of your conscience and in the flame of the torments. Now you sing, \"Bless the Lord and praise Him, all you works of the Lord.\""
@@ -280,12 +294,14 @@ meMA.Ode8C1T.text = "O all-pure Lady, we say you are the luminous gate of the he
 
 meMA.Ode9C1H.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode9C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9C1H.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.melody
 meMA.Ode9C1H.incipit = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.incipit
 meMA.Ode9C1H.text = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode9C11.greekmelody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9C11.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.notmetered
 meMA.Ode9C11.incipit = "O father, you have now transcended…"
 meMA.Ode9C11.text = "O father, you have now transcended all that is physical, and you have been translated to the Master, with longing and joy, reaping the rich awards for the contests you won, the angelic splendor, and the unending delight of Paradise."

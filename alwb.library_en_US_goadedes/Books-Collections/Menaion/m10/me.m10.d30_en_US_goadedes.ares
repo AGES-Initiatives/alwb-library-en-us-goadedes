@@ -65,6 +65,7 @@ meMA.C1.verse = prayers_en_US_goadedes.pr.verse_SaintsM.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_US_goadedes.heHE.AsmaAnapempsomen.greekname
 meMA.Ode1C11.melody = he.h.m8_en_US_goadedes.heHE.AsmaAnapempsomen.name
 meMA.Ode1C11.incipit = "Near the throne…"
 meMA.Ode1C11.text = "Near the throne of God you stand on high, thrice-blessed St. Zenobius, * as an acceptable priest and  most excellent martyr. * We honor your lumimous memory and entreat you: * Rescues us from life's undending scandals."
@@ -89,6 +90,7 @@ meMA.Ode1C1T.text = "We salute you, Lady: O rejoice! All-holy temple, and the fl
 
 meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_US_goadedes.heHE.TonFovonSouKyrie.greekname
 meMA.Ode3C11.melody = he.h.m8_en_US_goadedes.heHE.TonFovonSouKyrie.name
 meMA.Ode3C11.incipit = "When you were anointed…"
 meMA.Ode3C11.text = "When you were anointed with anointing oil * of the Spirit, you ministered * like an Angel, O Zenobius; * then you were decorated with the crown of Martyrs."
@@ -113,6 +115,7 @@ meMA.Ode3C1T.text = "All-holy Virgin Mother, the Son you bore * is a person of t
 
 meMA.Ode3H.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3H.greekmelody = he.h.m8_en_US_goadedes.heHE.TonFovonSouKyrie.greekname
 meMA.Ode3H.melody = he.h.m8_en_US_goadedes.heHE.TonFovonSouKyrie.melody
 meMA.Ode3H.incipit = he.h.m8_en_US_goadedes.heHE.TonFovonSouKyrie.incipit
 meMA.Ode3H.text = he.h.m8_en_US_goadedes.heHE.TonFovonSouKyrie.text
@@ -134,6 +137,7 @@ meMA.Ode3KathismaSt.text = me.m10.d12_en_US_goadedes.meMA.Ode3KathismaSt.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_US_goadedes.heHE.EpevisEfIppous.greekname
 meMA.Ode4C11.melody = he.h.m8_en_US_goadedes.heHE.EpevisEfIppous.name
 meMA.Ode4C11.incipit = "Arriving in heaven…"
 meMA.Ode4C11.text = "Arriving in heaven, adorned with medals of martyrdom, * you received the awards for your victory, * and you obtained the great and everlasting joy with God. * And therefore we extol you, hierarch and Martyr Zenobius."
@@ -158,6 +162,7 @@ meMA.Ode4C1T.text = "All-laudable Virgin, by your unusual childbirth, * you reco
 
 meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.greekname
 meMA.Ode5C11.melody = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.name
 meMA.Ode5C11.incipit = "With her feminine nature…"
 meMA.Ode5C11.text = "With her feminine nature * strengthened by the Holy Spirit, St. Zenobia * put to shame the devil, * who beguiled our ancestral mother Eve. * Now she has been granted the divine glory in the heavens, * for excelling in contests of martyrdom."
@@ -182,6 +187,7 @@ meMA.Ode5C1T.text = "I am always surrounded * by the heavy burdens of my sins, O
 
 meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.greekname
 meMA.Ode6C11.melody = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.name
 meMA.Ode6C11.incipit = "The prayer…"
 meMA.Ode6C11.text = "The prayer of your godly soul was accepted * as if incense in the heavens, O father. * And you ran after the sweet-smelling fragrance * of the Him who suffered, all-blessed Zenobius. * Born of a woman, He shone forth * and illumined creation, for He is God."
@@ -206,6 +212,7 @@ meMA.Ode6C1T.text = "My soul is by sinful passions disfigured. * Make it beautif
 
 meMA.Ode6H.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode6H.greekmelody = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.greekname
 meMA.Ode6H.melody = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.melody
 meMA.Ode6H.incipit = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.text
@@ -219,6 +226,7 @@ meMA.Oikos1.text = ""
 
 meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.greekname
 meMA.Ode7C11.melody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.name
 meMA.Ode7C11.incipit = "Spilling your blood…"
 meMA.Ode7C11.text = "Spilling your blood, O holy Martyr, * you extinguished burning flames of paganism. * Every day you refresh the faithful who extol you, * with showers of the your miracles, * O Zenobius our father."
@@ -243,6 +251,7 @@ meMA.Ode7C1T.text = "You are the holy place, O Virgin, * from which God appeared
 
 meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_US_goadedes.heHE.OiTheorrimonesPaides.greekname
 meMA.Ode8C11.melody = he.h.m8_en_US_goadedes.heHE.OiTheorrimonesPaides.name
 meMA.Ode8C11.incipit = "You were not scared…"
 meMA.Ode8C11.text = "You were not scared, O Hierarch, by the broad sword. * You were not frightened by perils. The threat of death did not startle you. * You were truly partaking of glory that never ends."
@@ -267,12 +276,14 @@ meMA.Ode8C1T.text = "O Virgin Mother, your Son has been called a cluster * of gr
 
 meMA.Ode8H.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode8H.greekmelody = he.h.m8_en_US_goadedes.heHE.OiTheorrimonesPaides.greekname
 meMA.Ode8H.melody = he.h.m8_en_US_goadedes.heHE.OiTheorrimonesPaides.melody
 meMA.Ode8H.incipit = he.h.m8_en_US_goadedes.heHE.OiTheorrimonesPaides.incipit
 meMA.Ode8H.text = he.h.m8_en_US_goadedes.heHE.OiTheorrimonesPaides.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.greekname
 meMA.Ode9C11.melody = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.name
 meMA.Ode9C11.incipit = "Hierarch, when you stood…"
 meMA.Ode9C11.text = "Hierarch, when you stood before * the tribunal of the governor, you proclaimed * in a resounding voice * the incarnation of the Ruler of all, * and what He suffered for our sake, * His cross and death and burial * and resurrection, by which * He has saved us in His love for humanity."
@@ -303,6 +314,7 @@ meMA.Ode9C1T.text = "Gate of the Light, to you I pray * and implore you to give 
 
 meMA.Ode9H.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode9H.greekmelody = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.greekname
 meMA.Ode9H.melody = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.melody
 meMA.Ode9H.incipit = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.incipit
 meMA.Ode9H.text = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.text

@@ -107,6 +107,7 @@ meMA.C2.verse = prayers_en_US_goadedes.pr.verse_SaintM.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode1C11.greekmelody = he.h.m6_en_US_goadedes.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C11.melody = he.h.m6_en_US_goadedes.heHE.OsEnIpeiroPezefsas.notmetered
 meMA.Ode1C11.incipit = "O Clement, as you stand…"
 meMA.Ode1C11.text = "O Clement, as you stand near Christ with the chorus on high, as a priest and as a glorious Martyr, fervently entreat Him that we who praise you may attain to your illumination."
@@ -131,6 +132,7 @@ meMA.Ode1C1T.text = "O immaculate Mother of God, adorned and embroidered with be
 
 meMA.Ode1C21.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode1C21.greekmelody = he.h.m4_en_US_goadedes.heHE.OPataxasAigypton.greekname
 meMA.Ode1C21.melody = he.h.m4_en_US_goadedes.heHE.OPataxasAigypton.name
 meMA.Ode1C21.incipit = "…"
 meMA.Ode1C21.text = ""
@@ -155,6 +157,7 @@ meMA.Ode1C2T.text = ""
 
 meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode3C11.greekmelody = he.h.m6_en_US_goadedes.heHE.OukEstinAgios.greekname
 meMA.Ode3C11.melody = he.h.m6_en_US_goadedes.heHE.OukEstinAgios.notmetered
 meMA.Ode3C11.incipit = "You were a branch…"
 meMA.Ode3C11.text = "You were a branch of the life-giving vine, and you brought forth ripe fruits. You garnished them with your splendid martyrdom, and you dedicated them to the Savior of all."
@@ -173,6 +176,7 @@ meMA.Ode3C1T.text = "No one is free of blame like you, O all-pure Theotokos. You
 
 meMA.Ode3C21.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3C21.greekmelody = he.h.m4_en_US_goadedes.heHE.EstereothiIKardiaMouEnKyrio.greekname
 meMA.Ode3C21.melody = he.h.m4_en_US_goadedes.heHE.EstereothiIKardiaMouEnKyrio.name
 meMA.Ode3C21.incipit = "…"
 meMA.Ode3C21.text = ""
@@ -197,6 +201,7 @@ meMA.Ode3C2T.text = ""
 
 meMA.Ode3H.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3H.greekmelody = he.h.m4_en_US_goadedes.heHE.EstereothiIKardiaMouEnKyrio.greekname
 meMA.Ode3H.melody = he.h.m4_en_US_goadedes.heHE.EstereothiIKardiaMouEnKyrio.melody
 meMA.Ode3H.incipit = he.h.m4_en_US_goadedes.heHE.EstereothiIKardiaMouEnKyrio.incipit
 meMA.Ode3H.text = he.h.m4_en_US_goadedes.heHE.EstereothiIKardiaMouEnKyrio.text
@@ -223,6 +228,7 @@ meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode4C11.greekmelody = he.h.m6_en_US_goadedes.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C11.melody = he.h.m6_en_US_goadedes.heHE.ChristosMouDynamis.notmetered
 meMA.Ode4C11.incipit = "O all-blessed medaled Martyr…"
 meMA.Ode4C11.text = "O all-blessed medaled Martyr, you circled the entire earth, and you held out the branch of contest, which dripped with gladness and sweet fragrance."
@@ -247,6 +253,7 @@ meMA.Ode4C1T.text = "Ever-virgin Mary, who were the most pure vessel able to con
 
 meMA.Ode4C21.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode4C21.greekmelody = he.h.m4_en_US_goadedes.heHE.EisakikoaOTheos.greekname
 meMA.Ode4C21.melody = he.h.m4_en_US_goadedes.heHE.EisakikoaOTheos.name
 meMA.Ode4C21.incipit = "…"
 meMA.Ode4C21.text = ""
@@ -271,6 +278,7 @@ meMA.Ode4C2T.text = ""
 
 meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode5C11.greekmelody = he.h.m6_en_US_goadedes.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C11.melody = he.h.m6_en_US_goadedes.heHE.ToTheioFengeiSou.notmetered
 meMA.Ode5C11.incipit = "O all-wise Clement…"
 meMA.Ode5C11.text = "O all-wise Clement, you repeatedly endured protracted torture, and you won many medals of martyrdom. Now you enjoy eternal delight of immortal blessedness."
@@ -295,6 +303,7 @@ meMA.Ode5C1T.text = "The Creator and Lord wished to save ruined human nature fro
 
 meMA.Ode5C21.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode5C21.greekmelody = he.h.m4_en_US_goadedes.heHE.OrthronFaeinon.greekname
 meMA.Ode5C21.melody = he.h.m4_en_US_goadedes.heHE.OrthronFaeinon.name
 meMA.Ode5C21.incipit = "…"
 meMA.Ode5C21.text = ""
@@ -319,6 +328,7 @@ meMA.Ode5C2T.text = ""
 
 meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode6C11.greekmelody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C11.melody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.notmetered
 meMA.Ode6C11.incipit = "O Saints, as athletes…"
 meMA.Ode6C11.text = "O Saints, as athletes you competed according to the rules, and you were crowned by the hand of the Giver of life. You received various gifts of grace and the ability to heal and cure the diseases of the faithful."
@@ -337,6 +347,7 @@ meMA.Ode6C1T.text = "I pray you, O all-pure Lady, who gave birth to the Lord and
 
 meMA.Ode6C21.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode6C21.greekmelody = he.h.m4_en_US_goadedes.heHE.EnPelageiTouViou.greekname
 meMA.Ode6C21.melody = he.h.m4_en_US_goadedes.heHE.EnPelageiTouViou.name
 meMA.Ode6C21.incipit = "…"
 meMA.Ode6C21.text = ""
@@ -361,6 +372,7 @@ meMA.Ode6C2T.text = ""
 
 meMA.Ode6H.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode6H.greekmelody = he.h.m4_en_US_goadedes.heHE.EnPelageiTouViou.greekname
 meMA.Ode6H.melody = he.h.m4_en_US_goadedes.heHE.EnPelageiTouViou.melody
 meMA.Ode6H.incipit = he.h.m4_en_US_goadedes.heHE.EnPelageiTouViou.incipit
 meMA.Ode6H.text = he.h.m4_en_US_goadedes.heHE.EnPelageiTouViou.text
@@ -374,6 +386,7 @@ meMA.Oikos1.text = ""
 
 meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode7C11.greekmelody = he.h.m6_en_US_goadedes.heHE.OiPaidesEnVavyloni.greekname
 meMA.Ode7C11.melody = he.h.m6_en_US_goadedes.heHE.OiPaidesEnVavyloni.notmetered
 meMA.Ode7C11.incipit = "O Saint, you brightened…"
 meMA.Ode7C11.text = "O Saint, you brightened the whole world with the splendor of your martyrdom, and you sang to Christ with a pure mind and soul: \"Blessed are You, O Lord, the God of our fathers.\""
@@ -392,6 +405,7 @@ meMA.Ode7C1T.text = "O Virgin, you became the Mother of the Wisdom that transcen
 
 meMA.Ode7C21.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode7C21.greekmelody = he.h.m4_en_US_goadedes.heHE.MiParadoisImas.greekname
 meMA.Ode7C21.melody = he.h.m4_en_US_goadedes.heHE.MiParadoisImas.name
 meMA.Ode7C21.incipit = "…"
 meMA.Ode7C21.text = ""
@@ -416,6 +430,7 @@ meMA.Ode7C2T.text = ""
 
 meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode8C11.greekmelody = he.h.m6_en_US_goadedes.heHE.NomonPatroon.greekname
 meMA.Ode8C11.melody = he.h.m6_en_US_goadedes.heHE.NomonPatroon.notmetered
 meMA.Ode8C11.incipit = "O all-blessed Saints…"
 meMA.Ode8C11.text = "O all-blessed Saints, you appeared on earth as brilliant luminaries, and you made the firmament of the holy Church shine. In heaven, you bring joy to the festival of the first-born saints, with the splendor of your contest, as you cry out: \"Sing a hymn to the Lord, all you works, and exalt Him beyond measure unto all the ages.\""
@@ -440,6 +455,7 @@ meMA.Ode8C1T.text = "The Logos, who from eternity exists and is perceived togeth
 
 meMA.Ode8C21.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode8C21.greekmelody = he.h.m4_en_US_goadedes.heHE.TaSympantaDespota.greekname
 meMA.Ode8C21.melody = he.h.m4_en_US_goadedes.heHE.TaSympantaDespota.name
 meMA.Ode8C21.incipit = "…"
 meMA.Ode8C21.text = ""
@@ -464,12 +480,14 @@ meMA.Ode8C2T.text = ""
 
 meMA.Ode8H.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode8H.greekmelody = he.h.m4_en_US_goadedes.heHE.TaSympantaDespota.greekname
 meMA.Ode8H.melody = he.h.m4_en_US_goadedes.heHE.TaSympantaDespota.melody
 meMA.Ode8H.incipit = he.h.m4_en_US_goadedes.heHE.TaSympantaDespota.incipit
 meMA.Ode8H.text = he.h.m4_en_US_goadedes.heHE.TaSympantaDespota.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode9C11.greekmelody = he.h.m6_en_US_goadedes.heHE.TheonAnthropois.greekname
 meMA.Ode9C11.melody = he.h.m6_en_US_goadedes.heHE.TheonAnthropois.notmetered
 meMA.Ode9C11.incipit = "O divinely blessed Saint…"
 meMA.Ode9C11.text = "O divinely blessed Saint, you were perfected in the bath of luminous baptism and the grace of sacerdotal orders; later you were bathed in the blood of martyrdom. Thus completely illumined, you ascended with joy to join the heavenly hosts."
@@ -488,6 +506,7 @@ meMA.Ode9C1T.text = "The unoriginate Son and Logos of God became incarnate, and 
 
 meMA.Ode9C21.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode9C21.greekmelody = he.h.m4_en_US_goadedes.heHE.EpoiiseKratos.greekname
 meMA.Ode9C21.melody = he.h.m4_en_US_goadedes.heHE.EpoiiseKratos.name
 meMA.Ode9C21.incipit = "…"
 meMA.Ode9C21.text = ""
@@ -512,6 +531,7 @@ meMA.Ode9C2T.text = ""
 
 meMA.Ode9H.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode9H.greekmelody = he.h.m4_en_US_goadedes.heHE.EpoiiseKratos.greekname
 meMA.Ode9H.melody = he.h.m4_en_US_goadedes.heHE.EpoiiseKratos.melody
 meMA.Ode9H.incipit = he.h.m4_en_US_goadedes.heHE.EpoiiseKratos.incipit
 meMA.Ode9H.text = he.h.m4_en_US_goadedes.heHE.EpoiiseKratos.text

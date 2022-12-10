@@ -112,6 +112,7 @@ meMA.C2.verse = prayers_en_US_goadedes.pr.verse_Prophet.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode1C11.greekmelody = he.h.m6_en_US_goadedes.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C11.melody = he.h.m6_en_US_goadedes.heHE.OsEnIpeiroPezefsas.name
 meMA.Ode1C11.incipit = "You were like Moses…"
 meMA.Ode1C11.text = "You were like Moses who passed over the Red Sea; * but you crossed the sea of your own blood, and you were untouched * by waves, blessed Babylas, and sang, * \"Let us sing a song of victory to God our Lord.\""
@@ -136,6 +137,7 @@ meMA.Ode1C1T.text = "As your own Maker so willed, you gave birth to Him, * when 
 
 meMA.Ode1C21.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode1C21.greekmelody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.greekname
 meMA.Ode1C21.melody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.name
 meMA.Ode1C21.incipit = "…"
 meMA.Ode1C21.text = ""
@@ -166,6 +168,7 @@ meMA.Ode1C2T.text = ""
 
 meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode3C11.greekmelody = he.h.m6_en_US_goadedes.heHE.OukEstinAgios.greekname
 meMA.Ode3C11.melody = he.h.m6_en_US_goadedes.heHE.OukEstinAgios.name
 meMA.Ode3C11.incipit = "No one is holy…"
 meMA.Ode3C11.text = "No one is holy like the Lord, * no one righteous like our God. * You exalted the horn of strength of Babylas Your true * and faithful servant and crowned * with the crown of confession of faith in You."
@@ -190,6 +193,7 @@ meMA.Ode3C1T.text = "My strength and song is Jesus Christ, * who from you, Theot
 
 meMA.Ode3C21.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3C21.greekmelody = he.h.m4_en_US_goadedes.heHE.ToxonDynatonIsthenise.greekname
 meMA.Ode3C21.melody = he.h.m4_en_US_goadedes.heHE.ToxonDynatonIsthenise.name
 meMA.Ode3C21.incipit = "…"
 meMA.Ode3C21.text = ""
@@ -214,6 +218,7 @@ meMA.Ode3C2T.text = ""
 
 meMA.Ode3H.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3H.greekmelody = he.h.m4_en_US_goadedes.heHE.ToxonDynatonIsthenise.greekname
 meMA.Ode3H.melody = he.h.m4_en_US_goadedes.heHE.ToxonDynatonIsthenise.melody
 meMA.Ode3H.incipit = he.h.m4_en_US_goadedes.heHE.ToxonDynatonIsthenise.incipit
 meMA.Ode3H.text = he.h.m4_en_US_goadedes.heHE.ToxonDynatonIsthenise.text
@@ -240,6 +245,7 @@ meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode4C11.greekmelody = he.h.m6_en_US_goadedes.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C11.melody = he.h.m6_en_US_goadedes.heHE.ChristosMouDynamis.name
 meMA.Ode4C11.incipit = "You cried aloud…"
 meMA.Ode4C11.text = "You cried aloud, O Hieromartyr Babylas, * \"Christ is God and my Lord, and He is my strength,\" * as you stood before the tyrants, and not frightened by their threats, * celebrating in the Lord with joy."
@@ -264,6 +270,7 @@ meMA.Ode4C1T.text = "We know that you alone are wholly undefiled, * as the all-h
 
 meMA.Ode4C21.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode4C21.greekmelody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.greekname
 meMA.Ode4C21.melody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.name
 meMA.Ode4C21.incipit = "…"
 meMA.Ode4C21.text = ""
@@ -294,6 +301,7 @@ meMA.Ode4C2T.text = ""
 
 meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode5C11.greekmelody = he.h.m6_en_US_goadedes.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C11.melody = he.h.m6_en_US_goadedes.heHE.ToTheioFengeiSou.name
 meMA.Ode5C11.incipit = "O Jesus Christ…"
 meMA.Ode5C11.text = "O Jesus Christ, Babylas Your great * Hieromartyr from on high indeed received the gift of Your grace divine * so that he might train and prepare the boys for Your love, * and also to dismiss their own death contemptuously."
@@ -318,6 +326,7 @@ meMA.Ode5C1T.text = "O all-immaculate Virgin, pray * to your Son for us your ser
 
 meMA.Ode5C21.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode5C21.greekmelody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.greekname
 meMA.Ode5C21.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.name
 meMA.Ode5C21.incipit = "…"
 meMA.Ode5C21.text = ""
@@ -348,6 +357,7 @@ meMA.Ode5C2T.text = ""
 
 meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode6C11.greekmelody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C11.melody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.name
 meMA.Ode6C11.incipit = "Beholding how life…"
 meMA.Ode6C11.text = "Beholding how life became * rough and stormy like the sea, * unsettled by idolatry, * the renowned Martyr Babylas cried aloud * and earnestly prayed to God, * \"Raise my life from corruption, very merciful Lord.\""
@@ -372,6 +382,7 @@ meMA.Ode6C1T.text = "Because of your childbirth * I am freed now from the curse 
 
 meMA.Ode6C21.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode6C21.greekmelody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C21.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.name
 meMA.Ode6C21.incipit = "…"
 meMA.Ode6C21.text = ""
@@ -402,6 +413,7 @@ meMA.Ode6C2T.text = ""
 
 meMA.Ode6H.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode6H.greekmelody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6H.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.melody
 meMA.Ode6H.incipit = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.text
@@ -415,6 +427,7 @@ meMA.Oikos1.text = ""
 
 meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode7C11.greekmelody = he.h.m6_en_US_goadedes.heHE.DrosovolonMenTinKaminon.greekname
 meMA.Ode7C11.melody = he.h.m6_en_US_goadedes.heHE.DrosovolonMenTinKaminon.name
 meMA.Ode7C11.incipit = "When the heavenly…"
 meMA.Ode7C11.text = "When the heavenly angelic hosts beheld the three * boys and their holy teacher defeat * paganism's deception by the power of the Cross, * they joyfully cried aloud to Christ, * \"You are blessed, O our God, who gave them victory!\""
@@ -439,6 +452,7 @@ meMA.Ode7C1T.text = "Make my gloomy heart to shine with your exceedingly * brigh
 
 meMA.Ode7C21.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode7C21.greekmelody = he.h.m2_en_US_goadedes.heHE.EnTiKamino.greekname
 meMA.Ode7C21.melody = he.h.m2_en_US_goadedes.heHE.EnTiKamino.name
 meMA.Ode7C21.incipit = "…"
 meMA.Ode7C21.text = ""
@@ -463,6 +477,7 @@ meMA.Ode7C2T.text = ""
 
 meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode8C11.greekmelody = he.h.m6_en_US_goadedes.heHE.TheonPateraDimiourgon.greekname
 meMA.Ode8C11.melody = he.h.m6_en_US_goadedes.heHE.TheonPateraDimiourgon.name
 meMA.Ode8C11.incipit = "Today, O brethren…"
 meMA.Ode8C11.text = "Today, O brethren, we all observe * the sacred memory of the hieromartyr * Babylas, who incited the boys in the fire to sing, * \"Bless the Lord, all you His works and all creation; * exalt Him beyond measure, unto all the ages.\""
@@ -487,6 +502,7 @@ meMA.Ode8C1T.text = "O Virgin, you conceived and gave birth * in the flesh to Go
 
 meMA.Ode8C21.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode8C21.greekmelody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8C21.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.name
 meMA.Ode8C21.incipit = "…"
 meMA.Ode8C21.text = ""
@@ -517,12 +533,14 @@ meMA.Ode8C2T.text = ""
 
 meMA.Ode8H.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode8H.greekmelody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8H.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.melody
 meMA.Ode8H.incipit = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.incipit
 meMA.Ode8H.text = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode9C11.greekmelody = he.h.m6_en_US_goadedes.heHE.TheonAnthropois.greekname
 meMA.Ode9C11.melody = he.h.m6_en_US_goadedes.heHE.TheonAnthropois.name
 meMA.Ode9C11.incipit = "Our Savior Christ…"
 meMA.Ode9C11.text = "Our Savior Christ demonstrated by the Cross * the easy way for all mankind to rise to the heavens' heights. * Therefore mortals now defeat the power of death. * It did not even frighten * boys and the wondrous Saint * Babylas, their teacher, whom we honor, and we call them blest."
@@ -547,6 +565,7 @@ meMA.Ode9C1T.text = "O Virgin Lady, I offer you a song * from lips that are impu
 
 meMA.Ode9C21.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode9C21.greekmelody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9C21.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.name
 meMA.Ode9C21.incipit = "…"
 meMA.Ode9C21.text = ""
@@ -571,6 +590,7 @@ meMA.Ode9C2T.text = ""
 
 meMA.Ode9H.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode9H.greekmelody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9H.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.melody
 meMA.Ode9H.incipit = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.incipit
 meMA.Ode9H.text = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.text

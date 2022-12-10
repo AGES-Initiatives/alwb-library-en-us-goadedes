@@ -128,12 +128,14 @@ meMA.C3.verse = prayers_en_US_goadedes.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode1C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.TristatasKrataious.greekname
 meMA.Ode1C1H.melody = he.h.m4_en_US_goadedes.heHE.TristatasKrataious.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_goadedes.heHE.TristatasKrataious.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_goadedes.heHE.TristatasKrataious.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode1C11.greekmelody = he.h.m4_en_US_goadedes.heHE.TristatasKrataious.greekname
 meMA.Ode1C11.melody = he.h.m4_en_US_goadedes.heHE.TristatasKrataious.name
 meMA.Ode1C11.incipit = "…"
 meMA.Ode1C11.text = ""
@@ -158,6 +160,7 @@ meMA.Ode1C1T.text = ""
 
 meMA.Ode1C21.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode1C21.greekmelody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.greekname
 meMA.Ode1C21.melody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.name
 meMA.Ode1C21.incipit = "You led the chosen people…"
 meMA.Ode1C21.text = "You led the chosen people of Israel using a cloud long ago. * And now in Zion You planted Your Church * through the water of baptism, * O Christ, and she cries out to all, * \"Come, let us sing unto our God a song.\""
@@ -182,6 +185,7 @@ meMA.Ode1C2T.text = oc.m4.d1_en_US_goadedes.ocMA.OdeS1C1T.text
 
 meMA.Ode1C31.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C31.mode = miscellanea_en_US_goadedes.misc.Mode5
+meMA.Ode1C31.greekmelody = he.h.m5_en_US_goadedes.heHE.IpponKaiAnavatin.greekname
 meMA.Ode1C31.melody = he.h.m5_en_US_goadedes.heHE.IpponKaiAnavatin.name
 meMA.Ode1C31.incipit = "…"
 meMA.Ode1C31.text = ""
@@ -206,12 +210,14 @@ meMA.Ode1C3T.text = ""
 
 meMA.Ode3C1H.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.OukEnSofia.greekname
 meMA.Ode3C1H.melody = he.h.m4_en_US_goadedes.heHE.OukEnSofia.melody
 meMA.Ode3C1H.incipit = he.h.m4_en_US_goadedes.heHE.OukEnSofia.incipit
 meMA.Ode3C1H.text = he.h.m4_en_US_goadedes.heHE.OukEnSofia.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3C11.greekmelody = he.h.m4_en_US_goadedes.heHE.OukEnSofia.greekname
 meMA.Ode3C11.melody = he.h.m4_en_US_goadedes.heHE.OukEnSofia.notmetered
 meMA.Ode3C11.incipit = "Glorified Cross of the Lord…"
 meMA.Ode3C11.text = "Glorified Cross of the Lord, who are Christ's glory, we glorify you in faith, as we are glorified and illumined by venerating and holding you."
@@ -236,6 +242,7 @@ meMA.Ode3C1T.text = "O pure Virgin who bore the all-compassionate Lord, shine on
 
 meMA.Ode3C21.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3C21.greekmelody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3C21.melody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.name
 meMA.Ode3C21.incipit = "Anointing this holy Church…"
 meMA.Ode3C21.text = "Anointing this holy Church * with oil of gladness here on earth today, * by Your all-holy Spirit's grace * You have sanctified it, O Christ our God."
@@ -260,6 +267,7 @@ meMA.Ode3C2T.text = oc.m4.d1_en_US_goadedes.ocMA.OdeS3C1T.text
 
 meMA.Ode3C31.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C31.mode = miscellanea_en_US_goadedes.misc.Mode5
+meMA.Ode3C31.greekmelody = he.h.m5_en_US_goadedes.heHE.OPixasEpOudenos.greekname
 meMA.Ode3C31.melody = he.h.m5_en_US_goadedes.heHE.OPixasEpOudenos.name
 meMA.Ode3C31.incipit = "…"
 meMA.Ode3C31.text = ""
@@ -304,12 +312,14 @@ meMA.Ode3KathismaT.text = ""
 
 meMA.Ode4C1H.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode4C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.DiAgapisinOiktirmon.greekname
 meMA.Ode4C1H.melody = he.h.m4_en_US_goadedes.heHE.DiAgapisinOiktirmon.melody
 meMA.Ode4C1H.incipit = he.h.m4_en_US_goadedes.heHE.DiAgapisinOiktirmon.incipit
 meMA.Ode4C1H.text = he.h.m4_en_US_goadedes.heHE.DiAgapisinOiktirmon.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode4C11.greekmelody = he.h.m4_en_US_goadedes.heHE.DiAgapisinOiktirmon.greekname
 meMA.Ode4C11.melody = he.h.m4_en_US_goadedes.heHE.DiAgapisinOiktirmon.name
 meMA.Ode4C11.incipit = "…"
 meMA.Ode4C11.text = ""
@@ -334,6 +344,7 @@ meMA.Ode4C1T.text = ""
 
 meMA.Ode4C21.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode4C21.greekmelody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.greekname
 meMA.Ode4C21.melody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.name
 meMA.Ode4C21.incipit = "Now Your Church…"
 meMA.Ode4C21.text = "Now Your Church, O Christ, is not sprinkled like the Temple * with sacrificial victims, but rather with Your precious * blood from Your life-giving side. * And rightly she sings to You, * \"Glory to Your strength, O Lord!\""
@@ -358,6 +369,7 @@ meMA.Ode4C2T.text = oc.m4.d1_en_US_goadedes.ocMA.OdeS4C1T.text
 
 meMA.Ode4C31.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C31.mode = miscellanea_en_US_goadedes.misc.Mode5
+meMA.Ode4C31.greekmelody = he.h.m5_en_US_goadedes.heHE.TinTheianEnnoisas.greekname
 meMA.Ode4C31.melody = he.h.m5_en_US_goadedes.heHE.TinTheianEnnoisas.name
 meMA.Ode4C31.incipit = "…"
 meMA.Ode4C31.text = ""
@@ -382,12 +394,14 @@ meMA.Ode4C3T.text = ""
 
 meMA.Ode5C1H.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode5C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.TonFotismonSouKyrie.greekname
 meMA.Ode5C1H.melody = he.h.m4_en_US_goadedes.heHE.TonFotismonSouKyrie.melody
 meMA.Ode5C1H.incipit = he.h.m4_en_US_goadedes.heHE.TonFotismonSouKyrie.incipit
 meMA.Ode5C1H.text = he.h.m4_en_US_goadedes.heHE.TonFotismonSouKyrie.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode5C11.greekmelody = he.h.m4_en_US_goadedes.heHE.TonFotismonSouKyrie.greekname
 meMA.Ode5C11.melody = he.h.m4_en_US_goadedes.heHE.TonFotismonSouKyrie.name
 meMA.Ode5C11.incipit = "…"
 meMA.Ode5C11.text = ""
@@ -412,6 +426,7 @@ meMA.Ode5C1T.text = ""
 
 meMA.Ode5C21.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode5C21.greekmelody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.greekname
 meMA.Ode5C21.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.name
 meMA.Ode5C21.incipit = "On Sinai long ago…"
 meMA.Ode5C21.text = "On Sinai long ago * You showed Moses, that seer of God, * the plan of the tabernacle, * O my Christ, that prefigured * Your Church, not made by human hands."
@@ -436,6 +451,7 @@ meMA.Ode5C2T.text = oc.m4.d1_en_US_goadedes.ocMA.OdeS5C1T.text
 
 meMA.Ode5C31.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C31.mode = miscellanea_en_US_goadedes.misc.Mode5
+meMA.Ode5C31.greekmelody = he.h.m5_en_US_goadedes.heHE.OAnavallomenos.greekname
 meMA.Ode5C31.melody = he.h.m5_en_US_goadedes.heHE.OAnavallomenos.name
 meMA.Ode5C31.incipit = "…"
 meMA.Ode5C31.text = ""
@@ -460,12 +476,14 @@ meMA.Ode5C3T.text = ""
 
 meMA.Ode6C1H.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode6C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.IlthonEisTaVathi.greekname
 meMA.Ode6C1H.melody = he.h.m4_en_US_goadedes.heHE.IlthonEisTaVathi.melody
 meMA.Ode6C1H.incipit = he.h.m4_en_US_goadedes.heHE.IlthonEisTaVathi.incipit
 meMA.Ode6C1H.text = he.h.m4_en_US_goadedes.heHE.IlthonEisTaVathi.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode6C11.greekmelody = he.h.m4_en_US_goadedes.heHE.IlthonEisTaVathi.greekname
 meMA.Ode6C11.melody = he.h.m4_en_US_goadedes.heHE.IlthonEisTaVathi.name
 meMA.Ode6C11.incipit = "…"
 meMA.Ode6C11.text = ""
@@ -490,6 +508,7 @@ meMA.Ode6C1T.text = ""
 
 meMA.Ode6C21.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode6C21.greekmelody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C21.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.name
 meMA.Ode6C21.incipit = "Christ the King…"
 meMA.Ode6C21.text = "Christ the King as Lord has now desired the beauty of the holy Church that He founded. * He has made her mother of all the nations * He adopted by the Spirit and rescued from slavery."
@@ -514,6 +533,7 @@ meMA.Ode6C2T.text = oc.m4.d1_en_US_goadedes.ocMA.OdeS6C1T.text
 
 meMA.Ode6C31.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C31.mode = miscellanea_en_US_goadedes.misc.Mode5
+meMA.Ode6C31.greekmelody = he.h.m5_en_US_goadedes.heHE.MainomeninKlydoni.greekname
 meMA.Ode6C31.melody = he.h.m5_en_US_goadedes.heHE.MainomeninKlydoni.name
 meMA.Ode6C31.incipit = "…"
 meMA.Ode6C31.text = ""
@@ -545,12 +565,14 @@ meMA.Oikos1.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode7C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.NeoiTreisEnVavyloni.greekname
 meMA.Ode7C1H.melody = he.h.m4_en_US_goadedes.heHE.NeoiTreisEnVavyloni.melody
 meMA.Ode7C1H.incipit = he.h.m4_en_US_goadedes.heHE.NeoiTreisEnVavyloni.incipit
 meMA.Ode7C1H.text = he.h.m4_en_US_goadedes.heHE.NeoiTreisEnVavyloni.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode7C11.greekmelody = he.h.m4_en_US_goadedes.heHE.NeoiTreisEnVavyloni.greekname
 meMA.Ode7C11.melody = he.h.m4_en_US_goadedes.heHE.NeoiTreisEnVavyloni.name
 meMA.Ode7C11.incipit = "…"
 meMA.Ode7C11.text = ""
@@ -575,6 +597,7 @@ meMA.Ode7C1T.text = ""
 
 meMA.Ode7C21.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode7C21.greekmelody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.greekname
 meMA.Ode7C21.melody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.name
 meMA.Ode7C21.incipit = "That fiery furnace…"
 meMA.Ode7C21.text = "That fiery furnace  * long ago became like a dew-laden breeze. * Now the spiritual chrism composed of oil * sanctifies the faithful, who cry out * together, \"In the temple of Your holy glory, You are blessed, O Lord.\""
@@ -599,6 +622,7 @@ meMA.Ode7C2T.text = oc.m4.d1_en_US_goadedes.ocMA.OdeS7C1T.text
 
 meMA.Ode7C31.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C31.mode = miscellanea_en_US_goadedes.misc.Mode5
+meMA.Ode7C31.greekmelody = he.h.m5_en_US_goadedes.heHE.OYperypsoumenos.greekname
 meMA.Ode7C31.melody = he.h.m5_en_US_goadedes.heHE.OYperypsoumenos.name
 meMA.Ode7C31.incipit = "…"
 meMA.Ode7C31.text = ""
@@ -635,12 +659,14 @@ meMA.Ode7C3T.text = ""
 
 meMA.Ode8C1H.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode8C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.LytrotaTouPantos.greekname
 meMA.Ode8C1H.melody = he.h.m4_en_US_goadedes.heHE.LytrotaTouPantos.melody
 meMA.Ode8C1H.incipit = he.h.m4_en_US_goadedes.heHE.LytrotaTouPantos.incipit
 meMA.Ode8C1H.text = he.h.m4_en_US_goadedes.heHE.LytrotaTouPantos.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode8C11.greekmelody = he.h.m4_en_US_goadedes.heHE.LytrotaTouPantos.greekname
 meMA.Ode8C11.melody = he.h.m4_en_US_goadedes.heHE.LytrotaTouPantos.name
 meMA.Ode8C11.incipit = "…"
 meMA.Ode8C11.text = ""
@@ -665,6 +691,7 @@ meMA.Ode8C1T.text = ""
 
 meMA.Ode8C21.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode8C21.greekmelody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8C21.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.name
 meMA.Ode8C21.incipit = "Master, on this day…"
 meMA.Ode8C21.text = "Master, on this day Your holy Church is like a bride who is wearing a wedding gown * that has been woven of grace divine * in the heavens. She invites her friends * and all the people to rejoice * and celebrate with her together singing, * \"Bless the Lord and praise Him, all you works of the Lord.\""
@@ -689,6 +716,7 @@ meMA.Ode8C2T.text = oc.m4.d1_en_US_goadedes.ocMA.OdeS8C1T.text
 
 meMA.Ode8C31.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C31.mode = miscellanea_en_US_goadedes.misc.Mode5
+meMA.Ode8C31.greekmelody = he.h.m5_en_US_goadedes.heHE.SoiToPantourgo.greekname
 meMA.Ode8C31.melody = he.h.m5_en_US_goadedes.heHE.SoiToPantourgo.name
 meMA.Ode8C31.incipit = "…"
 meMA.Ode8C31.text = ""
@@ -719,12 +747,14 @@ meMA.Ode8C3T.text = ""
 
 meMA.Ode9C1H.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode9C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.OTokosSouAfthoros.greekname
 meMA.Ode9C1H.melody = he.h.m4_en_US_goadedes.heHE.OTokosSouAfthoros.melody
 meMA.Ode9C1H.incipit = he.h.m4_en_US_goadedes.heHE.OTokosSouAfthoros.incipit
 meMA.Ode9C1H.text = he.h.m4_en_US_goadedes.heHE.OTokosSouAfthoros.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode9C11.greekmelody = he.h.m4_en_US_goadedes.heHE.OTokosSouAfthoros.greekname
 meMA.Ode9C11.melody = he.h.m4_en_US_goadedes.heHE.OTokosSouAfthoros.name
 meMA.Ode9C11.incipit = "…"
 meMA.Ode9C11.text = ""
@@ -749,6 +779,7 @@ meMA.Ode9C1T.text = ""
 
 meMA.Ode9C21.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode9C21.greekmelody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9C21.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.name
 meMA.Ode9C21.incipit = "Purified in heart…"
 meMA.Ode9C21.text = "Purified in heart and with wakeful eyes of our intellect beholding * all the beauty and all the glory, * which is more splendid than gold, within the Church, * let us perceive the daughter of the King and magnify her evermore."
@@ -773,6 +804,7 @@ meMA.Ode9C2T.text = "Rejoice, holy Bride of the great King, Maiden full of grace
 
 meMA.Ode9C31.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C31.mode = miscellanea_en_US_goadedes.misc.Mode5
+meMA.Ode9C31.greekmelody = he.h.m5_en_US_goadedes.heHE.IsaiaChoreve.greekname
 meMA.Ode9C31.melody = he.h.m5_en_US_goadedes.heHE.IsaiaChoreve.name
 meMA.Ode9C31.incipit = "…"
 meMA.Ode9C31.text = ""

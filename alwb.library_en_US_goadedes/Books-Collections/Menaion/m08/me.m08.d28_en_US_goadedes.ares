@@ -59,6 +59,7 @@ meMA.C1.verse = prayers_en_US_goadedes.pr.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_US_goadedes.heHE.AsomenToKyrio.greekname
 meMA.Ode1C11.melody = he.h.m8_en_US_goadedes.heHE.AsomenToKyrio.name
 meMA.Ode1C11.incipit = "Sin like a serpent…"
 meMA.Ode1C11.text = "Sin like a serpent bit me * and my heart is blackened by its poison bite. * By your prayers, holy father, * give me tears of repentance to whiten it."
@@ -83,6 +84,7 @@ meMA.Ode1C1T.text = "All-holy virgin Mother, * Christ, your Son, the super-divin
 
 meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_US_goadedes.heHE.SyEiToStereoma.greekname
 meMA.Ode3C11.melody = he.h.m8_en_US_goadedes.heHE.SyEiToStereoma.name
 meMA.Ode3C11.incipit = "By the Spirit…"
 meMA.Ode3C11.text = "By the Spirit you were moved * to persevere in your spiritual ascetic deeds, * and you overpowered * evil spirits, O Saint most wise."
@@ -107,6 +109,7 @@ meMA.Ode3C1T.text = "Enemy assaults do not * frighten me, for I have you O pure 
 
 meMA.Ode3H.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3H.greekmelody = he.h.m8_en_US_goadedes.heHE.SyEiToStereoma.greekname
 meMA.Ode3H.melody = he.h.m8_en_US_goadedes.heHE.SyEiToStereoma.melody
 meMA.Ode3H.incipit = he.h.m8_en_US_goadedes.heHE.SyEiToStereoma.incipit
 meMA.Ode3H.text = he.h.m8_en_US_goadedes.heHE.SyEiToStereoma.text
@@ -127,6 +130,7 @@ meMA.Ode3KathismaSt.text = me.m01.d29_en_US_goadedes.meMA.Ode3KathismaSt.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_US_goadedes.heHE.EisakikoaKyrie.greekname
 meMA.Ode4C11.melody = he.h.m8_en_US_goadedes.heHE.EisakikoaKyrie.name
 meMA.Ode4C11.incipit = "By your unceasing prayers…"
 meMA.Ode4C11.text = "By your unceasing prayers to God, * and by your ascetic labors, all-blessed Saint, * you expelled and drove out utterly * from your soul the demon of profligacy."
@@ -151,6 +155,7 @@ meMA.Ode4C1T.text = "Please illumine my darkened soul, * O all-precious monument
 
 meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_US_goadedes.heHE.OrthrizontesVoomenSoi.greekname
 meMA.Ode5C11.melody = he.h.m8_en_US_goadedes.heHE.OrthrizontesVoomenSoi.name
 meMA.Ode5C11.incipit = "O blessed Saint…"
 meMA.Ode5C11.text = "O blessed Saint, on fire with the embers of dispassion, * you reduced to ashes all the sinful passions like kindling wood."
@@ -175,6 +180,7 @@ meMA.Ode5C1T.text = "O Theotokos, you remained a virgin after childbirth. * We p
 
 meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_US_goadedes.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C11.melody = he.h.m8_en_US_goadedes.heHE.IlasthitiMoiSotir.name
 meMA.Ode6C11.incipit = "The murkiness of my sins…"
 meMA.Ode6C11.text = "The murkiness of my sins * and my pursuit of the pleasures all * surrounds me like darkest night. * O father, I pray you, please, * toward salvation pilot me. * With the Holy Spirit's * light in you, wholly illumine me."
@@ -199,6 +205,7 @@ meMA.Ode6C1T.text = "O Virgin, you have been called * the sanctuary and mercy se
 
 meMA.Ode6H.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode6H.greekmelody = he.h.m8_en_US_goadedes.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6H.melody = he.h.m8_en_US_goadedes.heHE.IlasthitiMoiSotir.melody
 meMA.Ode6H.incipit = he.h.m8_en_US_goadedes.heHE.IlasthitiMoiSotir.incipit
 meMA.Ode6H.text = he.h.m8_en_US_goadedes.heHE.IlasthitiMoiSotir.text
@@ -210,6 +217,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.greekname
 meMA.Ode7C11.melody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.name
 meMA.Ode7C11.incipit = "Cleansed of impurity…"
 meMA.Ode7C11.text = "Cleansed of impurity of passions, * and aglow with shining flashes of the Spirit, * blessed Saint, you have joined the choir of Ascetics, * for you indeed have passed to the light immaterial forever."
@@ -234,6 +242,7 @@ meMA.Ode7C1T.text = "See her, of whom Prophet Isaiah * in the Spirit long ago ha
 
 meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_US_goadedes.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C11.melody = he.h.m8_en_US_goadedes.heHE.EptaplasiosKaminon.name
 meMA.Ode8C11.incipit = "Energized by your many…"
 meMA.Ode8C11.text = "Energized by your many prayers, * lifted up by humility, * and your soul resplendently aglow with righteousness, * O father, you were adorned * with Christian love and quickly attained * illustrious heights and the perfection of virtue. * You cried out, \"Bless the Master, O you priests and you people; * exalt Him beyond measure, unto all the ages.\""
@@ -258,12 +267,14 @@ meMA.Ode8C1T.text = "O Virgin, supernaturally * you conceived and ineffably * yo
 
 meMA.Ode8H.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode8H.greekmelody = he.h.m8_en_US_goadedes.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8H.melody = he.h.m8_en_US_goadedes.heHE.EptaplasiosKaminon.melody
 meMA.Ode8H.incipit = he.h.m8_en_US_goadedes.heHE.EptaplasiosKaminon.incipit
 meMA.Ode8H.text = he.h.m8_en_US_goadedes.heHE.EptaplasiosKaminon.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.greekname
 meMA.Ode9C11.melody = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.name
 meMA.Ode9C11.incipit = "You led a life…"
 meMA.Ode9C11.text = "You led a life of truly good * deeds and virtues, and you therefore have now obtained * the source of blessing all, * and you attained Him, with whom you longed to be. * And now your dwelling is with those * who celebrate with songs of praise, * and you are full of joy, * O praiseworthy father Moses, monastic Saint."
@@ -288,6 +299,7 @@ meMA.Ode9C1T.text = "You are the one who brought an end * to the curse on our an
 
 meMA.Ode9H.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode9H.greekmelody = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.greekname
 meMA.Ode9H.melody = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.melody
 meMA.Ode9H.incipit = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.incipit
 meMA.Ode9H.text = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.text

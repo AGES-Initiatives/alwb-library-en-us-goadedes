@@ -103,6 +103,7 @@ meMA.C1.verse = prayers_en_US_goadedes.pr.verse_Baptist.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode1C11.greekmelody = he.h.m6_en_US_goadedes.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C11.melody = he.h.m6_en_US_goadedes.heHE.OsEnIpeiroPezefsas.name
 meMA.Ode1C11.incipit = "…"
 meMA.Ode1C11.text = ""
@@ -127,6 +128,7 @@ meMA.Ode1C1T.text = ""
 
 meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode3C11.greekmelody = he.h.m6_en_US_goadedes.heHE.OukEstinAgios.greekname
 meMA.Ode3C11.melody = he.h.m6_en_US_goadedes.heHE.OukEstinAgios.notmetered
 meMA.Ode3C11.incipit = "Today the barren woman…"
 meMA.Ode3C11.text = "Today the barren woman conceives a sacred fruit, who later will by grace cut out all the unfruitfulness of souls with the spiritual ax."
@@ -161,6 +163,7 @@ meMA.Ode3KathismaT.text = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode4C11.greekmelody = he.h.m6_en_US_goadedes.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C11.melody = he.h.m6_en_US_goadedes.heHE.ChristosMouDynamis.name
 meMA.Ode4C11.incipit = "…"
 meMA.Ode4C11.text = ""
@@ -185,6 +188,7 @@ meMA.Ode4C1T.text = ""
 
 meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode5C11.greekmelody = he.h.m6_en_US_goadedes.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C11.melody = he.h.m6_en_US_goadedes.heHE.ToTheioFengeiSou.name
 meMA.Ode5C11.incipit = "…"
 meMA.Ode5C11.text = ""
@@ -209,6 +213,7 @@ meMA.Ode5C1T.text = ""
 
 meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode6C11.greekmelody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C11.melody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.notmetered
 meMA.Ode6C11.incipit = "The priest said…"
 meMA.Ode6C11.text = "The priest said to the Archangel, \"My mind is full of doubt and I do not believe your words; for I prayed for the people's salvation, not for fruit from my loins.\""
@@ -240,6 +245,7 @@ meMA.Oikos1.text = "Let us open the holy Gospel and read what was written for us
 
 meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode7C11.greekmelody = he.h.m6_en_US_goadedes.heHE.DrosovolonMenTinKaminon.greekname
 meMA.Ode7C11.melody = he.h.m6_en_US_goadedes.heHE.DrosovolonMenTinKaminon.name
 meMA.Ode7C11.incipit = "…"
 meMA.Ode7C11.text = ""
@@ -264,6 +270,7 @@ meMA.Ode7C1T.text = ""
 
 meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode8C11.greekmelody = he.h.m6_en_US_goadedes.heHE.EkFlogosToisOsiois.greekname
 meMA.Ode8C11.melody = he.h.m6_en_US_goadedes.heHE.EkFlogosToisOsiois.name
 meMA.Ode8C11.incipit = "…"
 meMA.Ode8C11.text = ""
@@ -288,6 +295,7 @@ meMA.Ode8C1T.text = ""
 
 meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode9C11.greekmelody = he.h.m6_en_US_goadedes.heHE.TheonAnthropois.greekname
 meMA.Ode9C11.melody = he.h.m6_en_US_goadedes.heHE.TheonAnthropois.name
 meMA.Ode9C11.incipit = "…"
 meMA.Ode9C11.text = ""

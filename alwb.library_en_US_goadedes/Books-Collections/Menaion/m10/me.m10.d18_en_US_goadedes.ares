@@ -114,6 +114,7 @@ meMA.C1.verse = prayers_en_US_goadedes.pr.verse_Apostle.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_US_goadedes.heHE.IKekommeni.greekname
 meMA.Ode1C11.melody = he.h.m8_en_US_goadedes.heHE.IKekommeni.name
 meMA.Ode1C11.incipit = "Apostle Luke, we all know…"
 meMA.Ode1C11.text = "Apostle Luke, we all know that your holy mouth * is a divine mixing bowl of the wisdom from on high; * and eagerly we draw from it, and richly we obtain * the great and secret treasure of the grace of the all-holy Trinity. * To the Lord we sing in praise: \"For He is greatly glorified.\""
@@ -138,6 +139,7 @@ meMA.Ode1C1T.text = "Apostle Luke, in your Gospel you clarified * the manner of 
 
 meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_US_goadedes.heHE.SyEiToStereoma.greekname
 meMA.Ode3C11.melody = he.h.m8_en_US_goadedes.heHE.SyEiToStereoma.name
 meMA.Ode3C11.incipit = "Luke, inspired Evangelist…"
 meMA.Ode3C11.text = "Luke, inspired Evangelist * your holy Gospel presents to all that from on high * Day shall dawn upon us * and shall visit humanity."
@@ -162,6 +164,7 @@ meMA.Ode3C1T.text = "Even as you prophesied, * all generations of humankind now 
 
 meMA.Ode3H.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3H.greekmelody = he.h.m8_en_US_goadedes.heHE.SyEiToStereoma.greekname
 meMA.Ode3H.melody = he.h.m8_en_US_goadedes.heHE.SyEiToStereoma.melody
 meMA.Ode3H.incipit = he.h.m8_en_US_goadedes.heHE.SyEiToStereoma.incipit
 meMA.Ode3H.text = he.h.m8_en_US_goadedes.heHE.SyEiToStereoma.text
@@ -178,6 +181,7 @@ meMA.Ode3KathismaT.text = ""
 
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_US_goadedes.heHE.EpevisEfIppous.greekname
 meMA.Ode4C11.melody = he.h.m8_en_US_goadedes.heHE.EpevisEfIppous.name
 meMA.Ode4C11.incipit = "O Luke, when the light…"
 meMA.Ode4C11.text = "O Luke, when the light of the Holy Spirit illumined you * you were granted the privilege of writing down * His divine laws in your own hand for one Theophilos, * and for all who are singing, * faithfully, \"Glory to Your strength, O Lord!\""
@@ -208,6 +212,7 @@ meMA.Ode4C1T.text = "As Luke recorded in his Gospel, the Virgin Mother said, * t
 
 meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_US_goadedes.heHE.FotisonImas.greekname
 meMA.Ode5C11.melody = he.h.m8_en_US_goadedes.heHE.FotisonImas.name
 meMA.Ode5C11.incipit = "When you had received…"
 meMA.Ode5C11.text = "When you had received * in your heart the spiritual light, * having been purified of every former stain, * O Luke, obeying the law of love, you shared it with all."
@@ -232,6 +237,7 @@ meMA.Ode5C1T.text = "Maiden pure, rejoice! * Your virginity is prized indeed. * 
 
 meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.greekname
 meMA.Ode6C11.melody = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.name
 meMA.Ode6C11.incipit = "Like Moses, when you went up…"
 meMA.Ode6C11.text = "Like Moses, when you went up the holy mount * of the virtues, you conversed with your Loved One; * and as the prophet received the two tablets * inscribed by God, blessed Luke, you received the two * books written by the Spirit's hand, * O Apostle and teacher of all the world."
@@ -256,6 +262,7 @@ meMA.Ode6C1T.text = "The Lord God regarded you, all-blameless one, * when He cam
 
 meMA.Ode6H.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode6H.greekmelody = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.greekname
 meMA.Ode6H.melody = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.melody
 meMA.Ode6H.incipit = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.text
@@ -269,6 +276,7 @@ meMA.Oikos1.text = ""
 
 meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.greekname
 meMA.Ode7C11.melody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.name
 meMA.Ode7C11.incipit = "Oh, how the Master…"
 meMA.Ode7C11.text = "Oh, how the Master, having risen * from the sepulcher, appeared to His disciples, * to Cleopas and Luke! They saw Him, and they cried out, \"Blessed are You, O Lord, the God * of our fathers to the ages.\""
@@ -293,6 +301,7 @@ meMA.Ode7C1T.text = "Mother of God, you were saluted * by the Archangel, who sai
 
 meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_US_goadedes.heHE.TonEnOreiAgio.greekname
 meMA.Ode8C11.melody = he.h.m8_en_US_goadedes.heHE.TonEnOreiAgio.name
 meMA.Ode8C11.incipit = "We the faithful receive…"
 meMA.Ode8C11.text = "We the faithful receive the books you authored * as if God-inscribed tablets, O Apostle, * and we delight in grace's enlightenment, * as we praise Lord and exalt Him beyond measure, unto all the ages.."
@@ -323,12 +332,14 @@ meMA.Ode8C1T.text = "By Elizabeth you were called the Mother * of the Lord, as s
 
 meMA.Ode8H.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode8H.greekmelody = he.h.m8_en_US_goadedes.heHE.TonEnOreiAgio.greekname
 meMA.Ode8H.melody = he.h.m8_en_US_goadedes.heHE.TonEnOreiAgio.melody
 meMA.Ode8H.incipit = he.h.m8_en_US_goadedes.heHE.TonEnOreiAgio.incipit
 meMA.Ode8H.text = he.h.m8_en_US_goadedes.heHE.TonEnOreiAgio.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_US_goadedes.heHE.OrousParilthes.greekname
 meMA.Ode9C11.melody = he.h.m8_en_US_goadedes.heHE.OrousParilthes.name
 meMA.Ode9C11.incipit = "Luke, you attained…"
 meMA.Ode9C11.text = "Luke, you attained to the ultimate * of all things desired, O all-holy Evangelist. * Apostle, you have clearly obtained a blessed end, * seeing the truth, no longer * in mirrors dimly, but now face to face."
@@ -359,6 +370,7 @@ meMA.Ode9C1T.text = "You received the Word who was without flesh, * wishing to r
 
 meMA.Ode9H.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode9H.greekmelody = he.h.m8_en_US_goadedes.heHE.OrousParilthes.greekname
 meMA.Ode9H.melody = he.h.m8_en_US_goadedes.heHE.OrousParilthes.melody
 meMA.Ode9H.incipit = he.h.m8_en_US_goadedes.heHE.OrousParilthes.incipit
 meMA.Ode9H.text = he.h.m8_en_US_goadedes.heHE.OrousParilthes.text

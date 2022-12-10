@@ -89,6 +89,7 @@ meVE.Apolytikion1.text = me.m12.d17_en_US_goadedes.meVE.Apolytikion1.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode1C1H.greekmelody = he.h.m6_en_US_goadedes.heHE.KymatiThalassis.greekname
 meMA.Ode1C1H.melody = he.h.m6_en_US_goadedes.heHE.KymatiThalassis.melody
 meMA.Ode1C1H.incipit = he.h.m6_en_US_goadedes.heHE.KymatiThalassis.incipit
 meMA.Ode1C1H.text = he.h.m6_en_US_goadedes.heHE.KymatiThalassis.text
@@ -101,6 +102,7 @@ meMA.C2.verse = prayers_en_US_goadedes.pr.verse_God.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode1C11.greekmelody = he.h.m6_en_US_goadedes.heHE.KymatiThalassis.greekname
 meMA.Ode1C11.melody = he.h.m6_en_US_goadedes.heHE.KymatiThalassis.notmetered
 meMA.Ode1C11.incipit = "The gates of death…"
 meMA.Ode1C11.text = "The gates of death open to You in fear, and the eternal bars are shattered. For at Your divine descent, the people who died long ago rose, and with joy they extolled Your resurrection, O Christ."
@@ -137,6 +139,7 @@ meMA.Ode1C1T.text = "O unwedded, undefiled, Virgin Mother full of grace, we call
 
 meMA.Ode1C21.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Ode1C21.greekmelody = he.h.m1_en_US_goadedes.heHE.ChristosGennatai.greekname
 meMA.Ode1C21.melody = he.h.m1_en_US_goadedes.heHE.ChristosGennatai.name
 meMA.Ode1C21.incipit = "…"
 meMA.Ode1C21.text = ""
@@ -155,12 +158,14 @@ meMA.Ode1C2T.text = ""
 
 meMA.Ode3C1H.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode3C1H.greekmelody = he.h.m6_en_US_goadedes.heHE.SeTonEpiYdaton.greekname
 meMA.Ode3C1H.melody = he.h.m6_en_US_goadedes.heHE.SeTonEpiYdaton.melody
 meMA.Ode3C1H.incipit = he.h.m6_en_US_goadedes.heHE.SeTonEpiYdaton.incipit
 meMA.Ode3C1H.text = he.h.m6_en_US_goadedes.heHE.SeTonEpiYdaton.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode3C11.greekmelody = he.h.m6_en_US_goadedes.heHE.SeTonEpiYdaton.greekname
 meMA.Ode3C11.melody = he.h.m6_en_US_goadedes.heHE.SeTonEpiYdaton.notmetered
 meMA.Ode3C11.incipit = "Lying three days in the sepulcher…"
 meMA.Ode3C11.text = "Lying three days in the sepulcher, by Your vivifying resurrection You raised those who had died from the beginning of time. Released from condemnation, they greatly rejoiced and sang to You: \"Behold, You have come, O Lord, our redemption!\""
@@ -191,6 +196,7 @@ meMA.Ode3C1T.text = "Without passion was the conception of your Son; and He was 
 
 meMA.Ode3C21.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Ode3C21.greekmelody = he.h.m1_en_US_goadedes.heHE.ToProTonAionon.greekname
 meMA.Ode3C21.melody = he.h.m1_en_US_goadedes.heHE.ToProTonAionon.name
 meMA.Ode3C21.incipit = "…"
 meMA.Ode3C21.text = ""
@@ -214,12 +220,14 @@ meMA.Hypakoe.text = "The Angel made the furnace like a moist whistling wind for 
 
 meMA.Ode4C1H.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode4C1H.greekmelody = he.h.m6_en_US_goadedes.heHE.TinEnStavroSou.greekname
 meMA.Ode4C1H.melody = he.h.m6_en_US_goadedes.heHE.TinEnStavroSou.melody
 meMA.Ode4C1H.incipit = he.h.m6_en_US_goadedes.heHE.TinEnStavroSou.incipit
 meMA.Ode4C1H.text = he.h.m6_en_US_goadedes.heHE.TinEnStavroSou.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode4C11.greekmelody = he.h.m6_en_US_goadedes.heHE.TinEnStavroSou.greekname
 meMA.Ode4C11.melody = he.h.m6_en_US_goadedes.heHE.TinEnStavroSou.notmetered
 meMA.Ode4C11.incipit = "O Christ God, Your divine descent…"
 meMA.Ode4C11.text = "O Christ God, Your divine descent into Hades proved to be life to the dead; for You, O good One, bound the enemies below, and You opened the path to heaven for humanity."
@@ -250,6 +258,7 @@ meMA.Ode4C1T.text = "O immaculate and noble Lady, your Son, who is the expectati
 
 meMA.Ode4C21.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Ode4C21.greekmelody = he.h.m1_en_US_goadedes.heHE.RavdosEkTisRizis.greekname
 meMA.Ode4C21.melody = he.h.m1_en_US_goadedes.heHE.RavdosEkTisRizis.name
 meMA.Ode4C21.incipit = "…"
 meMA.Ode4C21.text = ""
@@ -268,12 +277,14 @@ meMA.Ode4C2T.text = ""
 
 meMA.Ode5C1H.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode5C1H.greekmelody = he.h.m6_en_US_goadedes.heHE.TheofaneiasSouChriste.greekname
 meMA.Ode5C1H.melody = he.h.m6_en_US_goadedes.heHE.TheofaneiasSouChriste.melody
 meMA.Ode5C1H.incipit = he.h.m6_en_US_goadedes.heHE.TheofaneiasSouChriste.incipit
 meMA.Ode5C1H.text = he.h.m6_en_US_goadedes.heHE.TheofaneiasSouChriste.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode5C11.greekmelody = he.h.m6_en_US_goadedes.heHE.TheofaneiasSouChriste.greekname
 meMA.Ode5C11.melody = he.h.m6_en_US_goadedes.heHE.TheofaneiasSouChriste.notmetered
 meMA.Ode5C11.incipit = "Visually symbolizing…"
 meMA.Ode5C11.text = "Visually symbolizing the explosion of joy, the radiant Angel at the sepulcher appeared to the women and proclaimed the resurrection. They ceased weeping and greatly rejoiced, and they announced to the Apostles that the risen Christ had said, \"Rejoice!\" to them."
@@ -304,6 +315,7 @@ meMA.Ode5C1T.text = "O Lord, Isaiah was moved by the Holy Spirit to announce tha
 
 meMA.Ode5C21.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Ode5C21.greekmelody = he.h.m1_en_US_goadedes.heHE.TheosOnEirinis.greekname
 meMA.Ode5C21.melody = he.h.m1_en_US_goadedes.heHE.TheosOnEirinis.name
 meMA.Ode5C21.incipit = "…"
 meMA.Ode5C21.text = ""
@@ -322,12 +334,14 @@ meMA.Ode5C2T.text = ""
 
 meMA.Ode6C1H.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode6C1H.greekmelody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C1H.melody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.melody
 meMA.Ode6C1H.incipit = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.incipit
 meMA.Ode6C1H.text = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode6C11.greekmelody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C11.melody = he.h.m6_en_US_goadedes.heHE.TouViouTinThalassan.notmetered
 meMA.Ode6C11.incipit = "O good One…"
 meMA.Ode6C11.text = "O good One, by Your three-day burial, as God You neutralized death and demolished Hades. O King Jesus, by Your resurrection, You poured out life to people in the world."
@@ -358,6 +372,7 @@ meMA.Ode6C1T.text = "O perpetually virgin Mother Mary, you carried Christ in you
 
 meMA.Ode6C21.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Ode6C21.greekmelody = he.h.m1_en_US_goadedes.heHE.SplanchnonIonan.greekname
 meMA.Ode6C21.melody = he.h.m1_en_US_goadedes.heHE.SplanchnonIonan.name
 meMA.Ode6C21.incipit = "…"
 meMA.Ode6C21.text = ""
@@ -390,12 +405,14 @@ meMA.Oikos2.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode7C1H.greekmelody = he.h.m6_en_US_goadedes.heHE.AfrastonThavma.greekname
 meMA.Ode7C1H.melody = he.h.m6_en_US_goadedes.heHE.AfrastonThavma.melody
 meMA.Ode7C1H.incipit = he.h.m6_en_US_goadedes.heHE.AfrastonThavma.incipit
 meMA.Ode7C1H.text = he.h.m6_en_US_goadedes.heHE.AfrastonThavma.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode7C11.greekmelody = he.h.m6_en_US_goadedes.heHE.AfrastonThavma.greekname
 meMA.Ode7C11.melody = he.h.m6_en_US_goadedes.heHE.AfrastonThavma.notmetered
 meMA.Ode7C11.incipit = "Oh strange miracle…"
 meMA.Ode7C11.text = "Oh strange miracle! The Lord who sits on a throne in the heights underwent death in the flesh He assumed. But in the might of His divinity He rose, and with himself He raised those who had died from the beginning of time."
@@ -426,6 +443,7 @@ meMA.Ode7C1T.text = "The strange miracle, spoken of by prophets and by fathers l
 
 meMA.Ode7C21.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Ode7C21.greekmelody = he.h.m1_en_US_goadedes.heHE.OiPaidesEfseveia.greekname
 meMA.Ode7C21.melody = he.h.m1_en_US_goadedes.heHE.OiPaidesEfseveia.name
 meMA.Ode7C21.incipit = "…"
 meMA.Ode7C21.text = ""
@@ -444,12 +462,14 @@ meMA.Ode7C2T.text = ""
 
 meMA.Ode8C1H.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode8C1H.greekmelody = he.h.m6_en_US_goadedes.heHE.EkstithiFrittonOurane.greekname
 meMA.Ode8C1H.melody = he.h.m6_en_US_goadedes.heHE.EkstithiFrittonOurane.melody
 meMA.Ode8C1H.incipit = he.h.m6_en_US_goadedes.heHE.EkstithiFrittonOurane.incipit
 meMA.Ode8C1H.text = he.h.m6_en_US_goadedes.heHE.EkstithiFrittonOurane.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode8C11.greekmelody = he.h.m6_en_US_goadedes.heHE.EkstithiFrittonOurane.greekname
 meMA.Ode8C11.melody = he.h.m6_en_US_goadedes.heHE.EkstithiFrittonOurane.notmetered
 meMA.Ode8C11.incipit = "We marvel at Your ineffable…"
 meMA.Ode8C11.text = "We marvel at Your ineffable condescension for us lowly creatures, O Christ! Behold, You tasted death, though You are immortal God, and You were laid as a mortal in a sepulcher. Then You rose, O Logos, and with yourself raised those below. And they exalt You beyond measure unto all the ages."
@@ -480,6 +500,7 @@ meMA.Ode8C1T.text = "Prophetic sayings faithfully foretold the coming in human f
 
 meMA.Ode8C21.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Ode8C21.greekmelody = he.h.m1_en_US_goadedes.heHE.ThavmatosYperfyous.greekname
 meMA.Ode8C21.melody = he.h.m1_en_US_goadedes.heHE.ThavmatosYperfyous.name
 meMA.Ode8C21.incipit = "…"
 meMA.Ode8C21.text = ""
@@ -498,12 +519,14 @@ meMA.Ode8C2T.text = ""
 
 meMA.Ode9C1H.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode9C1H.greekmelody = he.h.m6_en_US_goadedes.heHE.MiEpodyrouMouMiter.greekname
 meMA.Ode9C1H.melody = he.h.m6_en_US_goadedes.heHE.MiEpodyrouMouMiter.melody
 meMA.Ode9C1H.incipit = he.h.m6_en_US_goadedes.heHE.MiEpodyrouMouMiter.incipit
 meMA.Ode9C1H.text = he.h.m6_en_US_goadedes.heHE.MiEpodyrouMouMiter.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Ode9C11.greekmelody = he.h.m6_en_US_goadedes.heHE.MiEpodyrouMouMiter.greekname
 meMA.Ode9C11.melody = he.h.m6_en_US_goadedes.heHE.MiEpodyrouMouMiter.notmetered
 meMA.Ode9C11.incipit = "O creation, why do you lament…"
 meMA.Ode9C11.text = "O creation, why do you lament as you behold the Master of life and your God crucified and buried? He will rise and radiantly renew you by His resurrection within three days, and He will destroy death and with himself raise those who extol Him."
@@ -534,6 +557,7 @@ meMA.Ode9C1T.text = "O Virgin, all creation congratulates you for your childbirt
 
 meMA.Ode9C21.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Ode9C21.greekmelody = he.h.m1_en_US_goadedes.heHE.MystirionXenon.greekname
 meMA.Ode9C21.melody = he.h.m1_en_US_goadedes.heHE.MystirionXenon.name
 meMA.Ode9C21.incipit = "…"
 meMA.Ode9C21.text = ""
