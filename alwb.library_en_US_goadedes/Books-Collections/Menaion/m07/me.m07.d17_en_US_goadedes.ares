@@ -108,6 +108,7 @@ meVE.Apolytikion1ger.incipit = "…"
 meVE.Apolytikion1ger.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
@@ -118,6 +119,7 @@ meMA.Kathisma1T.incipit = ho.s23_en_US_goadedes.hoCA.Apolytikion2.incipit
 meMA.Kathisma1T.text = ho.s23_en_US_goadedes.hoCA.Apolytikion2.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Kathisma21.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma21.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
@@ -130,6 +132,7 @@ meMA.Kathisma2T.text = oc.m1.d1_en_US_goadedes.ocMA.Kathisma13.text
 meMA.R01 = ""
 
 meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma31.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 meMA.Kathisma31.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 meMA.Kathisma31.text = "" // see Σύστημα Τυπικοῦ
 
@@ -302,12 +305,13 @@ meMA.Ode3H.incipit = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.incipit
 meMA.Ode3H.text = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 meMA.Ode3Kathisma1.incipit = "We the faithful sing…"
 meMA.Ode3Kathisma1.text = "We the faithful sing your praise, Marina Martyr of Christ; * for you trampled under foot the tyrant enemy, * by the power of the Cross, which gave you courage. * By trampling on the foe's power, in us you inspire * the courage to preserve our holy faith in God. * And now your head is adorned with a halo * from heaven, O celebrated Saint. * In earnest pray now to Christ the Savior * to save us who observe your memory."
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode3KathismaT.melody = miscellanea_en_US_goadedes.misc.Automelon
+meMA.Ode3KathismaT.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.melody
 meMA.Ode3KathismaT.incipit = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.incipit
 meMA.Ode3KathismaT.text = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.text
 

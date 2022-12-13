@@ -117,6 +117,7 @@ meMA.Ode3H.incipit = he.h.m8_en_US_goadedes.heHE.StereosonImonTonNoun.incipit
 meMA.Ode3H.text = he.h.m8_en_US_goadedes.heHE.StereosonImonTonNoun.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
@@ -127,7 +128,7 @@ meMA.Ode3KathismaT.incipit = "…"
 meMA.Ode3KathismaT.text = ""
 
 meMA.Ode3KathismaSt.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode3KathismaSt.melody = miscellanea_en_US_goadedes.misc.Automelon
+meMA.Ode3KathismaSt.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.melody
 meMA.Ode3KathismaSt.incipit = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.incipit
 meMA.Ode3KathismaSt.text = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.text
 

@@ -254,11 +254,13 @@ meMA.Oikos17.text = ""
 meMA.Oikos18.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""

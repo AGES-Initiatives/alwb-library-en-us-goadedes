@@ -74,6 +74,7 @@ meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
 meMA.Kathisma11.incipit = "As we come frequently…"
 meMA.Kathisma11.text = "As we come frequently to your holy temple * and magnify you with devotion and reverence, * O Archangel, preeminent among angelic hosts, * we implore you faithfully, O divine Chief Commander: * Free us from the tyranny of any adversary; * and by your prayers deliver us from hell * and from impending perdition and punishment."
@@ -84,6 +85,7 @@ meMA.Kathisma1T.incipit = //ho.s23_en_US_goadedes.hoCA.Apolytikion2.incipit
 meMA.Kathisma1T.text = //ho.s23_en_US_goadedes.hoCA.Apolytikion2.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
 meMA.Kathisma21.incipit = me.m11.d08_en_US_goadedes.meMA.Kathisma11.incipit
 meMA.Kathisma21.text = me.m11.d08_en_US_goadedes.meMA.Kathisma11.text
@@ -228,12 +230,13 @@ meMA.Ode3C2T.incipit = "…"
 meMA.Ode3C2T.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode3KathismaT.melody = miscellanea_en_US_goadedes.misc.Automelon
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.melody
 meMA.Ode3KathismaT.incipit = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.incipit
 meMA.Ode3KathismaT.text = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.text
 

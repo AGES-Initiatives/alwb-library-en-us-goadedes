@@ -118,7 +118,7 @@ meVE.LityBoth.text = ho.s23_en_US_goadedes.hoCA.Troparion7.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.Aposticha1.greekmelody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.greekname
-meVE.Aposticha1.melody = miscellanea_en_US_goadedes.misc.Automelon
+meVE.Aposticha1.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.melody
 meVE.Aposticha1.incipit = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.incipit
 meVE.Aposticha1.text = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.text
 
@@ -152,6 +152,7 @@ meVE.GeneralApolytikion1.name = ""
 meVE.MM.GeneralApolytikion1.text = properties_en_US_goadedes.media.key
 
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Kathisma11.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma11.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
@@ -162,16 +163,18 @@ meMA.Kathisma1T.incipit = oc.m1.d1_en_US_goadedes.ocMA.Kathisma13.incipit
 meMA.Kathisma1T.text = oc.m1.d1_en_US_goadedes.ocMA.Kathisma13.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Kathisma21.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma21.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma2T.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Kathisma2T.melody = miscellanea_en_US_goadedes.misc.Automelon
+meMA.Kathisma2T.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.melody
 meMA.Kathisma2T.incipit = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.incipit
 meMA.Kathisma2T.text = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.text
 
 meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Kathisma31.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma31.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
@@ -269,6 +272,7 @@ meMA.Ode3C1T.incipit = "…"
 meMA.Ode3C1T.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""

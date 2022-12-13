@@ -173,11 +173,13 @@ meCO.Ode9C13.incipit = "Oh the shameless act…"
 meCO.Ode9C13.text = "Oh the shameless act of your blinding infanticide! * Therefore you forgot the fact that you could not take God * into your control and then destroy Him. * Seething with anger and rage, * you slaughtered the innocents, O Herod. * \"Spare our souls, O Christ our God, and save us, we pray.\""
 
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode3
+meMA.Kathisma21.greekmelody = he.a.m3_en_US_goadedes.heAU.IParthenosSimeron.greekname
 meMA.Kathisma21.melody = he.a.m3_en_US_goadedes.heAU.IParthenosSimeron.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
@@ -352,11 +354,13 @@ meMA.Ode3H.incipit = he.h.m8_en_US_goadedes.heHE.OuraniasApsidos.incipit
 meMA.Ode3H.text = he.h.m8_en_US_goadedes.heHE.OuraniasApsidos.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""

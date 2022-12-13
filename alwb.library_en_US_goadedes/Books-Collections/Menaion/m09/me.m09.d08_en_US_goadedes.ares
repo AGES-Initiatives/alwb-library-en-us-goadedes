@@ -160,16 +160,19 @@ meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 meMA.Kathisma21.incipit = me.m09.d07_en_US_goadedes.meVE.Apolytikion1.incipit
 meMA.Kathisma21.text = me.m09.d07_en_US_goadedes.meVE.Apolytikion1.text
 
 meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Kathisma31.greekmelody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.greekname
 meMA.Kathisma31.melody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.name
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
@@ -347,6 +350,7 @@ meMA.Hypakoe.incipit = "…"
 meMA.Hypakoe.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""

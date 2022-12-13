@@ -43,12 +43,12 @@ ocVE.Aposticha1.incipit = "…"
 ocVE.Aposticha1.text = ""
 
 ocVE.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode3
-ocVE.Aposticha2.melody = miscellanea_en_US_goadedes.misc.Automelon
+ocVE.Aposticha2.melody = he.a.m3_en_US_goadedes.heAU.SosonMeKyrie.melody
 ocVE.Aposticha2.incipit = he.a.m3_en_US_goadedes.heAU.SosonMeKyrie.incipit
 ocVE.Aposticha2.text = he.a.m3_en_US_goadedes.heAU.SosonMeKyrie.text
 
 ocVE.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode3
-ocVE.Aposticha3.melody = miscellanea_en_US_goadedes.misc.Automelon
+ocVE.Aposticha3.melody = he.a.m3_en_US_goadedes.heAU.MegaliTouStavrouSou.melody
 ocVE.Aposticha3.incipit = he.a.m3_en_US_goadedes.heAU.MegaliTouStavrouSou.incipit
 ocVE.Aposticha3.text = he.a.m3_en_US_goadedes.heAU.MegaliTouStavrouSou.text
 
@@ -58,7 +58,7 @@ ocVE.AposTheotokion.incipit = "…"
 ocVE.AposTheotokion.text = ""
 
 ocVE.ApolTheotokionVM.mode = miscellanea_en_US_goadedes.misc.Mode3
-ocVE.ApolTheotokionVM.melody = miscellanea_en_US_goadedes.misc.Automelon
+ocVE.ApolTheotokionVM.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.melody
 ocVE.ApolTheotokionVM.incipit = he.a.m3_en_US_goadedes.heAU.TinOraiotita.incipit
 ocVE.ApolTheotokionVM.text = he.a.m3_en_US_goadedes.heAU.TinOraiotita.text
 

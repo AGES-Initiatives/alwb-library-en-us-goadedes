@@ -38,7 +38,7 @@ ocVE.SticTheotokion.incipit = "…"
 ocVE.SticTheotokion.text = ""
 
 ocVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode7
-ocVE.Aposticha1.melody = miscellanea_en_US_goadedes.misc.Automelon
+ocVE.Aposticha1.melody = he.a.m7_en_US_goadedes.heAU.OukEtiKolyometha.melody
 ocVE.Aposticha1.incipit = he.a.m7_en_US_goadedes.heAU.OukEtiKolyometha.incipit
 ocVE.Aposticha1.text = he.a.m7_en_US_goadedes.heAU.OukEtiKolyometha.text
 
@@ -48,7 +48,7 @@ ocVE.Aposticha2.incipit = "…"
 ocVE.Aposticha2.text = ""
 
 ocVE.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode7
-ocVE.Aposticha3.melody = miscellanea_en_US_goadedes.misc.Automelon
+ocVE.Aposticha3.melody = he.a.m7_en_US_goadedes.heAU.KatafronisantesPanton.melody
 ocVE.Aposticha3.incipit = he.a.m7_en_US_goadedes.heAU.KatafronisantesPanton.incipit
 ocVE.Aposticha3.text = he.a.m7_en_US_goadedes.heAU.KatafronisantesPanton.text
 
@@ -63,7 +63,7 @@ ocVE.ApolTheotokionVM.incipit = oc.m7.d4_en_US_goadedes.ocMA.Kathisma33.incipit
 ocVE.ApolTheotokionVM.text = oc.m7.d4_en_US_goadedes.ocMA.Kathisma33.text
 
 ocMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode7
-ocMA.Kathisma11.melody = miscellanea_en_US_goadedes.misc.Automelon
+ocMA.Kathisma11.melody = he.a.m7_en_US_goadedes.heAU.ODiEmeAnaschomenos.melody
 ocMA.Kathisma11.incipit = he.a.m7_en_US_goadedes.heAU.ODiEmeAnaschomenos.incipit
 ocMA.Kathisma11.text = he.a.m7_en_US_goadedes.heAU.ODiEmeAnaschomenos.text
 

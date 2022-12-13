@@ -81,7 +81,7 @@ meVE.Aposticha2.text = ""
 
 meVE.Aposticha3.poet = poets_en_US_goadedes.po.Kyprianou
 meVE.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode2
-meVE.Aposticha3.melody = miscellanea_en_US_goadedes.misc.Automelon
+meVE.Aposticha3.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.melody
 meVE.Aposticha3.incipit = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.incipit
 meVE.Aposticha3.text = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.text
 
@@ -169,11 +169,13 @@ meCO.Ode9C12.incipit = "…"
 meCO.Ode9C12.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Kathisma11.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma11.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Kathisma21.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma21.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
@@ -340,16 +342,19 @@ meMA.Kontakion1.text = ""
 meMA.Oikos1.text = "The sacred words of the Prophets are coming to pass. Behold, a Virgin gives birth to God in the flesh, in the city of Bethlehem, inside the Grotto. All creation be enriched! Rejoice exceedingly and dance for joy! The Master of all has come to live among His servants; and from the devil's control He is freeing us, who had succumbed to corruption. He is seen as an infant, wrapped in swaddling clothes lying in a manger, a newborn Child, the pre-eternal God."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode3
+meMA.Ode3Kathisma2.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
 meMA.Ode3Kathisma2.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3Kathisma3.mode = miscellanea_en_US_goadedes.misc.Mode3
+meMA.Ode3Kathisma3.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
 meMA.Ode3Kathisma3.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.name
 meMA.Ode3Kathisma3.incipit = "…"
 meMA.Ode3Kathisma3.text = ""
@@ -795,7 +800,7 @@ meMA.Exaposteilarion4.text = "Come, all you faithful, let us now with faith anti
 
 meMA.Lauds1.poet = poets_en_US_goadedes.po.RomanouTouMelodou
 meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode6
-meMA.Lauds1.melody = miscellanea_en_US_goadedes.misc.Automelon
+meMA.Lauds1.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.melody
 meMA.Lauds1.incipit = he.a.m6_en_US_goadedes.heAU.AiAngelikai.incipit
 meMA.Lauds1.text = he.a.m6_en_US_goadedes.heAU.AiAngelikai.text
 

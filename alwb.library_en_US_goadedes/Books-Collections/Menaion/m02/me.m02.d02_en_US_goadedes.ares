@@ -175,16 +175,19 @@ meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Kathisma11.melody = miscellanea_en_US_goadedes.misc.Automelon
+meMA.Kathisma11.greekmelody = he.a.m1_en_US_goadedes.heAU.ChorosAngelikos.greekname
+meMA.Kathisma11.melody = he.a.m1_en_US_goadedes.heAU.ChorosAngelikos.melody
 meMA.Kathisma11.incipit = he.a.m1_en_US_goadedes.heAU.ChorosAngelikos.incipit
 meMA.Kathisma11.text = he.a.m1_en_US_goadedes.heAU.ChorosAngelikos.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Kathisma21.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma21.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma31.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma31.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
@@ -267,6 +270,7 @@ meMA.Ode3C13.incipit = "Being born of earth…"
 meMA.Ode3C13.text = "Being born of earth, our human nature returned there. * Our Maker immutably became an infant; * thus He made it to conform to Divinity."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 meMA.Ode3Kathisma1.incipit = "On Mt. Sinai long ago…"
 meMA.Ode3Kathisma1.text = "On Mt. Sinai long ago, Moses beheld the back of God * in His glory as He passed, and he was granted to hear * the divine voice in darkness and gloom and storm indistinctly. * But Symeon has held in his embrace God himself * incarnate now for our sake immutably. * And he rejoiced and he happily hastened * to depart for the life that never ends. * And so he said, \"Now You are dismissing * Your servant in peace, O Master.\""
@@ -469,7 +473,7 @@ meMA.Ode9C13.text = "The chaste and devout and elderly Anna, * coming up in the 
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode3
 meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_goadedes.heAU.EnPnevmatiToIero.greekname
-meMA.Exaposteilarion1.melody = miscellanea_en_US_goadedes.misc.Automelon
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_goadedes.heAU.EnPnevmatiToIero.melody
 meMA.Exaposteilarion1.incipit = he.a.m3_en_US_goadedes.heAU.EnPnevmatiToIero.incipit
 meMA.Exaposteilarion1.text = he.a.m3_en_US_goadedes.heAU.EnPnevmatiToIero.text
 

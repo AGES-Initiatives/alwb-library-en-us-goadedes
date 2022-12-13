@@ -86,11 +86,13 @@ meVE.Apolytikion1.incipit = me.m01.d06_en_US_goadedes.meVE.Apolytikion1.incipit
 meVE.Apolytikion1.text = me.m01.d06_en_US_goadedes.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Kathisma21.greekmelody = he.a.m8_en_US_goadedes.heAU.AvlonPoimenikon.greekname
 meMA.Kathisma21.melody = he.a.m8_en_US_goadedes.heAU.AvlonPoimenikon.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
@@ -212,11 +214,13 @@ meMA.Ode3H.incipit = he.h.m2_en_US_goadedes.heHE.ExinthisenIErimos.incipit
 meMA.Ode3H.text = he.h.m2_en_US_goadedes.heHE.ExinthisenIErimos.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma2.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 meMA.Ode3Kathisma2.incipit = me.m01.d06_en_US_goadedes.meMA.Kathisma31.incipit
 meMA.Ode3Kathisma2.text = me.m01.d06_en_US_goadedes.meMA.Kathisma31.text
@@ -556,7 +560,7 @@ meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_goadedes.misc.Mode3
 meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_goadedes.heAU.EpefaniOSotir.greekname
-meMA.Exaposteilarion2.melody = miscellanea_en_US_goadedes.misc.Automelon
+meMA.Exaposteilarion2.melody = he.a.m3_en_US_goadedes.heAU.EpefaniOSotir.melody
 meMA.Exaposteilarion2.incipit = he.a.m3_en_US_goadedes.heAU.EpefaniOSotir.incipit
 meMA.Exaposteilarion2.text = he.a.m3_en_US_goadedes.heAU.EpefaniOSotir.text
 

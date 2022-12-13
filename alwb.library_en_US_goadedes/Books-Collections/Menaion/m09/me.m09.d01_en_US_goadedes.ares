@@ -141,16 +141,19 @@ meVE.Apolytikion3.incipit = //oc.m7.d1_en_US_goadedes.ocMA.Kathisma23.incipit
 meVE.Apolytikion3.text = //oc.m7.d1_en_US_goadedes.ocMA.Kathisma23.text
 
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Kathisma11.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma11.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode5
+meMA.Kathisma21.greekmelody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.greekname
 meMA.Kathisma21.melody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma22.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma22.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 meMA.Kathisma22.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 meMA.Kathisma22.incipit = "…"
 meMA.Kathisma22.text = ""
@@ -161,11 +164,13 @@ meMA.Kathisma2T.incipit = //oc.m4.d5_en_US_goadedes.ocMA.Kathisma13.incipit
 meMA.Kathisma2T.text = //oc.m4.d5_en_US_goadedes.ocMA.Kathisma13.text
 
 meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Kathisma31.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma31.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
 
 meMA.Kathisma32.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma32.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma32.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 meMA.Kathisma32.incipit = "…"
 meMA.Kathisma32.text = ""
@@ -369,16 +374,19 @@ meMA.Ode3C3T.incipit = "…"
 meMA.Ode3C3T.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Ode3Kathisma2.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma2.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3Kathisma3.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3Kathisma3.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 meMA.Ode3Kathisma3.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 meMA.Ode3Kathisma3.incipit = "…"
 meMA.Ode3Kathisma3.text = ""
@@ -642,7 +650,7 @@ meMA.Kontakion1.incipit = "You created the universe…"
 meMA.Kontakion1.text = "You created the universe * in Your ineffable wisdom, * and by Your authority * You fixed the times and the seasons. * Grant success to all Your Christ-loving faithful people. * Bless this year, O Lord, and all our comings and goings. * We entreat You to direct us and all our actions * to conform to Your divine will."
 
 meMA.Kontakion2.mode = miscellanea_en_US_goadedes.misc.Mode2
-meMA.Kontakion2.melody = miscellanea_en_US_goadedes.misc.Automelon
+meMA.Kontakion2.melody = he.a.m2_en_US_goadedes.heAU.TaAnoZiton.melody
 meMA.Kontakion2.incipit = he.a.m2_en_US_goadedes.heAU.TaAnoZiton.incipit
 meMA.Kontakion2.text = he.a.m2_en_US_goadedes.heAU.TaAnoZiton.text
 

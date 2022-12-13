@@ -99,21 +99,25 @@ meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Kathisma11.greekmelody = he.a.m1_en_US_goadedes.heAU.ChorosAngelikos.greekname
 meMA.Kathisma11.melody = he.a.m1_en_US_goadedes.heAU.ChorosAngelikos.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma12.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Kathisma12.greekmelody = he.a.m1_en_US_goadedes.heAU.ChorosAngelikos.greekname
 meMA.Kathisma12.melody = he.a.m1_en_US_goadedes.heAU.ChorosAngelikos.name
 meMA.Kathisma12.incipit = "…"
 meMA.Kathisma12.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma31.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma31.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
@@ -291,16 +295,19 @@ meMA.Kontakion1.text = ""
 meMA.Oikos1.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma2.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3Kathisma3.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3Kathisma3.greekmelody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.greekname
 meMA.Ode3Kathisma3.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
 meMA.Ode3Kathisma3.incipit = "…"
 meMA.Ode3Kathisma3.text = ""

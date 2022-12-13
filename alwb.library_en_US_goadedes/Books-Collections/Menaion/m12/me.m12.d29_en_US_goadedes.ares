@@ -111,11 +111,13 @@ meVE.Apolytikion3ger.incipit = "…"
 meVE.Apolytikion3ger.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Kathisma11.greekmelody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.greekname
 meMA.Kathisma11.melody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Kathisma21.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma21.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
@@ -197,16 +199,19 @@ meMA.Ode3H.incipit = he.h.m6_en_US_goadedes.heHE.OukEstinAgios.incipit
 meMA.Ode3H.text = he.h.m6_en_US_goadedes.heHE.OukEstinAgios.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma2.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3Kathisma3.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3Kathisma3.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma3.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 meMA.Ode3Kathisma3.incipit = "…"
 meMA.Ode3Kathisma3.text = ""

@@ -62,7 +62,7 @@ meSV.AposGlory.text = meVE.Lity5.text
 
 meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera01.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
-meVE.Stichera01.melody = miscellanea_en_US_goadedes.misc.Automelon
+meVE.Stichera01.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.melody
 meVE.Stichera01.incipit = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.incipit
 meVE.Stichera01.text = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.text
 
@@ -171,16 +171,19 @@ meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Kathisma11.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma11.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode3
+meMA.Kathisma21.greekmelody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.greekname
 meMA.Kathisma21.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma31.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma31.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
@@ -338,11 +341,13 @@ meMA.Ode3C2T.incipit = "…"
 meMA.Ode3C2T.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""

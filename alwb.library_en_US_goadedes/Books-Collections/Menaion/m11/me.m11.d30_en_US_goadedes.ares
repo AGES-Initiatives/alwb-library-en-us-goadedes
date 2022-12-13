@@ -113,6 +113,7 @@ meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Kathisma11.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma11.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
@@ -123,6 +124,7 @@ meMA.Kathisma1T.incipit = "…"
 meMA.Kathisma1T.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode3
+meMA.Kathisma21.greekmelody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.greekname
 meMA.Kathisma21.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
@@ -133,6 +135,7 @@ meMA.Kathisma2T.incipit = oc.m3.d2_en_US_goadedes.ocMA.Kathisma23.incipit
 meMA.Kathisma2T.text = oc.m3.d2_en_US_goadedes.ocMA.Kathisma23.text
 
 meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode5
+meMA.Kathisma31.greekmelody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.greekname
 meMA.Kathisma31.melody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.name
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
@@ -358,11 +361,13 @@ meMA.Ode3C3T.incipit = "…"
 meMA.Ode3C3T.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "O Apostle, St. Andrew…"
 meMA.Ode3Kathisma1.text = "O Apostle, St. Andrew you were the first * among all the Disciples whom Christ called, * an eyewitness minister of the Word when He came to earth. * With faith and love you followed Him, whom John had proclaimed to be * the Lamb of God who takes away the sins of the world. * Later you would also imitate His Passion * and death, which He willingly had endured in the flesh for us. * Now we prayerfully sing to you: * Intercede with Christ our God, that He grant forgiveness of offences, * to us who celebrate your holy memory with faith and love."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma2.incipit = "You, O blessed St. Andrew…"
 meMA.Ode3Kathisma2.text = "You, O blessed St. Andrew, became the Lord's * first Apostle. You went forth and preached the word * to Gentiles and overthrew pagan idols and insolence. * And you longed to imitate the Passion of the Savior. * Now from heaven you send to us a river of miracles. * Therefore we are rightly celebrating your sacred * and glorious memory, O Apostle of Christ the Lord, * singing hymns magnifying you. * Intercede with Christ our God, that He grant forgiveness of offences, * to us who celebrate your holy memory with faith and love."

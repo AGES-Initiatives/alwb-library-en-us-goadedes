@@ -196,11 +196,13 @@ meMA.Ode3H.incipit = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.incipit
 meMA.Ode3H.text = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.greekname
 meMA.Ode3Kathisma2.melody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""

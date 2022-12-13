@@ -102,11 +102,13 @@ meVE.Apolytikion2ger.incipit = "…"
 meVE.Apolytikion2ger.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 meMA.Kathisma11.incipit = me.m08.d06_en_US_goadedes.meMA.Kathisma11.incipit
 meMA.Kathisma11.text = me.m08.d06_en_US_goadedes.meMA.Kathisma11.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 meMA.Kathisma21.incipit = me.m08.d08_en_US_goadedes.meMA.Kathisma21.incipit
 meMA.Kathisma21.text = me.m08.d08_en_US_goadedes.meMA.Kathisma21.text
@@ -239,16 +241,19 @@ meMA.Kontakion1.text = ""
 meMA.Oikos1.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode3
+meMA.Ode3Kathisma2.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
 meMA.Ode3Kathisma2.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3Kathisma3.mode = miscellanea_en_US_goadedes.misc.Mode3
+meMA.Ode3Kathisma3.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
 meMA.Ode3Kathisma3.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.name
 meMA.Ode3Kathisma3.incipit = me.m08.d08_en_US_goadedes.meMA.Ode3Kathisma2.incipit
 meMA.Ode3Kathisma3.text = me.m08.d08_en_US_goadedes.meMA.Ode3Kathisma2.text
@@ -625,7 +630,7 @@ meMA.Exaposteilarion2.text = ""
 
 meMA.Exaposteilarion3.mode = miscellanea_en_US_goadedes.misc.Mode3
 meMA.Exaposteilarion3.greekmelody = he.a.m3_en_US_goadedes.heAU.FosAnalloioton.greekname
-meMA.Exaposteilarion3.melody = miscellanea_en_US_goadedes.misc.Automelon
+meMA.Exaposteilarion3.melody = he.a.m3_en_US_goadedes.heAU.FosAnalloioton.melody
 meMA.Exaposteilarion3.incipit = he.a.m3_en_US_goadedes.heAU.FosAnalloioton.incipit
 meMA.Exaposteilarion3.text = he.a.m3_en_US_goadedes.heAU.FosAnalloioton.text
 

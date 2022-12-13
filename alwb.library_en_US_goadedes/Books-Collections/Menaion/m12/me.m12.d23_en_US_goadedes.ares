@@ -191,11 +191,13 @@ meCO.Ode9C14.incipit = "…"
 meCO.Ode9C14.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode5
+meMA.Kathisma11.greekmelody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.greekname
 meMA.Kathisma11.melody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Kathisma21.greekmelody = he.a.m6_en_US_goadedes.heAU.ElpisTouKosmouAgathi.greekname
 meMA.Kathisma21.melody = he.a.m6_en_US_goadedes.heAU.ElpisTouKosmouAgathi.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
@@ -390,11 +392,13 @@ meMA.Ode3H.incipit = he.h.m3_en_US_goadedes.heHE.EstereothiIKardiaMou.incipit
 meMA.Ode3H.text = he.h.m3_en_US_goadedes.heHE.EstereothiIKardiaMou.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Ode3Kathisma2.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma2.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""

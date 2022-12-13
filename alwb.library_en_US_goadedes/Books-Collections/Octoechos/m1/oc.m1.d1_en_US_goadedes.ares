@@ -32,7 +32,7 @@ ocSV.Aposticha3.incipit = "…"
 ocSV.Aposticha3.text = ""
 
 ocSV.AposDogmatic.mode = miscellanea_en_US_goadedes.misc.Mode1
-ocSV.AposDogmatic.melody = miscellanea_en_US_goadedes.misc.Automelon
+ocSV.AposDogmatic.melody = he.a.m1_en_US_goadedes.heAU.NefelinSeFotos.melody
 ocSV.AposDogmatic.incipit = he.a.m1_en_US_goadedes.heAU.NefelinSeFotos.incipit
 ocSV.AposDogmatic.text = he.a.m1_en_US_goadedes.heAU.NefelinSeFotos.text
 
@@ -110,7 +110,7 @@ ocVE.AposTheotokion.incipit = "Behold, Isaiah's prophecy…"
 ocVE.AposTheotokion.text = "Behold, Isaiah's prophecy has been fulfilled. You, a virgin, gave birth and after childbirth remained a virgin, as you were prior to childbirth. The One whom you gave birth to was God, and therefore nature became new. And now, O Mother of God, please do not overlook the entreaties that we your servants bring to you in your church; but rather as the one who held the compassionate Lord in your arms, have compassion on us who pray to you, and intercede with Him to save our souls."
 
 ocVE.Apolytikion.mode = miscellanea_en_US_goadedes.misc.Mode1
-ocVE.Apolytikion.melody = miscellanea_en_US_goadedes.misc.Automelon
+ocVE.Apolytikion.melody = he.a.m1_en_US_goadedes.heAU.TouLithouSfragisthentos.melody
 ocVE.Apolytikion.incipit = he.a.m1_en_US_goadedes.heAU.TouLithouSfragisthentos.incipit
 ocVE.Apolytikion.text = he.a.m1_en_US_goadedes.heAU.TouLithouSfragisthentos.text
 
@@ -315,7 +315,7 @@ ocMO.Ode9T.text = ""
 ocMA.MM.GodIsTheLord.text = properties_en_US_goadedes.media.key
 
 ocMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
-ocMA.Kathisma11.melody = miscellanea_en_US_goadedes.misc.Automelon
+ocMA.Kathisma11.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.melody
 ocMA.Kathisma11.incipit = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.incipit
 ocMA.Kathisma11.text = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.text
 

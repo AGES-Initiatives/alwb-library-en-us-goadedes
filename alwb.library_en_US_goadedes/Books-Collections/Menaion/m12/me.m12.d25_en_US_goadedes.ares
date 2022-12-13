@@ -139,16 +139,19 @@ meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma31.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma31.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
@@ -316,6 +319,7 @@ meMA.Hypakoe.incipit = "…"
 meMA.Hypakoe.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
@@ -504,7 +508,7 @@ meMA.Ode6C225.text = ""
 
 meMA.Kontakion1.poet = poets_en_US_goadedes.po.RomanouTouMelodou
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode3
-meMA.Kontakion1.melody = miscellanea_en_US_goadedes.misc.Automelon
+meMA.Kontakion1.melody = he.a.m3_en_US_goadedes.heAU.IParthenosSimeron.melody
 meMA.Kontakion1.incipit = he.a.m3_en_US_goadedes.heAU.IParthenosSimeron.incipit
 meMA.Kontakion1.text = he.a.m3_en_US_goadedes.heAU.IParthenosSimeron.text
 
@@ -738,7 +742,7 @@ meMA.Ode9C225.text = ""
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode3
 meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_goadedes.heAU.EpeskepsatoImas.greekname
-meMA.Exaposteilarion1.melody = miscellanea_en_US_goadedes.misc.Automelon
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_goadedes.heAU.EpeskepsatoImas.melody
 meMA.Exaposteilarion1.incipit = he.a.m3_en_US_goadedes.heAU.EpeskepsatoImas.incipit
 meMA.Exaposteilarion1.text = he.a.m3_en_US_goadedes.heAU.EpeskepsatoImas.text
 

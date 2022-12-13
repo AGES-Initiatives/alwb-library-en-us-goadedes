@@ -202,21 +202,25 @@ meCO.Ode9C2H.incipit = he.h.m2_en_US_goadedes.heHE.ITonAchoritonTheon.incipit
 meCO.Ode9C2H.text = he.h.m2_en_US_goadedes.heHE.ITonAchoritonTheon.text
 
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Kathisma11.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma11.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma12.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Kathisma12.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma12.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 meMA.Kathisma12.incipit = "…"
 meMA.Kathisma12.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma22.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma22.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 meMA.Kathisma22.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 meMA.Kathisma22.incipit = "…"
 meMA.Kathisma22.text = ""
@@ -355,11 +359,13 @@ meMA.Ode3H.incipit = he.h.m8_en_US_goadedes.heHE.TonFovonSouKyrie.incipit
 meMA.Ode3H.text = he.h.m8_en_US_goadedes.heHE.TonFovonSouKyrie.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_goadedes.heAU.AnestisEkNekron.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_US_goadedes.heAU.AnestisEkNekron.notmetered
 meMA.Ode3Kathisma2.incipit = "Invisible God…"
 meMA.Ode3Kathisma2.text = "Invisible God, incomprehensible Logos, You were begotten of the Father in a manner passing nature and reason. Again, in later times, You were born of the Virgin, without altering what You were. Now You come to the River Jordan to be baptized in the flesh, as God who was well pleased to save the human race."

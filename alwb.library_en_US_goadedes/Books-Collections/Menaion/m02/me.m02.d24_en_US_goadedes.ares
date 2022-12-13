@@ -81,16 +81,18 @@ meVE.Apolytikion1.text = ""
 meCO.SupplicationVerse.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Kathisma1T.melody = miscellanea_en_US_goadedes.misc.Automelon
+meMA.Kathisma1T.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.melody
 meMA.Kathisma1T.incipit = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.incipit
 meMA.Kathisma1T.text = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
@@ -101,6 +103,7 @@ meMA.Kathisma2T.incipit = ho.s23_en_US_goadedes.hoCA.Apolytikion2.incipit
 meMA.Kathisma2T.text = ho.s23_en_US_goadedes.hoCA.Apolytikion2.text
 
 meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kathisma31.greekmelody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.greekname
 meMA.Kathisma31.melody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.name
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
@@ -196,17 +199,19 @@ meMA.Ode3C1T.incipit = "…"
 meMA.Ode3C1T.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode3KathismaT.melody = miscellanea_en_US_goadedes.misc.Automelon
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.melody
 meMA.Ode3KathismaT.incipit = he.a.m8_en_US_goadedes.heAU.ToProstachthen.incipit
 meMA.Ode3KathismaT.text = he.a.m8_en_US_goadedes.heAU.ToProstachthen.text
 

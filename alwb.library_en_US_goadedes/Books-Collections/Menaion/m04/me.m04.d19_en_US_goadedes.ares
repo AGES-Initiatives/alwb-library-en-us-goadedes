@@ -37,7 +37,7 @@ meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.SticTheotokion.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname
-meVE.SticTheotokion.melody = miscellanea_en_US_goadedes.misc.Automelon
+meVE.SticTheotokion.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.melody
 meVE.SticTheotokion.incipit = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.incipit
 meVE.SticTheotokion.text = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.text
 
@@ -121,6 +121,7 @@ meMA.Ode3C1T.incipit = "…"
 meMA.Ode3C1T.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
