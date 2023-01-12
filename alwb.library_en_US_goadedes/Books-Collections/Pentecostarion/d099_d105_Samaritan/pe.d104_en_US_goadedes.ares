@@ -14,6 +14,7 @@ peHO.note2 = ""
 peDA.dismissal = dismissals_en_US_goadedes.dis00.resurrection
 
 peVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode4
+peVE.Stichera01.greekmelody = he.a.m4_en_US_goadedes.heAU.KyrieAnelthonEnToStavro.greekname
 peVE.Stichera01.melody = he.a.m4_en_US_goadedes.heAU.KyrieAnelthonEnToStavro.name
 peVE.Stichera01.incipit = "…"
 peVE.Stichera01.text = ""
@@ -54,31 +55,37 @@ peVE.AposGlory.incipit = pe.d099_en_US_goadedes.peMA.Lauds8.incipit
 peVE.AposGlory.text = pe.d099_en_US_goadedes.peMA.Lauds8.text
 
 peMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Kathisma11.greekmelody = oc.m4.d6_en_US_goadedes.ocMA.Kathisma22.greekmelody
 peMA.Kathisma11.melody = oc.m4.d6_en_US_goadedes.ocMA.Kathisma22.melody
 peMA.Kathisma11.incipit = oc.m4.d6_en_US_goadedes.ocMA.Kathisma22.incipit
 peMA.Kathisma11.text = oc.m4.d6_en_US_goadedes.ocMA.Kathisma22.text
 
 peMA.Kathisma12.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Kathisma12.greekmelody = oc.m4.d1_en_US_goadedes.ocMA.Kathisma21.greekmelody
 peMA.Kathisma12.melody = oc.m4.d1_en_US_goadedes.ocMA.Kathisma21.melody
 peMA.Kathisma12.incipit = oc.m4.d1_en_US_goadedes.ocMA.Kathisma21.incipit
 peMA.Kathisma12.text = oc.m4.d1_en_US_goadedes.ocMA.Kathisma21.text
 
 peMA.Kathisma13.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Kathisma13.greekmelody = oc.m4.d5_en_US_goadedes.ocMA.Kathisma32.greekmelody
 peMA.Kathisma13.melody = oc.m4.d5_en_US_goadedes.ocMA.Kathisma32.melody
 peMA.Kathisma13.incipit = oc.m4.d5_en_US_goadedes.ocMA.Kathisma32.incipit
 peMA.Kathisma13.text = oc.m4.d5_en_US_goadedes.ocMA.Kathisma32.text
 
 peMA.Kathisma1T.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Kathisma1T.greekmelody = oc.m4.d6_en_US_goadedes.ocMA.Kathisma33.greekmelody
 peMA.Kathisma1T.melody = oc.m4.d6_en_US_goadedes.ocMA.Kathisma33.melody
 peMA.Kathisma1T.incipit = oc.m4.d6_en_US_goadedes.ocMA.Kathisma33.incipit
 peMA.Kathisma1T.text = oc.m4.d6_en_US_goadedes.ocMA.Kathisma33.text
 
 peMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Kathisma21.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 peMA.Kathisma21.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = ""
 
 peMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Lauds1.greekmelody = oc.m4.d6_en_US_goadedes.ocMA.Aposticha2.greekmelody
 peMA.Lauds1.melody = oc.m4.d6_en_US_goadedes.ocMA.Aposticha2.melody
 peMA.Lauds1.incipit = oc.m4.d6_en_US_goadedes.ocMA.Aposticha2.incipit
 peMA.Lauds1.text = oc.m4.d6_en_US_goadedes.ocMA.Aposticha2.text
@@ -99,6 +106,7 @@ peMA.LaudsGlory.incipit = pe.d099_en_US_goadedes.peMA.LaudsGlory.incipit
 peMA.LaudsGlory.text = pe.d099_en_US_goadedes.peMA.LaudsGlory.text
 
 peMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Aposticha1.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 peMA.Aposticha1.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 peMA.Aposticha1.incipit = "…"
 peMA.Aposticha1.text = ""

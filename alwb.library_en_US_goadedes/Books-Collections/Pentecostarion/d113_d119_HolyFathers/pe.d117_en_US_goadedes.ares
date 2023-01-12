@@ -14,6 +14,7 @@ peHO.note2 = ""
 peDA.dismissal = dismissals_en_US_goadedes.dis00.ascension
 
 peVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode4
+peVE.Stichera01.greekmelody = he.a.m4_en_US_goadedes.heAU.OExYpsistouKlitheis.greekname
 peVE.Stichera01.melody = he.a.m4_en_US_goadedes.heAU.OExYpsistouKlitheis.name
 peVE.Stichera01.incipit = "When You completed…"
 peVE.Stichera01.text = "When You completed the plan for the salvation * of all, You went up onto the Mount of Olives, O Christ. * With Your Disciples as witnesses, from there You flew up, * carried to heaven in glory on the clouds. * The mystery baffled the Angels of lower ranks, * and in amazement they shouted to the higher orders, * \"Lift up the gates, for our God and King of all * is coming back into the heights from where * He went out, as He willed, to enact the plan * of eternal salvation * of the world extraordinarily.\""
@@ -34,6 +35,7 @@ peVE.SticGlory.incipit = pe.d110_en_US_goadedes.peVE.AposGlory.incipit
 peVE.SticGlory.text = pe.d110_en_US_goadedes.peVE.AposGlory.text
 
 peVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode6
+peVE.Aposticha1.greekmelody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.greekname
 peVE.Aposticha1.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
 peVE.Aposticha1.incipit = "…"
 peVE.Aposticha1.text = ""
@@ -54,16 +56,19 @@ peVE.AposGlory.incipit = pe.d110_en_US_goadedes.peMA.PostGospelIdiomelon.incipit
 peVE.AposGlory.text = pe.d110_en_US_goadedes.peMA.PostGospelIdiomelon.text
 
 peMA.Kathisma11.mode = pe.d110_en_US_goadedes.peMA.Kathisma31.mode
+peMA.Kathisma11.greekmelody = pe.d110_en_US_goadedes.peMA.Kathisma31.greekmelody
 peMA.Kathisma11.melody = pe.d110_en_US_goadedes.peMA.Kathisma31.melody
 peMA.Kathisma11.incipit = pe.d110_en_US_goadedes.peMA.Kathisma31.incipit
 peMA.Kathisma11.text = pe.d110_en_US_goadedes.peMA.Kathisma31.text
 
 peMA.Kathisma21.mode = pe.d111_en_US_goadedes.peMA.Kathisma11.mode
+peMA.Kathisma21.greekmelody = pe.d111_en_US_goadedes.peMA.Kathisma11.greekmelody
 peMA.Kathisma21.melody = pe.d111_en_US_goadedes.peMA.Kathisma11.melody
 peMA.Kathisma21.incipit = pe.d111_en_US_goadedes.peMA.Kathisma11.incipit
 peMA.Kathisma21.text = pe.d111_en_US_goadedes.peMA.Kathisma11.text
 
 peMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode6
+peMA.Aposticha1.greekmelody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.greekname
 peMA.Aposticha1.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
 peMA.Aposticha1.incipit = "…"
 peMA.Aposticha1.text = ""

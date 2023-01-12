@@ -17,11 +17,13 @@ peDA.dismissal = dismissals_en_US_goadedes.dis00.resurrection
 peVE.MM.Stichera789as567.text = properties_en_US_goadedes.media.key
 
 peVE.Stichera07.mode = miscellanea_en_US_goadedes.misc.Mode6
+peVE.Stichera07.greekmelody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.greekname
 peVE.Stichera07.melody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.name
 peVE.Stichera07.incipit = "Those spiritual orators…"
 peVE.Stichera07.text = "Those spiritual orators, the Savior's holy Disciples, * were the Spirit's instruments * by their faith, and they were sent to evangelize * everywhere on the earth, and they sowed the teachings * that are Orthodox throughout the world. * And these produced good fruit, by the cultivation of grace divine: * the host of Martyrs, who depict * in themselves the Passion of Christ our God, * by the fire and tortures, the whips and mutilations they endured. * And on behalf of our souls they now * intercede with confidence."
 
 peVE.Stichera08.mode = miscellanea_en_US_goadedes.misc.Mode6
+peVE.Stichera08.greekmelody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.greekname
 peVE.Stichera08.melody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.name
 peVE.Stichera08.incipit = "Consumed by the Master's love…"
 peVE.Stichera08.text = "Consumed by the Master's love, the Martyr Saints disregarded * fires they were thrown into. * And in Christ they burned away pagan insolence * as if dry shrubbery, for they were ignited * as divine and hotly burning coals. * They stopped the mouths of beasts * by the invocations they wisely made. * And even as their heads were cut, * they cut down the enemy's regiments. * They endured and poured out the fountains of their blood, by which the Church * is irrigated and flourishes * daily in the faith of God."
@@ -91,10 +93,11 @@ peVE.Apolytikion3.melody = ""
 peVE.Apolytikion3.incipit = oc.m4.d1_en_US_goadedes.ocVE.ApolTheotokionVM.incipit
 peVE.Apolytikion3.text = oc.m4.d1_en_US_goadedes.ocVE.ApolTheotokionVM.text
 
-peMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode8
-peMA.Kathisma11.melody = miscellanea_en_US_goadedes.misc.Automelon
-peMA.Kathisma11.incipit = oc.m8.d1_en_US_goadedes.ocMA.Kathisma11.incipit
-peMA.Kathisma11.text = oc.m8.d1_en_US_goadedes.ocMA.Kathisma11.text
+peMA.Kathisma11.mode = he.a.m8_en_US_goadedes.heAU.AnestisEkNekron.mode
+peMA.Kathisma11.greekmelody = he.a.m8_en_US_goadedes.heAU.AnestisEkNekron.greekname
+peMA.Kathisma11.melody = he.a.m8_en_US_goadedes.heAU.AnestisEkNekron.melody
+peMA.Kathisma11.incipit = he.a.m8_en_US_goadedes.heAU.AnestisEkNekron.incipit
+peMA.Kathisma11.text = he.a.m8_en_US_goadedes.heAU.AnestisEkNekron.text
 
 peMA.Kathisma12.mode = miscellanea_en_US_goadedes.misc.Mode8
 peMA.Kathisma12.melody = ""
@@ -107,11 +110,13 @@ peMA.Kathisma13.incipit = oc.m8.d1_en_US_goadedes.ocVE.ApolTheotokionVM.incipit
 peMA.Kathisma13.text = oc.m8.d1_en_US_goadedes.ocVE.ApolTheotokionVM.text
 
 peMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Kathisma21.greekmelody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.greekname
 peMA.Kathisma21.melody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.name
 peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = ""
 
 peMA.Kathisma22.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Kathisma22.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 peMA.Kathisma22.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 peMA.Kathisma22.incipit = oc.m8.d1_en_US_goadedes.ocMA.Kathisma12.incipit
 peMA.Kathisma22.text = oc.m8.d1_en_US_goadedes.ocMA.Kathisma12.text
@@ -131,6 +136,7 @@ peMA.C1.verse = prayers_en_US_goadedes.pr.verse_SaintsM.text
 
 peMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode1C11.greekmelody = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.greekname
 peMA.Ode1C11.melody = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.name
 peMA.Ode1C11.incipit = "As I extol the holy ranks…"
 peMA.Ode1C11.text = "As I extol the holy ranks of all Your Saints, * I am entreating You, Lord: * At their intercessions, * shine Your light within my soul. * You are the unapproachable, * divine light, whose refulgence * drives out the darkness of ignorance, * O Giver of light, Christ the Logos of God."
@@ -161,6 +167,7 @@ peMA.Ode1C1T.text = "All-holy Virgin, virgin Martyrs clearly had * a manful fram
 
 peMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode3C11.greekmelody = he.h.m8_en_US_goadedes.heHE.OStereosasKatArchas.greekname
 peMA.Ode3C11.melody = he.h.m8_en_US_goadedes.heHE.OStereosasKatArchas.name
 peMA.Ode3C11.incipit = "The priests and hierarchs…"
 peMA.Ode3C11.text = "The priests and hierarchs were clothed * with grace of most holy orders, * which they mindfully maintained and embellished * by their worthiness, O Christ. * And from on high they truly were * enriched with gifts of teaching * in written form and in homilies."
@@ -184,17 +191,20 @@ peMA.Ode3C1T.incipit = "O Theotokos, you brought…"
 peMA.Ode3C1T.text = "O Theotokos, you brought forth * from your pure body the Logos, * God from God, for our salvation, O Virgin. * In a manner fit for God, * pure maidens loved and longed for Him; * and they were led behind you * and clearly followed Him everywhere."
 
 peMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 peMA.Ode3Kathisma1.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 peMA.Ode3Kathisma1.incipit = "Every year we all celebrate…"
 peMA.Ode3Kathisma1.text = "Every year we all celebrate on this day * the all-holy memorial of All Saints: * Ancestors and Patriarchs, Apostles, Martyrs, and Hierarchs, * holy Prophets, the Righteous, devout Ascetics, monastic Saints, * O Christ our God, and every name inscribed in the book of life. * And we stir them all to intercede, as we pray You: * Give peace to the world, through them, in Your love for humanity, * so that we may sing to You: * O God, as You are glorified * in the counsel of Your Saints, You are indeed * the One who worthily glorified their memory."
 
 peMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 peMA.Ode3Kathisma2.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 peMA.Ode3Kathisma2.incipit = oc.m8.d1_en_US_goadedes.ocMA.Kathisma13.incipit
 peMA.Ode3Kathisma2.text = oc.m8.d1_en_US_goadedes.ocMA.Kathisma13.text
 
 peMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode4C11.greekmelody = he.h.m8_en_US_goadedes.heHE.SyMouIschys.greekname
 peMA.Ode4C11.melody = he.h.m8_en_US_goadedes.heHE.SyMouIschys.name
 peMA.Ode4C11.incipit = "All of Your Saints…"
 peMA.Ode4C11.text = "All of Your Saints, Lord, are united to You through love. * All their pleasure purely and sincerely is in You alone. * Joyfully they join * all the holy Angels in the perpetual choral dance * in heaven round about You, their all-seeing Creator * and the almighty God of the universe."
@@ -225,6 +235,7 @@ peMA.Ode4C1T.text = "Mother of God, we rightly call you the Bride of God. * You 
 
 peMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode5C11.greekmelody = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.greekname
 peMA.Ode5C11.melody = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.name
 peMA.Ode5C11.incipit = "O God-bearers…"
 peMA.Ode5C11.text = "O God-bearers, as Prophets * you were granted to foresee the blessings that would come. * Longing to enjoy them, * you prepared and revealed the nobility * of your souls, illumined by the divine might of the Spirit, * purifying yourselves through a holy life."
@@ -249,6 +260,7 @@ peMA.Ode5C1T.text = "O immaculate Virgin, * venerable, holy women loved the Son 
 
 peMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode6C11.greekmelody = he.h.m8_en_US_goadedes.heHE.IlasthitiMoiSotir.greekname
 peMA.Ode6C11.melody = he.h.m8_en_US_goadedes.heHE.IlasthitiMoiSotir.name
 peMA.Ode6C11.incipit = "O Master, You are the stone…"
 peMA.Ode6C11.text = "O Master, You are the stone, * the precious cornerstone that was laid * in Zion, the tested stone. * The Saints came to You, the sure * foundation, on which they all * built themselves as precious * stones, O Lord, who are the living stone."
@@ -293,6 +305,7 @@ peSY.lastline = ""
 
 peMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode7C11.greekmelody = he.h.m8_en_US_goadedes.heHE.TheouSynkatavasin.greekname
 peMA.Ode7C11.melody = he.h.m8_en_US_goadedes.heHE.TheouSynkatavasin.name
 peMA.Ode7C11.incipit = "The various ranks…"
 peMA.Ode7C11.text = "The various ranks of Saints * are now and ever enjoying godly delights * and are loudly extolling * the Lord of all who reposes among the Saints; * and celebrating, they sing to Him joyfully, * saying, \"O God of our fathers, blessed are You!\""
@@ -323,6 +336,7 @@ peMA.Ode7C1T.text = "All-holy, immaculate, * and ever-virgin Mary is Mother of G
 
 peMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode8C11.greekmelody = he.h.m8_en_US_goadedes.heHE.EptaplasiosKaminon.greekname
 peMA.Ode8C11.melody = he.h.m8_en_US_goadedes.heHE.EptaplasiosKaminon.name
 peMA.Ode8C11.incipit = "All Saints, rejoice…"
 peMA.Ode8C11.text = "All Saints, rejoice exceedingly: * Prophets, Martyrs, and Hierarchs, * Hieromartyrs, Teachers of the Church, and the devout * Ascetics, and Myrrh-bearing * Women, and the Apostles of Christ, * all cry out and sing, \"You Servants, bless the Creator; * sing hymns to the Redeemer, O you priests; and you people * exalt Him beyond measure, unto all the ages.\""
@@ -347,6 +361,7 @@ peMA.Ode8C1T.text = "With joy, O godly-minded Saints, * holy women, now celebrat
 
 peMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode9C11.greekmelody = he.h.m8_en_US_goadedes.heHE.ExestiEpiTouto.greekname
 peMA.Ode9C11.melody = he.h.m8_en_US_goadedes.heHE.ExestiEpiTouto.name
 peMA.Ode9C11.incipit = "The corps of the elect…"
 peMA.Ode9C11.text = "The corps of the elect was fully equipped * with the armor of hope and of love, and guarded by the faith, * joyously and famously they endured * whatever threats the tyrants made, * every kind of torture and violent death. * For Christ gave to the Martyrs * the victory in contests, * and they were chief witnesses of the truth."
@@ -370,6 +385,7 @@ peMA.Ode9C1T.incipit = "Through you things separated…"
 peMA.Ode9C1T.text = "Through you things separated are joined again. * Human beings are truly in heaven now and dwell on high * with the hosts of Angels; and all the ranks * of Saints indeed are witnesses, * as they join the Angels to sing in praise * of Christ, to whom you gave birth, * O Virgin Theotokos; * and they extol Him with eternal hymns."
 
 peMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.greekname
 peMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.name
 peMA.Exaposteilarion1.incipit = "…"
 peMA.Exaposteilarion1.text = ""
@@ -380,6 +396,7 @@ peMA.ExapTheotokion.incipit = "…"
 peMA.ExapTheotokion.text = ""
 
 peMA.Lauds6.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Lauds6.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 peMA.Lauds6.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 peMA.Lauds6.incipit = "…"
 peMA.Lauds6.text = ""

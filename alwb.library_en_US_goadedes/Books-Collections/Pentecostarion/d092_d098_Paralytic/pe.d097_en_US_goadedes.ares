@@ -14,6 +14,7 @@ peHO.note2 = ""
 peDA.dismissal = dismissals_en_US_goadedes.dis00.resurrection
 
 peVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode5
+peVE.Stichera01.greekmelody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.greekname
 peVE.Stichera01.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name
 peVE.Stichera01.incipit = "…"
 peVE.Stichera01.text = ""
@@ -54,11 +55,13 @@ peVE.AposGlory.incipit = pe.d096_en_US_goadedes.peMA.AposGlory.incipit
 peVE.AposGlory.text = pe.d096_en_US_goadedes.peMA.AposGlory.text
 
 peMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Kathisma11.greekmelody = oc.m3.d6_en_US_goadedes.ocMA.Kathisma22.greekmelody
 peMA.Kathisma11.melody = oc.m3.d6_en_US_goadedes.ocMA.Kathisma22.melody
 peMA.Kathisma11.incipit = oc.m3.d6_en_US_goadedes.ocMA.Kathisma22.incipit
 peMA.Kathisma11.text = oc.m3.d6_en_US_goadedes.ocMA.Kathisma22.text
 
 peMA.Kathisma12.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Kathisma12.greekmelody = oc.m3.d1_en_US_goadedes.ocMA.Kathisma22.greekmelody
 peMA.Kathisma12.melody = oc.m3.d1_en_US_goadedes.ocMA.Kathisma22.melody
 peMA.Kathisma12.incipit = oc.m3.d1_en_US_goadedes.ocMA.Kathisma22.incipit
 peMA.Kathisma12.text = oc.m3.d1_en_US_goadedes.ocMA.Kathisma22.text
@@ -74,6 +77,7 @@ peMA.Kathisma1T.incipit = oc.m3.d6_en_US_goadedes.ocVE.ApolTheotokionVM.incipit
 peMA.Kathisma1T.text = oc.m3.d6_en_US_goadedes.ocVE.ApolTheotokionVM.text
 
 peMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Kathisma21.greekmelody = pe.d095_en_US_goadedes.peMA.Ode3Kathisma2.greekmelody
 peMA.Kathisma21.melody = pe.d095_en_US_goadedes.peMA.Ode3Kathisma2.melody
 peMA.Kathisma21.incipit = pe.d095_en_US_goadedes.peMA.Ode3Kathisma2.incipit
 peMA.Kathisma21.text = pe.d095_en_US_goadedes.peMA.Ode3Kathisma2.text
@@ -99,6 +103,7 @@ peMA.LaudsGlory.incipit = "…"
 peMA.LaudsGlory.text = ""
 
 peMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
 peMA.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 peMA.Aposticha1.incipit = "…"
 peMA.Aposticha1.text = ""

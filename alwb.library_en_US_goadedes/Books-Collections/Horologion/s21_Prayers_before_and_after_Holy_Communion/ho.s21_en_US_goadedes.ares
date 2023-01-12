@@ -12,6 +12,7 @@ R01 = ""
 
 hoCA.Ode11.ode = miscellanea_en_US_goadedes.misc.Ode1
 hoCA.Ode11.mode = miscellanea_en_US_goadedes.misc.Mode2
+hoCA.Ode11.greekmelody = he.h.m2_en_US_goadedes.heHE.DefteLaoi.greekname
 hoCA.Ode11.melody = he.h.m2_en_US_goadedes.heHE.DefteLaoi.name
 hoCA.Ode11.incipit = "…"
 hoCA.Ode11.text = ""
@@ -30,6 +31,7 @@ hoCA.Ode1T.text = ""
 
 hoCA.Ode31.ode = miscellanea_en_US_goadedes.misc.Ode3
 hoCA.Ode31.mode = miscellanea_en_US_goadedes.misc.Mode2
+hoCA.Ode31.greekmelody = he.h.m2_en_US_goadedes.heHE.EnPetraMeTisPisteos.greekname
 hoCA.Ode31.melody = he.h.m2_en_US_goadedes.heHE.EnPetraMeTisPisteos.name
 hoCA.Ode31.incipit = "…"
 hoCA.Ode31.text = ""
@@ -48,6 +50,7 @@ hoCA.Ode3T.text = ""
 
 hoCA.Ode41.ode = miscellanea_en_US_goadedes.misc.Ode4
 hoCA.Ode41.mode = miscellanea_en_US_goadedes.misc.Mode2
+hoCA.Ode41.greekmelody = he.h.m2_en_US_goadedes.heHE.ElilythasEkParthenou.greekname
 hoCA.Ode41.melody = he.h.m2_en_US_goadedes.heHE.ElilythasEkParthenou.name
 hoCA.Ode41.incipit = "…"
 hoCA.Ode41.text = ""
@@ -66,6 +69,7 @@ hoCA.Ode4T.text = ""
 
 hoCA.Ode51.ode = miscellanea_en_US_goadedes.misc.Ode5
 hoCA.Ode51.mode = miscellanea_en_US_goadedes.misc.Mode2
+hoCA.Ode51.greekmelody = he.h.m2_en_US_goadedes.heHE.OTouFotosChorigos.greekname
 hoCA.Ode51.melody = he.h.m2_en_US_goadedes.heHE.OTouFotosChorigos.name
 hoCA.Ode51.incipit = "…"
 hoCA.Ode51.text = ""
@@ -84,6 +88,7 @@ hoCA.Ode5T.text = ""
 
 hoCA.Ode61.ode = miscellanea_en_US_goadedes.misc.Ode6
 hoCA.Ode61.mode = miscellanea_en_US_goadedes.misc.Mode2
+hoCA.Ode61.greekmelody = he.h.m2_en_US_goadedes.heHE.EnAvyssoPtaismaton.greekname
 hoCA.Ode61.melody = he.h.m2_en_US_goadedes.heHE.EnAvyssoPtaismaton.name
 hoCA.Ode61.incipit = "…"
 hoCA.Ode61.text = ""
@@ -107,6 +112,7 @@ hoCA.Kontakion.text = ""
 
 hoCA.Ode71.ode = miscellanea_en_US_goadedes.misc.Ode7
 hoCA.Ode71.mode = miscellanea_en_US_goadedes.misc.Mode2
+hoCA.Ode71.greekmelody = he.h.m2_en_US_goadedes.heHE.EikonosChrysis.greekname
 hoCA.Ode71.melody = he.h.m2_en_US_goadedes.heHE.EikonosChrysis.name
 hoCA.Ode71.incipit = "…"
 hoCA.Ode71.text = ""
@@ -125,6 +131,7 @@ hoCA.Ode7T.text = ""
 
 hoCA.Ode81.ode = miscellanea_en_US_goadedes.misc.Ode8
 hoCA.Ode81.mode = miscellanea_en_US_goadedes.misc.Mode2
+hoCA.Ode81.greekmelody = he.h.m2_en_US_goadedes.heHE.TonEnKaminoTouPyros.greekname
 hoCA.Ode81.melody = he.h.m2_en_US_goadedes.heHE.TonEnKaminoTouPyros.name
 hoCA.Ode81.incipit = "…"
 hoCA.Ode81.text = ""
@@ -143,6 +150,7 @@ hoCA.Ode8T.text = ""
 
 hoCA.Ode91.ode = miscellanea_en_US_goadedes.misc.Ode9
 hoCA.Ode91.mode = miscellanea_en_US_goadedes.misc.Mode2
+hoCA.Ode91.greekmelody = he.h.m2_en_US_goadedes.heHE.AnarchouGennitoros.greekname
 hoCA.Ode91.melody = he.h.m2_en_US_goadedes.heHE.AnarchouGennitoros.name
 hoCA.Ode91.incipit = "…"
 hoCA.Ode91.text = ""

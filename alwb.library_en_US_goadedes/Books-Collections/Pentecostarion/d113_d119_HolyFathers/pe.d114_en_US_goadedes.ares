@@ -14,6 +14,7 @@ peHO.note2 = ""
 peDA.dismissal = dismissals_en_US_goadedes.dis00.ascension
 
 peVE.Stichera01.mode = pe.d113_en_US_goadedes.peVE.Stichera07.mode
+peVE.Stichera01.greekmelody = pe.d113_en_US_goadedes.peVE.Stichera07.greekmelody
 peVE.Stichera01.melody = pe.d113_en_US_goadedes.peVE.Stichera07.melody
 peVE.Stichera01.incipit = pe.d113_en_US_goadedes.peVE.Stichera07.incipit
 peVE.Stichera01.text = pe.d113_en_US_goadedes.peVE.Stichera07.text
@@ -39,6 +40,7 @@ peVE.SticBoth.incipit = pe.d110_en_US_goadedes.peVE.Stichera03.incipit
 peVE.SticBoth.text = pe.d110_en_US_goadedes.peVE.Stichera03.text
 
 peVE.Aposticha1.mode = pe.d113_en_US_goadedes.peMA.Lauds6.mode
+peVE.Aposticha1.greekmelody = pe.d113_en_US_goadedes.peMA.Lauds6.greekmelody
 peVE.Aposticha1.melody = pe.d113_en_US_goadedes.peMA.Lauds6.melody
 peVE.Aposticha1.incipit = pe.d113_en_US_goadedes.peMA.Lauds6.incipit
 peVE.Aposticha1.text = pe.d113_en_US_goadedes.peMA.Lauds6.text
@@ -64,16 +66,19 @@ peVE.AposBoth.incipit = pe.d110_en_US_goadedes.peVE.AposGlory.incipit
 peVE.AposBoth.text = pe.d110_en_US_goadedes.peVE.AposGlory.text
 
 peMA.Kathisma11.mode = pe.d110_en_US_goadedes.peMA.Kathisma11.mode
+peMA.Kathisma11.greekmelody = pe.d110_en_US_goadedes.peMA.Kathisma11.greekmelody
 peMA.Kathisma11.melody = pe.d110_en_US_goadedes.peMA.Kathisma11.melody
 peMA.Kathisma11.incipit = pe.d110_en_US_goadedes.peMA.Kathisma11.incipit
 peMA.Kathisma11.text = pe.d110_en_US_goadedes.peMA.Kathisma11.text
 
 peMA.Kathisma21.mode = pe.d112_en_US_goadedes.peMA.Kathisma21.mode
+peMA.Kathisma21.greekmelody = pe.d112_en_US_goadedes.peMA.Kathisma21.greekmelody
 peMA.Kathisma21.melody = pe.d112_en_US_goadedes.peMA.Kathisma21.melody
 peMA.Kathisma21.incipit = pe.d112_en_US_goadedes.peMA.Kathisma21.incipit
 peMA.Kathisma21.text = pe.d112_en_US_goadedes.peMA.Kathisma21.text
 
 peMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
 peMA.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 peMA.Aposticha1.incipit = "…"
 peMA.Aposticha1.text = ""

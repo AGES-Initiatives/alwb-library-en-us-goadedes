@@ -150,16 +150,19 @@ peVE.Apolytikion1.incipit = "…"
 peVE.Apolytikion1.text = ""
 
 peMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Kathisma11.greekmelody = he.a.m1_en_US_goadedes.heAU.TouLithouSfragisthentos.greekname
 peMA.Kathisma11.melody = he.a.m1_en_US_goadedes.heAU.TouLithouSfragisthentos.name
 peMA.Kathisma11.incipit = "As Angels were amazed…"
 peMA.Kathisma11.text = "As Angels were amazed at Your unusual ascension, * and Your Disciples gazed in awe as You, O Savior, were taken up, * in glory You ascended as God. * O Master, gates were lifted up for You. * And therefore the heavenly hosts cried aloud in amazement, * \"Glory, to You, O Lord, for Your descent! * Glory to Your kingdom! * Glory to Your Ascension, only One who loves mankind.\""
 
 peMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Kathisma21.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
 peMA.Kathisma21.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.name
 peMA.Kathisma21.incipit = "The unoriginate…"
 peMA.Kathisma21.text = "The unoriginate and pre-eternal God * assumed humanity's nature, and mystically * He deified it; and today, He ascended to heaven. * As He was proceeding up with great glory into the heights, * Angels to Apostles said, \"This is the One who will come again.\" * They worshiped Him together and cried aloud, * \"Glory to God who has ascended!\""
 
 peMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Kathisma31.greekmelody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.greekname
 peMA.Kathisma31.melody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.name
 peMA.Kathisma31.incipit = "You descended from heaven…"
 peMA.Kathisma31.text = "You descended from heaven and came to earth, O Christ. * Adam's nature was lying below, a prisoner * of the netherworld. As God You resurrected him with You. * By Your glorious Ascension, You lifted him on high. * In You he sits with the Father * upon the throne in the heavens, * merciful Lord who love humanity."
@@ -196,12 +199,14 @@ peMA.C2.verse = prayers_en_US_goadedes.pr.verse_God.text
 
 peMA.Ode1C1H.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C1H.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Ode1C1H.greekmelody = he.h.m5_en_US_goadedes.heHE.ToSotiriTheo.greekname
 peMA.Ode1C1H.melody = he.h.m5_en_US_goadedes.heHE.ToSotiriTheo.melody
 peMA.Ode1C1H.incipit = he.h.m5_en_US_goadedes.heHE.ToSotiriTheo.incipit
 peMA.Ode1C1H.text = he.h.m5_en_US_goadedes.heHE.ToSotiriTheo.text
 
 peMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Ode1C11.greekmelody = he.h.m5_en_US_goadedes.heHE.ToSotiriTheo.greekname
 peMA.Ode1C11.melody = he.h.m5_en_US_goadedes.heHE.ToSotiriTheo.name
 peMA.Ode1C11.incipit = "All you people…"
 peMA.Ode1C11.text = "All you people, let us sing a song of victory to Christ * who on the shoulders of the Cherubim * was taken up with glory, and with himself seated us * at the right hand of the Father, for He is glorified."
@@ -226,12 +231,14 @@ peMA.Ode1C1T.text = "O spotless Mother of God, without ceasing intercede * with 
 
 peMA.Ode1C2H.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C2H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode1C2H.greekmelody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.greekname
 peMA.Ode1C2H.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.melody
 peMA.Ode1C2H.incipit = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.incipit
 peMA.Ode1C2H.text = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.text
 
 peMA.Ode1C21.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode1C21.greekmelody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.greekname
 peMA.Ode1C21.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
 peMA.Ode1C21.incipit = "Immortal by nature…"
 peMA.Ode1C21.text = "Immortal by nature, You rose within three days, O Lord, and then * appeared to the Eleven and to the Disciples all. * After forty days, You went back to the Father, * riding on a cloud, O Christ who are the Maker of all."
@@ -256,12 +263,14 @@ peMA.Ode1C2T.text = "All-spotless and blameless Lady, you gave birth to the Lord
 
 peMA.Ode3C1H.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C1H.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Ode3C1H.greekmelody = he.h.m5_en_US_goadedes.heHE.DynameiTouStavrouSou.greekname
 peMA.Ode3C1H.melody = he.h.m5_en_US_goadedes.heHE.DynameiTouStavrouSou.melody
 peMA.Ode3C1H.incipit = he.h.m5_en_US_goadedes.heHE.DynameiTouStavrouSou.incipit
 peMA.Ode3C1H.text = he.h.m5_en_US_goadedes.heHE.DynameiTouStavrouSou.text
 
 peMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Ode3C11.greekmelody = he.h.m5_en_US_goadedes.heHE.DynameiTouStavrouSou.greekname
 peMA.Ode3C11.melody = he.h.m5_en_US_goadedes.heHE.DynameiTouStavrouSou.name
 peMA.Ode3C11.incipit = "Ascending to Your Father…"
 peMA.Ode3C11.text = "Ascending to Your Father, O Christ, * You have exalted our humanity, * in Your ineffable love for us * and compassion, O Giver of life."
@@ -292,12 +301,14 @@ peMA.Ode3C1T.text = "O Maiden pure, unceasingly pray * to Christ, who came forth
 
 peMA.Ode3C2H.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C2H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode3C2H.greekmelody = he.h.m4_en_US_goadedes.heHE.TousSousYmnologous.greekname
 peMA.Ode3C2H.melody = he.h.m4_en_US_goadedes.heHE.TousSousYmnologous.melody
 peMA.Ode3C2H.incipit = he.h.m4_en_US_goadedes.heHE.TousSousYmnologous.incipit
 peMA.Ode3C2H.text = he.h.m4_en_US_goadedes.heHE.TousSousYmnologous.text
 
 peMA.Ode3C21.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode3C21.greekmelody = he.h.m4_en_US_goadedes.heHE.TousSousYmnologous.greekname
 peMA.Ode3C21.melody = he.h.m4_en_US_goadedes.heHE.TousSousYmnologous.name
 peMA.Ode3C21.incipit = "Behold, Christ the Lord…"
 peMA.Ode3C21.text = "\"Behold, Christ the Lord and King of glory is coming, now that He has put on * a body, which was made of earth. * Therefore lift up your heavenly gates.\" * Thus did the lower bodiless orders call out to the higher ones."
@@ -321,18 +332,21 @@ peMA.Ode3C2T.incipit = "Lady, you gave birth…"
 peMA.Ode3C2T.text = "Lady, you gave birth to the destroyer of death, yes the only deathless God. * O Virgin Mother wholly pure, * ever entreat Him earnestly * to kill the passions that will be the death of me, and to save my soul."
 
 peMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 peMA.Ode3Kathisma1.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 peMA.Ode3Kathisma1.incipit = "Leaving peace…"
 peMA.Ode3Kathisma1.text = "Leaving peace to Your followers on the earth, * then embarking on clouds from heaven, O Lord, * You ascended and sat at the right hand of the Father, * one in essence with Him and the Holy Spirit, as You are. * For You appeared in flesh, but did not turn from what You were. * Now You are awaiting the present age's conclusion; * then You will return to earth and will judge the entire world. * O righteous Judge of all, * spare our souls, we pray You, O God, * and forgive us, Your servants, all our sins, * for You are compassionate and merciful."
 
 peMA.Ode4C1H.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C1H.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Ode4C1H.greekmelody = he.h.m5_en_US_goadedes.heHE.EisakikoaTinAkoin.greekname
 peMA.Ode4C1H.melody = he.h.m5_en_US_goadedes.heHE.EisakikoaTinAkoin.melody
 peMA.Ode4C1H.incipit = he.h.m5_en_US_goadedes.heHE.EisakikoaTinAkoin.incipit
 peMA.Ode4C1H.text = he.h.m5_en_US_goadedes.heHE.EisakikoaTinAkoin.text
 
 peMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Ode4C11.greekmelody = he.h.m5_en_US_goadedes.heHE.EisakikoaTinAkoin.greekname
 peMA.Ode4C11.melody = he.h.m5_en_US_goadedes.heHE.EisakikoaTinAkoin.name
 peMA.Ode4C11.incipit = "You ascended in glory…"
 peMA.Ode4C11.text = "You ascended in glory, O King of Angels and Lord, * in order to send to us the Comforter from the Father. * So we cry aloud: Glory be to Your Ascension, O Christ!"
@@ -357,12 +371,14 @@ peMA.Ode4C1T.text = "The Virgin gave birth without suffering maternal labor. * S
 
 peMA.Ode4C2H.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C2H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode4C2H.greekmelody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.greekname
 peMA.Ode4C2H.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.melody
 peMA.Ode4C2H.incipit = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.incipit
 peMA.Ode4C2H.text = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.text
 
 peMA.Ode4C21.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode4C21.greekmelody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.greekname
 peMA.Ode4C21.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.name
 peMA.Ode4C21.incipit = "The life-giving Savior…"
 peMA.Ode4C21.text = "The life-giving Savior Jesus * took His friends, whom He loved, with Him * up the Mount of Olives, * and He blessed them, lifting up both His hands. * And then He rode on a cloud and reached the bosom of * God the Father, from which He was not absent at any time."
@@ -387,12 +403,14 @@ peMA.Ode4C2T.text = "Blessed is your chosen belly, * for it incomprehensibly * c
 
 peMA.Ode5C1H.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C1H.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Ode5C1H.greekmelody = he.h.m5_en_US_goadedes.heHE.OrthrizontesVoomenSoi.greekname
 peMA.Ode5C1H.melody = he.h.m5_en_US_goadedes.heHE.OrthrizontesVoomenSoi.melody
 peMA.Ode5C1H.incipit = he.h.m5_en_US_goadedes.heHE.OrthrizontesVoomenSoi.incipit
 peMA.Ode5C1H.text = he.h.m5_en_US_goadedes.heHE.OrthrizontesVoomenSoi.text
 
 peMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Ode5C11.greekmelody = he.h.m5_en_US_goadedes.heHE.OrthrizontesVoomenSoi.greekname
 peMA.Ode5C11.melody = he.h.m5_en_US_goadedes.heHE.OrthrizontesVoomenSoi.name
 peMA.Ode5C11.incipit = "O merciful Redeemer…"
 peMA.Ode5C11.text = "O merciful Redeemer, when You had filled the world with joy, * You returned, incarnate now, * to Your celestial hosts on high."
@@ -417,12 +435,14 @@ peMA.Ode5C1T.text = "We praise you who are virgin after childbirth, O Theotokos.
 
 peMA.Ode5C2H.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C2H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode5C2H.greekmelody = he.h.m4_en_US_goadedes.heHE.ExestiTaSympanta.greekname
 peMA.Ode5C2H.melody = he.h.m4_en_US_goadedes.heHE.ExestiTaSympanta.melody
 peMA.Ode5C2H.incipit = he.h.m4_en_US_goadedes.heHE.ExestiTaSympanta.incipit
 peMA.Ode5C2H.text = he.h.m4_en_US_goadedes.heHE.ExestiTaSympanta.text
 
 peMA.Ode5C21.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode5C21.greekmelody = he.h.m4_en_US_goadedes.heHE.ExestiTaSympanta.greekname
 peMA.Ode5C21.melody = he.h.m4_en_US_goadedes.heHE.ExestiTaSympanta.name
 peMA.Ode5C21.incipit = "Once You had put death…"
 peMA.Ode5C21.text = "Once You had put death to death by Your own death, O Christ our God, * You took Your beloved friends and went up * that holy mountain, the Mt. of Olives, O Lord. * From there You ascended and returned * to Your Father in the heights, carried up on a cloud of light."
@@ -447,12 +467,14 @@ peMA.Ode5C2T.text = "Now Christ is ascending to His Father whom He never left, *
 
 peMA.Ode6C1H.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C1H.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Ode6C1H.greekmelody = he.h.m5_en_US_goadedes.heHE.EkykloseMeAvyssos.greekname
 peMA.Ode6C1H.melody = he.h.m5_en_US_goadedes.heHE.EkykloseMeAvyssos.melody
 peMA.Ode6C1H.incipit = he.h.m5_en_US_goadedes.heHE.EkykloseMeAvyssos.incipit
 peMA.Ode6C1H.text = he.h.m5_en_US_goadedes.heHE.EkykloseMeAvyssos.text
 
 peMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Ode6C11.greekmelody = he.h.m5_en_US_goadedes.heHE.EkykloseMeAvyssos.greekname
 peMA.Ode6C11.melody = he.h.m5_en_US_goadedes.heHE.EkykloseMeAvyssos.name
 peMA.Ode6C11.incipit = "The host of the Apostles…"
 peMA.Ode6C11.text = "The host of the Apostles watched as Christ the Creator was taken up, * exultant with hope about the Spirit He promised them. * They sang with fear and love, \"Glory to Your ascent, O Lord!\""
@@ -477,12 +499,14 @@ peMA.Ode6C1T.text = "We glorify you worthily, O glorious Mary, and call you gate
 
 peMA.Ode6C2H.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C2H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode6C2H.greekmelody = he.h.m4_en_US_goadedes.heHE.TinTheianTaftin.greekname
 peMA.Ode6C2H.melody = he.h.m4_en_US_goadedes.heHE.TinTheianTaftin.melody
 peMA.Ode6C2H.incipit = he.h.m4_en_US_goadedes.heHE.TinTheianTaftin.incipit
 peMA.Ode6C2H.text = he.h.m4_en_US_goadedes.heHE.TinTheianTaftin.text
 
 peMA.Ode6C21.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode6C21.greekmelody = he.h.m4_en_US_goadedes.heHE.TinTheianTaftin.greekname
 peMA.Ode6C21.melody = he.h.m4_en_US_goadedes.heHE.TinTheianTaftin.name
 peMA.Ode6C21.incipit = "Let clouds rain down…"
 peMA.Ode6C21.text = "Let clouds rain down on us from on high * and sprinkle us on earth with eternal joy, for Christ ascends today * unto His Father upon a cloud, * as if upon the chariot of the Cherubim."
@@ -527,12 +551,14 @@ peSY.lastline = ""
 
 peMA.Ode7C1H.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C1H.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Ode7C1H.greekmelody = he.h.m5_en_US_goadedes.heHE.OEnKaminoPyros.greekname
 peMA.Ode7C1H.melody = he.h.m5_en_US_goadedes.heHE.OEnKaminoPyros.melody
 peMA.Ode7C1H.incipit = he.h.m5_en_US_goadedes.heHE.OEnKaminoPyros.incipit
 peMA.Ode7C1H.text = he.h.m5_en_US_goadedes.heHE.OEnKaminoPyros.text
 
 peMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Ode7C11.greekmelody = he.h.m5_en_US_goadedes.heHE.OEnKaminoPyros.greekname
 peMA.Ode7C11.melody = he.h.m5_en_US_goadedes.heHE.OEnKaminoPyros.name
 peMA.Ode7C11.incipit = "Taken to heaven…"
 peMA.Ode7C11.text = "Taken to heaven upon a cloud of light, You saved the world. * You are the God of our fathers, Lord, and blessed are You."
@@ -563,12 +589,14 @@ peMA.Ode7C1T.text = "You who were born of a Virgin, making her the Theotokos, * 
 
 peMA.Ode7C2H.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C2H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode7C2H.greekmelody = he.h.m4_en_US_goadedes.heHE.OukElatrefsan.greekname
 peMA.Ode7C2H.melody = he.h.m4_en_US_goadedes.heHE.OukElatrefsan.melody
 peMA.Ode7C2H.incipit = he.h.m4_en_US_goadedes.heHE.OukElatrefsan.incipit
 peMA.Ode7C2H.text = he.h.m4_en_US_goadedes.heHE.OukElatrefsan.text
 
 peMA.Ode7C21.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode7C21.greekmelody = he.h.m4_en_US_goadedes.heHE.OukElatrefsan.greekname
 peMA.Ode7C21.melody = he.h.m4_en_US_goadedes.heHE.OukElatrefsan.name
 peMA.Ode7C21.incipit = "Lord and Light…"
 peMA.Ode7C21.text = "Lord and Light, a cloud * of light came down and picked You up incomprehensibly * and took You up from the earth. * As You were ascending, the celestial hierarchies * were extolling You * with the Apostles, crying out, \"Lord and God, You are blessed!\""
@@ -593,12 +621,14 @@ peMA.Ode7C2T.text = "Paradoxical, * the miracles, O Lady full of grace! How you 
 
 peMA.Ode8C1H.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C1H.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Ode8C1H.greekmelody = he.h.m5_en_US_goadedes.heHE.TonEkPatrosProAionon.greekname
 peMA.Ode8C1H.melody = he.h.m5_en_US_goadedes.heHE.TonEkPatrosProAionon.melody
 peMA.Ode8C1H.incipit = he.h.m5_en_US_goadedes.heHE.TonEkPatrosProAionon.incipit
 peMA.Ode8C1H.text = he.h.m5_en_US_goadedes.heHE.TonEkPatrosProAionon.text
 
 peMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Ode8C11.greekmelody = he.h.m5_en_US_goadedes.heHE.TonEkPatrosProAionon.greekname
 peMA.Ode8C11.melody = he.h.m5_en_US_goadedes.heHE.TonEkPatrosProAionon.name
 peMA.Ode8C11.incipit = "He is the Giver of life…"
 peMA.Ode8C11.text = "He is the Giver of life, and in His two natures Christ flew up * into the heavens with glory and is seated with the Father there. * Praise Him, priests and people, exalt Him beyond measure, unto all the ages."
@@ -623,12 +653,14 @@ peMA.Ode8C1T.text = "O Virgin pure Theotokos, you are higher than the Cherubim, 
 
 peMA.Ode8C2H.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C2H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode8C2H.greekmelody = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.greekname
 peMA.Ode8C2H.melody = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.melody
 peMA.Ode8C2H.incipit = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.incipit
 peMA.Ode8C2H.text = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.text
 
 peMA.Ode8C21.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode8C21.greekmelody = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.greekname
 peMA.Ode8C21.melody = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.name
 peMA.Ode8C21.incipit = "Two Angels appeared…"
 peMA.Ode8C21.text = "Two Angels appeared to the Apostles * when Christ had ascended, and they said to them, * \"Why do you men stand and gaze * into heaven marveling? * This Jesus who was taken up into the heavens from you * will come again in the way as you saw Him; * as He alone is Judge, He will judge on earth all people.\""
@@ -653,12 +685,14 @@ peMA.Ode8C2T.text = "Your Son and our God, O Theotokos, * plundered death and Ha
 
 peMA.Ode9C1H.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C1H.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Ode9C1H.greekmelody = he.h.m5_en_US_goadedes.heHE.SeTinYperNoun.greekname
 peMA.Ode9C1H.melody = he.h.m5_en_US_goadedes.heHE.SeTinYperNoun.melody
 peMA.Ode9C1H.incipit = he.h.m5_en_US_goadedes.heHE.SeTinYperNoun.incipit
 peMA.Ode9C1H.text = he.h.m5_en_US_goadedes.heHE.SeTinYperNoun.text
 
 peMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Ode9C11.greekmelody = he.h.m5_en_US_goadedes.heHE.SeTinYperNoun.greekname
 peMA.Ode9C11.melody = he.h.m5_en_US_goadedes.heHE.SeTinYperNoun.name
 peMA.Ode9C11.incipit = "Watching You…"
 peMA.Ode9C11.text = "Watching You the world's Redeemer, O Christ our God, * be divinely exalted into heaven, with fear and awe * the Apostles exultantly magnified You."
@@ -692,12 +726,14 @@ peMA.Ode9C2M01.text = "The Angels, beholding the Lord's ascension, were filled w
 
 peMA.Ode9C2H.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C2H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode9C2H.greekmelody = he.h.m4_en_US_goadedes.heHE.ApasGigenis.greekname
 peMA.Ode9C2H.melody = he.h.m4_en_US_goadedes.heHE.ApasGigenis.melody
 peMA.Ode9C2H.incipit = he.h.m4_en_US_goadedes.heHE.ApasGigenis.incipit
 peMA.Ode9C2H.text = he.h.m4_en_US_goadedes.heHE.ApasGigenis.text
 
 peMA.Ode9C21.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode9C21.greekmelody = he.h.m4_en_US_goadedes.heHE.ApasGigenis.greekname
 peMA.Ode9C21.melody = he.h.m4_en_US_goadedes.heHE.ApasGigenis.name
 peMA.Ode9C21.incipit = "Oh, the gifts of God…"
 peMA.Ode9C21.text = "Oh, the gifts of God, * beyond comprehension! Oh, the awesome mystery! * For the Lord and Ruler of all * from earth ascended to heaven, whence He came, * and sent to His Disciples the all-holy Spirit of God, * who illumined their souls and their intellects, * and effectively set them afire with grace."
@@ -726,16 +762,19 @@ peMA.Exaposteilarion1.incipit = he.a.m2_en_US_goadedes.heAU.TonMathitonOrontonSe
 peMA.Exaposteilarion1.text = he.a.m2_en_US_goadedes.heAU.TonMathitonOrontonSe.text
 
 peMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Lauds1.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname
 peMA.Lauds1.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 peMA.Lauds1.incipit = "…"
 peMA.Lauds1.text = ""
 
 peMA.Lauds2.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Lauds2.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname
 peMA.Lauds2.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 peMA.Lauds2.incipit = "…"
 peMA.Lauds2.text = ""
 
 peMA.Lauds3.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Lauds3.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname
 peMA.Lauds3.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 peMA.Lauds3.incipit = "…"
 peMA.Lauds3.text = ""

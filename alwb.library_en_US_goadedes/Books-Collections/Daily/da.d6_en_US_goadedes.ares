@@ -29,16 +29,19 @@ daMA.Photagogic2Beginning.text = prayers_en_US_goadedes.pr.photagogic_begin_Sain
 daMA.Photagogic3Beginning.text = prayers_en_US_goadedes.pr.photagogic_begin_Theotokos.text
 
 daMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
+daMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_goadedes.heAU.TonMathitonOrontonSe.greekname
 daMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.heAU.TonMathitonOrontonSe.name
 daMA.Exaposteilarion1.incipit = me.m09.d14_en_US_goadedes.meMA.Exaposteilarion1.incipit
 daMA.Exaposteilarion1.text = me.m09.d14_en_US_goadedes.meMA.Exaposteilarion1.text
 
 daMA.Exaposteilarion2.mode = miscellanea_en_US_goadedes.misc.Mode3
+daMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.greekname
 daMA.Exaposteilarion2.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
 daMA.Exaposteilarion2.incipit = "…"
 daMA.Exaposteilarion2.text = ""
 
 daMA.ExapTheotokion2.mode = miscellanea_en_US_goadedes.misc.Mode3
+daMA.ExapTheotokion2.greekmelody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.greekname
 daMA.ExapTheotokion2.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
 daMA.ExapTheotokion2.incipit = "O Lord, Your virgin Mother…"
 daMA.ExapTheotokion2.text = "O Lord, Your virgin Mother * stood by at Your crucifixion. * And she lamented and cried out, * \"Alas! O sweetest Son of mine, * how can You set before my eyes * and be accounted among the dead?\""

@@ -14,12 +14,14 @@ hoCA.verse = ""
 
 hoCA.Ode1H.ode = miscellanea_en_US_goadedes.misc.Ode1
 hoCA.Ode1H.mode = miscellanea_en_US_goadedes.misc.Mode8
-hoCA.Ode1H.melody = miscellanea_en_US_goadedes.misc.Heirmos
+hoCA.Ode1H.greekmelody = he.h.m8_en_US_goadedes.heHE.YgranDiodefsas.greekname
+hoCA.Ode1H.melody = he.h.m8_en_US_goadedes.heHE.YgranDiodefsas.melody
 hoCA.Ode1H.incipit = he.h.m8_en_US_goadedes.heHE.YgranDiodefsas.incipit
 hoCA.Ode1H.text = he.h.m8_en_US_goadedes.heHE.YgranDiodefsas.text
 
 hoCA.Ode11.ode = miscellanea_en_US_goadedes.misc.Ode1
 hoCA.Ode11.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode11.greekmelody = he.h.m8_en_US_goadedes.heHE.YgranDiodefsas.greekname
 hoCA.Ode11.melody = he.h.m8_en_US_goadedes.heHE.YgranDiodefsas.name
 hoCA.Ode11.incipit = "…"
 hoCA.Ode11.text = ""
@@ -50,12 +52,14 @@ hoCA.Ode1T.text = ""
 
 hoCA.Ode3H.ode = miscellanea_en_US_goadedes.misc.Ode3
 hoCA.Ode3H.mode = miscellanea_en_US_goadedes.misc.Mode8
-hoCA.Ode3H.melody = miscellanea_en_US_goadedes.misc.Heirmos
+hoCA.Ode3H.greekmelody = he.h.m8_en_US_goadedes.heHE.OuraniasApsidos.greekname
+hoCA.Ode3H.melody = he.h.m8_en_US_goadedes.heHE.OuraniasApsidos.melody
 hoCA.Ode3H.incipit = he.h.m8_en_US_goadedes.heHE.OuraniasApsidos.incipit
 hoCA.Ode3H.text = he.h.m8_en_US_goadedes.heHE.OuraniasApsidos.text
 
 hoCA.Ode31.ode = miscellanea_en_US_goadedes.misc.Ode3
 hoCA.Ode31.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode31.greekmelody = he.h.m8_en_US_goadedes.heHE.OuraniasApsidos.greekname
 hoCA.Ode31.melody = he.h.m8_en_US_goadedes.heHE.OuraniasApsidos.name
 hoCA.Ode31.incipit = "…"
 hoCA.Ode31.text = ""
@@ -91,12 +95,14 @@ hoCA.Kathisma11.text = ""
 
 hoCA.Ode4H.ode = miscellanea_en_US_goadedes.misc.Ode4
 hoCA.Ode4H.mode = miscellanea_en_US_goadedes.misc.Mode8
-hoCA.Ode4H.melody = miscellanea_en_US_goadedes.misc.Heirmos
+hoCA.Ode4H.greekmelody = he.h.m8_en_US_goadedes.heHE.SyMouIschys.greekname
+hoCA.Ode4H.melody = he.h.m8_en_US_goadedes.heHE.SyMouIschys.melody
 hoCA.Ode4H.incipit = he.h.m8_en_US_goadedes.heHE.SyMouIschys.incipit
 hoCA.Ode4H.text = he.h.m8_en_US_goadedes.heHE.SyMouIschys.text
 
 hoCA.Ode41.ode = miscellanea_en_US_goadedes.misc.Ode4
 hoCA.Ode41.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode41.greekmelody = he.h.m8_en_US_goadedes.heHE.SyMouIschys.greekname
 hoCA.Ode41.melody = he.h.m8_en_US_goadedes.heHE.SyMouIschys.name
 hoCA.Ode41.incipit = "…"
 hoCA.Ode41.text = ""
@@ -127,12 +133,14 @@ hoCA.Ode4T.text = ""
 
 hoCA.Ode5H.ode = miscellanea_en_US_goadedes.misc.Ode5
 hoCA.Ode5H.mode = miscellanea_en_US_goadedes.misc.Mode8
-hoCA.Ode5H.melody = miscellanea_en_US_goadedes.misc.Heirmos
+hoCA.Ode5H.greekmelody = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.greekname
+hoCA.Ode5H.melody = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.melody
 hoCA.Ode5H.incipit = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.incipit
 hoCA.Ode5H.text = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.text
 
 hoCA.Ode51.ode = miscellanea_en_US_goadedes.misc.Ode5
 hoCA.Ode51.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode51.greekmelody = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.greekname
 hoCA.Ode51.melody = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.name
 hoCA.Ode51.incipit = "…"
 hoCA.Ode51.text = ""
@@ -163,12 +171,14 @@ hoCA.Ode5T.text = ""
 
 hoCA.Ode6H.ode = miscellanea_en_US_goadedes.misc.Ode6
 hoCA.Ode6H.mode = miscellanea_en_US_goadedes.misc.Mode8
-hoCA.Ode6H.melody = miscellanea_en_US_goadedes.misc.Heirmos
+hoCA.Ode6H.greekmelody = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.greekname
+hoCA.Ode6H.melody = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.melody
 hoCA.Ode6H.incipit = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.incipit
 hoCA.Ode6H.text = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.text
 
 hoCA.Ode61.ode = miscellanea_en_US_goadedes.misc.Ode6
 hoCA.Ode61.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode61.greekmelody = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.greekname
 hoCA.Ode61.melody = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.name
 hoCA.Ode61.incipit = "…"
 hoCA.Ode61.text = ""
@@ -210,12 +220,14 @@ hoCA.Kontakion.text = ""
 
 hoCA.Ode7H.ode = miscellanea_en_US_goadedes.misc.Ode7
 hoCA.Ode7H.mode = miscellanea_en_US_goadedes.misc.Mode8
-hoCA.Ode7H.melody = miscellanea_en_US_goadedes.misc.Heirmos
+hoCA.Ode7H.greekmelody = he.h.m8_en_US_goadedes.heHE.OiEkTisIoudaias.greekname
+hoCA.Ode7H.melody = he.h.m8_en_US_goadedes.heHE.OiEkTisIoudaias.melody
 hoCA.Ode7H.incipit = he.h.m8_en_US_goadedes.heHE.OiEkTisIoudaias.incipit
 hoCA.Ode7H.text = he.h.m8_en_US_goadedes.heHE.OiEkTisIoudaias.text
 
 hoCA.Ode71.ode = miscellanea_en_US_goadedes.misc.Ode7
 hoCA.Ode71.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode71.greekmelody = he.h.m8_en_US_goadedes.heHE.OiEkTisIoudaias.greekname
 hoCA.Ode71.melody = he.h.m8_en_US_goadedes.heHE.OiEkTisIoudaias.name
 hoCA.Ode71.incipit = "…"
 hoCA.Ode71.text = ""
@@ -252,12 +264,14 @@ hoCA.Ode7T.text = ""
 
 hoCA.Ode8H.ode = miscellanea_en_US_goadedes.misc.Ode8
 hoCA.Ode8H.mode = miscellanea_en_US_goadedes.misc.Mode8
-hoCA.Ode8H.melody = miscellanea_en_US_goadedes.misc.Heirmos
+hoCA.Ode8H.greekmelody = he.h.m8_en_US_goadedes.heHE.EptaplasiosKaminon.greekname
+hoCA.Ode8H.melody = he.h.m8_en_US_goadedes.heHE.EptaplasiosKaminon.melody
 hoCA.Ode8H.incipit = he.h.m8_en_US_goadedes.heHE.EptaplasiosKaminon.incipit
 hoCA.Ode8H.text = he.h.m8_en_US_goadedes.heHE.EptaplasiosKaminon.text
 
 hoCA.Ode81.ode = miscellanea_en_US_goadedes.misc.Ode8
 hoCA.Ode81.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode81.greekmelody = he.h.m8_en_US_goadedes.heHE.EptaplasiosKaminon.greekname
 hoCA.Ode81.melody = he.h.m8_en_US_goadedes.heHE.EptaplasiosKaminon.name
 hoCA.Ode81.incipit = "…"
 hoCA.Ode81.text = ""
@@ -300,12 +314,14 @@ hoCA.Ode8T.text = ""
 
 hoCA.Ode9H.ode = miscellanea_en_US_goadedes.misc.Ode9
 hoCA.Ode9H.mode = miscellanea_en_US_goadedes.misc.Mode8
-hoCA.Ode9H.melody = miscellanea_en_US_goadedes.misc.Heirmos
+hoCA.Ode9H.greekmelody = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.greekname
+hoCA.Ode9H.melody = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.melody
 hoCA.Ode9H.incipit = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.incipit
 hoCA.Ode9H.text = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.text
 
 hoCA.Ode91.ode = miscellanea_en_US_goadedes.misc.Ode9
 hoCA.Ode91.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode91.greekmelody = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.greekname
 hoCA.Ode91.melody = he.h.m8_en_US_goadedes.heHE.EfrixePasaAkoi.name
 hoCA.Ode91.incipit = "…"
 hoCA.Ode91.text = ""

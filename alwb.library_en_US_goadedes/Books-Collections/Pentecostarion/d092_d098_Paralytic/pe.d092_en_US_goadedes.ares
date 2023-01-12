@@ -69,22 +69,26 @@ peMA.Kathisma12.melody = ""
 peMA.Kathisma12.incipit = oc.m3.d1_en_US_goadedes.ocMA.Kathisma12.incipit
 peMA.Kathisma12.text = oc.m3.d1_en_US_goadedes.ocMA.Kathisma12.text
 
-peMA.Kathisma13.mode = miscellanea_en_US_goadedes.misc.Mode3
-peMA.Kathisma13.melody = miscellanea_en_US_goadedes.misc.Automelon
-peMA.Kathisma13.incipit = oc.m3.d1_en_US_goadedes.ocMA.Kathisma13.incipit
-peMA.Kathisma13.text = oc.m3.d1_en_US_goadedes.ocMA.Kathisma13.text
+peMA.Kathisma13.mode = he.a.m3_en_US_goadedes.heAU.TinOraiotita.mode
+peMA.Kathisma13.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
+peMA.Kathisma13.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.melody
+peMA.Kathisma13.incipit = he.a.m3_en_US_goadedes.heAU.TinOraiotita.incipit
+peMA.Kathisma13.text = he.a.m3_en_US_goadedes.heAU.TinOraiotita.text
 
 peMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Kathisma21.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
 peMA.Kathisma21.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.name
 peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = ""
 
 peMA.Kathisma22.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Kathisma22.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
 peMA.Kathisma22.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.name
 peMA.Kathisma22.incipit = oc.m3.d1_en_US_goadedes.ocMA.Kathisma22.incipit
 peMA.Kathisma22.text = oc.m3.d1_en_US_goadedes.ocMA.Kathisma22.text
 
 peMA.Kathisma23.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Kathisma23.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
 peMA.Kathisma23.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.name
 peMA.Kathisma23.incipit = "…"
 peMA.Kathisma23.text = ""
@@ -99,12 +103,14 @@ peMA.C1.verse = prayers_en_US_goadedes.pr.verse_God.text
 
 peMA.Ode1C1H.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C1H.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode1C1H.greekmelody = he.h.m3_en_US_goadedes.heHE.ThavmastosEndoxos.greekname
 peMA.Ode1C1H.melody = he.h.m3_en_US_goadedes.heHE.ThavmastosEndoxos.melody
 peMA.Ode1C1H.incipit = he.h.m3_en_US_goadedes.heHE.ThavmastosEndoxos.incipit
 peMA.Ode1C1H.text = he.h.m3_en_US_goadedes.heHE.ThavmastosEndoxos.text
 
 peMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode1C11.greekmelody = he.h.m3_en_US_goadedes.heHE.ThavmastosEndoxos.greekname
 peMA.Ode1C11.melody = he.h.m3_en_US_goadedes.heHE.ThavmastosEndoxos.name
 peMA.Ode1C11.incipit = "…"
 peMA.Ode1C11.text = ""
@@ -123,6 +129,7 @@ peMA.Ode1C13.text = ""
 
 peMA.Ode1C1F1.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C1F1.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode1C1F1.greekmelody = he.h.m3_en_US_goadedes.heHE.ThavmastosEndoxos.greekname
 peMA.Ode1C1F1.melody = he.h.m3_en_US_goadedes.heHE.ThavmastosEndoxos.name
 peMA.Ode1C1F1.incipit = "At the pool…"
 peMA.Ode1C1F1.text = "At the pool by the Sheep Gate, whenever the Angel would come down * and trouble the water, it would heal only one person. * But now through holy baptism, many multitudes are purified by Christ."
@@ -147,12 +154,14 @@ peMA.Ode1C1T.text = "O all-holy Virgin, this city always honors you with faith. 
 
 peMA.Ode3C1H.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C1H.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode3C1H.greekmelody = he.h.m3_en_US_goadedes.heHE.SteiraPsychi.greekname
 peMA.Ode3C1H.melody = he.h.m3_en_US_goadedes.heHE.SteiraPsychi.melody
 peMA.Ode3C1H.incipit = he.h.m3_en_US_goadedes.heHE.SteiraPsychi.incipit
 peMA.Ode3C1H.text = he.h.m3_en_US_goadedes.heHE.SteiraPsychi.text
 
 peMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode3C11.greekmelody = he.h.m3_en_US_goadedes.heHE.SteiraPsychi.greekname
 peMA.Ode3C11.melody = he.h.m3_en_US_goadedes.heHE.SteiraPsychi.name
 peMA.Ode3C11.incipit = "The sun beheld You…"
 peMA.Ode3C11.text = "The sun beheld You crucified, O Lord and Logos of God, * and it withheld its light that day, and earth entirely quaked in fear. * The dead were resurrected, when You yourself had died, O almighty One."
@@ -165,6 +174,7 @@ peMA.Ode3C12.text = ""
 
 peMA.Ode3C1F1.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C1F1.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode3C1F1.greekmelody = he.h.m3_en_US_goadedes.heHE.SteiraPsychi.greekname
 peMA.Ode3C1F1.melody = he.h.m3_en_US_goadedes.heHE.SteiraPsychi.name
 peMA.Ode3C1F1.incipit = "For many years…"
 peMA.Ode3C1F1.text = "For many years, my soul has been sickly and weak and infirm. * O Savior, most benevolent, make me whole, like the Paralytic of old, * so that I may walk in the ways that You showed us all who long for You."
@@ -188,23 +198,27 @@ peMA.Ode3C1T.incipit = "Virgin Mother immaculate…"
 peMA.Ode3C1T.text = "Virgin Mother immaculate, having conceived without seed, * incomprehensible was your childbirth, a great and awsome miracle, * revered by the Angels all, O Lady, and glorified by humanity."
 
 peMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode3Kathisma1.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
 peMA.Ode3Kathisma1.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.name
 peMA.Ode3Kathisma1.incipit = "…"
 peMA.Ode3Kathisma1.text = ""
 
 peMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode3Kathisma2.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
 peMA.Ode3Kathisma2.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.melody
 peMA.Ode3Kathisma2.incipit = he.a.m3_en_US_goadedes.heAU.TinOraiotita.incipit
 peMA.Ode3Kathisma2.text = he.a.m3_en_US_goadedes.heAU.TinOraiotita.text
 
 peMA.Ode4C1H.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C1H.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode4C1H.greekmelody = he.h.m3_en_US_goadedes.heHE.ToKataskionOros.greekname
 peMA.Ode4C1H.melody = he.h.m3_en_US_goadedes.heHE.ToKataskionOros.melody
 peMA.Ode4C1H.incipit = he.h.m3_en_US_goadedes.heHE.ToKataskionOros.incipit
 peMA.Ode4C1H.text = he.h.m3_en_US_goadedes.heHE.ToKataskionOros.text
 
 peMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode4C11.greekmelody = he.h.m3_en_US_goadedes.heHE.ToKataskionOros.greekname
 peMA.Ode4C11.melody = he.h.m3_en_US_goadedes.heHE.ToKataskionOros.name
 peMA.Ode4C11.incipit = "…"
 peMA.Ode4C11.text = ""
@@ -223,6 +237,7 @@ peMA.Ode4C13.text = ""
 
 peMA.Ode4C1F1.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C1F1.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode4C1F1.greekmelody = he.h.m3_en_US_goadedes.heHE.ToKataskionOros.greekname
 peMA.Ode4C1F1.melody = he.h.m3_en_US_goadedes.heHE.ToKataskionOros.name
 peMA.Ode4C1F1.incipit = "When an Angel…"
 peMA.Ode4C1F1.text = "When an Angel of the Lord would go down at certain seasons * into the water of the Sheep Pool and trouble it, * only one person received the healing. * But today through holy baptism, Christ our God heals and saves countless people."
@@ -247,12 +262,14 @@ peMA.Ode4C1T.text = "How is it that you gave birth to an infant more primeval * 
 
 peMA.Ode5C1H.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C1H.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode5C1H.greekmelody = he.h.m3_en_US_goadedes.heHE.FotiToAnespero.greekname
 peMA.Ode5C1H.melody = he.h.m3_en_US_goadedes.heHE.FotiToAnespero.melody
 peMA.Ode5C1H.incipit = he.h.m3_en_US_goadedes.heHE.FotiToAnespero.incipit
 peMA.Ode5C1H.text = he.h.m3_en_US_goadedes.heHE.FotiToAnespero.text
 
 peMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode5C11.greekmelody = he.h.m3_en_US_goadedes.heHE.FotiToAnespero.greekname
 peMA.Ode5C11.melody = he.h.m3_en_US_goadedes.heHE.FotiToAnespero.name
 peMA.Ode5C11.incipit = "…"
 peMA.Ode5C11.text = ""
@@ -271,6 +288,7 @@ peMA.Ode5C13.text = ""
 
 peMA.Ode5C1F1.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C1F1.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode5C1F1.greekmelody = he.h.m3_en_US_goadedes.heHE.FotiToAnespero.greekname
 peMA.Ode5C1F1.melody = he.h.m3_en_US_goadedes.heHE.FotiToAnespero.name
 peMA.Ode5C1F1.incipit = "You once raised…"
 peMA.Ode5C1F1.text = "You once raised the Paralytic, O Christ. * Now I implore You to restore my crippled soul, * for by transgressions it is paralyzed; * and assist me to walk in Your straight paths."
@@ -295,12 +313,14 @@ peMA.Ode5C1T.text = "O Mother of our God, we call you blessed. * We extol you, O
 
 peMA.Ode6C1H.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C1H.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode6C1H.greekmelody = he.h.m3_en_US_goadedes.heHE.VythosMoiTonPathon.greekname
 peMA.Ode6C1H.melody = he.h.m3_en_US_goadedes.heHE.VythosMoiTonPathon.melody
 peMA.Ode6C1H.incipit = he.h.m3_en_US_goadedes.heHE.VythosMoiTonPathon.incipit
 peMA.Ode6C1H.text = he.h.m3_en_US_goadedes.heHE.VythosMoiTonPathon.text
 
 peMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode6C11.greekmelody = he.h.m3_en_US_goadedes.heHE.VythosMoiTonPathon.greekname
 peMA.Ode6C11.melody = he.h.m3_en_US_goadedes.heHE.VythosMoiTonPathon.name
 peMA.Ode6C11.incipit = "…"
 peMA.Ode6C11.text = ""
@@ -319,6 +339,7 @@ peMA.Ode6C13.text = ""
 
 peMA.Ode6C1F1.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C1F1.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode6C1F1.greekmelody = he.h.m3_en_US_goadedes.heHE.VythosMoiTonPathon.greekname
 peMA.Ode6C1F1.melody = he.h.m3_en_US_goadedes.heHE.VythosMoiTonPathon.name
 peMA.Ode6C1F1.incipit = "The man who had formerly…"
 peMA.Ode6C1F1.text = "The man who had formerly been lying * for many years in pain on his pallet, * was made whole by Your command, * O Christ, and glorifies You, * extolling Your compassion, O Giver of life."
@@ -363,12 +384,14 @@ peSY.lastline = ""
 
 peMA.Ode7C1H.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C1H.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode7C1H.greekmelody = he.h.m3_en_US_goadedes.heHE.OTinFloga.greekname
 peMA.Ode7C1H.melody = he.h.m3_en_US_goadedes.heHE.OTinFloga.melody
 peMA.Ode7C1H.incipit = he.h.m3_en_US_goadedes.heHE.OTinFloga.incipit
 peMA.Ode7C1H.text = he.h.m3_en_US_goadedes.heHE.OTinFloga.text
 
 peMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode7C11.greekmelody = he.h.m3_en_US_goadedes.heHE.OTinFloga.greekname
 peMA.Ode7C11.melody = he.h.m3_en_US_goadedes.heHE.OTinFloga.name
 peMA.Ode7C11.incipit = "…"
 peMA.Ode7C11.text = ""
@@ -387,6 +410,7 @@ peMA.Ode7C13.text = ""
 
 peMA.Ode7C1F1.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C1F1.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode7C1F1.greekmelody = he.h.m3_en_US_goadedes.heHE.OTinFloga.greekname
 peMA.Ode7C1F1.melody = he.h.m3_en_US_goadedes.heHE.OTinFloga.name
 peMA.Ode7C1F1.incipit = "With a word, Lord, You healed…"
 peMA.Ode7C1F1.text = "With a word, Lord, You healed the Paralytic, * who had lain for many years lame and crippled. * You told him, \"Rise, and take up your pallet, and go forth, * and extol the wonderful works of God.\""
@@ -411,12 +435,14 @@ peMA.Ode7C1T.text = "You gave birth inffably, O Virgin, * to the Son begotten be
 
 peMA.Ode8C1H.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C1H.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode8C1H.greekmelody = he.h.m3_en_US_goadedes.heHE.TonYpAngelon.greekname
 peMA.Ode8C1H.melody = he.h.m3_en_US_goadedes.heHE.TonYpAngelon.melody
 peMA.Ode8C1H.incipit = he.h.m3_en_US_goadedes.heHE.TonYpAngelon.incipit
 peMA.Ode8C1H.text = he.h.m3_en_US_goadedes.heHE.TonYpAngelon.text
 
 peMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode8C11.greekmelody = he.h.m3_en_US_goadedes.heHE.TonYpAngelon.greekname
 peMA.Ode8C11.melody = he.h.m3_en_US_goadedes.heHE.TonYpAngelon.name
 peMA.Ode8C11.incipit = "…"
 peMA.Ode8C11.text = ""
@@ -435,6 +461,7 @@ peMA.Ode8C13.text = ""
 
 peMA.Ode8C1F1.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C1F1.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode8C1F1.greekmelody = he.h.m3_en_US_goadedes.heHE.TonYpAngelon.greekname
 peMA.Ode8C1F1.melody = he.h.m3_en_US_goadedes.heHE.TonYpAngelon.name
 peMA.Ode8C1F1.incipit = "Lying there without help…"
 peMA.Ode8C1F1.text = "Lying there without help for many years, * the Paralytic cried out and said, * \"Redeemer, have mercy on me, * who am on my own and destitute.\" * The Lord commanded him to stand up * and take up his pallet * and walk forward uprightly."
@@ -459,12 +486,14 @@ peMA.Ode8C1T.text = "Prophet Isaiah once perceived you * as a book in which the 
 
 peMA.Ode9C1H.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C1H.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode9C1H.greekmelody = he.h.m3_en_US_goadedes.heHE.EnSinaioToOrei.greekname
 peMA.Ode9C1H.melody = he.h.m3_en_US_goadedes.heHE.EnSinaioToOrei.melody
 peMA.Ode9C1H.incipit = he.h.m3_en_US_goadedes.heHE.EnSinaioToOrei.incipit
 peMA.Ode9C1H.text = he.h.m3_en_US_goadedes.heHE.EnSinaioToOrei.text
 
 peMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode9C11.greekmelody = he.h.m3_en_US_goadedes.heHE.EnSinaioToOrei.greekname
 peMA.Ode9C11.melody = he.h.m3_en_US_goadedes.heHE.EnSinaioToOrei.name
 peMA.Ode9C11.incipit = "…"
 peMA.Ode9C11.text = ""
@@ -483,6 +512,7 @@ peMA.Ode9C13.text = ""
 
 peMA.Ode9C1F1.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C1F1.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Ode9C1F1.greekmelody = he.h.m3_en_US_goadedes.heHE.EnSinaioToOrei.greekname
 peMA.Ode9C1F1.melody = he.h.m3_en_US_goadedes.heHE.EnSinaioToOrei.name
 peMA.Ode9C1F1.incipit = "You commanded the man…"
 peMA.Ode9C1F1.text = "You commanded the man who was formerly a paralytic, O Christ; * and his physical health was restored at once; and by many he was seen walking well, * as he carried the pallet, on which he had  anguished for many years, * and he sang the praises of Your mighty deeds."
@@ -506,6 +536,7 @@ peMA.Ode9C1T.incipit = "O immaculate Virgin…"
 peMA.Ode9C1T.text = "O immaculate Virgin, most luminous was your womb that carried Christ, * the great Sun, who came forth and has brightly shined light of knowledge on the world. * He has lifted the darkness caused by disobedience. * Therefore, O Bride of God, we extol you as the fountain of blessings on all."
 
 peMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.greekname
 peMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.name
 peMA.Exaposteilarion1.incipit = "…"
 peMA.Exaposteilarion1.text = ""

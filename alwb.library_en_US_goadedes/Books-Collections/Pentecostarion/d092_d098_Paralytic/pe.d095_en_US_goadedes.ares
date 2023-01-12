@@ -15,6 +15,7 @@ peHO.note2 = ""
 peDA.dismissal = dismissals_en_US_goadedes.dis00.resurrection
 
 peVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode4
+peVE.Stichera01.greekmelody = he.a.m4_en_US_goadedes.heAU.KyrieAnelthonEnToStavro.greekname
 peVE.Stichera01.melody = he.a.m4_en_US_goadedes.heAU.KyrieAnelthonEnToStavro.name
 peVE.Stichera01.incipit = "…"
 peVE.Stichera01.text = ""
@@ -66,11 +67,13 @@ peVE.Apolytikion1.incipit = "…"
 peVE.Apolytikion1.text = ""
 
 peMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Kathisma11.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 peMA.Kathisma11.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 peMA.Kathisma11.incipit = "The Master who knows…"
 peMA.Kathisma11.text = "The Master who knows the thoughts that are in everyone's hearts, * went up into the Temple and He stood and He taught, * and to the liars He spoke the truth. * \"Tell Me, why are you seeking to arrest Me who give life?\" * He said this about the middle of the feast in public. * \"O transgressors of the Law, do not judge by appearances.\""
 
 peMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Kathisma21.greekmelody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.greekname
 peMA.Kathisma21.melody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.name
 peMA.Kathisma21.incipit = "When He went to Jerusalem…"
 peMA.Kathisma21.text = "When He went to Jerusalem, the Master of all * went up into the Temple about the middle of the feast, * and He argued with the Jews, refuting them publicly, * and exposed their heavy handedness, as their King and God. * Whereas, in His loving-kindness, * He is granting great mercy to all of us who believe in Him."
@@ -90,12 +93,14 @@ peMA.C2.verse = prayers_en_US_goadedes.pr.verse_God.text
 
 peMA.Ode1C1H.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode1C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.greekname
 peMA.Ode1C1H.melody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.melody
 peMA.Ode1C1H.incipit = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.incipit
 peMA.Ode1C1H.text = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.text
 
 peMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode1C11.greekmelody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.greekname
 peMA.Ode1C11.melody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.name
 peMA.Ode1C11.incipit = "How great are the benefits…"
 peMA.Ode1C11.text = "How great are the benefits of Your divine incarnation, O Lord, * as are the gifts of grace divine to us, * which have shone forth resplendently, * and the divine enlightenment that You so graciously pour out for us."
@@ -120,12 +125,14 @@ peMA.Ode1C1T.text = "Your body, when it was in the sepulcher, did not decay, O L
 
 peMA.Ode1C2H.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C2H.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode1C2H.greekmelody = he.h.m8_en_US_goadedes.heHE.ThalassanEpixas.greekname
 peMA.Ode1C2H.melody = he.h.m8_en_US_goadedes.heHE.ThalassanEpixas.melody
 peMA.Ode1C2H.incipit = he.h.m8_en_US_goadedes.heHE.ThalassanEpixas.incipit
 peMA.Ode1C2H.text = he.h.m8_en_US_goadedes.heHE.ThalassanEpixas.text
 
 peMA.Ode1C21.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C21.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode1C21.greekmelody = he.h.m8_en_US_goadedes.heHE.ThalassanEpixas.greekname
 peMA.Ode1C21.melody = he.h.m8_en_US_goadedes.heHE.ThalassanEpixas.name
 peMA.Ode1C21.incipit = "Gentiles, applaud today…"
 peMA.Ode1C21.text = "Gentiles, applaud today, but unbelieving Jews, lament. * For Christ, the Giver of life, * has shattered the bars and gates of Hades. * He raised people who had died, * and by His word alone He cured diseases. * This is our God, who gives life to those who believe in His name."
@@ -162,12 +169,14 @@ peMA.Ode1C2T.text = "Mother of God, you are the only woman with room for her Cre
 
 peMA.Ode3C1H.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode3C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.greekname
 peMA.Ode3C1H.melody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.melody
 peMA.Ode3C1H.incipit = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.incipit
 peMA.Ode3C1H.text = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.text
 
 peMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode3C11.greekmelody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.greekname
 peMA.Ode3C11.melody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.name
 peMA.Ode3C11.incipit = "You opened within the Church…"
 peMA.Ode3C11.text = "You opened within the Church * the springs of vivifying water, O Christ. * Good Lord, You said, \"Whoever thirsts * and is willing, come now to me and drink.\""
@@ -186,12 +195,14 @@ peMA.Ode3C1T.text = "Innately Giver of Life, * born of the Virgin was the mercif
 
 peMA.Ode3C2H.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C2H.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode3C2H.greekmelody = he.h.m8_en_US_goadedes.heHE.EstereothiIKardiaMouEnKyrio.greekname
 peMA.Ode3C2H.melody = he.h.m8_en_US_goadedes.heHE.EstereothiIKardiaMouEnKyrio.melody
 peMA.Ode3C2H.incipit = he.h.m8_en_US_goadedes.heHE.EstereothiIKardiaMouEnKyrio.incipit
 peMA.Ode3C2H.text = he.h.m8_en_US_goadedes.heHE.EstereothiIKardiaMouEnKyrio.text
 
 peMA.Ode3C21.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C21.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode3C21.greekmelody = he.h.m8_en_US_goadedes.heHE.EstereothiIKardiaMouEnKyrio.greekname
 peMA.Ode3C21.melody = he.h.m8_en_US_goadedes.heHE.EstereothiIKardiaMouEnKyrio.name
 peMA.Ode3C21.incipit = "The Lord went up…"
 peMA.Ode3C21.text = "The Lord went up into the Temple about the middle * of the Feast of Booths, as it is written, * and He taught the Jewish people and said to them, * \"Do not judge by mere appearances.\""
@@ -227,23 +238,27 @@ peMA.Ode3C2T.incipit = "One of the Trinity…"
 peMA.Ode3C2T.text = "One of the Trinity, O Lord, You became incarnate * but did not alter Your divine essence, * being wholly God and fire, yet burning not * Your Mother's wholly inviolate womb."
 
 peMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 peMA.Ode3Kathisma1.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 peMA.Ode3Kathisma1.incipit = "About the middle of the feast…"
 peMA.Ode3Kathisma1.text = "About the middle of the feast, You went up and stood * in the Temple, and taught. Finally You said, * \"If any one thirst, let him come to Me and drink.\" * \"Whoever drinks this divine drink that I give will never thirst. * From his heart will My dogmas like rivers flow out of him. * Whoever believes in God the Father, who sent Me, * will truly be glorified together with Me by Him.\" * And we therefore sing to You: * Glory be to You, Christ God! * To us Your servants You poured out abundantly * the waters of Your love for humanity."
 
 peMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 peMA.Ode3Kathisma2.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 peMA.Ode3Kathisma2.incipit = "You pour out to the world…"
 peMA.Ode3Kathisma2.text = "You pour out to the world the water of life * and of wisdom, O Savior, and You invite * all people to draw the drink of salvation, O Master. * For indeed when a person adheres to the Law of God, * they extinguish the coals of deception in doing so; * also they will never thirst nor ever be lacking * their fill of Your grace divine, O heavenly King and Lord. * And therefore we glorify * Your mighty power, Christ our God, * and we pray that You send down abundantly * to us Your faithful servants forgiveness of sins."
 
 peMA.Ode4C1H.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode4C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.greekname
 peMA.Ode4C1H.melody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.melody
 peMA.Ode4C1H.incipit = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.incipit
 peMA.Ode4C1H.text = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.text
 
 peMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode4C11.greekmelody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.greekname
 peMA.Ode4C11.melody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.name
 peMA.Ode4C11.incipit = "When You broke…"
 peMA.Ode4C11.text = "When You broke the gates of death by Your strength, You made known * the ways of everlasting life, Savior, and You opened * gates to immortality, * for those who cry out to You: * Glory to Your strength, O Lord!"
@@ -268,12 +283,14 @@ peMA.Ode4C1T.text = "You distribute grace abundantly to your servants, * who pra
 
 peMA.Ode4C2H.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C2H.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode4C2H.greekmelody = he.h.m8_en_US_goadedes.heHE.OProfitisAvvakoum.greekname
 peMA.Ode4C2H.melody = he.h.m8_en_US_goadedes.heHE.OProfitisAvvakoum.melody
 peMA.Ode4C2H.incipit = he.h.m8_en_US_goadedes.heHE.OProfitisAvvakoum.incipit
 peMA.Ode4C2H.text = he.h.m8_en_US_goadedes.heHE.OProfitisAvvakoum.text
 
 peMA.Ode4C21.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C21.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode4C21.greekmelody = he.h.m8_en_US_goadedes.heHE.OProfitisAvvakoum.greekname
 peMA.Ode4C21.melody = he.h.m8_en_US_goadedes.heHE.OProfitisAvvakoum.name
 peMA.Ode4C21.incipit = "The Messiah has to come…"
 peMA.Ode4C21.text = "The Messiah has to come, and the Messiah is Christ. * O transgressors, why then do you not believe in Him? * Behold, He has come to you, and what He does bears witness to Him. * He turned the water into wine * and healed the Paralytic by His word."
@@ -316,12 +333,14 @@ peMA.Ode4C2T.text = "Virgin Mother, without limiting Him, God was contained * in
 
 peMA.Ode5C1H.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode5C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.greekname
 peMA.Ode5C1H.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.melody
 peMA.Ode5C1H.incipit = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.incipit
 peMA.Ode5C1H.text = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.text
 
 peMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode5C11.greekmelody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.greekname
 peMA.Ode5C11.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.name
 peMA.Ode5C11.incipit = "O godly-minded faithful…"
 peMA.Ode5C11.text = "O godly-minded faithful, we are at the midpoint today * between Pentecost and Pascha. * Let us strive for perfection of godly virtue eagerly."
@@ -340,12 +359,14 @@ peMA.Ode5C1T.text = "The Archangel's mind was unable to understand * Your ineffa
 
 peMA.Ode5C2H.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C2H.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode5C2H.greekmelody = he.h.m8_en_US_goadedes.heHE.KyrieOTheosImon.greekname
 peMA.Ode5C2H.melody = he.h.m8_en_US_goadedes.heHE.KyrieOTheosImon.melody
 peMA.Ode5C2H.incipit = he.h.m8_en_US_goadedes.heHE.KyrieOTheosImon.incipit
 peMA.Ode5C2H.text = he.h.m8_en_US_goadedes.heHE.KyrieOTheosImon.text
 
 peMA.Ode5C21.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C21.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode5C21.greekmelody = he.h.m8_en_US_goadedes.heHE.KyrieOTheosImon.greekname
 peMA.Ode5C21.melody = he.h.m8_en_US_goadedes.heHE.KyrieOTheosImon.name
 peMA.Ode5C21.incipit = "When You equipped…"
 peMA.Ode5C21.text = "When You equipped Your holy Apostles with miracles, * You magnified Your Disciples with marvelous signs, * Savior, and You glorified them throughout the world, * and You gave to them Your kingdom and rule."
@@ -376,12 +397,14 @@ peMA.Ode5C2T.text = "Mother of God, the holy table once prefigured you, * for in
 
 peMA.Ode6C1H.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode6C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.greekname
 peMA.Ode6C1H.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.melody
 peMA.Ode6C1H.incipit = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.incipit
 peMA.Ode6C1H.text = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.text
 
 peMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode6C11.greekmelody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.greekname
 peMA.Ode6C11.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.name
 peMA.Ode6C11.incipit = "Today we observe…"
 peMA.Ode6C11.text = "Today we observe the sacred feast of Mid-Pentecost. * It is illumined on one side * by the most divine light of holy Pascha, * on the other, it is aglow with grace of the Comforter."
@@ -400,12 +423,14 @@ peMA.Ode6C1T.text = "O only Theotokos, I pray you to be for me * an unassailable
 
 peMA.Ode6C2H.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C2H.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode6C2H.greekmelody = he.h.m8_en_US_goadedes.heHE.OsYdataThalassis.greekname
 peMA.Ode6C2H.melody = he.h.m8_en_US_goadedes.heHE.OsYdataThalassis.melody
 peMA.Ode6C2H.incipit = he.h.m8_en_US_goadedes.heHE.OsYdataThalassis.incipit
 peMA.Ode6C2H.text = he.h.m8_en_US_goadedes.heHE.OsYdataThalassis.text
 
 peMA.Ode6C21.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C21.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode6C21.greekmelody = he.h.m8_en_US_goadedes.heHE.OsYdataThalassis.greekname
 peMA.Ode6C21.melody = he.h.m8_en_US_goadedes.heHE.OsYdataThalassis.name
 peMA.Ode6C21.incipit = "O Lord who made…"
 peMA.Ode6C21.text = "O Lord who made and care for the universe, * You went to the Temple in Jerusalem * about the middle of the feast, O Jesus, * and taught the word of truth to the crowd of people, * as it is written by John."
@@ -462,12 +487,14 @@ peSY.lastline = ""
 
 peMA.Ode7C1H.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode7C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.greekname
 peMA.Ode7C1H.melody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.melody
 peMA.Ode7C1H.incipit = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.incipit
 peMA.Ode7C1H.text = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.text
 
 peMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode7C11.greekmelody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.greekname
 peMA.Ode7C11.melody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.name
 peMA.Ode7C11.incipit = "Savior, destroying…"
 peMA.Ode7C11.text = "Savior, destroying * the might of death by Your omnipotence, * You made known the path of life unto humankind; * and with gratitude we sing to You, * \"In the temple of Your holy glory, You are blessed, O Lord.\""
@@ -486,12 +513,14 @@ peMA.Ode7C1T.text = "Rejoice, O hallowed * and divine tabernacle of God Most Hig
 
 peMA.Ode7C2H.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C2H.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode7C2H.greekmelody = he.h.m8_en_US_goadedes.heHE.TonChaldaionIKaminos.greekname
 peMA.Ode7C2H.melody = he.h.m8_en_US_goadedes.heHE.TonChaldaionIKaminos.melody
 peMA.Ode7C2H.incipit = he.h.m8_en_US_goadedes.heHE.TonChaldaionIKaminos.incipit
 peMA.Ode7C2H.text = he.h.m8_en_US_goadedes.heHE.TonChaldaionIKaminos.text
 
 peMA.Ode7C21.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C21.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode7C21.greekmelody = he.h.m8_en_US_goadedes.heHE.TonChaldaionIKaminos.greekname
 peMA.Ode7C21.melody = he.h.m8_en_US_goadedes.heHE.TonChaldaionIKaminos.name
 peMA.Ode7C21.incipit = "As the Lord who gives…"
 peMA.Ode7C21.text = "As the Lord who gives rest to all and the wellspring of wonders, * You were physically tired and You willingly were thirsty. * O Jesus, who promise all the living water, You sat and asked for water to drink."
@@ -546,12 +575,14 @@ peMA.Ode7C2T.text = "In your womb you contained the boundless and infinite Logos
 
 peMA.Ode8C1H.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode8C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.greekname
 peMA.Ode8C1H.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.melody
 peMA.Ode8C1H.incipit = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.incipit
 peMA.Ode8C1H.text = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.text
 
 peMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode8C11.greekmelody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.greekname
 peMA.Ode8C11.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.name
 peMA.Ode8C11.incipit = "You rose from the sepulcher…"
 peMA.Ode8C11.text = "You rose from the sepulcher, O Lord, with the Divinity's glory adorning You, * and You, O Master, were beautiful. * You appeared to Your Apostles and You promised them that You would send * the Spirit's power to those who cry out, * \"Bless the Lord and praise Him, all you works of the Lord.\""
@@ -576,12 +607,14 @@ peMA.Ode8C1T.text = "A scepter and ruler from the tribe of Judah clearly have de
 
 peMA.Ode8C2H.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C2H.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode8C2H.greekmelody = he.h.m8_en_US_goadedes.heHE.AngeloiKaiOuranoi.greekname
 peMA.Ode8C2H.melody = he.h.m8_en_US_goadedes.heHE.AngeloiKaiOuranoi.melody
 peMA.Ode8C2H.incipit = he.h.m8_en_US_goadedes.heHE.AngeloiKaiOuranoi.incipit
 peMA.Ode8C2H.text = he.h.m8_en_US_goadedes.heHE.AngeloiKaiOuranoi.text
 
 peMA.Ode8C21.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C21.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode8C21.greekmelody = he.h.m8_en_US_goadedes.heHE.AngeloiKaiOuranoi.greekname
 peMA.Ode8C21.melody = he.h.m8_en_US_goadedes.heHE.AngeloiKaiOuranoi.name
 peMA.Ode8C21.incipit = "All you peoples…"
 peMA.Ode8C21.text = "All you peoples, come and see Him, who is praised as King upon His glorious throne, * being blasphemed by people who transgress the Law. * And seeing this, extol Him, whom the Prophets had foretold was the Messiah."
@@ -636,12 +669,14 @@ peMA.Ode8C2T.text = "Tell us: How did you give birth to Him who shone forth from
 
 peMA.Ode9C1H.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode9C1H.greekmelody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.greekname
 peMA.Ode9C1H.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.melody
 peMA.Ode9C1H.incipit = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.incipit
 peMA.Ode9C1H.text = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.text
 
 peMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode9C11.greekmelody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.greekname
 peMA.Ode9C11.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.name
 peMA.Ode9C11.incipit = "We have learned…"
 peMA.Ode9C11.text = "We have learned from Christ our Teacher a new and holy way of living. * Let us be especially zealous to persevere and preserve it to the end, * so that we may experience the Holy Spirit when He comes to us."
@@ -666,12 +701,14 @@ peMA.Ode9C1T.text = "Root, source, and cause of incorruption are You, O Virgin; 
 
 peMA.Ode9C2H.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C2H.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode9C2H.greekmelody = he.h.m8_en_US_goadedes.heHE.AllotrionTonMiteron.greekname
 peMA.Ode9C2H.melody = he.h.m8_en_US_goadedes.heHE.AllotrionTonMiteron.melody
 peMA.Ode9C2H.incipit = he.h.m8_en_US_goadedes.heHE.AllotrionTonMiteron.incipit
 peMA.Ode9C2H.text = he.h.m8_en_US_goadedes.heHE.AllotrionTonMiteron.text
 
 peMA.Ode9C21.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C21.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode9C21.greekmelody = he.h.m8_en_US_goadedes.heHE.AllotrionTonMiteron.greekname
 peMA.Ode9C21.melody = he.h.m8_en_US_goadedes.heHE.AllotrionTonMiteron.name
 peMA.Ode9C21.incipit = "About the middle…"
 peMA.Ode9C21.text = "About the middle of the Jews' feast of Tabernacles, * O Savior, You went up into Your holy Temple. * As You taught all the people, the Jews marveled at it, saying, * \"This man has never studied, so how * is it that he has learning?\" they asked."
@@ -725,21 +762,25 @@ peMA.Ode9C2T.incipit = "Within your womb…"
 peMA.Ode9C2T.text = "Within your womb, you contained Christ, O Virgin Mother. * He is one of the Trinity, Giver of life, and Savior. * All creation extols Him. In His presence hosts in heaven tremble. * O Lady blessed by all, implore Him for us, * entreating Him to save our souls."
 
 peMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.greekname
 peMA.Exaposteilarion1.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
 peMA.Exaposteilarion1.incipit = "O Lord, You have the chalice…"
 peMA.Exaposteilarion1.text = "O Lord, You have the chalice * that never empties of Your gifts. * Please let me draw from Your water, * unto forgiveness of my sins, * for I am very thirsty, * only merciful compassionate Savior."
 
 peMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Lauds1.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 peMA.Lauds1.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 peMA.Lauds1.incipit = "When the Father's personified…"
 peMA.Lauds1.text = "When the Father's personified * Wisdom, Power, and Radiance, * the eternal Logos, the very Son of God, * went to the Temple and there appeared * in flesh and began to teach * the ungrateful and severe * Jewish populace at the feast, * they were marveling * at the wealth of His knowledge, and they cried out, \"How does this man have such learning, * since he was not taught by anyone?\""
 
 peMA.Lauds2.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Lauds2.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 peMA.Lauds2.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 peMA.Lauds2.incipit = "The Messiah and Lord…"
 peMA.Lauds2.text = "The Messiah and Lord of all * stopped the mouths of the Jewish scribes, * and He reprimanded the Jews who did not keep * the Law, and said, \"Do not judge by mere appearances, but with just * judgment. For example, I * healed a man who was paralyzed, on the Sabbath day. * Therefore I am the Lord of both the Sabbath and the Law. O unjust people, * why seek to kill Me who raised the dead?\""
 
 peMA.Lauds3.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Lauds3.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 peMA.Lauds3.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 peMA.Lauds3.incipit = "The severe and iniquitous…"
 peMA.Lauds3.text = "The severe and iniquitous * and ungrateful community * of the Jews were ready to stone Moses of old. * They killed Isaiah by sawing him * in two with a wooden saw. * They imprisoned in a pit * Jeremiah the holy sage. * Finally the Lord * they had crucified, and they shouted, \"You who would destroy the holy Temple, * we will believe if you save yourself.\""

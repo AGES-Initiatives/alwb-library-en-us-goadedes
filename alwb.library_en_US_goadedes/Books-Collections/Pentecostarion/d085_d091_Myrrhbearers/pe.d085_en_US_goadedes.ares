@@ -120,12 +120,14 @@ peMA.C1.verse = prayers_en_US_goadedes.pr.verse_God.text
 
 peMA.Ode1C1H.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C1H.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode1C1H.greekmelody = he.h.m2_en_US_goadedes.heHE.TinMoseosOdin.greekname
 peMA.Ode1C1H.melody = he.h.m2_en_US_goadedes.heHE.TinMoseosOdin.melody
 peMA.Ode1C1H.incipit = he.h.m2_en_US_goadedes.heHE.TinMoseosOdin.incipit
 peMA.Ode1C1H.text = he.h.m2_en_US_goadedes.heHE.TinMoseosOdin.text
 
 peMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode1C11.greekmelody = he.h.m2_en_US_goadedes.heHE.TinMoseosOdin.greekname
 peMA.Ode1C11.melody = he.h.m2_en_US_goadedes.heHE.TinMoseosOdin.name
 peMA.Ode1C11.incipit = "…"
 peMA.Ode1C11.text = ""
@@ -156,6 +158,7 @@ peMA.Ode1C15.text = ""
 
 peMA.Ode1C1F1.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C1F1.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode1C1F1.greekmelody = he.h.m2_en_US_goadedes.heHE.TinMoseosOdin.greekname
 peMA.Ode1C1F1.melody = he.h.m2_en_US_goadedes.heHE.TinMoseosOdin.name
 peMA.Ode1C1F1.incipit = "Joseph took down…"
 peMA.Ode1C1F1.text = "Joseph took down Your body, and he wrapped it in a linen shroud, * and he laid You in his own new sepulcher, O Christ, our salvation. * Then You, being God, resurrected the dead."
@@ -180,12 +183,14 @@ peMA.Ode1C1T.text = "Blessed Virgin, in your holy womb you reversed the ancient 
 
 peMA.Ode3C1H.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C1H.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode3C1H.greekmelody = he.h.m2_en_US_goadedes.heHE.SteirothentaMouTonNoun.greekname
 peMA.Ode3C1H.melody = he.h.m2_en_US_goadedes.heHE.SteirothentaMouTonNoun.melody
 peMA.Ode3C1H.incipit = he.h.m2_en_US_goadedes.heHE.SteirothentaMouTonNoun.incipit
 peMA.Ode3C1H.text = he.h.m2_en_US_goadedes.heHE.SteirothentaMouTonNoun.text
 
 peMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode3C11.greekmelody = he.h.m2_en_US_goadedes.heHE.SteirothentaMouTonNoun.greekname
 peMA.Ode3C11.melody = he.h.m2_en_US_goadedes.heHE.SteirothentaMouTonNoun.name
 peMA.Ode3C11.incipit = "You, O Jesus, with Your hands…"
 peMA.Ode3C11.text = "You, O Jesus, with Your hands * that were nailed upon the Cross, gathered all nations * out of error and deceit, * and You called them to the knowledge of Your truth, O Lord. "
@@ -228,6 +233,7 @@ peMA.Ode3C17.text = ""
 
 peMA.Ode3C1F1.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C1F1.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode3C1F1.greekmelody = he.h.m2_en_US_goadedes.heHE.SteirothentaMouTonNoun.greekname
 peMA.Ode3C1F1.melody = he.h.m2_en_US_goadedes.heHE.SteirothentaMouTonNoun.name
 peMA.Ode3C1F1.incipit = "Noble Joseph, who held God…"
 peMA.Ode3C1F1.text = "Noble Joseph, who held God, * come and stand with us and shout that the Redeemer * has arisen, Jesus Christ * who raised Adam out of Hades in His tender love."
@@ -251,6 +257,7 @@ peMA.Ode3C1T.incipit = "Holy Virgin, you are blessed…"
 peMA.Ode3C1T.text = "Holy Virgin, you are blessed, * being born of Jesse's root. From you has blossomed * rod and flower in the flesh, * namely Christ, who was incarnate to redeem us all."
 
 peMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode3Kathisma1.greekmelody = he.a.m2_en_US_goadedes.heAU.TaAnoZiton.greekname
 peMA.Ode3Kathisma1.melody = he.a.m2_en_US_goadedes.heAU.TaAnoZiton.name
 peMA.Ode3Kathisma1.incipit = "…"
 peMA.Ode3Kathisma1.text = ""
@@ -262,12 +269,14 @@ peMA.Ode3Kathisma2.text = oc.m2.d1_en_US_goadedes.ocMA.Kathisma22.text
 
 peMA.Ode4C1H.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C1H.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode4C1H.greekmelody = he.h.m2_en_US_goadedes.heHE.TinEkParthenou.greekname
 peMA.Ode4C1H.melody = he.h.m2_en_US_goadedes.heHE.TinEkParthenou.melody
 peMA.Ode4C1H.incipit = he.h.m2_en_US_goadedes.heHE.TinEkParthenou.incipit
 peMA.Ode4C1H.text = he.h.m2_en_US_goadedes.heHE.TinEkParthenou.text
 
 peMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode4C11.greekmelody = he.h.m2_en_US_goadedes.heHE.TinEkParthenou.greekname
 peMA.Ode4C11.melody = he.h.m2_en_US_goadedes.heHE.TinEkParthenou.name
 peMA.Ode4C11.incipit = "…"
 peMA.Ode4C11.text = ""
@@ -310,6 +319,7 @@ peMA.Ode4C17.text = ""
 
 peMA.Ode4C1F1.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C1F1.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode4C1F1.greekmelody = he.h.m2_en_US_goadedes.heHE.TinEkParthenou.greekname
 peMA.Ode4C1F1.melody = he.h.m2_en_US_goadedes.heHE.TinEkParthenou.name
 peMA.Ode4C1F1.incipit = "When You had risen…"
 peMA.Ode4C1F1.text = "When You had risen, You said, \"Rejoice!\" to the Myrrh-bearing Women, * who had come to Your tomb. * To the Apostles You said, \"Proclaim My resurrection.\" * Good Lord, undo the bonds of my many transgressions, * I pray You, who can do whatever You will."
@@ -334,12 +344,14 @@ peMA.Ode4C1T.text = "O virgin Mother immaculate, who gave birth without labor, *
 
 peMA.Ode5C1H.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C1H.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode5C1H.greekmelody = he.h.m2_en_US_goadedes.heHE.TinAchlynTisPsychisMou.greekname
 peMA.Ode5C1H.melody = he.h.m2_en_US_goadedes.heHE.TinAchlynTisPsychisMou.melody
 peMA.Ode5C1H.incipit = he.h.m2_en_US_goadedes.heHE.TinAchlynTisPsychisMou.incipit
 peMA.Ode5C1H.text = he.h.m2_en_US_goadedes.heHE.TinAchlynTisPsychisMou.text
 
 peMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode5C11.greekmelody = he.h.m2_en_US_goadedes.heHE.TinAchlynTisPsychisMou.greekname
 peMA.Ode5C11.melody = he.h.m2_en_US_goadedes.heHE.TinAchlynTisPsychisMou.name
 peMA.Ode5C11.incipit = "…"
 peMA.Ode5C11.text = ""
@@ -382,6 +394,7 @@ peMA.Ode5C17.text = ""
 
 peMA.Ode5C1F1.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C1F1.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode5C1F1.greekmelody = he.h.m2_en_US_goadedes.heHE.TinAchlynTisPsychisMou.greekname
 peMA.Ode5C1F1.melody = he.h.m2_en_US_goadedes.heHE.TinAchlynTisPsychisMou.name
 peMA.Ode5C1F1.incipit = "We keep the memory…"
 peMA.Ode5C1F1.text = "We keep the memory of the pious Myrrh-bearing Women * and all Your Disciples, as we celebrate Your Resurrection, * and we sing Your praise, O Christ."
@@ -406,12 +419,14 @@ peMA.Ode5C1T.text = "We believers extol you who gave birth, transcending nature,
 
 peMA.Ode6C1H.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C1H.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode6C1H.greekmelody = he.h.m2_en_US_goadedes.heHE.VythoAmartimaton.greekname
 peMA.Ode6C1H.melody = he.h.m2_en_US_goadedes.heHE.VythoAmartimaton.melody
 peMA.Ode6C1H.incipit = he.h.m2_en_US_goadedes.heHE.VythoAmartimaton.incipit
 peMA.Ode6C1H.text = he.h.m2_en_US_goadedes.heHE.VythoAmartimaton.text
 
 peMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode6C11.greekmelody = he.h.m2_en_US_goadedes.heHE.VythoAmartimaton.greekname
 peMA.Ode6C11.melody = he.h.m2_en_US_goadedes.heHE.VythoAmartimaton.name
 peMA.Ode6C11.incipit = "…"
 peMA.Ode6C11.text = ""
@@ -436,6 +451,7 @@ peMA.Ode6C14.text = ""
 
 peMA.Ode6C1F1.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C1F1.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode6C1F1.greekmelody = he.h.m2_en_US_goadedes.heHE.VythoAmartimaton.greekname
 peMA.Ode6C1F1.melody = he.h.m2_en_US_goadedes.heHE.VythoAmartimaton.name
 peMA.Ode6C1F1.incipit = "Respected Joseph…"
 peMA.Ode6C1F1.text = "Respected Joseph wrapped You in linen cloths, O Christ, * and with spices bound the temple of Your body, * which according to Your word had been destroyed, * laid it in the sepulcher, and rolled a stone against the door."
@@ -480,12 +496,14 @@ peSY.lastline = ""
 
 peMA.Ode7C1H.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C1H.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode7C1H.greekmelody = he.h.m2_en_US_goadedes.heHE.TaCherouvimMimoumenoi.greekname
 peMA.Ode7C1H.melody = he.h.m2_en_US_goadedes.heHE.TaCherouvimMimoumenoi.melody
 peMA.Ode7C1H.incipit = he.h.m2_en_US_goadedes.heHE.TaCherouvimMimoumenoi.incipit
 peMA.Ode7C1H.text = he.h.m2_en_US_goadedes.heHE.TaCherouvimMimoumenoi.text
 
 peMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode7C11.greekmelody = he.h.m2_en_US_goadedes.heHE.TaCherouvimMimoumenoi.greekname
 peMA.Ode7C11.melody = he.h.m2_en_US_goadedes.heHE.TaCherouvimMimoumenoi.name
 peMA.Ode7C11.incipit = "…"
 peMA.Ode7C11.text = ""
@@ -510,6 +528,7 @@ peMA.Ode7C14.text = ""
 
 peMA.Ode7C1F1.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C1F1.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode7C1F1.greekmelody = he.h.m2_en_US_goadedes.heHE.TaCherouvimMimoumenoi.greekname
 peMA.Ode7C1F1.melody = he.h.m2_en_US_goadedes.heHE.TaCherouvimMimoumenoi.name
 peMA.Ode7C1F1.incipit = "The guard of soldiers…"
 peMA.Ode7C1F1.text = "The guard of soldiers who became like dead men should explain it. * They did not see Him stolen, * and you know nothing at all. * For although they did not see Him risen or witness it, * how could they conclude that He was stolen from the tomb? * At least be convinced by the sepulcher's great stone and the burial shroud of Christ."
@@ -534,12 +553,14 @@ peMA.Ode7C1T.text = "O Virgin, how did you contain in your womb as an infant * t
 
 peMA.Ode8C1H.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C1H.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode8C1H.greekmelody = he.h.m2_en_US_goadedes.heHE.TonEnTiVatoMosi.greekname
 peMA.Ode8C1H.melody = he.h.m2_en_US_goadedes.heHE.TonEnTiVatoMosi.melody
 peMA.Ode8C1H.incipit = he.h.m2_en_US_goadedes.heHE.TonEnTiVatoMosi.incipit
 peMA.Ode8C1H.text = he.h.m2_en_US_goadedes.heHE.TonEnTiVatoMosi.text
 
 peMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode8C11.greekmelody = he.h.m2_en_US_goadedes.heHE.TonEnTiVatoMosi.greekname
 peMA.Ode8C11.melody = he.h.m2_en_US_goadedes.heHE.TonEnTiVatoMosi.name
 peMA.Ode8C11.incipit = "…"
 peMA.Ode8C11.text = ""
@@ -582,6 +603,7 @@ peMA.Ode8C17.text = ""
 
 peMA.Ode8C1F1.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C1F1.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode8C1F1.greekmelody = he.h.m2_en_US_goadedes.heHE.TonEnTiVatoMosi.greekname
 peMA.Ode8C1F1.melody = he.h.m2_en_US_goadedes.heHE.TonEnTiVatoMosi.name
 peMA.Ode8C1F1.incipit = "The very stone…"
 peMA.Ode8C1F1.text = "The very stone and the seals that you placed on it cry out; * you had a guard of soldiers that you set to watch the tomb, * and all are bearing witness * that Christ has risen indeed and lives unto the ages."
@@ -606,12 +628,14 @@ peMA.Ode8C1T.text = "The living bread was compounded with our composition * unco
 
 peMA.Ode9C1H.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C1H.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode9C1H.greekmelody = he.h.m2_en_US_goadedes.heHE.TinYperfyosSarki.greekname
 peMA.Ode9C1H.melody = he.h.m2_en_US_goadedes.heHE.TinYperfyosSarki.melody
 peMA.Ode9C1H.incipit = he.h.m2_en_US_goadedes.heHE.TinYperfyosSarki.incipit
 peMA.Ode9C1H.text = he.h.m2_en_US_goadedes.heHE.TinYperfyosSarki.text
 
 peMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode9C11.greekmelody = he.h.m2_en_US_goadedes.heHE.TinYperfyosSarki.greekname
 peMA.Ode9C11.melody = he.h.m2_en_US_goadedes.heHE.TinYperfyosSarki.name
 peMA.Ode9C11.incipit = "…"
 peMA.Ode9C11.text = ""
@@ -660,6 +684,7 @@ peMA.Ode9C18.text = ""
 
 peMA.Ode9C1F1.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C1F1.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Ode9C1F1.greekmelody = he.h.m2_en_US_goadedes.heHE.TinYperfyosSarki.greekname
 peMA.Ode9C1F1.melody = he.h.m2_en_US_goadedes.heHE.TinYperfyosSarki.name
 peMA.Ode9C1F1.incipit = "Let us praise…"
 peMA.Ode9C1F1.text = "Let us praise all who proclaimed the resurrection of Christ, * yes, the Myrrh-bearing Women, the Disciples of the Lord, * and Joseph the respected member of the council as well."

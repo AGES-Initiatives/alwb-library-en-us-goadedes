@@ -14,6 +14,7 @@ peHO.note2 = ""
 peDA.dismissal = dismissals_en_US_goadedes.dis00.pentecost
 
 peVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode1
+peVE.Stichera01.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname
 peVE.Stichera01.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 peVE.Stichera01.incipit = "…"
 peVE.Stichera01.text = ""
@@ -34,6 +35,7 @@ peVE.SticGlory.incipit = pe.d120_en_US_goadedes.peVE.Stichera01.incipit
 peVE.SticGlory.text = pe.d120_en_US_goadedes.peVE.Stichera01.text
 
 peVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
+peVE.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
 peVE.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 peVE.Aposticha1.incipit = "…"
 peVE.Aposticha1.text = ""
@@ -54,16 +56,19 @@ peVE.AposGlory.incipit = pe.d120_en_US_goadedes.peVE.Stichera02.incipit
 peVE.AposGlory.text = pe.d120_en_US_goadedes.peVE.Stichera02.text
 
 peMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Kathisma11.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 peMA.Kathisma11.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 peMA.Kathisma11.incipit = "…"
 peMA.Kathisma11.text = ""
 
 peMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Kathisma21.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 peMA.Kathisma21.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = ""
 
 peMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
 peMA.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 peMA.Aposticha1.incipit = "…"
 peMA.Aposticha1.text = ""

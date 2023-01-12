@@ -64,11 +64,13 @@ peVE.AposGlory.incipit = pe.d078_en_US_goadedes.peVE.AposGlory.incipit
 peVE.AposGlory.text = pe.d078_en_US_goadedes.peVE.AposGlory.text
 
 peMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Kathisma11.greekmelody = oc.m1.d1_en_US_goadedes.ocMA.Kathisma11.greekmelody
 peMA.Kathisma11.melody = oc.m1.d1_en_US_goadedes.ocMA.Kathisma11.melody
 peMA.Kathisma11.incipit = oc.m1.d1_en_US_goadedes.ocMA.Kathisma11.incipit
 peMA.Kathisma11.text = oc.m1.d1_en_US_goadedes.ocMA.Kathisma11.text
 
 peMA.Kathisma12.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Kathisma12.greekmelody = oc.m1.d1_en_US_goadedes.ocMA.Kathisma21.greekmelody
 peMA.Kathisma12.melody = oc.m1.d1_en_US_goadedes.ocMA.Kathisma21.melody
 peMA.Kathisma12.incipit = oc.m1.d1_en_US_goadedes.ocMA.Kathisma21.incipit
 peMA.Kathisma12.text = oc.m1.d1_en_US_goadedes.ocMA.Kathisma21.text
@@ -79,6 +81,7 @@ peMA.Kathisma1T.incipit = oc.m1.d7_en_US_goadedes.ocMA.Kathisma14.incipit
 peMA.Kathisma1T.text = oc.m1.d7_en_US_goadedes.ocMA.Kathisma14.text
 
 peMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Kathisma21.greekmelody = pe.d078_en_US_goadedes.peMA.Kathisma11.greekmelody
 peMA.Kathisma21.melody = pe.d078_en_US_goadedes.peMA.Kathisma11.melody
 peMA.Kathisma21.incipit = pe.d078_en_US_goadedes.peMA.Kathisma11.incipit
 peMA.Kathisma21.text = pe.d078_en_US_goadedes.peMA.Kathisma11.text

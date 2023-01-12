@@ -108,16 +108,19 @@ peVE.Apolytikion1.incipit = "…"
 peVE.Apolytikion1.text = ""
 
 peMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Kathisma11.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 peMA.Kathisma11.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 peMA.Kathisma11.incipit = "…"
 peMA.Kathisma11.text = ""
 
 peMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Kathisma21.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 peMA.Kathisma21.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = ""
 
 peMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Kathisma31.greekmelody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.greekname
 peMA.Kathisma31.melody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.name
 peMA.Kathisma31.incipit = "…"
 peMA.Kathisma31.text = ""
@@ -162,12 +165,14 @@ peMA.C2.acrostic.line4.text = "inherent Godhead, and grace to the translator."
 
 peMA.Ode1C1H.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C1H.mode = miscellanea_en_US_goadedes.misc.Mode7
+peMA.Ode1C1H.greekmelody = he.h.m7_en_US_goadedes.heHE.PontoEkalypse.greekname
 peMA.Ode1C1H.melody = he.h.m7_en_US_goadedes.heHE.PontoEkalypse.melody
 peMA.Ode1C1H.incipit = he.h.m7_en_US_goadedes.heHE.PontoEkalypse.incipit
 peMA.Ode1C1H.text = he.h.m7_en_US_goadedes.heHE.PontoEkalypse.text
 
 peMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode7
+peMA.Ode1C11.greekmelody = he.h.m7_en_US_goadedes.heHE.PontoEkalypse.greekname
 peMA.Ode1C11.melody = he.h.m7_en_US_goadedes.heHE.PontoEkalypse.name
 peMA.Ode1C11.incipit = "Christ, You have done…"
 peMA.Ode1C11.text = "Christ, You have done what You once promised Your Disciples, * for You sent out the Paraclete Spirit and You shone * light into the world, O Lord who love mankind."
@@ -180,6 +185,7 @@ peMA.Ode1C12.text = "That which of old was proclaimed in the Law and Prophets * 
 
 peMA.Ode1C2H.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C2H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode1C2H.greekmelody = he.h.m4_en_US_goadedes.heHE.TheioKalyftheis.greekname
 peMA.Ode1C2H.melody = he.h.m4_en_US_goadedes.heHE.TheioKalyftheis.melody
 peMA.Ode1C2H.incipit = he.h.m4_en_US_goadedes.heHE.TheioKalyftheis.incipit
 peMA.Ode1C2H.text = he.h.m4_en_US_goadedes.heHE.TheioKalyftheis.text
@@ -191,6 +197,7 @@ peMA.Ode1C2H5.text = he.h.m4_en_US_goadedes.heHE.TheioKalyftheis5.text
 
 peMA.Ode1C21.ode = miscellanea_en_US_goadedes.misc.Ode1
 peMA.Ode1C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode1C21.greekmelody = he.h.m4_en_US_goadedes.heHE.TheioKalyftheis.greekname
 peMA.Ode1C21.melody = he.h.m4_en_US_goadedes.heHE.TheioKalyftheis.name
 peMA.Ode1C21.incipit = "So said the divine mouth…"
 peMA.Ode1C21.text = "So said the divine mouth of Christ to His Disciples, * \"O friends, when I am seated on the throne in heaven * Next to my Father, I will pour out abundant grace * Of the Spirit into souls who long for it to shine. * From My love you shall thus never be separated.\""
@@ -213,18 +220,21 @@ peMA.Ode1C225.text = "Oh, how He strengthens hearts to be calm and untroubled!"
 
 peMA.Ode3C1H.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C1H.mode = miscellanea_en_US_goadedes.misc.Mode7
+peMA.Ode3C1H.greekmelody = he.h.m7_en_US_goadedes.heHE.TinExYpsousDynamin.greekname
 peMA.Ode3C1H.melody = he.h.m7_en_US_goadedes.heHE.TinExYpsousDynamin.melody
 peMA.Ode3C1H.incipit = he.h.m7_en_US_goadedes.heHE.TinExYpsousDynamin.incipit
 peMA.Ode3C1H.text = he.h.m7_en_US_goadedes.heHE.TinExYpsousDynamin.text
 
 peMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode7
+peMA.Ode3C11.greekmelody = he.h.m7_en_US_goadedes.heHE.TinExYpsousDynamin.greekname
 peMA.Ode3C11.melody = he.h.m7_en_US_goadedes.heHE.TinExYpsousDynamin.name
 peMA.Ode3C11.incipit = "When the grace and power…"
 peMA.Ode3C11.text = "When the grace and power of the Holy Spirit came, * it united in holy concord * the language that was divided of old * when men badly agreed. It gives understanding * and knowledge of the Trinity to the believers, * in which we are confirmed in faith."
 
 peMA.Ode3C2H.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C2H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode3C2H.greekmelody = he.h.m4_en_US_goadedes.heHE.ErrixeGastros.greekname
 peMA.Ode3C2H.melody = he.h.m4_en_US_goadedes.heHE.ErrixeGastros.melody
 peMA.Ode3C2H.incipit = he.h.m4_en_US_goadedes.heHE.ErrixeGastros.incipit
 peMA.Ode3C2H.text = he.h.m4_en_US_goadedes.heHE.ErrixeGastros.text
@@ -236,6 +246,7 @@ peMA.Ode3C2H5.text = he.h.m4_en_US_goadedes.heHE.ErrixeGastros5.text
 
 peMA.Ode3C21.ode = miscellanea_en_US_goadedes.misc.Ode3
 peMA.Ode3C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode3C21.greekmelody = he.h.m4_en_US_goadedes.heHE.ErrixeGastros.greekname
 peMA.Ode3C21.melody = he.h.m4_en_US_goadedes.heHE.ErrixeGastros.name
 peMA.Ode3C21.incipit = "Truly incomprehensible…"
 peMA.Ode3C21.text = "Truly incomprehensible is the most divine * Holy Spirit's grace! It made unlettered fishermen * Erudite speakers, who by their brilliant preaching * Stifled many sophists, and who drew out countless * People from the deep and dark night of ignorance."
@@ -257,18 +268,21 @@ peMA.Ode3C224.text = "The consubstantial Beacon of God the Father's"
 peMA.Ode3C225.text = "Authority through the Son, to the nations in Zion."
 
 peMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.greekname
 peMA.Ode3Kathisma1.melody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.name
 peMA.Ode3Kathisma1.incipit = "The Savior's friends…"
 peMA.Ode3Kathisma1.text = "The Savior's friends, who loved Him very much, were filled with joy, * receiving courage, they who formerly were frightened, * on this day, when the Holy Spirit from on high descended * upon the Disciples' house in the upper room, * with each speaking to the people in different tongues. * For the tongues that appeared as fire were distributed to them, * and they were not consumed by the flames, * but instead were refreshed by them."
 
 peMA.Ode4C1H.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C1H.mode = miscellanea_en_US_goadedes.misc.Mode7
+peMA.Ode4C1H.greekmelody = he.h.m7_en_US_goadedes.heHE.KatanoonOProfitis.greekname
 peMA.Ode4C1H.melody = he.h.m7_en_US_goadedes.heHE.KatanoonOProfitis.melody
 peMA.Ode4C1H.incipit = he.h.m7_en_US_goadedes.heHE.KatanoonOProfitis.incipit
 peMA.Ode4C1H.text = he.h.m7_en_US_goadedes.heHE.KatanoonOProfitis.text
 
 peMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode7
+peMA.Ode4C11.greekmelody = he.h.m7_en_US_goadedes.heHE.KatanoonOProfitis.greekname
 peMA.Ode4C11.melody = he.h.m7_en_US_goadedes.heHE.KatanoonOProfitis.name
 peMA.Ode4C11.incipit = "Today the Comforter Spirit…"
 peMA.Ode4C11.text = "Today the Comforter Spirit, who through the Law had been declared * and who spoke in the Prophets * of old to the imperfect, is recognized as true God * by those were eyewitnesses and ministers of the Word."
@@ -281,6 +295,7 @@ peMA.Ode4C12.text = "Bearing the sign of the Godhead, on the Apostles as if fire
 
 peMA.Ode4C2H.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C2H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode4C2H.greekmelody = he.h.m4_en_US_goadedes.heHE.AnaxAnakton.greekname
 peMA.Ode4C2H.melody = he.h.m4_en_US_goadedes.heHE.AnaxAnakton.melody
 peMA.Ode4C2H.incipit = he.h.m4_en_US_goadedes.heHE.AnaxAnakton.incipit
 peMA.Ode4C2H.text = he.h.m4_en_US_goadedes.heHE.AnaxAnakton.text
@@ -292,6 +307,7 @@ peMA.Ode4C2H5.text = he.h.m4_en_US_goadedes.heHE.AnaxAnakton5.text
 
 peMA.Ode4C21.ode = miscellanea_en_US_goadedes.misc.Ode4
 peMA.Ode4C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode4C21.greekmelody = he.h.m4_en_US_goadedes.heHE.AnaxAnakton.greekname
 peMA.Ode4C21.melody = he.h.m4_en_US_goadedes.heHE.AnaxAnakton.name
 peMA.Ode4C21.incipit = "Regarding the divine bath…"
 peMA.Ode4C21.text = "Regarding the divine bath of regeneration, * At night You spoke to one of composite nature, * Divine Logos; then on the Cross You poured out for me * Vital water from Your most pure side that was pierced. * On this day You complete it with the Spirit's fire."
@@ -325,18 +341,21 @@ peMA.Ode4C235.text = "He richly supplies all the grace of the Spirit."
 
 peMA.Ode5C1H.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C1H.mode = miscellanea_en_US_goadedes.misc.Mode7
+peMA.Ode5C1H.greekmelody = he.h.m7_en_US_goadedes.heHE.ToDiaTonFovonSou.greekname
 peMA.Ode5C1H.melody = he.h.m7_en_US_goadedes.heHE.ToDiaTonFovonSou.melody
 peMA.Ode5C1H.incipit = he.h.m7_en_US_goadedes.heHE.ToDiaTonFovonSou.incipit
 peMA.Ode5C1H.text = he.h.m7_en_US_goadedes.heHE.ToDiaTonFovonSou.text
 
 peMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode7
+peMA.Ode5C11.greekmelody = he.h.m7_en_US_goadedes.heHE.ToDiaTonFovonSou.greekname
 peMA.Ode5C11.melody = he.h.m7_en_US_goadedes.heHE.ToDiaTonFovonSou.name
 peMA.Ode5C11.incipit = "That which on this day…"
 peMA.Ode5C11.text = "That which on this day has come down is strength divine: * the Spirit who is good, the Spirit of the wisdom of God, * the Spirit who proceeds from the Father * and is revealed to us believers through the Son. * To those in whom He dwells He imparts the holiness, * in which He is perceived by them to have it naturally."
 
 peMA.Ode5C2H.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C2H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode5C2H.greekmelody = he.h.m4_en_US_goadedes.heHE.LytirionKatharsin.greekname
 peMA.Ode5C2H.melody = he.h.m4_en_US_goadedes.heHE.LytirionKatharsin.melody
 peMA.Ode5C2H.incipit = he.h.m4_en_US_goadedes.heHE.LytirionKatharsin.incipit
 peMA.Ode5C2H.text = he.h.m4_en_US_goadedes.heHE.LytirionKatharsin.text
@@ -348,6 +367,7 @@ peMA.Ode5C2H5.text = he.h.m4_en_US_goadedes.heHE.LytirionKatharsin5.text
 
 peMA.Ode5C21.ode = miscellanea_en_US_goadedes.misc.Ode5
 peMA.Ode5C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode5C21.greekmelody = he.h.m4_en_US_goadedes.heHE.LytirionKatharsin.greekname
 peMA.Ode5C21.melody = he.h.m4_en_US_goadedes.heHE.LytirionKatharsin.name
 peMA.Ode5C21.incipit = "Essentially one…"
 peMA.Ode5C21.text = "Essentially one with the Father, the Spirit * Readily not servilely, as He was pleased, descended, * Supplying, by the tongues, the Apostles with knowledge. * By this He confirmed the vital words and the promise * Of the Savior, being himself the Father's power."
@@ -370,18 +390,21 @@ peMA.Ode5C225.text = "Of His coequal and consubstantial Spirit come."
 
 peMA.Ode6C1H.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C1H.mode = miscellanea_en_US_goadedes.misc.Mode7
+peMA.Ode6C1H.greekmelody = he.h.m7_en_US_goadedes.heHE.NaftionToSalo.greekname
 peMA.Ode6C1H.melody = he.h.m7_en_US_goadedes.heHE.NaftionToSalo.melody
 peMA.Ode6C1H.incipit = he.h.m7_en_US_goadedes.heHE.NaftionToSalo.incipit
 peMA.Ode6C1H.text = he.h.m7_en_US_goadedes.heHE.NaftionToSalo.text
 
 peMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode7
+peMA.Ode6C11.greekmelody = he.h.m7_en_US_goadedes.heHE.NaftionToSalo.greekname
 peMA.Ode6C11.melody = he.h.m7_en_US_goadedes.heHE.NaftionToSalo.name
 peMA.Ode6C11.incipit = "Even as You promised…"
 peMA.Ode6C11.text = "Even as You promised, You have richly poured out Your Spirit * on all flesh, according to Your holy Prophets, * and all the earth has been filled with Your knowledge, O Lord: * From the Father You the Son are without change * begotten, and the Spirit proceeds indivisibly."
 
 peMA.Ode6C2H.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C2H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode6C2H.greekmelody = he.h.m4_en_US_goadedes.heHE.IlasmosIminChriste.greekname
 peMA.Ode6C2H.melody = he.h.m4_en_US_goadedes.heHE.IlasmosIminChriste.melody
 peMA.Ode6C2H.incipit = he.h.m4_en_US_goadedes.heHE.IlasmosIminChriste.incipit
 peMA.Ode6C2H.text = he.h.m4_en_US_goadedes.heHE.IlasmosIminChriste.text
@@ -393,6 +416,7 @@ peMA.Ode6C2H5.text = he.h.m4_en_US_goadedes.heHE.IlasmosIminChriste5.text
 
 peMA.Ode6C21.ode = miscellanea_en_US_goadedes.misc.Ode6
 peMA.Ode6C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode6C21.greekmelody = he.h.m4_en_US_goadedes.heHE.IlasmosIminChriste.greekname
 peMA.Ode6C21.melody = he.h.m4_en_US_goadedes.heHE.IlasmosIminChriste.name
 peMA.Ode6C21.incipit = "O almighty Lord…"
 peMA.Ode6C21.text = "O almighty Lord, put a right and cherished Spirit * Newly deep into our souls to have forever, * Even Your Spirit who proceeds from Your Father, * Always united to You, and from our minds purges * Rotten images and all defiling matter."
@@ -437,12 +461,14 @@ peSY.lastline = ""
 
 peMA.Ode7C1H.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C1H.mode = miscellanea_en_US_goadedes.misc.Mode7
+peMA.Ode7C1H.greekmelody = he.h.m7_en_US_goadedes.heHE.OiEnKaminoTouPyros.greekname
 peMA.Ode7C1H.melody = he.h.m7_en_US_goadedes.heHE.OiEnKaminoTouPyros.melody
 peMA.Ode7C1H.incipit = he.h.m7_en_US_goadedes.heHE.OiEnKaminoTouPyros.incipit
 peMA.Ode7C1H.text = he.h.m7_en_US_goadedes.heHE.OiEnKaminoTouPyros.text
 
 peMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode7
+peMA.Ode7C11.greekmelody = he.h.m7_en_US_goadedes.heHE.OiEnKaminoTouPyros.greekname
 peMA.Ode7C11.melody = he.h.m7_en_US_goadedes.heHE.OiEnKaminoTouPyros.name
 peMA.Ode7C11.incipit = "As the Apostles proclaimed…"
 peMA.Ode7C11.text = "As the Apostles proclaimed the mighty works of God to the large crowd, * the Holy Spirit's activity * was considered drunkenness by unbelievers. * Through it we know the one true God of our fathers is the Trinity."
@@ -455,6 +481,7 @@ peMA.Ode7C12.text = "Professing Orthodox doctrine, we say one undivided nature, 
 
 peMA.Ode7C2H.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C2H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode7C2H.greekmelody = he.h.m4_en_US_goadedes.heHE.SymfononEthroisen.greekname
 peMA.Ode7C2H.melody = he.h.m4_en_US_goadedes.heHE.SymfononEthroisen.melody
 peMA.Ode7C2H.incipit = he.h.m4_en_US_goadedes.heHE.SymfononEthroisen.incipit
 peMA.Ode7C2H.text = he.h.m4_en_US_goadedes.heHE.SymfononEthroisen.text
@@ -466,6 +493,7 @@ peMA.Ode7C2H5.text = he.h.m4_en_US_goadedes.heHE.SymfononEthroisen5.text
 
 peMA.Ode7C21.ode = miscellanea_en_US_goadedes.misc.Ode7
 peMA.Ode7C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode7C21.greekmelody = he.h.m4_en_US_goadedes.heHE.SymfononEthroisen.greekname
 peMA.Ode7C21.melody = he.h.m4_en_US_goadedes.heHE.SymfononEthroisen.name
 peMA.Ode7C21.incipit = "On hearing the Apostles…"
 peMA.Ode7C21.text = "On hearing the Apostles speaking in foreign tongues, * Not aware it was fulfillment of prophecy, * Grossly mistaken men said they were filled with new wine. * Unto You, Lord, we faithful filled with the Spirit sing: * Ever blessed are You, who renew the universe!"
@@ -499,12 +527,14 @@ peMA.Ode7C235.text = "Holy Trinity, one essence, You are blessed."
 
 peMA.Ode8C1H.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C1H.mode = miscellanea_en_US_goadedes.misc.Mode7
+peMA.Ode8C1H.greekmelody = he.h.m7_en_US_goadedes.heHE.AflektosPyri.greekname
 peMA.Ode8C1H.melody = he.h.m7_en_US_goadedes.heHE.AflektosPyri.melody
 peMA.Ode8C1H.incipit = he.h.m7_en_US_goadedes.heHE.AflektosPyri.incipit
 peMA.Ode8C1H.text = he.h.m7_en_US_goadedes.heHE.AflektosPyri.text
 
 peMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode7
+peMA.Ode8C11.greekmelody = he.h.m7_en_US_goadedes.heHE.AflektosPyri.greekname
 peMA.Ode8C11.melody = he.h.m7_en_US_goadedes.heHE.AflektosPyri.name
 peMA.Ode8C11.incipit = "Suddenly a sound came…"
 peMA.Ode8C11.text = "Suddenly a sound came from heaven like the rush of a mighty, * energizing wind of the all-holy Spirit, * and there appeared divided tongues as of fire * on the fishermen, who proclaimed the mighty works of God. * \"O all you works of the Lord, sing a hymn to the Lord, * and exalt Him beyond measure unto all the ages.\""
@@ -517,6 +547,7 @@ peMA.Ode8C12.text = "We who have not come now to a tangible mountain * nor are a
 
 peMA.Ode8C2H.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C2H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode8C2H.greekmelody = he.h.m4_en_US_goadedes.heHE.LyeiTaDesma.greekname
 peMA.Ode8C2H.melody = he.h.m4_en_US_goadedes.heHE.LyeiTaDesma.melody
 peMA.Ode8C2H.incipit = he.h.m4_en_US_goadedes.heHE.LyeiTaDesma.incipit
 peMA.Ode8C2H.text = he.h.m4_en_US_goadedes.heHE.LyeiTaDesma.text
@@ -528,6 +559,7 @@ peMA.Ode8C2H5.text = he.h.m4_en_US_goadedes.heHE.LyeiTaDesma5.text
 
 peMA.Ode8C21.ode = miscellanea_en_US_goadedes.misc.Ode8
 peMA.Ode8C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode8C21.greekmelody = he.h.m4_en_US_goadedes.heHE.LyeiTaDesma.greekname
 peMA.Ode8C21.melody = he.h.m4_en_US_goadedes.heHE.LyeiTaDesma.name
 peMA.Ode8C21.incipit = "God the Spirit…"
 peMA.Ode8C21.text = "God the Spirit, You came in tongues of fire and rested * On the Apostles, and You brought to their remembrance * Divine and saving words that Christ from His Father * Heard and made known to them. And now all creation, * Estranged once, now reconciled, sings, \"You are blessed.\""
@@ -561,12 +593,14 @@ peMA.Ode8C235.text = "Evincing the doctrine of Your Incarnation."
 
 peMA.Ode9C1H.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C1H.mode = miscellanea_en_US_goadedes.misc.Mode7
+peMA.Ode9C1H.greekmelody = he.h.m7_en_US_goadedes.heHE.MiTisFthoras.greekname
 peMA.Ode9C1H.melody = he.h.m7_en_US_goadedes.heHE.MiTisFthoras.melody
 peMA.Ode9C1H.incipit = he.h.m7_en_US_goadedes.heHE.MiTisFthoras.incipit
 peMA.Ode9C1H.text = he.h.m7_en_US_goadedes.heHE.MiTisFthoras.text
 
 peMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode7
+peMA.Ode9C11.greekmelody = he.h.m7_en_US_goadedes.heHE.MiTisFthoras.greekname
 peMA.Ode9C11.melody = he.h.m7_en_US_goadedes.heHE.MiTisFthoras.name
 peMA.Ode9C11.incipit = "That fire breathing…"
 peMA.Ode9C11.text = "That fire breathing and zealot Elijah joyfully * boarded the blazing and fiery chariot of old, * prefiguring fiery tongues, the Spirit who from heaven * inspired the Apostles, who being thus illumined made the Trinity known to everyone."
@@ -579,6 +613,7 @@ peMA.Ode9C12.text = "Something unnatural and uncommon was heard today. * For by 
 
 peMA.Ode9C2H.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C2H.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode9C2H.greekmelody = he.h.m4_en_US_goadedes.heHE.ChairoisAnassa.greekname
 peMA.Ode9C2H.melody = he.h.m4_en_US_goadedes.heHE.ChairoisAnassa.melody
 peMA.Ode9C2H.incipit = he.h.m4_en_US_goadedes.heHE.ChairoisAnassa.incipit
 peMA.Ode9C2H.text = he.h.m4_en_US_goadedes.heHE.ChairoisAnassa.text
@@ -590,6 +625,7 @@ peMA.Ode9C2H5.text = he.h.m4_en_US_goadedes.heHE.ChairoisAnassa5.text
 
 peMA.Ode9C21.ode = miscellanea_en_US_goadedes.misc.Ode9
 peMA.Ode9C21.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Ode9C21.greekmelody = he.h.m4_en_US_goadedes.heHE.ChairoisAnassa.greekname
 peMA.Ode9C21.melody = he.h.m4_en_US_goadedes.heHE.ChairoisAnassa.name
 peMA.Ode9C21.incipit = "To extol the Virgin…"
 peMA.Ode9C21.text = "To extol the Virgin who mothered Life is truly * Right, for only she in her womb held the Logos. * Assuming flesh, He healed our ailing human nature. * Now in heaven, at the right hand of the Father * Seated, He has sent down the grace of the Spirit."
@@ -611,11 +647,13 @@ peMA.Ode9C224.text = "Of dazzling grace that flows therefrom and that has made u
 peMA.Ode9C225.text = "Resplendent through a mystical transformation."
 
 peMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.greekname
 peMA.Exaposteilarion1.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
 peMA.Exaposteilarion1.incipit = "…"
 peMA.Exaposteilarion1.text = ""
 
 peMA.Exaposteilarion2.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.greekname
 peMA.Exaposteilarion2.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
 peMA.Exaposteilarion2.incipit = "…"
 peMA.Exaposteilarion2.text = ""
