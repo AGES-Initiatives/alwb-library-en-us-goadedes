@@ -368,8 +368,9 @@ meMA.Ode6C2T.text = ""
 
 meMA.Ode6H.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode6H.melody = miscellanea_en_US_goadedes.misc.Heirmos
-meMA.Ode6H.text = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.incipit
+meMA.Ode6H.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.melody
+meMA.Ode6H.incipit = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.incipit
+meMA.Ode6H.text = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1ger.poet = poets_en_US_goadedes.po.Gerasimou
 meMA.Kontakion1ger.mode = miscellanea_en_US_goadedes.misc.Mode4

@@ -311,7 +311,8 @@ meMA.Ode4C14.text = ""
 
 meMA.Ode4C21.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode4C21.melody = miscellanea_en_US_goadedes.misc.Heirmos
+meMA.Ode4C21.greekmelody =  he.h.m8_en_US_goadedes.heHE.EkSarkosSouVolides.greekname
+meMA.Ode4C21.melody = he.h.m8_en_US_goadedes.heHE.EkSarkosSouVolides.name
 meMA.Ode4C21.incipit = he.h.m8_en_US_goadedes.heHE.EkSarkosSouVolides.incipit
 meMA.Ode4C21.text = he.h.m8_en_US_goadedes.heHE.EkSarkosSouVolides.text
 

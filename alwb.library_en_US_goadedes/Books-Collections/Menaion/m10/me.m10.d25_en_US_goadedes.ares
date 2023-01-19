@@ -83,8 +83,9 @@ meMA.C1.verse = prayers_en_US_goadedes.pr.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode1C1H.melody = miscellanea_en_US_goadedes.misc.Heirmos
-meMA.Ode1C1H.text = he.h.m4_en_US_goadedes.heHE.TristatasKrataious.incipit
+meMA.Ode1C1H.melody = he.h.m4_en_US_goadedes.heHE.TristatasKrataious.name
+meMA.Ode1C1H.incipit = he.h.m4_en_US_goadedes.heHE.TristatasKrataious.incipit
+meMA.Ode1C1H.text = he.h.m4_en_US_goadedes.heHE.TristatasKrataious.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode4

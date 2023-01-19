@@ -371,8 +371,9 @@ ocMA.OdeW5C2T.text = ""
 
 ocMA.OdeW6C1H.mode = miscellanea_en_US_goadedes.misc.Mode3
 ocMA.OdeW6C1H.ode = miscellanea_en_US_goadedes.misc.Ode6
-ocMA.OdeW6C1H.melody = miscellanea_en_US_goadedes.misc.Heirmos
-ocMA.OdeW6C1H.text = he.h.m3_en_US_goadedes.heHE.VythosMoiTonPathon.incipit
+ocMA.OdeW6C1H.melody = he.h.m3_en_US_goadedes.heHE.VythosMoiTonPathon.melody
+ocMA.OdeW6C1H.incipit = he.h.m3_en_US_goadedes.heHE.VythosMoiTonPathon.incipit
+ocMA.OdeW6C1H.text = he.h.m3_en_US_goadedes.heHE.VythosMoiTonPathon.text
 
 ocMA.OdeW6C11.mode = miscellanea_en_US_goadedes.misc.Mode3
 ocMA.OdeW6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
