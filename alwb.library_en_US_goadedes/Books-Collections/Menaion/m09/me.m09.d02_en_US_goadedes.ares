@@ -77,8 +77,8 @@ meVE.AposGlory.text = ""
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.AposTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 meVE.AposTheotokion.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
-meVE.AposTheotokion.incipit = "…"
-meVE.AposTheotokion.text = ""
+meVE.AposTheotokion.incipit = "O immaculate Virgin…"
+meVE.AposTheotokion.text = "O immaculate Virgin pure, * we have come to your holy church. * Weeping in repentance, we wet the floor with tears, * trusting in you to entreat for us and fervently intercede * with your Son, our Master Christ, * so that we be absolved of all our most heinous sins, * and that grace be provided to the faithful, who accept Him as the Savior, * O Theotokos, and honor you."
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.AposStavrotheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
@@ -87,6 +87,7 @@ meVE.AposStavrotheotokion.incipit = me.m01.d19_en_US_goadedes.meMA.AposStavrothe
 meVE.AposStavrotheotokion.text = me.m01.d19_en_US_goadedes.meMA.AposStavrotheotokion.text
 
 meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.Apolytikion1.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 meVE.Apolytikion1.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 meVE.Apolytikion1.incipit = he.ga_en_US_goadedes.heGA.OMartysSouKyrie.incipit
 meVE.Apolytikion1.text = he.ga_en_US_goadedes.heGA.OMartysSouKyrie.text

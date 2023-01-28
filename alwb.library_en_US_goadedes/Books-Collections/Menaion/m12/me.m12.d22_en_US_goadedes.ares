@@ -90,12 +90,14 @@ meVE.AposBoth.incipit = me.m11.d30_en_US_goadedes.meVE.SticBoth.incipit
 meVE.AposBoth.text = me.m11.d30_en_US_goadedes.meVE.SticBoth.text
 
 meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.Apolytikion1.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 meVE.Apolytikion1.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 meVE.Apolytikion1.incipit = me.m12.d20_en_US_goadedes.meVE.Apolytikion1.incipit
 meVE.Apolytikion1.text = me.m12.d20_en_US_goadedes.meVE.Apolytikion1.text
 
 meVE.Apolytikion2ger.poet = poets_en_US_goadedes.po.Gerasimou
 meVE.Apolytikion2ger.mode = miscellanea_en_US_goadedes.misc.Mode5
+meVE.Apolytikion2ger.greekmelody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.greekname
 meVE.Apolytikion2ger.melody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.name
 meVE.Apolytikion2ger.incipit = "…"
 meVE.Apolytikion2ger.text = ""

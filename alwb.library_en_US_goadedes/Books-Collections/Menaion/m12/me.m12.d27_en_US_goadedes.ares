@@ -93,6 +93,7 @@ meVE.AposBoth.incipit = me.m12.d25_en_US_goadedes.meVE.LityBoth.incipit
 meVE.AposBoth.text = me.m12.d25_en_US_goadedes.meVE.LityBoth.text
 
 meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.Apolytikion1.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 meVE.Apolytikion1.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 meVE.Apolytikion1.incipit = me.m08.d02_en_US_goadedes.meVE.Apolytikion1.incipit
 meVE.Apolytikion1.text = me.m08.d02_en_US_goadedes.meVE.Apolytikion1.text
@@ -102,6 +103,7 @@ meVE.MM.GeneralApolytikion2.text = properties_en_US_goadedes.media.key
 
 meVE.Apolytikion2ger.poet = poets_en_US_goadedes.po.Gerasimou
 meVE.Apolytikion2ger.mode = miscellanea_en_US_goadedes.misc.Mode3
+meVE.Apolytikion2ger.greekmelody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.greekname
 meVE.Apolytikion2ger.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
 meVE.Apolytikion2ger.incipit = "…"
 meVE.Apolytikion2ger.text = ""

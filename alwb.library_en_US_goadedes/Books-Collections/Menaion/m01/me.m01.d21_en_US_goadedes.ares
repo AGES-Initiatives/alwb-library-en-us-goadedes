@@ -92,6 +92,7 @@ meVE.GeneralApolytikion1.name = "" // name of saint for General Apolytikia
 meVE.MM.GeneralApolytikion1.text = properties_en_US_goadedes.media.key
 
 meVE.Apolytikion2.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.Apolytikion2.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 meVE.Apolytikion2.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 meVE.Apolytikion2.incipit = he.ga_en_US_goadedes.heGA.OMartysSouKyrie.incipit
 meVE.Apolytikion2.text = he.ga_en_US_goadedes.heGA.OMartysSouKyrie.text
