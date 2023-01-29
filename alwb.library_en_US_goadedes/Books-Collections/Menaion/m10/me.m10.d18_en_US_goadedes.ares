@@ -459,16 +459,19 @@ alt1.meVE.LityBoth.incipit = "…"
 alt1.meVE.LityBoth.text = ""
 
 alt1.meVE.Apolytikion3.mode = miscellanea_en_US_goadedes.misc.Mode1
+alt1.meVE.Apolytikion3.greekmelody = he.a.m1_en_US_goadedes.heAU.TisErimouPolitis.greekname
 alt1.meVE.Apolytikion3.melody = he.a.m1_en_US_goadedes.heAU.TisErimouPolitis.name
 alt1.meVE.Apolytikion3.incipit = "…"
 alt1.meVE.Apolytikion3.text = ""
 
 alt1.meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode8
+alt1.meMA.Kathisma11.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 alt1.meMA.Kathisma11.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 alt1.meMA.Kathisma11.incipit = "…"
 alt1.meMA.Kathisma11.text = ""
 
 alt1.meMA.Kathisma12.mode = miscellanea_en_US_goadedes.misc.Mode8
+alt1.meMA.Kathisma12.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 alt1.meMA.Kathisma12.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 alt1.meMA.Kathisma12.incipit = "…"
 alt1.meMA.Kathisma12.text = ""
@@ -479,21 +482,25 @@ alt1.meMA.Kathisma1T.incipit = me.m06.d29_en_US_goadedes.meMA.Kathisma2T.incipit
 alt1.meMA.Kathisma1T.text = me.m06.d29_en_US_goadedes.meMA.Kathisma2T.text
 
 alt1.meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode4
+alt1.meMA.Kathisma21.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 alt1.meMA.Kathisma21.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 alt1.meMA.Kathisma21.incipit = "…"
 alt1.meMA.Kathisma21.text = ""
 
 alt1.meMA.Kathisma2T.mode = miscellanea_en_US_goadedes.misc.Mode4
+alt1.meMA.Kathisma2T.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 alt1.meMA.Kathisma2T.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.melody
 alt1.meMA.Kathisma2T.incipit = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.incipit
 alt1.meMA.Kathisma2T.text = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.text
 
 alt1.meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode8
+alt1.meMA.Kathisma31.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 alt1.meMA.Kathisma31.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 alt1.meMA.Kathisma31.incipit = "…"
 alt1.meMA.Kathisma31.text = ""
 
 alt1.meMA.Kathisma32.mode = miscellanea_en_US_goadedes.misc.Mode8
+alt1.meMA.Kathisma32.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 alt1.meMA.Kathisma32.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 alt1.meMA.Kathisma32.incipit = "…"
 alt1.meMA.Kathisma32.text = ""
@@ -521,6 +528,7 @@ alt1.meMA.PostGospelIdiomelon.incipit = meVE.AposGlory.incipit
 alt1.meMA.PostGospelIdiomelon.text = meVE.AposGlory.text
 
 alt1.meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode1
+alt1.meMA.Lauds1.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname
 alt1.meMA.Lauds1.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 alt1.meMA.Lauds1.incipit = "…"
 alt1.meMA.Lauds1.text = ""

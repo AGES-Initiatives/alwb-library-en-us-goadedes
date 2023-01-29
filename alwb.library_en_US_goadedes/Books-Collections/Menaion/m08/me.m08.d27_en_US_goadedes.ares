@@ -344,6 +344,7 @@ alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
 
 alt1.meSV.Stichera1.mode = miscellanea_en_US_goadedes.misc.Mode2
+alt1.meSV.Stichera1.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
 alt1.meSV.Stichera1.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
 alt1.meSV.Stichera1.incipit = "…"
 alt1.meSV.Stichera1.text = ""
@@ -359,6 +360,7 @@ alt1.meSV.Stichera3.incipit = "…"
 alt1.meSV.Stichera3.text = ""
 
 alt1.meSV.Stichera4.mode = miscellanea_en_US_goadedes.misc.Mode2
+alt1.meSV.Stichera4.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
 alt1.meSV.Stichera4.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
 alt1.meSV.Stichera4.incipit = "…"
 alt1.meSV.Stichera4.text = ""
@@ -374,6 +376,7 @@ alt1.meSV.SticBoth.incipit = oc.m4.d2_en_US_goadedes.ocMA.AposTheotokion.incipit
 alt1.meSV.SticBoth.text = oc.m4.d2_en_US_goadedes.ocMA.AposTheotokion.text
 
 alt1.meSV.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
+alt1.meSV.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
 alt1.meSV.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 alt1.meSV.Aposticha1.incipit = "…"
 alt1.meSV.Aposticha1.text = ""
@@ -399,6 +402,7 @@ alt1.meSV.AposBoth.incipit = "…"
 alt1.meSV.AposBoth.text = ""
 
 alt1.meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode1
+alt1.meVE.Stichera01.greekmelody = he.a.m1_en_US_goadedes.heAU.OTouParadoxouThavmatos.greekname
 alt1.meVE.Stichera01.melody = he.a.m1_en_US_goadedes.heAU.OTouParadoxouThavmatos.name
 alt1.meVE.Stichera01.incipit = "Marvel at the wondrous…"
 alt1.meVE.Stichera01.text = "Marvel at the wondrous paradox! * As a marvelous light, famous St. Phanourios * has risen on us on earth by the command of God. * His martyrdom was unseen, * by which he utterly brought down the enemy; * but once his most holy church * had been discovered, his fame spread throughout the world. * Therefore we are celebrating his all-holy memory, * ever praising our Savior, * who has glorified him brilliantly."
@@ -414,11 +418,13 @@ alt1.meVE.Stichera03.incipit = "O Saint, we honor…"
 alt1.meVE.Stichera03.text = "O Saint, we honor your martyrdom, * Athlete of the Lord, O glorious Phanourios, * competing of old according to the rules for Christ. * Much later you made it known, * when excavations revealed ruins of your church * and icon, which was unearthed, * and which brought joy to the faithful, who sing to you, * \"Glory of the martyr athletes, we salute you: O rejoice! * You support all the people * of the Isle of Rhodes and all the Church.\""
 
 alt1.meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode4
+alt1.meVE.Stichera04.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 alt1.meVE.Stichera04.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 alt1.meVE.Stichera04.incipit = "In an era unknown…"
 alt1.meVE.Stichera04.text = "In an era unknown to us, * medaled Athlete Phanourios, * you competed, moved by your ardent love for God. * You have obtained most illustrious * glory and experience * eternal blessings on high. * But for several centuries you remained unknown. * Then you finally showed yourself, astonishing the Church of Christ, O Martyr, * And now we pray for your kind support."
 
 alt1.meVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode4
+alt1.meVE.Stichera05.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 alt1.meVE.Stichera05.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 alt1.meVE.Stichera05.incipit = "On the Island of Rhodes…"
 alt1.meVE.Stichera05.text = "On the Island of Rhodes, your church * had been hidden for many years. * When it was discovered by the command of God, * O Saint, the faithful were filled with joy. * They learned of your glorious * contests, which had been unknown, * and your name, from the luminous icon that was found. * They extolled you, O famous holy Martyr of the Lord, and celebrated * the splendid feast of your memory."
@@ -469,6 +475,7 @@ alt1.meVE.LityBoth.incipit = oc.m4.d2_en_US_goadedes.ocMA.AposTheotokion.incipit
 alt1.meVE.LityBoth.text = oc.m4.d2_en_US_goadedes.ocMA.AposTheotokion.text
 
 alt1.meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode5
+alt1.meVE.Aposticha1.greekmelody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.greekname
 alt1.meVE.Aposticha1.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name
 alt1.meVE.Aposticha1.incipit = "Rejoice, O holy Athlete…"
 alt1.meVE.Aposticha1.text = "Rejoice, O holy Athlete of Christ! * You have defeated the arrays of the enemy, * displaying the greatest courage of soul in martyrdom, * for you were equipped with  the full armor of the Faith. * As if you were bodiless, you ignored all physical pain, * in your intense love for the Lord who enabled you. * By your body you glorified Him who died for you. * Glorious St. Phanourios, a flower most redolent, * with the supreme divine fragrance, you are perfuming the whole wide world. * To Christ pray intently * without ceasing, that great mercy be given to our souls."
@@ -494,41 +501,49 @@ alt1.meVE.AposTheotokion.incipit = oc.m8.d5_en_US_goadedes.ocMA.AposTheotokion.i
 alt1.meVE.AposTheotokion.text = oc.m8.d5_en_US_goadedes.ocMA.AposTheotokion.text
 
 alt1.meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode4
+alt1.meVE.Apolytikion1.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 alt1.meVE.Apolytikion1.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
 alt1.meVE.Apolytikion1.incipit = "You rose, O Phanourios…"
 alt1.meVE.Apolytikion1.text = "You rose, O Phanourios, like a new star in the Church; * and wondrously appearing, as your name denotes, you have shined * on all with your miracles. * Glorious holy Martyr, you provide saving graces * to the faithful who extol you and who celebrate your contests. * You intercede with Christ the Lord and entreat Him on our behalf."
 
 alt1.meVE.Apolytikion2.mode = miscellanea_en_US_goadedes.misc.Mode1
+alt1.meVE.Apolytikion2.greekmelody = he.a.m1_en_US_goadedes.heAU.TisErimouPolitis.greekname
 alt1.meVE.Apolytikion2.melody = he.a.m1_en_US_goadedes.heAU.TisErimouPolitis.name
 alt1.meVE.Apolytikion2.incipit = "O believers, let us honor…"
 alt1.meVE.Apolytikion2.text = "O believers, let us honor holy Martyr Phanourios, * the pride and joy of Rhodians, the jewel of the martyr saints, * and great among the athletes of the Lord. * He brightens us with rays of miracles. * He gives every gift of grace divine to all * who sing to him wholeheartedly, \"Glory to Christ who glorified you; * glory to Him for your miracles; * glory to Him who through you gives cures and healing to all.\""
 
 alt1.meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
+alt1.meMA.Kathisma11.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 alt1.meMA.Kathisma11.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 alt1.meMA.Kathisma11.incipit = "We praise you…"
 alt1.meMA.Kathisma11.text = "We praise you as new athlete, although you competed * steadfastly long ago, O blessed Saint, with divine love. * For it was much later that you became known throughout the world. * By your prayers to God, you grant divine grace and mercy, * O Phanourios, to us who keep your resplendent * and praiseworthy memory."
 
 alt1.meMA.Kathisma1T.mode = miscellanea_en_US_goadedes.misc.Mode1
+alt1.meMA.Kathisma1T.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 alt1.meMA.Kathisma1T.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 alt1.meMA.Kathisma1T.incipit = "You physically gave birth…"
 alt1.meMA.Kathisma1T.text = "You physically gave birth to world's Lord and Master, * and thus you speak to Him with incomparable candor. * Implore Him incessantly, Theotokos extolled by all, * to forgive our sins and to give time for correction * of our lives to all who sing your praises, O Lady * ineffably glorious."
 
 alt1.meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode3
+alt1.meMA.Kathisma21.greekmelody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.greekname
 alt1.meMA.Kathisma21.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
 alt1.meMA.Kathisma21.incipit = "…"
 alt1.meMA.Kathisma21.text = "You remained unburnt in fire, O Martyr, * not afraid of it, your fellow servant; * for you had the immaterial Fire in you. * And you subdued the impulses of wild beasts, * for you were supernaturally glorified. * St. Phanourios, beseech Christ our God fervently, * entreating Him to grant us His great mercy."
 
 alt1.meMA.Kathisma2T.mode = miscellanea_en_US_goadedes.misc.Mode3
+alt1.meMA.Kathisma2T.greekmelody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.greekname
 alt1.meMA.Kathisma2T.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
 alt1.meMA.Kathisma2T.incipit = "Holy Prophets saw you…"
 alt1.meMA.Kathisma2T.text = "Holy Prophets saw you, blameless Virgin, * as the holy mount, completely shaded, * for the Holy Spirit's grace overshadowed you. * God was incarnate from you and appeared to us, * bestowing freedom on all who, saluting you, * sing, \"Rejoice!\" to you. O Lady, you are the mercy-seat * for sinners all, and also our safe retreat."
 
 alt1.meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode4
+alt1.meMA.Kathisma31.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 alt1.meMA.Kathisma31.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 alt1.meMA.Kathisma31.incipit = "…"
 alt1.meMA.Kathisma31.text = ""
 
 alt1.meMA.Kathisma3T.mode = miscellanea_en_US_goadedes.misc.Mode4
+alt1.meMA.Kathisma3T.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 alt1.meMA.Kathisma3T.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 alt1.meMA.Kathisma3T.incipit = "…"
 alt1.meMA.Kathisma3T.text = ""
@@ -558,6 +573,7 @@ alt1.meMA.C1.verse = prayers_en_US_goadedes.pr.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 alt1.meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+alt1.meMA.Ode1C11.greekmelody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.greekname
 alt1.meMA.Ode1C11.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
 alt1.meMA.Ode1C11.incipit = "…"
 alt1.meMA.Ode1C11.text = ""
@@ -582,6 +598,7 @@ alt1.meMA.Ode1C1T.text = ""
 
 alt1.meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 alt1.meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+alt1.meMA.Ode3C11.greekmelody = he.h.m4_en_US_goadedes.heHE.TousSousYmnologous.greekname
 alt1.meMA.Ode3C11.melody = he.h.m4_en_US_goadedes.heHE.TousSousYmnologous.name
 alt1.meMA.Ode3C11.incipit = "We now know…"
 alt1.meMA.Ode3C11.text = "We now know from your all-holy icon * the manners of torture you endured * courageously so long ago * for Christ, O St. Phanourios; * and we the faithful sing in praise of your most marvelous martyrdom."
@@ -605,6 +622,7 @@ alt1.meMA.Ode3C1T.incipit = "O Virgin, the joy…"
 alt1.meMA.Ode3C1T.text = "O Virgin, the joy of all the Angels, * O radiant throne of God Most High, * I pray you to lift up my mind * from passions as from excrement, * and make it wholly luminous with holy light of your graciousness."
 
 alt1.meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode5
+alt1.meMA.Ode3Kathisma1.greekmelody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.greekname
 alt1.meMA.Ode3Kathisma1.melody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.name
 alt1.meMA.Ode3Kathisma1.incipit = "…"
 alt1.meMA.Ode3Kathisma1.text = ""
@@ -616,6 +634,7 @@ alt1.meMA.Ode3KathismaT.text = ""
 
 alt1.meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 alt1.meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+alt1.meMA.Ode4C11.greekmelody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.greekname
 alt1.meMA.Ode4C11.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.name
 alt1.meMA.Ode4C11.incipit = "…"
 alt1.meMA.Ode4C11.text = ""
@@ -646,6 +665,7 @@ alt1.meMA.Ode4C1T.text = ""
 
 alt1.meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 alt1.meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+alt1.meMA.Ode5C11.greekmelody = he.h.m4_en_US_goadedes.heHE.ExestiTaSympanta.greekname
 alt1.meMA.Ode5C11.melody = he.h.m4_en_US_goadedes.heHE.ExestiTaSympanta.name
 alt1.meMA.Ode5C11.incipit = "…"
 alt1.meMA.Ode5C11.text = ""
@@ -670,6 +690,7 @@ alt1.meMA.Ode5C1T.text = ""
 
 alt1.meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 alt1.meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+alt1.meMA.Ode6C11.greekmelody = he.h.m4_en_US_goadedes.heHE.TinTheianTaftin.greekname
 alt1.meMA.Ode6C11.melody = he.h.m4_en_US_goadedes.heHE.TinTheianTaftin.name
 alt1.meMA.Ode6C11.incipit = "Your holy icon…"
 alt1.meMA.Ode6C11.text = "Your holy icon from underground * has risen like a lamp shining brilliantly, O St. Phanourios; * When it had vanished for many years, * it reappeared and made you famous throughout the world."
@@ -693,6 +714,7 @@ alt1.meMA.Ode6C1T.incipit = "All-blameless Maid…"
 alt1.meMA.Ode6C1T.text = "All-blameless Maid, without injury * you carried in your womb the Creator of the world ineffably. * Let not the passions wreak injury * on me, I pray, but guide me to a dispassionate life."
 
 alt1.meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode3
+alt1.meMA.Kontakion1.greekmelody = he.a.m3_en_US_goadedes.heAU.IParthenosSimeron.greekname
 alt1.meMA.Kontakion1.melody = he.a.m3_en_US_goadedes.heAU.IParthenosSimeron.name
 alt1.meMA.Kontakion1.incipit = "When three priests…"
 alt1.meMA.Kontakion1.text = "When three priests were captured once * by the ungodly, you saved them; * by the might you have from God, * you broke the shackles that bound them. * You debased the tyrants' insolence by your boldness, * bringing joy to hosts of Angels, O holy Martyr. * For this reason we extol you, * glorious soldier of God, Phanourios."
@@ -701,6 +723,7 @@ alt1.meMA.Oikos1.text = "Unknown is the year that you bravely competed, when, fo
 
 alt1.meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 alt1.meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+alt1.meMA.Ode7C11.greekmelody = he.h.m4_en_US_goadedes.heHE.OukElatrefsan.greekname
 alt1.meMA.Ode7C11.melody = he.h.m4_en_US_goadedes.heHE.OukElatrefsan.name
 alt1.meMA.Ode7C11.incipit = "…"
 alt1.meMA.Ode7C11.text = ""
@@ -725,6 +748,7 @@ alt1.meMA.Ode7C1T.text = ""
 
 alt1.meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 alt1.meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+alt1.meMA.Ode8C11.greekmelody = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.greekname
 alt1.meMA.Ode8C11.melody = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.name
 alt1.meMA.Ode8C11.incipit = "…"
 alt1.meMA.Ode8C11.text = ""
@@ -749,6 +773,7 @@ alt1.meMA.Ode8C1T.text = ""
 
 alt1.meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 alt1.meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode4
+alt1.meMA.Ode9C11.greekmelody = he.h.m4_en_US_goadedes.heHE.ApasGigenis.greekname
 alt1.meMA.Ode9C11.melody = he.h.m4_en_US_goadedes.heHE.ApasGigenis.name
 alt1.meMA.Ode9C11.incipit = "…"
 alt1.meMA.Ode9C11.text = ""
@@ -784,6 +809,7 @@ alt1.meMA.Ode9K2.incipit = he.h.m8_en_US_goadedes.heHE.ODiaVroseos.incipit
 alt1.meMA.Ode9K2.text = he.h.m8_en_US_goadedes.heHE.ODiaVroseos.text
 
 alt1.meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
+alt1.meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.greekname
 alt1.meMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.name
 alt1.meMA.Exaposteilarion1.incipit = "Competing well in martyrdom…"
 alt1.meMA.Exaposteilarion1.text = "Competing well in martyrdom, * with your heart firm and steadfast, * you embarrassed the enemy's * raging insolent rashness, as you courageously suffered * various kinds of torture. * O Martyr, great and glorious, * St. Phanourios, famously you received * from the Savior Christ awards as a victor. * We pray you intercede with Him * for us who now extol you."
@@ -794,6 +820,7 @@ alt1.meMA.ExapTheotokion.incipit = "Physically you were pregnant…"
 alt1.meMA.ExapTheotokion.text = "Physically you were pregnant with * the super-divine Logos, * who came and dwelt inside your womb, * without at all absenting the Father's bosom in heaven, * for ineffable mercy, * to renew the entire world * and to refashion all who with right belief * venerate your childbirth, O all-pure Virgin, * and who extol you as the true * Mother of God, O Lady."
 
 alt1.meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode1
+alt1.meMA.Lauds1.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname
 alt1.meMA.Lauds1.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 alt1.meMA.Lauds1.incipit = "That famous athlete…"
 alt1.meMA.Lauds1.text = "That famous athlete of Christ God, great St. Phanourios, * had long ago competed * for the love of the Master. * But he remained unknown for a long time, until * providentially he appeared * on the Greek island of Rhodes, by the will of God. * Fans of Martyrs, let us honor him."

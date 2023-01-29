@@ -139,11 +139,13 @@ meMA.Kathisma2T.text = oc.m6.d2_en_US_goadedes.ocMA.Kathisma13.text
 
 alt1.meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt1.meMA.Kathisma21.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
+alt1.meMA.Kathisma21.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 alt1.meMA.Kathisma21.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 alt1.meMA.Kathisma21.incipit = "…"
 alt1.meMA.Kathisma21.text = ""
 
 alt1.meMA.Kathisma2T.mode = miscellanea_en_US_goadedes.misc.Mode1
+alt1.meMA.Kathisma2T.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 alt1.meMA.Kathisma2T.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 alt1.meMA.Kathisma2T.incipit = oc.m1.d1_en_US_goadedes.ocMO.Kathisma12.incipit
 alt1.meMA.Kathisma2T.text = oc.m1.d1_en_US_goadedes.ocMO.Kathisma12.text

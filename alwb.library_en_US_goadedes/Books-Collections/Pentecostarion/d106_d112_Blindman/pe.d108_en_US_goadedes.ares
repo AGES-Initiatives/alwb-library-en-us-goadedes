@@ -135,6 +135,7 @@ alt1.peDA.commemoration.full = "" //full title of day
 alt1.peDA.commemoration.short = ""
 
 alt1.peVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode5
+alt1.peVE.Stichera01.greekmelody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.greekname
 alt1.peVE.Stichera01.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name
 alt1.peVE.Stichera01.incipit = "…"
 alt1.peVE.Stichera01.text = ""
@@ -195,6 +196,7 @@ alt1.peMA.Kathisma1T.incipit = oc.m5.d3_en_US_goadedes.ocMA.Kathisma33.incipit
 alt1.peMA.Kathisma1T.text = oc.m5.d3_en_US_goadedes.ocMA.Kathisma33.text
 
 alt1.peMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode5
+alt1.peMA.Kathisma21.greekmelody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.greekname
 alt1.peMA.Kathisma21.melody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.name
 alt1.peMA.Kathisma21.incipit = "…"
 alt1.peMA.Kathisma21.text = ""
