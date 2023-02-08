@@ -420,8 +420,8 @@ meMA.AposGlory.text = ""
 meMA.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.AposTheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
 meMA.AposTheotokion.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
-meMA.AposTheotokion.incipit = "…"
-meMA.AposTheotokion.text = ""
+meMA.AposTheotokion.incipit = oc.m2.d7_en_US_goadedes.ocMA.LaudsTheotokion.incipit
+meMA.AposTheotokion.text = oc.m2.d7_en_US_goadedes.ocMA.LaudsTheotokion.text
 
 meMA.AposStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.AposStavrotheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
