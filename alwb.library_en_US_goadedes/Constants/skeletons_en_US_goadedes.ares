@@ -17,14 +17,24 @@ skLI.Antiphon3.pagenumber = ""
 
 skLI.SmallEntrance.title = "The Small Entrance"
 skLI.SmallEntrance.text = "(See Variable Parts.)"
+skLI.SmallEntrance.rubric = "The choir repeats the end of the Entrance Hymn: \"Save us...\""
 skLI.SmallEntrance.pagenumber = ""
 
 skLI.HymnsAfterSmallEntrance.title = "Hymns After Small Entrance"
 skLI.HymnsAfterSmallEntrance.text = "(See Variable Parts.)"
+skLI.HymnsAfterSmallEntrance.rubric = "The clergy sing the first Apolytikion"
+
+skLI.Kontakion.title = "The Kontakion."
+skLI.Kontakion.text = "(See Variable Parts.)"
+skLI.Kontakion.rubric = "The clergy begin the Kontakion, and the choir usually sings the last line."
 
 skLI.Trisagion.title = "Trisagion Hymn"
 skLI.Trisagion.text = "(See Variable Parts.)"
 skLI.Trisagion.pagenumber = ""
+
+skLI.Acclamation.title = "The Acclamations"
+skLI.Acclamation.rubric = "The clergy and choirs ought to be advised beforehand regarding which acclamations are appropriate."
+skLI.Acclamation.text = "(The appropriate hierarchical acclamation.)"
 
 skLI.EpistleReading.title = "Epistle Reading"
 skLI.EpistleReading.text = "(See Variable Parts.)"
