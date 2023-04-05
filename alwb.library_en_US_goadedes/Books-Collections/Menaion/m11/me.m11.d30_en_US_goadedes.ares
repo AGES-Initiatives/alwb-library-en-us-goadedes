@@ -35,7 +35,7 @@ meVE.Stichera03.melody = he.a.m4_en_US_goadedes.heAU.OExYpsistouKlitheis.name
 meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
-meVE.MM.Stichera1123as78910.text = "" // for media
+meVE.MM.Stichera1123as78910.text = properties_en_US_goadedes.media.key
 
 meVE.SticGlory.poet = poets_en_US_goadedes.po.Anatoliou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -83,18 +83,18 @@ meVE.LityBoth.text = oc.m8.d5_en_US_goadedes.ocMA.AposTheotokion.text
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.Aposticha1.greekmelody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.greekname
 meVE.Aposticha1.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name
-meVE.Aposticha1.incipit = "…"
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.incipit = "Andrew, we now salute you…"
+meVE.Aposticha1.text = "Andrew, we now salute you, \"Rejoice!\" * You are like heaven, which declares the glory of God. * And you were the first one Christ called, and you intently obeyed, * instantly becoming familiar with Him. * By Him you were lit on fire, thus becoming a second light, * and you enlightened with your flashes of brilliant light * those in darkness, thus imitating His love for all. * Therefore today we celebrate your all-holy memory, * and we rejoice venerating the reliquary that holds your bones, * from which are cascading * His salvation and great mercy to all who pray to you."
 
 meVE.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.Aposticha2.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name
-meVE.Aposticha2.incipit = "…"
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.incipit = "Andrew, when you had found…"
+meVE.Aposticha2.text = "Andrew, when you had found the supreme * object of longing, namely Christ, who for mercy's sake * assumed human nature, and you associated with Him, * fervently to Peter, your brother, you said, * \"Indeed we have found the One whom the Prophets, inspired of old, * proclaimed. So come now, let our souls and our intelects * truly be enthralled by His beautiful perfectness, * so that illumined by the light of His brilliant radiance, * we may dispell all delusions and end the dark night of ignorance, * extolling the Savior, who provides the great mercy to us and all the world.\""
 
 meVE.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.Aposticha3.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name
-meVE.Aposticha3.incipit = "…"
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.incipit = "Nations that did not know…"
+meVE.Aposticha3.text = "Nations that did not know the true God * were caught alive by your inspired words as in a net * from ignorance as an ocean. Famous Apostle, indeed * you churn up the briny waters of the sea, * for you are the stately horse of the Master who rules the seas. * Using the precious salt of wisdom that you applied, * you healed them by draining the abscess of godlessness. * Glorious Andrew, then your wit and wisdom astonished those * who were the shamless adherants of their insipid philosophy, * for they did not know Christ, * who provides the great mercy to us and all the world."
 
 meVE.AposGlory.poet = poets_en_US_goadedes.po.Germanou
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode3
