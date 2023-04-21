@@ -3,8 +3,8 @@ A_Resource_Whose_Name = da.d6_en_US_goadedes
 daDay.text = ""
 daCommemoration.text = ""
 
-daVE.OnTheMorningBefore = template.titles_en_US_goadedes.d.onThursdayMorning
-daVE.OnTheEveningBefore = template.titles_en_US_goadedes.d.onThursdayEvening
+daVE.OnTheMorningBefore.text = template.titles_en_US_goadedes.d.onThursdayMorning
+daVE.OnTheEveningBefore.text = template.titles_en_US_goadedes.d.onThursdayEvening
 
 daVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode1
 daVE.Apolytikion1.melody = ""
@@ -46,7 +46,7 @@ daMA.ExapTheotokion2.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.na
 daMA.ExapTheotokion2.incipit = "O Lord, Your virgin Mother…"
 daMA.ExapTheotokion2.text = "O Lord, Your virgin Mother * stood by at Your crucifixion. * And she lamented and cried out, * \"Alas! O sweetest Son of mine, * how can You set before my eyes * and be accounted among the dead?\""
 
-daLI.CommunionHymn.text = properties_en_US_goadedes.media.key
+daLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
-daLI.CommunionHymnAlt.text = ""
+daLI.MM.CommunionHymnAlt.text = ""
 
