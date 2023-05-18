@@ -2,6 +2,7 @@ A_Resource_Whose_Name = pe.d120_en_US_goadedes
 
 peDA.commemoration.full = "" //full title of day
 peDA.commemoration.short = "Pentecost Sunday"
+peDA.commemoration.title = "For Pentecost."
 peDA.commemoration.name = "Holy Trinity"
 peDA.insert1 = "" //for use in petitions and dismissal
 peDA.insert2 = "" //for use in petitions and dismissal
