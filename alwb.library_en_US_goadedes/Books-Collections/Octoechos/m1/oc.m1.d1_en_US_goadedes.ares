@@ -335,20 +335,28 @@ ocMA.Kathisma11.text = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.text
 ocMA.Kathisma12.mode = miscellanea_en_US_goadedes.misc.Mode1
 ocMA.Kathisma12.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 ocMA.Kathisma12.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
-ocMA.Kathisma12.incipit = "…"
-ocMA.Kathisma12.text = ""
+ocMA.Kathisma12.incipit = "O merciful Lord…"
+ocMA.Kathisma12.text = "O merciful Lord, nailed to the Cross of Your own will, * O Giver of Life, laid in a tomb as a mortal, * by death You destroyed the power of death, as the Mighty One. * For the doorkeepers of Hades quaked when they saw You. * With yourself You raised those who were long dead, O Savior * supremely benevolent."
 
 ocMA.Kathisma13.mode = miscellanea_en_US_goadedes.misc.Mode1
 ocMA.Kathisma13.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 ocMA.Kathisma13.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
-ocMA.Kathisma13.incipit = "…"
-ocMA.Kathisma13.text = ""
+ocMA.Kathisma13.incipit = "We know you…"
+ocMA.Kathisma13.text = "We know you as the Mother of God and all-blameless, * for you remained a virgin indeed after childbirth. * With longing we flee to you and appeal to your tender love. * We are sinners all, but we have you to defend us. * We rely on you, O Lady. Rescue and save us * when we are in dire straits."
 
 ocMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode1
 ocMA.Kathisma21.greekmelody = he.a.m1_en_US_goadedes.heAU.TouLithouSfragisthentos.greekname
 ocMA.Kathisma21.melody = he.a.m1_en_US_goadedes.heAU.TouLithouSfragisthentos.name
 ocMA.Kathisma21.incipit = "…"
-ocMA.Kathisma21.text = ""
+ocMA.Kathisma21.text = "The women were at the tomb early in the morning. * 
+When they saw a vision of angels, trembling came upon them. * 
+The sepulcher was radiating life, and the dazzling marvel astonished them. *
+They departed and ran to proclaim the resurrection to the Disciples. *
+\"Christ, the only strong and mighty Lord, 
+has divested Hades of its spoils. 
+He has freed the dead from fear of condemnation 
+by the power of the Cross and raised them all with himself.\"
+"
 
 ocMA.Kathisma22.mode = miscellanea_en_US_goadedes.misc.Mode1
 ocMA.Kathisma22.greekmelody = he.a.m1_en_US_goadedes.heAU.TouLithouSfragisthentos.greekname
@@ -360,7 +368,13 @@ ocMA.Kathisma23.mode = miscellanea_en_US_goadedes.misc.Mode1
 ocMA.Kathisma23.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 ocMA.Kathisma23.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 ocMA.Kathisma23.incipit = "…"
-ocMA.Kathisma23.text = ""
+ocMA.Kathisma23.text = "O Mary, whose august body hosted the Master, 
+we pray you raise us up, for we are sunk in the darkness 
+of dreadful despondency, of transgressions and suffering. * 
+Lady, you indeed are the salvation of sinners. 
+You give help to us; you are our mighty protection; * 
+and you save us your servants.
+"
 
 ocMA.Hypakoe.mode = miscellanea_en_US_goadedes.misc.Mode1
 ocMA.Hypakoe.melody = ""
@@ -371,48 +385,48 @@ ocMA.MM.AntiphonsProkeimenon.text = properties_en_US_goadedes.media.key
 
 ocMA.Antiphon11.mode = miscellanea_en_US_goadedes.misc.Mode1
 ocMA.Antiphon11.melody = ""
-ocMA.Antiphon11.incipit = "…"
-ocMA.Antiphon11.text = ""
+ocMA.Antiphon11.incipit = "In my affliction…"
+ocMA.Antiphon11.text = "In my affliction, I cry out to You, O Lord. Hear me in my grief."
 
 ocMA.Antiphon12.mode = miscellanea_en_US_goadedes.misc.Mode1
 ocMA.Antiphon12.melody = ""
-ocMA.Antiphon12.incipit = "…"
-ocMA.Antiphon12.text = ""
+ocMA.Antiphon12.incipit = "The longing for God…"
+ocMA.Antiphon12.text = "The longing for God is unceasing in those who dwell in the desert, outside of the futile world as they are."
 
 ocMA.Antiphon13.mode = miscellanea_en_US_goadedes.misc.Mode1
 ocMA.Antiphon13.melody = ""
-ocMA.Antiphon13.incipit = "…"
-ocMA.Antiphon13.text = ""
+ocMA.Antiphon13.incipit = "To the Holy Spirit…"
+ocMA.Antiphon13.text = "To the Holy Spirit, as to the Father and the Son, belong the honor and the glory. Therefore let us sing a hymn to the Trinity, the one and only Ruler."
 
 ocMA.Antiphon21.mode = miscellanea_en_US_goadedes.misc.Mode1
 ocMA.Antiphon21.melody = ""
-ocMA.Antiphon21.incipit = "…"
-ocMA.Antiphon21.text = ""
+ocMA.Antiphon21.incipit = "Having lifted me up…"
+ocMA.Antiphon21.text = "Having lifted me up to the mountains of Your laws, brighten me with virtues, O God, that I may praise You."
 
 ocMA.Antiphon22.mode = miscellanea_en_US_goadedes.misc.Mode1
 ocMA.Antiphon22.melody = ""
-ocMA.Antiphon22.incipit = "…"
-ocMA.Antiphon22.text = ""
+ocMA.Antiphon22.incipit = "With Your right hand…"
+ocMA.Antiphon22.text = "With Your right hand embracing me, O Logos, keep me safe and shelter me, so that the fire of sin not burn me."
 
 ocMA.Antiphon23.mode = miscellanea_en_US_goadedes.misc.Mode1
 ocMA.Antiphon23.melody = ""
-ocMA.Antiphon23.incipit = "…"
-ocMA.Antiphon23.text = ""
+ocMA.Antiphon23.incipit = "By the Holy Spirit…"
+ocMA.Antiphon23.text = "By the Holy Spirit all creation is renewed, and thus returns to its first state. For He is equal in power to the Father and the Logos."
 
 ocMA.Antiphon31.mode = miscellanea_en_US_goadedes.misc.Mode1
 ocMA.Antiphon31.melody = ""
-ocMA.Antiphon31.incipit = "…"
-ocMA.Antiphon31.text = ""
+ocMA.Antiphon31.incipit = "When they said to me…"
+ocMA.Antiphon31.text = "When they said to me, \"Let us go into the courts of the Lord,\" my spirit was glad and my heart rejoiced also."
 
 ocMA.Antiphon32.mode = miscellanea_en_US_goadedes.misc.Mode1
 ocMA.Antiphon32.melody = ""
-ocMA.Antiphon32.incipit = "…"
-ocMA.Antiphon32.text = ""
+ocMA.Antiphon32.incipit = "Over the house of David…"
+ocMA.Antiphon32.text = "Over the house of David there is great fear; for when thrones are set there, all the tribes and tongues of the earth will be judged."
 
 ocMA.Antiphon33.mode = miscellanea_en_US_goadedes.misc.Mode1
 ocMA.Antiphon33.melody = ""
-ocMA.Antiphon33.incipit = "…"
-ocMA.Antiphon33.text = ""
+ocMA.Antiphon33.incipit = "To the Holy Spirit…"
+ocMA.Antiphon33.text = "To the Holy Spirit the honor, worship, glory, and dominion that befit the Father and the Son should also be ascribed, for the Trinity is one in nature but not in persons."
 
 ocMA.MM.Prokeimenon.text = properties_en_US_goadedes.media.key
 
