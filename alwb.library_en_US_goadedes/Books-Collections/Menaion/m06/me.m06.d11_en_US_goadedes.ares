@@ -523,8 +523,8 @@ meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
 meMegalynarion.text = ""
 
-alt1.meDA.date = ""
-alt1.meDA.commemoration.full = "" // full title of day
+alt1.meDA.date = "June 11"
+alt1.meDA.commemoration.full = "Memory of the Holy Apostle Bartholomew" // full title of day
 alt1.meDA.commemoration.second = "" // full title of day
 alt1.meDA.commemoration.first_short = "Memory of St. Bartholomew"
 alt1.meDA.commemoration.first_title = "For St. Bartholomew."
@@ -647,8 +647,9 @@ alt1.meVE.SticTheotokion.text = oc.m6.d1_en_US_goadedes.ocVE.SticTheotokion.text
 
 alt1.meVE.Lity1.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt1.meVE.Lity1.melody = ""
-alt1.meVE.Lity1.incipit = "…"
-alt1.meVE.Lity1.text = ""
+alt1.meVE.Lity1.incipit = "Once you received…"
+alt1.meVE.Lity1.text = "Once you received the true light from Christ, you shone as a light of the world, O Apostle Bartholomew. Being close to the Master, you received the initiation into things indescribable, and then you taught uninitiated people the great mystery of godliness You managed well the position you were given; and now you have been granted the celestial kingdom
+by Christ our God, the Savior of our souls."
 
 alt1.meVE.Lity2.mode = miscellanea_en_US_goadedes.misc.Mode2
 alt1.meVE.Lity2.melody = ""
