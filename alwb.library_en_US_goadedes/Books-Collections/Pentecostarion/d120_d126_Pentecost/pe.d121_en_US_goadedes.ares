@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = pe.d121_en_US_goadedes
 
 peDA.commemoration.full = "" //full title of day
-peDA.commemoration.short = ""
+peDA.commemoration.short = "Monday of the Holy Spirit"
 peDA.commemoration.name = "Holy Spirit"
 peDA.insert1 = "" //for use in petitions and dismissal
 peDA.insert2 = "" //for use in petitions and dismissal
@@ -142,11 +142,13 @@ peSY.commemoration.narration.p07 = ""
 peSY.lastline = ""
 
 peMA.Exaposteilarion1.mode = pe.d120_en_US_goadedes.peMA.Exaposteilarion1.mode
+peMA.Exaposteilarion1.greekmelody = pe.d120_en_US_goadedes.peMA.Exaposteilarion1.greekmelody
 peMA.Exaposteilarion1.melody = pe.d120_en_US_goadedes.peMA.Exaposteilarion1.melody
 peMA.Exaposteilarion1.incipit = pe.d120_en_US_goadedes.peMA.Exaposteilarion1.incipit
 peMA.Exaposteilarion1.text = pe.d120_en_US_goadedes.peMA.Exaposteilarion1.text
 
 peMA.Exaposteilarion2.mode = pe.d120_en_US_goadedes.peMA.Exaposteilarion2.mode
+peMA.Exaposteilarion2.greekmelody = pe.d120_en_US_goadedes.peMA.Exaposteilarion2.greekmelody
 peMA.Exaposteilarion2.melody = pe.d120_en_US_goadedes.peMA.Exaposteilarion2.melody
 peMA.Exaposteilarion2.incipit = pe.d120_en_US_goadedes.peMA.Exaposteilarion2.incipit
 peMA.Exaposteilarion2.text = pe.d120_en_US_goadedes.peMA.Exaposteilarion2.text
