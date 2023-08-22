@@ -41,8 +41,8 @@ meSV.SticGlory.text = ""
 
 meSV.SticBoth.mode = miscellanea_en_US_goadedes.misc.Mode2
 meSV.SticBoth.melody = ""
-meSV.SticBoth.incipit = ho.s23_en_US_goadedes.hoCA.Troparion7.incipit
-meSV.SticBoth.text = ho.s23_en_US_goadedes.hoCA.Troparion7.text
+meSV.SticBoth.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion7.incipit
+meSV.SticBoth.text = ho.ho23_en_US_goadedes.hoCA.Troparion7.text
 
 meSV.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
 meSV.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
@@ -223,13 +223,13 @@ meMA.MM.Prokeimenon.text = properties_en_US_goadedes.media.key
 
 meMA.PostGospelGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.incipit = ho.s03_en_US_goadedes.hoMA.PostGospelMaleMartyr.incipit
-meMA.PostGospelGlory.text = ho.s03_en_US_goadedes.hoMA.PostGospelMaleMartyr.text
+meMA.PostGospelGlory.incipit = ho.ho03_en_US_goadedes.hoMA.PostGospelMaleMartyr.incipit
+meMA.PostGospelGlory.text = ho.ho03_en_US_goadedes.hoMA.PostGospelMaleMartyr.text
 
 meMA.PostGospelBoth.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.incipit = ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.incipit
-meMA.PostGospelBoth.text = ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.text
+meMA.PostGospelBoth.incipit = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.incipit
+meMA.PostGospelBoth.text = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.PostGospelIdiomelon.melody = ""

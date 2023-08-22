@@ -1,0 +1,140 @@
+A_Resource_Whose_Name = ho.ho15.m01_en_US_goadedes
+
+ho.Month = ""
+ho.Days = ""
+ho.Hours = ""
+
+hoD02.GeneralApolytikion1.name = ""
+
+hoD02.Apolytikion1.title = titles_en_US_goadedes.ti.SaintM
+hoD02.Apolytikion1.poet = ""
+hoD02.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode4
+hoD02.Apolytikion1.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
+hoD02.Apolytikion1.text = ""
+
+hoD02.Kontakion1.title = titles_en_US_goadedes.ti.SaintM
+hoD02.Kontakion1.poet = ""
+hoD02.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode4
+hoD02.Kontakion1.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
+hoD02.Kontakion1.text = ""
+
+hoD03.Kontakion1.title = titles_en_US_goadedes.ti.Martyr
+hoD03.Kontakion1.poet = ""
+hoD03.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoD03.Kontakion1.melody = he.a.m8_en_US_goadedes.heAU.OsAparchas.name
+hoD03.Kontakion1.text = ""
+
+hoD03.Kontakion2.title = titles_en_US_goadedes.ti.Prophet
+hoD03.Kontakion2.poet = ""
+hoD03.Kontakion2.mode = miscellanea_en_US_goadedes.misc.Mode4
+hoD03.Kontakion2.melody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.name
+hoD03.Kontakion2.text = ""
+
+hoD08.Apolytikion1.title = titles_en_US_goadedes.ti.DevoutSaintM
+hoD08.Apolytikion1.poet = ""
+hoD08.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode5
+hoD08.Apolytikion1.melody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.name
+hoD08.Apolytikion1.incipit = "…"
+hoD08.Apolytikion1.text = ""
+
+hoD08.Apolytikion2.title = titles_en_US_goadedes.ti.DevoutW
+hoD08.Apolytikion2.poet = ""
+hoD08.Apolytikion2.mode = miscellanea_en_US_goadedes.misc.Mode4
+hoD08.Apolytikion2.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
+hoD08.Apolytikion2.incipit = "…"
+hoD08.Apolytikion2.text = ""
+
+hoD09.Apolytikion1.title = titles_en_US_goadedes.ti.Martyr
+hoD09.Apolytikion1.poet = ""
+hoD09.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode1
+hoD09.Apolytikion1.melody = he.ga_en_US_goadedes.heGA.TisErimouPolitis.name
+hoD09.Apolytikion1.text = ""
+
+hoD09.Kontakion1.title = titles_en_US_goadedes.ti.Martyr
+hoD09.Kontakion1.poet = ""
+hoD09.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode4
+hoD09.Kontakion1.melody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.name
+hoD09.Kontakion1.incipit = "…"
+hoD09.Kontakion1.text = ""
+
+hoD15.Apolytikion1.title = ""
+hoD15.Apolytikion1.poet = ""
+hoD15.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode3
+hoD15.Apolytikion1.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
+hoD15.Apolytikion1.incipit = "…"
+hoD15.Apolytikion1.text = ""
+
+hoD15.Apolytikion2.title = ""
+
+hoD15.Kontakion1.title = ""
+
+hoD15.Kontakion2.title = ""
+hoD15.Kontakion2.poet = ""
+hoD15.Kontakion2.mode = miscellanea_en_US_goadedes.misc.Mode4
+hoD15.Kontakion2.melody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.name
+hoD15.Kontakion2.incipit = "…"
+hoD15.Kontakion2.text = ""
+
+hoD16.Kontakion1.title = titles_en_US_goadedes.ti.Apostle
+hoD16.Kontakion1.poet = ""
+hoD16.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode2
+hoD16.Kontakion1.melody = he.a.m2_en_US_goadedes.heAU.TaAnoZiton.name
+hoD16.Kontakion1.incipit = "…"
+hoD16.Kontakion1.text = ""
+
+hoD17.Apolytikion1.title = titles_en_US_goadedes.ti.Martyr
+hoD17.Apolytikion1.poet = ""
+hoD17.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode5
+hoD17.Apolytikion1.melody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.name
+hoD17.Apolytikion1.text = ""
+
+hoD19.GeneralApolytikion1.title = ""
+
+hoD19.Apolytikion2.title = titles_en_US_goadedes.ti.DevoutSaints
+hoD19.Apolytikion2.poet = ""
+hoD19.Apolytikion2.mode = miscellanea_en_US_goadedes.misc.Mode1
+hoD19.Apolytikion2.melody = he.a.m1_en_US_goadedes.heAU.TisErimouPolitis.name
+hoD19.Apolytikion2.text = ""
+
+hoD19.Apolytikion3.title = ""
+hoD19.GeneralApolytikion3.name = ""
+
+hoD19.Apolytikion4.title = ""
+hoD19.Apolytikion4.poet = ""
+hoD19.Apolytikion4.mode = miscellanea_en_US_goadedes.misc.Mode4
+hoD19.Apolytikion4.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
+hoD19.Apolytikion4.text = ""
+
+hoD19.Apolytikion5.title = ""
+hoD19.Apolytikion5.poet = ""
+hoD19.Apolytikion5.mode = miscellanea_en_US_goadedes.misc.Mode3
+hoD19.Apolytikion5.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
+hoD19.Apolytikion5.text = ""
+
+hoD19.Kontakion1.title = ""
+
+hoD19.Kontakion2.title = ""
+hoD19.Kontakion2.poet = ""
+hoD19.Kontakion2.mode = miscellanea_en_US_goadedes.misc.Mode3
+hoD19.Kontakion2.melody = he.a.m3_en_US_goadedes.heAU.IParthenosSimeron.name
+hoD19.Kontakion2.text = ""
+
+hoD22.Apolytikion1.title = titles_en_US_goadedes.ti.DevoutMartyrM
+hoD22.Apolytikion1.poet = ""
+hoD22.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode4
+hoD22.Apolytikion1.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
+hoD22.Apolytikion1.incipit = "…"
+hoD22.Apolytikion1.text = ""
+
+hoD24.Apolytikion1.title = titles_en_US_goadedes.ti.DevoutW
+hoD24.Apolytikion1.poet = ""
+hoD24.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode3
+hoD24.Apolytikion1.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
+hoD24.Apolytikion1.text = ""
+
+hoD26.Kontakion1.title = titles_en_US_goadedes.ti.DevoutSaintM
+hoD26.Kontakion1.poet = ""
+hoD26.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode4
+hoD26.Kontakion1.melody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.name
+hoD26.Kontakion1.text = ""
+

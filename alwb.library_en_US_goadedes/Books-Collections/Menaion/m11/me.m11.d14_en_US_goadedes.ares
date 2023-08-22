@@ -70,8 +70,8 @@ meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.AposTheotokion.melody = ""
-meVE.AposTheotokion.incipit = ho.s23_en_US_goadedes.hoCA.Troparion7.incipit
-meVE.AposTheotokion.text = ho.s23_en_US_goadedes.hoCA.Troparion7.text
+meVE.AposTheotokion.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion7.incipit
+meVE.AposTheotokion.text = ho.ho23_en_US_goadedes.hoCA.Troparion7.text
 
 meVE.GeneralApolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode3
 meVE.GeneralApolytikion1.melody = he.ga_en_US_goadedes.heGA.ApostoleAgie.name
@@ -391,8 +391,8 @@ meMA.LaudsGlory.text = ""
 
 meMA.LaudsTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.LaudsTheotokion.melody = ""
-meMA.LaudsTheotokion.incipit = ho.s23_en_US_goadedes.hoCA.Troparion7.incipit
-meMA.LaudsTheotokion.text = ho.s23_en_US_goadedes.hoCA.Troparion7.text
+meMA.LaudsTheotokion.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion7.incipit
+meMA.LaudsTheotokion.text = ho.ho23_en_US_goadedes.hoCA.Troparion7.text
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_goadedes.media.key
 
@@ -624,13 +624,13 @@ alt1.meMA.MM.Prokeimenon.text = properties_en_US_goadedes.media.key
 
 alt1.meMA.PostGospelGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 alt1.meMA.PostGospelGlory.melody = ""
-alt1.meMA.PostGospelGlory.incipit = ho.s03_en_US_goadedes.hoMA.PostGospelHierarch.incipit
-alt1.meMA.PostGospelGlory.text = ho.s03_en_US_goadedes.hoMA.PostGospelHierarch.text
+alt1.meMA.PostGospelGlory.incipit = ho.ho03_en_US_goadedes.hoMA.PostGospelHierarch.incipit
+alt1.meMA.PostGospelGlory.text = ho.ho03_en_US_goadedes.hoMA.PostGospelHierarch.text
 
 alt1.meMA.PostGospelBoth.mode = miscellanea_en_US_goadedes.misc.Mode2
 alt1.meMA.PostGospelBoth.melody = ""
-alt1.meMA.PostGospelBoth.incipit = ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.incipit
-alt1.meMA.PostGospelBoth.text = ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.text
+alt1.meMA.PostGospelBoth.incipit = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.incipit
+alt1.meMA.PostGospelBoth.text = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.text
 
 alt1.meMA.PostGospelIdiomelon.mode = miscellanea_en_US_goadedes.misc.Mode6
 alt1.meMA.PostGospelIdiomelon.melody = ""

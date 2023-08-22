@@ -168,13 +168,13 @@ meMA.MM.Prokeimenon.text = properties_en_US_goadedes.media.key
 
 meMA.PostGospelGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.incipit = ho.s03_en_US_goadedes.hoMA.PostGospelMartyrs.incipit
-meMA.PostGospelGlory.text = ho.s03_en_US_goadedes.hoMA.PostGospelMartyrs.text
+meMA.PostGospelGlory.incipit = ho.ho03_en_US_goadedes.hoMA.PostGospelMartyrs.incipit
+meMA.PostGospelGlory.text = ho.ho03_en_US_goadedes.hoMA.PostGospelMartyrs.text
 
 meMA.PostGospelBoth.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.incipit = ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.incipit
-meMA.PostGospelBoth.text = ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.text
+meMA.PostGospelBoth.incipit = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.incipit
+meMA.PostGospelBoth.text = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelIdiomelon.melody = miscellanea_en_US_goadedes.misc.Idiomelon
@@ -568,8 +568,8 @@ mePL.Glory.text = ""
 
 mePL.Theotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 mePL.Theotokion.melody = ""
-mePL.Theotokion.incipit = ho.s23_en_US_goadedes.hoCA.Troparion7.incipit
-mePL.Theotokion.text = ho.s23_en_US_goadedes.hoCA.Troparion7.text
+mePL.Theotokion.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion7.incipit
+mePL.Theotokion.text = ho.ho23_en_US_goadedes.hoCA.Troparion7.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

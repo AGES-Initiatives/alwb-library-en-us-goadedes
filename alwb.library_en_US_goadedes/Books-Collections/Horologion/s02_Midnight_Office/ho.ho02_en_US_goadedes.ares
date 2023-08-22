@@ -1,0 +1,48 @@
+A_Resource_Whose_Name = ho.ho02_en_US_goadedes
+
+hoMO.AfterCreedTheotokion.text = "We entreat you, O Virgin Theotokos, the inviolable wall and stronghold of salvation. Thwart the schemes of our enemies. Turn the sadness of your people into gladness. Fortify you city. Be our ally. Recall the world. Strengthen the Orthodox. Intercede for world peace. You are our hope, O Theotokos."
+
+hoMO.StEphraimPrayerRubrics1.text = ""
+hoMO.StEphraimPrayerRubrics2.text = ""
+
+hoMO.StEphraimPrayerLentenRubrics1.text = ""
+hoMO.StEphraimPrayerLentenRubrics2.text = ""
+
+hoMO.StMardariosPrayer.title = ""
+hoMO.StMardariosPrayer.text = ho.ho05_en_US_goadedes.hoH3.Prayer.text
+hoMO.StMardariosPrayer.rubric = ""
+
+hoMO.StBasilPrayer1.rubric = "Note: The following prayer is use from 22 September until Palm Sunday."
+hoMO.StBasilPrayer1.title = ""
+hoMO.StBasilPrayer1.text = ""
+
+hoMO.StBasilPrayer2.rubric = ""
+hoMO.StBasilPrayer2.title = ""
+hoMO.StBasilPrayer2.text = ""
+
+hoMO.PrayerForDeceased.rubric = ""
+hoMO.PrayerForDeceased.title = ""
+hoMO.PrayerForDeceased.text = ""
+
+hoMO.TriadicMegalynaria.title = "Megalynaria to the Trinity"
+hoMO.TriadicMegalynaria.mode = miscellanea_en_US_goadedes.misc.Mode2
+hoMO.TriadicMegalynaria01.incipit = "It is truly proper…"
+hoMO.TriadicMegalynaria01.text = "It is truly proper to extol the Trinity divine and holy: Unoriginate Father, Maker of all, co-eternal Logos, begotten before all time without change from the Father, and the all-holy Spirit, the Giver of life, who proceeds from the Father timelessly."
+hoMO.TriadicMegalynaria02.incipit = "It is truly proper to extol…"
+hoMO.TriadicMegalynaria02.text = "It is truly proper to extol and to glorify You, God the Logos. The Cherubim shudder and tremble at You, and the hosts of heaven offer hymns of glory to You; for You rose from the grave within three days. With fear we glorify You, Christ the Giver of Life."
+hoMO.TriadicMegalynaria03.incipit = "Come and let us all sing…"
+hoMO.TriadicMegalynaria03.text = "Come and let us all sing inspired songs, * solemnly extolling as is proper to the divine * Father, Son, and all-holy Spirit, one dominion, * one kingdom, one in essence, three in hypostases."
+hoMO.TriadicMegalynaria04.incipit = "Immaculate Virgin…"
+hoMO.TriadicMegalynaria04.text = "Immaculate Virgin, when creation saw your Son risen, as befits God, it was filled with great joy and ineffable gladness, and it glorified the Savior, and it honored you."
+
+hoMO.SaturdayTroparion1.mode = miscellanea_en_US_goadedes.misc.Mode2
+hoMO.SaturdayTroparion1.incipit = "…"
+hoMO.SaturdayTroparion1.text = "" //oc.m2.d2_en_US_goadedes.octrMA.Triadic2.text
+hoMO.SaturdayTroparion2.incipit = "…"
+hoMO.SaturdayTroparion2.text = "" //oc.m2.d2_en_US_goadedes.octrMA.Triadic1.text
+hoMO.SaturdayTroparion3.incipit = "…"
+hoMO.SaturdayTroparion3.text = "" //oc.m2.d2_en_US_goadedes.octrMA.Triadic3.text
+
+hoMO.StEfstratiosPrayer.rubric = ""
+hoMO.StEfstratiosPrayer.title = ""
+hoMO.StEfstratiosPrayer.text = ""

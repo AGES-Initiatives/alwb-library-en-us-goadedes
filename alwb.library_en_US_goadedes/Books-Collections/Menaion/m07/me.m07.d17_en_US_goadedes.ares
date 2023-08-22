@@ -116,8 +116,8 @@ meMA.Kathisma11.text = ""
 
 meMA.Kathisma1T.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Kathisma1T.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
-meMA.Kathisma1T.incipit = ho.s23_en_US_goadedes.hoCA.Apolytikion2.incipit
-meMA.Kathisma1T.text = ho.s23_en_US_goadedes.hoCA.Apolytikion2.text
+meMA.Kathisma1T.incipit = ho.ho23_en_US_goadedes.hoCA.Apolytikion2.incipit
+meMA.Kathisma1T.text = ho.ho23_en_US_goadedes.hoCA.Apolytikion2.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Kathisma21.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
@@ -148,13 +148,13 @@ meMA.MM.Prokeimenon.text = properties_en_US_goadedes.media.key
 
 meMA.PostGospelGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.incipit = ho.s03_en_US_goadedes.hoMA.PostGospelWomanMartyr.incipit
-meMA.PostGospelGlory.text = ho.s03_en_US_goadedes.hoMA.PostGospelWomanMartyr.text
+meMA.PostGospelGlory.incipit = ho.ho03_en_US_goadedes.hoMA.PostGospelWomanMartyr.incipit
+meMA.PostGospelGlory.text = ho.ho03_en_US_goadedes.hoMA.PostGospelWomanMartyr.text
 
 meMA.PostGospelBoth.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.incipit = ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.incipit
-meMA.PostGospelBoth.text = ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.text
+meMA.PostGospelBoth.incipit = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.incipit
+meMA.PostGospelBoth.text = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelIdiomelon.melody = ""
@@ -706,8 +706,8 @@ meMA.Exaposteilarion1.text = ""
 
 meMA.ExapTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
-meMA.ExapTheotokion.incipit = ho.s23_en_US_goadedes.hoCA.Exaposteilarion4.incipit
-meMA.ExapTheotokion.text = ho.s23_en_US_goadedes.hoCA.Exaposteilarion4.text
+meMA.ExapTheotokion.incipit = ho.ho23_en_US_goadedes.hoCA.Exaposteilarion4.incipit
+meMA.ExapTheotokion.text = ho.ho23_en_US_goadedes.hoCA.Exaposteilarion4.text
 
 meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Lauds1.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname

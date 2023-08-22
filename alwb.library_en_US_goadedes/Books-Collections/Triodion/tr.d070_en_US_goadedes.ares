@@ -484,19 +484,19 @@ trHW.Encomia3T.text = "We pray you, Virgin Mother * of Christ, to count us worth
 trHW.Encomia3F.text = trHW.Encomia301.text
 
 // Resurrectional Evlogetaria keys for media
-trHW.Evlogetaria1.incipit = ho.s03_en_US_goadedes.hoMA.ResEvlog1.incipit
-trHW.Evlogetaria1.text = ho.s03_en_US_goadedes.hoMA.ResEvlog1.text
-trHW.Evlogetaria2.incipit = ho.s03_en_US_goadedes.hoMA.ResEvlog2.incipit
-trHW.Evlogetaria2.text = ho.s03_en_US_goadedes.hoMA.ResEvlog2.text
-trHW.Evlogetaria3.incipit = ho.s03_en_US_goadedes.hoMA.ResEvlog3.incipit
-trHW.Evlogetaria3.text = ho.s03_en_US_goadedes.hoMA.ResEvlog3.text
-trHW.Evlogetaria4.incipit = ho.s03_en_US_goadedes.hoMA.ResEvlog4.incipit
-trHW.Evlogetaria4.text = ho.s03_en_US_goadedes.hoMA.ResEvlog4.text
-trHW.Evlogetaria5.incipit = ho.s03_en_US_goadedes.hoMA.ResEvlog5.incipit
-trHW.Evlogetaria5.text = ho.s03_en_US_goadedes.hoMA.ResEvlog5.text
-trHW.Evlogetaria6.incipit = ho.s03_en_US_goadedes.hoMA.ResEvlog6.incipit
-trHW.Evlogetaria6.text = ho.s03_en_US_goadedes.hoMA.ResEvlog6.text
-trHW.Evlogetaria7.text = ho.s03_en_US_goadedes.hoMA.ResEvlog7.text
+trHW.Evlogetaria1.incipit = ho.ho03_en_US_goadedes.hoMA.ResEvlog1.incipit
+trHW.Evlogetaria1.text = ho.ho03_en_US_goadedes.hoMA.ResEvlog1.text
+trHW.Evlogetaria2.incipit = ho.ho03_en_US_goadedes.hoMA.ResEvlog2.incipit
+trHW.Evlogetaria2.text = ho.ho03_en_US_goadedes.hoMA.ResEvlog2.text
+trHW.Evlogetaria3.incipit = ho.ho03_en_US_goadedes.hoMA.ResEvlog3.incipit
+trHW.Evlogetaria3.text = ho.ho03_en_US_goadedes.hoMA.ResEvlog3.text
+trHW.Evlogetaria4.incipit = ho.ho03_en_US_goadedes.hoMA.ResEvlog4.incipit
+trHW.Evlogetaria4.text = ho.ho03_en_US_goadedes.hoMA.ResEvlog4.text
+trHW.Evlogetaria5.incipit = ho.ho03_en_US_goadedes.hoMA.ResEvlog5.incipit
+trHW.Evlogetaria5.text = ho.ho03_en_US_goadedes.hoMA.ResEvlog5.text
+trHW.Evlogetaria6.incipit = ho.ho03_en_US_goadedes.hoMA.ResEvlog6.incipit
+trHW.Evlogetaria6.text = ho.ho03_en_US_goadedes.hoMA.ResEvlog6.text
+trHW.Evlogetaria7.text = ho.ho03_en_US_goadedes.hoMA.ResEvlog7.text
 
 trMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
 trMA.Kathisma11.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
@@ -814,7 +814,7 @@ trMA.Ode9K.text = he.h.m6_en_US_goadedes.heHE.MiEpodyrouMouMiter.text
 
 trMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
 trMA.Exaposteilarion1.melody = ""
-trMA.Exaposteilarion1.text = ho.s03_en_US_goadedes.hoMA.SunExapVerse1.text
+trMA.Exaposteilarion1.text = ho.ho03_en_US_goadedes.hoMA.SunExapVerse1.text
 
 trHW.Lauds01.text = "" // for media
 

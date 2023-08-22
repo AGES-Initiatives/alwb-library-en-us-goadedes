@@ -985,8 +985,8 @@ ocMA.Lauds8.text = "Listen, O brood of Jewish agitators. Where are those who wen
 
 ocMA.ApolTheotokion.mode = ""
 ocMA.ApolTheotokion.melody = ""
-ocMA.ApolTheotokion.incipit = ho.s03_en_US_goadedes.hoMA.SunTroparion1.incipit
-ocMA.ApolTheotokion.text = ho.s03_en_US_goadedes.hoMA.SunTroparion1.text
+ocMA.ApolTheotokion.incipit = ho.ho03_en_US_goadedes.hoMA.SunTroparion1.incipit
+ocMA.ApolTheotokion.text = ho.ho03_en_US_goadedes.hoMA.SunTroparion1.text
 
 ocLI.Beatitudes1.mode = miscellanea_en_US_goadedes.misc.Mode1
 ocLI.Beatitudes1.melody = he.h.m1_en_US_goadedes.heHE.StereothitoIKardiaMou.name

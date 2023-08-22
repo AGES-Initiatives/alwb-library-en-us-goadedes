@@ -1030,8 +1030,8 @@ ocMA.Lauds8.text = "The Myrrh-bearing Women came to Your life-bearing tomb, O Lo
 
 ocMA.ApolTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
 ocMA.ApolTheotokion.melody = ""
-ocMA.ApolTheotokion.incipit = ho.s03_en_US_goadedes.hoMA.SunTroparion2.incipit
-ocMA.ApolTheotokion.text = ho.s03_en_US_goadedes.hoMA.SunTroparion2.text
+ocMA.ApolTheotokion.incipit = ho.ho03_en_US_goadedes.hoMA.SunTroparion2.incipit
+ocMA.ApolTheotokion.text = ho.ho03_en_US_goadedes.hoMA.SunTroparion2.text
 
 ocLI.Beatitudes1.mode = miscellanea_en_US_goadedes.misc.Mode6
 ocLI.Beatitudes1.melody = he.h.m6_en_US_goadedes.heHE.IToChaireDiAngelou.name

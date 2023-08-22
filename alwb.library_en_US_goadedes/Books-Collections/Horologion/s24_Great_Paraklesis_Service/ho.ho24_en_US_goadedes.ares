@@ -1,0 +1,497 @@
+A_Resource_Whose_Name = ho.ho24_en_US_goadedes
+
+//Great Paraklesis
+hoCA.title = ""
+hoCA.title2 = ""
+hoCA.poet = ""
+hoCA.translator = ""
+
+hoCA.media.text = "" //for complete music
+
+R01 = ""
+/*
+Priest
+[Invocation]
+Reader: Amen
+Ps142.title = ""
+Ps142.text = ""
+R02 = ""
+Mode4
+God is the Lord
+R03 = ""
+*/
+
+hoCA.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode4
+hoCA.Apolytikion1.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
+hoCA.Apolytikion1.incipit = oc.m4.d3_en_US_goadedes.ocVE.ApolTheotokionVM.incipit
+hoCA.Apolytikion1.text = oc.m4.d3_en_US_goadedes.ocVE.ApolTheotokionVM.text
+
+//Glory. Repeat
+//R04 = ""
+//Both now
+
+hoCA.Apolytikion2.mode = miscellanea_en_US_goadedes.misc.Mode4
+hoCA.Apolytikion2.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
+hoCA.Apolytikion2.incipit = ho.ho23_en_US_goadedes.hoCA.Apolytikion2.incipit
+hoCA.Apolytikion2.text = ho.ho23_en_US_goadedes.hoCA.Apolytikion2.text
+
+//Reader
+//Ps50.title = ""
+//Ps50.text = ""
+
+//R05 = ""
+
+hoCA.Ode1H.ode = miscellanea_en_US_goadedes.misc.Ode1
+hoCA.Ode1H.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode1H.greekmelody = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.greekname
+hoCA.Ode1H.melody = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.melody
+hoCA.Ode1H.incipit = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.incipit
+hoCA.Ode1H.text = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.text
+
+hoCA.Ode11.ode = miscellanea_en_US_goadedes.misc.Ode1
+hoCA.Ode11.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode11.greekmelody = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.greekname
+hoCA.Ode11.melody = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.name
+hoCA.Ode11.incipit = "…"
+hoCA.Ode11.text = ""
+
+hoCA.Ode12.ode = miscellanea_en_US_goadedes.misc.Ode1
+hoCA.Ode12.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode12.melody = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.name
+hoCA.Ode12.incipit = "…"
+hoCA.Ode12.text = ""
+
+hoCA.Ode13.ode = miscellanea_en_US_goadedes.misc.Ode1
+hoCA.Ode13.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode13.melody = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.name
+hoCA.Ode13.incipit = "…"
+hoCA.Ode13.text = ""
+
+hoCA.Ode14.ode = miscellanea_en_US_goadedes.misc.Ode1
+hoCA.Ode14.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode14.melody = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.name
+hoCA.Ode14.incipit = "…"
+hoCA.Ode14.text = ""
+
+hoCA.Troparion11.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Troparion11.melody = ""
+hoCA.Troparion11.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion31.incipit
+hoCA.Troparion11.text = ho.ho23_en_US_goadedes.hoCA.Troparion31.text
+
+hoCA.Troparion12.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Troparion12.melody = ""
+hoCA.Troparion12.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion32.incipit
+hoCA.Troparion12.text = ho.ho23_en_US_goadedes.hoCA.Troparion32.text
+
+hoCA.Ode3H.ode = miscellanea_en_US_goadedes.misc.Ode3
+hoCA.Ode3H.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode3H.greekmelody = he.h.m8_en_US_goadedes.heHE.OuraniasApsidos.greekname
+hoCA.Ode3H.melody = he.h.m8_en_US_goadedes.heHE.OuraniasApsidos.melody
+hoCA.Ode3H.incipit = he.h.m8_en_US_goadedes.heHE.OuraniasApsidos.incipit
+hoCA.Ode3H.text = he.h.m8_en_US_goadedes.heHE.OuraniasApsidos.text
+
+hoCA.Ode31.ode = miscellanea_en_US_goadedes.misc.Ode3
+hoCA.Ode31.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode31.greekmelody = he.h.m8_en_US_goadedes.heHE.OuraniasApsidos.greekname
+hoCA.Ode31.melody = he.h.m8_en_US_goadedes.heHE.OuraniasApsidos.name
+hoCA.Ode31.incipit = "…"
+hoCA.Ode31.text = ""
+
+hoCA.Ode32.ode = miscellanea_en_US_goadedes.misc.Ode3
+hoCA.Ode32.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode32.melody = he.h.m8_en_US_goadedes.heHE.OuraniasApsidos.name
+hoCA.Ode32.incipit = "…"
+hoCA.Ode32.text = ""
+
+hoCA.Ode33.ode = miscellanea_en_US_goadedes.misc.Ode3
+hoCA.Ode33.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode33.melody = he.h.m8_en_US_goadedes.heHE.OuraniasApsidos.name
+hoCA.Ode33.incipit = "…"
+hoCA.Ode33.text = ""
+
+hoCA.Ode34.ode = miscellanea_en_US_goadedes.misc.Ode3
+hoCA.Ode34.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode34.melody = he.h.m8_en_US_goadedes.heHE.OuraniasApsidos.name
+hoCA.Ode34.incipit = "…"
+hoCA.Ode34.text = ""
+
+hoCA.Troparion31.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Troparion31.melody = ""
+hoCA.Troparion31.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion31.incipit
+hoCA.Troparion31.text = ho.ho23_en_US_goadedes.hoCA.Troparion31.text
+
+hoCA.Troparion32.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Troparion32.melody = ""
+hoCA.Troparion32.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion32.incipit
+hoCA.Troparion32.text = ho.ho23_en_US_goadedes.hoCA.Troparion32.text
+
+//R06 Priest
+//Litany
+
+//R07
+
+hoCA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode2
+hoCA.Kathisma11.melody = he.a.m2_en_US_goadedes.heAU.TaAnoZiton.name
+hoCA.Kathisma11.incipit = ho.ho23_en_US_goadedes.hoCA.Kathisma11.incipit
+hoCA.Kathisma11.text = ho.ho23_en_US_goadedes.hoCA.Kathisma11.text
+
+hoCA.Ode4H.ode = miscellanea_en_US_goadedes.misc.Ode4
+hoCA.Ode4H.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode4H.greekmelody = he.h.m8_en_US_goadedes.heHE.SyMouIschys.greekname
+hoCA.Ode4H.melody = he.h.m8_en_US_goadedes.heHE.SyMouIschys.melody
+hoCA.Ode4H.incipit = he.h.m8_en_US_goadedes.heHE.SyMouIschys.incipit
+hoCA.Ode4H.text = he.h.m8_en_US_goadedes.heHE.SyMouIschys.text
+
+hoCA.Ode41.ode = miscellanea_en_US_goadedes.misc.Ode4
+hoCA.Ode41.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode41.greekmelody = he.h.m8_en_US_goadedes.heHE.SyMouIschys.greekname
+hoCA.Ode41.melody = he.h.m8_en_US_goadedes.heHE.SyMouIschys.name
+hoCA.Ode41.incipit = "…"
+hoCA.Ode41.text = ""
+
+hoCA.Ode42.ode = miscellanea_en_US_goadedes.misc.Ode4
+hoCA.Ode42.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode42.melody = he.h.m8_en_US_goadedes.heHE.SyMouIschys.name
+hoCA.Ode42.incipit = "…"
+hoCA.Ode42.text = ""
+
+hoCA.Ode43.ode = miscellanea_en_US_goadedes.misc.Ode4
+hoCA.Ode43.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode43.melody = he.h.m8_en_US_goadedes.heHE.SyMouIschys.name
+hoCA.Ode43.incipit = "…"
+hoCA.Ode43.text = ""
+
+hoCA.Ode44.ode = miscellanea_en_US_goadedes.misc.Ode4
+hoCA.Ode44.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode44.melody = he.h.m8_en_US_goadedes.heHE.SyMouIschys.name
+hoCA.Ode44.incipit = "…"
+hoCA.Ode44.text = ""
+
+hoCA.Troparion41.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Troparion41.melody = ""
+hoCA.Troparion41.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion31.incipit
+hoCA.Troparion41.text = ho.ho23_en_US_goadedes.hoCA.Troparion31.text
+
+hoCA.Troparion42.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Troparion42.melody = ""
+hoCA.Troparion42.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion32.incipit
+hoCA.Troparion42.text = ho.ho23_en_US_goadedes.hoCA.Troparion32.text
+
+hoCA.Ode5H.ode = miscellanea_en_US_goadedes.misc.Ode5
+hoCA.Ode5H.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode5H.greekmelody = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.greekname
+hoCA.Ode5H.melody = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.melody
+hoCA.Ode5H.incipit = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.incipit
+hoCA.Ode5H.text = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.text
+
+hoCA.Ode51.ode = miscellanea_en_US_goadedes.misc.Ode5
+hoCA.Ode51.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode51.greekmelody = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.greekname
+hoCA.Ode51.melody = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.name
+hoCA.Ode51.incipit = "…"
+hoCA.Ode51.text = ""
+
+hoCA.Ode52.ode = miscellanea_en_US_goadedes.misc.Ode5
+hoCA.Ode52.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode52.melody = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.name
+hoCA.Ode52.incipit = "…"
+hoCA.Ode52.text = ""
+
+hoCA.Ode53.ode = miscellanea_en_US_goadedes.misc.Ode5
+hoCA.Ode53.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode53.melody = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.name
+hoCA.Ode53.incipit = "…"
+hoCA.Ode53.text = ""
+
+hoCA.Ode54.ode = miscellanea_en_US_goadedes.misc.Ode5
+hoCA.Ode54.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode54.melody = he.h.m8_en_US_goadedes.heHE.InaTiMeAposo.name
+hoCA.Ode54.incipit = "…"
+hoCA.Ode54.text = ""
+
+hoCA.Troparion51.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Troparion51.melody = ""
+hoCA.Troparion51.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion31.incipit
+hoCA.Troparion51.text = ho.ho23_en_US_goadedes.hoCA.Troparion31.text
+
+hoCA.Troparion52.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Troparion52.melody = ""
+hoCA.Troparion52.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion32.incipit
+hoCA.Troparion52.text = ho.ho23_en_US_goadedes.hoCA.Troparion32.text
+
+hoCA.Ode6H.ode = miscellanea_en_US_goadedes.misc.Ode6
+hoCA.Ode6H.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode6H.greekmelody = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.greekname
+hoCA.Ode6H.melody = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.melody
+hoCA.Ode6H.incipit = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.incipit
+hoCA.Ode6H.text = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.text
+
+hoCA.Ode61.ode = miscellanea_en_US_goadedes.misc.Ode6
+hoCA.Ode61.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode61.greekmelody = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.greekname
+hoCA.Ode61.melody = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.name
+hoCA.Ode61.incipit = "…"
+hoCA.Ode61.text = ""
+
+hoCA.Ode62.ode = miscellanea_en_US_goadedes.misc.Ode6
+hoCA.Ode62.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode62.melody = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.name
+hoCA.Ode62.incipit = "…"
+hoCA.Ode62.text = ""
+
+hoCA.Ode63.ode = miscellanea_en_US_goadedes.misc.Ode6
+hoCA.Ode63.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode63.melody = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.name
+hoCA.Ode63.incipit = "…"
+hoCA.Ode63.text = ""
+
+hoCA.Ode64.ode = miscellanea_en_US_goadedes.misc.Ode6
+hoCA.Ode64.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode64.melody = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.name
+hoCA.Ode64.incipit = "…"
+hoCA.Ode64.text = ""
+
+hoCA.Troparion61.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Troparion61.melody = ""
+hoCA.Troparion61.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion31.incipit
+hoCA.Troparion61.text = ho.ho23_en_US_goadedes.hoCA.Troparion31.text
+
+hoCA.Troparion62.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Troparion62.melody = ""
+hoCA.Troparion62.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion32.incipit
+hoCA.Troparion62.text = ho.ho23_en_US_goadedes.hoCA.Troparion32.text
+
+//R08
+//R09
+
+hoCA.Kontakion.mode = miscellanea_en_US_goadedes.misc.Mode2
+hoCA.Kontakion.melody = ""
+hoCA.Kontakion.incipit = ho.ho07_en_US_goadedes.hoTY.Key0408.incipit
+hoCA.Kontakion.text = ho.ho07_en_US_goadedes.hoTY.Key0408.text
+
+//R10
+//First Antiphon Mode 4
+
+//R11
+
+//R12 ""
+hoCA.PostGospelGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
+hoCA.PostGospelGlory.melody = ""
+hoCA.PostGospelGlory.incipit = ho.ho23_en_US_goadedes.hoCA.PostGospelGlory.incipit
+hoCA.PostGospelGlory.text = ho.ho23_en_US_goadedes.hoCA.PostGospelGlory.text
+
+hoCA.PostGospelBoth.mode = miscellanea_en_US_goadedes.misc.Mode2
+hoCA.PostGospelBoth.melody = ""
+hoCA.PostGospelBoth.incipit = ho.ho23_en_US_goadedes.hoCA.PostGospelBoth.incipit
+hoCA.PostGospelBoth.text = ho.ho23_en_US_goadedes.hoCA.PostGospelBoth.text
+
+hoCA.PostGospelVerse.text = ho.ho23_en_US_goadedes.hoCA.PostGospelVerse.text
+
+hoCA.PostGospelHymn1.mode = miscellanea_en_US_goadedes.misc.Mode6
+hoCA.PostGospelHymn1.melody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.name
+hoCA.PostGospelHymn1.incipit = ho.ho23_en_US_goadedes.hoCA.PostGospelHymn1.incipit
+hoCA.PostGospelHymn1.text = ho.ho23_en_US_goadedes.hoCA.PostGospelHymn1.text
+
+hoCA.PostGospelHymn2.mode = miscellanea_en_US_goadedes.misc.Mode6
+hoCA.PostGospelHymn2.melody = ""
+hoCA.PostGospelHymn2.incipit = oc.m6.d3_en_US_goadedes.ocMA.AposTheotokion.incipit
+hoCA.PostGospelHymn2.text = oc.m6.d3_en_US_goadedes.ocMA.AposTheotokion.text
+
+hoCA.PostGospelHymn3.mode = miscellanea_en_US_goadedes.misc.Mode6
+hoCA.PostGospelHymn3.melody = ""
+hoCA.PostGospelHymn3.incipit = oc.m6.d3_en_US_goadedes.ocVE.AposTheotokion.incipit
+hoCA.PostGospelHymn3.text = oc.m6.d3_en_US_goadedes.ocVE.AposTheotokion.text
+
+//Priest
+//Supplication
+
+//R13
+
+hoCA.Ode7H.ode = miscellanea_en_US_goadedes.misc.Ode7
+hoCA.Ode7H.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode7H.greekmelody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.greekname
+hoCA.Ode7H.melody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.melody
+hoCA.Ode7H.incipit = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.incipit
+hoCA.Ode7H.text = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.text
+
+hoCA.Ode71.ode = miscellanea_en_US_goadedes.misc.Ode7
+hoCA.Ode71.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode71.greekmelody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.greekname
+hoCA.Ode71.melody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.name
+hoCA.Ode71.incipit = "…"
+hoCA.Ode71.text = ""
+
+hoCA.Ode72.ode = miscellanea_en_US_goadedes.misc.Ode7
+hoCA.Ode72.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode72.melody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.name
+hoCA.Ode72.incipit = "…"
+hoCA.Ode72.text = ""
+
+hoCA.Ode73.ode = miscellanea_en_US_goadedes.misc.Ode7
+hoCA.Ode73.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode73.melody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.name
+hoCA.Ode73.incipit = "…"
+hoCA.Ode73.text = ""
+
+hoCA.Ode74.ode = miscellanea_en_US_goadedes.misc.Ode7
+hoCA.Ode74.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode74.melody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.name
+hoCA.Ode74.incipit = "…"
+hoCA.Ode74.text = ""
+
+hoCA.Troparion71.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Troparion71.melody = ""
+hoCA.Troparion71.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion31.incipit
+hoCA.Troparion71.text = ho.ho23_en_US_goadedes.hoCA.Troparion31.text
+
+hoCA.Troparion72.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Troparion72.melody = ""
+hoCA.Troparion72.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion32.incipit
+hoCA.Troparion72.text = ho.ho23_en_US_goadedes.hoCA.Troparion32.text
+
+hoCA.Ode8H.ode = miscellanea_en_US_goadedes.misc.Ode8
+hoCA.Ode8H.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode8H.greekmelody = he.h.m8_en_US_goadedes.heHE.TonEnOreiAgio.greekname
+hoCA.Ode8H.melody = he.h.m8_en_US_goadedes.heHE.TonEnOreiAgio.melody
+hoCA.Ode8H.incipit = he.h.m8_en_US_goadedes.heHE.TonEnOreiAgio.incipit
+hoCA.Ode8H.text = he.h.m8_en_US_goadedes.heHE.TonEnOreiAgio.text
+
+hoCA.Ode81.ode = miscellanea_en_US_goadedes.misc.Ode8
+hoCA.Ode81.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode81.greekmelody = he.h.m8_en_US_goadedes.heHE.TonEnOreiAgio.greekname
+hoCA.Ode81.melody = he.h.m8_en_US_goadedes.heHE.TonEnOreiAgio.name
+hoCA.Ode81.incipit = "…"
+hoCA.Ode81.text = ""
+
+hoCA.Ode82.ode = miscellanea_en_US_goadedes.misc.Ode8
+hoCA.Ode82.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode82.melody = he.h.m8_en_US_goadedes.heHE.TonEnOreiAgio.name
+hoCA.Ode82.incipit = "…"
+hoCA.Ode82.text = ""
+
+hoCA.Ode83.ode = miscellanea_en_US_goadedes.misc.Ode8
+hoCA.Ode83.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode83.melody = he.h.m8_en_US_goadedes.heHE.TonEnOreiAgio.name
+hoCA.Ode83.incipit = "…"
+hoCA.Ode83.text = ""
+
+hoCA.Ode84.ode = miscellanea_en_US_goadedes.misc.Ode8
+hoCA.Ode84.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode84.melody = he.h.m8_en_US_goadedes.heHE.TonEnOreiAgio.name
+hoCA.Ode84.incipit = "…"
+hoCA.Ode84.text = ""
+
+hoCA.Troparion81.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Troparion81.melody = ""
+hoCA.Troparion81.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion31.incipit
+hoCA.Troparion81.text = ho.ho23_en_US_goadedes.hoCA.Troparion31.text
+
+hoCA.Troparion82.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Troparion82.melody = ""
+hoCA.Troparion82.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion32.incipit
+hoCA.Troparion82.text = ho.ho23_en_US_goadedes.hoCA.Troparion32.text
+
+hoCA.Ode9H.ode = miscellanea_en_US_goadedes.misc.Ode9
+hoCA.Ode9H.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode9H.greekmelody = he.h.m8_en_US_goadedes.heHE.ExestiEpiTouto.greekname
+hoCA.Ode9H.melody = he.h.m8_en_US_goadedes.heHE.ExestiEpiTouto.melody
+hoCA.Ode9H.incipit = he.h.m8_en_US_goadedes.heHE.ExestiEpiTouto.incipit
+hoCA.Ode9H.text = he.h.m8_en_US_goadedes.heHE.ExestiEpiTouto.text
+
+hoCA.Ode91.ode = miscellanea_en_US_goadedes.misc.Ode9
+hoCA.Ode91.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode91.greekmelody = he.h.m8_en_US_goadedes.heHE.ExestiEpiTouto.greekname
+hoCA.Ode91.melody = he.h.m8_en_US_goadedes.heHE.ExestiEpiTouto.name
+hoCA.Ode91.incipit = "…"
+hoCA.Ode91.text = ""
+
+hoCA.Ode92.ode = miscellanea_en_US_goadedes.misc.Ode9
+hoCA.Ode92.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode92.melody = he.h.m8_en_US_goadedes.heHE.ExestiEpiTouto.name
+hoCA.Ode92.incipit = "…"
+hoCA.Ode92.text = ""
+
+hoCA.Ode93.ode = miscellanea_en_US_goadedes.misc.Ode9
+hoCA.Ode93.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode93.melody = he.h.m8_en_US_goadedes.heHE.ExestiEpiTouto.name
+hoCA.Ode93.incipit = "…"
+hoCA.Ode93.text = ""
+
+hoCA.Ode94.ode = miscellanea_en_US_goadedes.misc.Ode9
+hoCA.Ode94.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Ode94.melody = he.h.m8_en_US_goadedes.heHE.ExestiEpiTouto.name
+hoCA.Ode94.incipit = "…"
+hoCA.Ode94.text = ""
+
+hoCA.Troparion91.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Troparion91.melody = ""
+hoCA.Troparion91.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion31.incipit
+hoCA.Troparion91.text = ho.ho23_en_US_goadedes.hoCA.Troparion31.text
+
+hoCA.Troparion92.mode = miscellanea_en_US_goadedes.misc.Mode8
+hoCA.Troparion92.melody = ""
+hoCA.Troparion92.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion32.incipit
+hoCA.Troparion92.text = ho.ho23_en_US_goadedes.hoCA.Troparion32.text
+
+//R14
+
+hoCA.Meg00.incipit = "…"
+hoCA.Meg00.text = ho.ho03_en_US_goadedes.hoMA.Ode9.Meg00.text
+hoCA.Meg01.melody = he.h.m6_en_US_goadedes.heHE.TinTimioteran.melody
+hoCA.Meg01.incipit = he.h.m6_en_US_goadedes.heHE.TinTimioteran.incipit
+hoCA.Meg01.text = he.h.m6_en_US_goadedes.heHE.TinTimioteran.text
+//R15
+hoCA.Meg02.melody = he.h.m6_en_US_goadedes.heHE.TinTimioteran.name
+hoCA.Meg02.incipit = ho.ho23_en_US_goadedes.hoCA.Meg02.incipit
+hoCA.Meg02.text = ho.ho23_en_US_goadedes.hoCA.Meg02.text
+hoCA.Meg03.melody = he.h.m6_en_US_goadedes.heHE.TinTimioteran.name
+hoCA.Meg03.incipit = ho.ho23_en_US_goadedes.hoCA.Meg03.incipit
+hoCA.Meg03.text = ho.ho23_en_US_goadedes.hoCA.Meg03.text
+hoCA.Meg04.melody = he.h.m6_en_US_goadedes.heHE.TinTimioteran.name
+hoCA.Meg04.incipit = ho.ho23_en_US_goadedes.hoCA.Meg04.incipit
+hoCA.Meg04.text = ho.ho23_en_US_goadedes.hoCA.Meg04.text
+hoCA.Meg05.melody = he.h.m6_en_US_goadedes.heHE.TinTimioteran.name
+hoCA.Meg05.incipit = ho.ho23_en_US_goadedes.hoCA.Meg05.incipit
+hoCA.Meg05.text = ho.ho23_en_US_goadedes.hoCA.Meg05.text
+hoCA.Meg06.melody = he.h.m6_en_US_goadedes.heHE.TinTimioteran.name
+hoCA.Meg06.incipit = ho.ho23_en_US_goadedes.hoCA.Meg06.incipit
+hoCA.Meg06.text = ho.ho23_en_US_goadedes.hoCA.Meg06.text
+//R16
+R17 = ""
+hoCA.MegTrans1.melody = he.h.m6_en_US_goadedes.heHE.TinTimioteran.name
+hoCA.MegTrans1.incipit = "…"
+hoCA.MegTrans1.text = me.m08.d06_en_US_goadedes.meMegalynarion.text
+hoCA.Meg0F.melody = he.h.m6_en_US_goadedes.heHE.TinTimioteran.name
+hoCA.Meg0F.incipit = ho.ho23_en_US_goadedes.hoCA.Meg0F.incipit
+hoCA.Meg0F.text = ho.ho23_en_US_goadedes.hoCA.Meg0F.text
+//Reader
+//Trisagion Prayers with exclamation
+
+//R18
+//R19
+//R20
+//Priest
+//Dismissal
+//R21
+hoCA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode3
+hoCA.Exaposteilarion1.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
+hoCA.Exaposteilarion1.incipit = me.m08.d15_en_US_goadedes.meMA.Exaposteilarion1.incipit
+hoCA.Exaposteilarion1.text = me.m08.d15_en_US_goadedes.meMA.Exaposteilarion1.text
+
+hoCA.Exaposteilarion2.mode = miscellanea_en_US_goadedes.misc.Mode3
+hoCA.Exaposteilarion2.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
+hoCA.Exaposteilarion2.incipit = da.d7_en_US_goadedes.daMA.ExapTheotokion1.incipit
+hoCA.Exaposteilarion2.text = da.d7_en_US_goadedes.daMA.ExapTheotokion1.text
+
+hoCA.Exaposteilarion3.mode = miscellanea_en_US_goadedes.misc.Mode3
+hoCA.Exaposteilarion3.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
+hoCA.Exaposteilarion3.incipit = da.d3_en_US_goadedes.daMA.ExapTheotokion1.incipit
+hoCA.Exaposteilarion3.text = da.d3_en_US_goadedes.daMA.ExapTheotokion1.text
+
+hoCA.Exaposteilarion4.mode = miscellanea_en_US_goadedes.misc.Mode3
+hoCA.Exaposteilarion4.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
+hoCA.Exaposteilarion4.incipit = ho.ho23_en_US_goadedes.hoCA.Exaposteilarion4.incipit
+hoCA.Exaposteilarion4.text = ho.ho23_en_US_goadedes.hoCA.Exaposteilarion4.text
+
+//Priest
+//Through the prayers

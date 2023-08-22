@@ -181,13 +181,13 @@ meMA.MM.Prokeimenon.text = properties_en_US_goadedes.media.key
 
 meMA.PostGospelGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.incipit = ho.s03_en_US_goadedes.hoMA.PostGospelHierarch.incipit
-meMA.PostGospelGlory.text = ho.s03_en_US_goadedes.hoMA.PostGospelHierarch.text
+meMA.PostGospelGlory.incipit = ho.ho03_en_US_goadedes.hoMA.PostGospelHierarch.incipit
+meMA.PostGospelGlory.text = ho.ho03_en_US_goadedes.hoMA.PostGospelHierarch.text
 
 meMA.PostGospelBoth.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.incipit = ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.incipit
-meMA.PostGospelBoth.text = ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.text
+meMA.PostGospelBoth.incipit = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.incipit
+meMA.PostGospelBoth.text = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.poet = poets_en_US_goadedes.po.Vyzantiou
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_goadedes.misc.Mode6

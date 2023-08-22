@@ -78,8 +78,8 @@ meVE.AposGlory.text = "Come, let us rejoice in the Lord today, as we observe the
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.AposTheotokion.melody = ""
-meVE.AposTheotokion.incipit = ho.s23_en_US_goadedes.hoCA.Troparion7.incipit
-meVE.AposTheotokion.text = ho.s23_en_US_goadedes.hoCA.Troparion7.text
+meVE.AposTheotokion.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion7.incipit
+meVE.AposTheotokion.text = ho.ho23_en_US_goadedes.hoCA.Troparion7.text
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.AposStavrotheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
@@ -140,13 +140,13 @@ meMA.Kathisma3T.text = oc.m5.d3_en_US_goadedes.ocVE.ApolTheotokionVM.text
 
 meMA.PostGospelGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.incipit = ho.s03_en_US_goadedes.hoMA.PostGospelMartyrs.incipit
-meMA.PostGospelGlory.text = ho.s03_en_US_goadedes.hoMA.PostGospelMartyrs.text
+meMA.PostGospelGlory.incipit = ho.ho03_en_US_goadedes.hoMA.PostGospelMartyrs.incipit
+meMA.PostGospelGlory.text = ho.ho03_en_US_goadedes.hoMA.PostGospelMartyrs.text
 
 meMA.PostGospelBoth.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.incipit = ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.incipit
-meMA.PostGospelBoth.text = ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.text
+meMA.PostGospelBoth.incipit = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.incipit
+meMA.PostGospelBoth.text = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelIdiomelon.melody = ""

@@ -100,8 +100,8 @@ meMA.Kathisma21.text = ""
 
 meMA.Kathisma2T.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Kathisma2T.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
-meMA.Kathisma2T.incipit = ho.s23_en_US_goadedes.hoCA.Apolytikion2.incipit
-meMA.Kathisma2T.text = ho.s23_en_US_goadedes.hoCA.Apolytikion2.text
+meMA.Kathisma2T.incipit = ho.ho23_en_US_goadedes.hoCA.Apolytikion2.incipit
+meMA.Kathisma2T.text = ho.ho23_en_US_goadedes.hoCA.Apolytikion2.text
 
 meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Kathisma31.greekmelody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.greekname
@@ -119,13 +119,13 @@ meMA.MM.Prokeimenon.text = properties_en_US_goadedes.media.key
 
 meMA.PostGospelGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.incipit = ho.s03_en_US_goadedes.hoMA.PostGospelForerunner.incipit
-meMA.PostGospelGlory.text = ho.s03_en_US_goadedes.hoMA.PostGospelForerunner.text
+meMA.PostGospelGlory.incipit = ho.ho03_en_US_goadedes.hoMA.PostGospelForerunner.incipit
+meMA.PostGospelGlory.text = ho.ho03_en_US_goadedes.hoMA.PostGospelForerunner.text
 
 meMA.PostGospelBoth.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.incipit = ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.incipit
-meMA.PostGospelBoth.text = ho.s03_en_US_goadedes.hoMA.PostGospelTheotokos.text
+meMA.PostGospelBoth.incipit = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.incipit
+meMA.PostGospelBoth.text = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelIdiomelon.melody = ""

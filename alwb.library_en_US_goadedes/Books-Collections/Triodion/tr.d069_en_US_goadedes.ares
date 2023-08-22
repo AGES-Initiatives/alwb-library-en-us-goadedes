@@ -630,15 +630,15 @@ trHW.Apolytikion1.text = trHW.Antiphon15Kathisma.text
 trHR.title = ""
 trHR.poet = poets_en_US_goadedes.po.KyrillouAlexandreias
 
-trH1.title = ho.s04_en_US_goadedes.hoH1.title
+trH1.title = ho.ho04_en_US_goadedes.hoH1.title
 
 trH1.Troparion.mode = miscellanea_en_US_goadedes.misc.Mode1
 trH1.Troparion.incipit = oc.m1.d4_en_US_goadedes.ocMA.Kathisma12.incipit
 trH1.Troparion.text = oc.m1.d4_en_US_goadedes.ocMA.Kathisma12.text
 
 trH1.Theotokion.mode = miscellanea_en_US_goadedes.misc.Mode1
-trH1.Theotokion.incipit = ho.s04_en_US_goadedes.hoH1.Theotokion.incipit
-trH1.Theotokion.text = ho.s04_en_US_goadedes.hoH1.Theotokion.text
+trH1.Theotokion.incipit = ho.ho04_en_US_goadedes.hoH1.Theotokion.incipit
+trH1.Theotokion.text = ho.ho04_en_US_goadedes.hoH1.Theotokion.text
 
 trH1.Idiomelon1.mode = miscellanea_en_US_goadedes.misc.Mode8
 trH1.Idiomelon1.melody = ""
@@ -659,15 +659,15 @@ trH1.Kontakion.mode = miscellanea_en_US_goadedes.misc.Mode8
 trH1.Kontakion.incipit = trMA.Kontakion1.incipit
 trH1.Kontakion.text = trMA.Kontakion1.text
 
-trH3.title = ho.s05_en_US_goadedes.hoH3.title
+trH3.title = ho.ho05_en_US_goadedes.hoH3.title
 
 trH3.Troparion.mode = miscellanea_en_US_goadedes.misc.Mode6
 trH3.Troparion.incipit = "…"
 trH3.Troparion.text = ""
 
 trH3.Theotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
-trH3.Theotokion.incipit = ho.s05_en_US_goadedes.hoH3.Theotokion.incipit
-trH3.Theotokion.text = ho.s05_en_US_goadedes.hoH3.Theotokion.text
+trH3.Theotokion.incipit = ho.ho05_en_US_goadedes.hoH3.Theotokion.incipit
+trH3.Theotokion.text = ho.ho05_en_US_goadedes.hoH3.Theotokion.text
 
 trH3.Idiomelon1.mode = miscellanea_en_US_goadedes.misc.Mode8
 trH3.Idiomelon1.melody = miscellanea_en_US_goadedes.misc.Idiomelon
@@ -688,15 +688,15 @@ trH3.Kontakion.mode = miscellanea_en_US_goadedes.misc.Mode8
 trH3.Kontakion.incipit = trMA.Kontakion1.incipit
 trH3.Kontakion.text = trMA.Kontakion1.text
 
-trH6.title = ho.s06_en_US_goadedes.hoH6.title
+trH6.title = ho.ho06_en_US_goadedes.hoH6.title
 
 trH6.Troparion.mode = miscellanea_en_US_goadedes.misc.Mode2
 trH6.Troparion.incipit = oc.m2.d4_en_US_goadedes.ocMA.Kathisma11.incipit
 trH6.Troparion.text = oc.m2.d4_en_US_goadedes.ocMA.Kathisma11.text
 
 trH6.Theotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
-trH6.Theotokion.incipit = ho.s06_en_US_goadedes.hoH6.Theotokion.incipit
-trH6.Theotokion.text = ho.s06_en_US_goadedes.hoH6.Theotokion.text
+trH6.Theotokion.incipit = ho.ho06_en_US_goadedes.hoH6.Theotokion.incipit
+trH6.Theotokion.text = ho.ho06_en_US_goadedes.hoH6.Theotokion.text
 
 trH6.Idiomelon1.mode = miscellanea_en_US_goadedes.misc.Mode8
 trH6.Idiomelon1.melody = miscellanea_en_US_goadedes.misc.Idiomelon
@@ -717,7 +717,7 @@ trH6.Kontakion.mode = miscellanea_en_US_goadedes.misc.Mode8
 trH6.Kontakion.incipit = trMA.Kontakion1.incipit
 trH6.Kontakion.text = trMA.Kontakion1.text
 
-trH9.title = ho.s09_en_US_goadedes.hoH9.title
+trH9.title = ho.ho09_en_US_goadedes.hoH9.title
 
 trH9.Troparion.mode = miscellanea_en_US_goadedes.misc.Mode8
 trH9.Troparion.incipit = oc.m8.d4_en_US_goadedes.ocMA.Kathisma11.incipit

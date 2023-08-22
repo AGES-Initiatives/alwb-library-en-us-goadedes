@@ -359,8 +359,8 @@ meMA.Exaposteilarion1.text = ""
 //added Theotokion:
 meMA.ExapTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
-meMA.ExapTheotokion.incipit = ho.s23_en_US_goadedes.hoCA.Exaposteilarion4.incipit
-meMA.ExapTheotokion.text = ho.s23_en_US_goadedes.hoCA.Exaposteilarion4.text
+meMA.ExapTheotokion.incipit = ho.ho23_en_US_goadedes.hoCA.Exaposteilarion4.incipit
+meMA.ExapTheotokion.text = ho.ho23_en_US_goadedes.hoCA.Exaposteilarion4.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

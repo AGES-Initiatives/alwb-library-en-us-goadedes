@@ -909,8 +909,8 @@ ocMA.Lauds8.text = "Villains that you truly are, since you sealed the stone, you
 
 ocMA.ApolTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 ocMA.ApolTheotokion.melody = ""
-ocMA.ApolTheotokion.incipit = ho.s03_en_US_goadedes.hoMA.SunTroparion1.incipit
-ocMA.ApolTheotokion.text = ho.s03_en_US_goadedes.hoMA.SunTroparion1.text
+ocMA.ApolTheotokion.incipit = ho.ho03_en_US_goadedes.hoMA.SunTroparion1.incipit
+ocMA.ApolTheotokion.text = ho.ho03_en_US_goadedes.hoMA.SunTroparion1.text
 
 ocLI.Beatitudes1.mode = miscellanea_en_US_goadedes.misc.Mode2
 ocLI.Beatitudes1.melody = he.h.m2_en_US_goadedes.heHE.SyToLogoSouKyrie.name

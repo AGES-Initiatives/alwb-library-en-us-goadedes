@@ -400,8 +400,8 @@ meMA.LaudsGlory.text = ""
 
 meMA.LaudsTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.LaudsTheotokion.melody = ""
-meMA.LaudsTheotokion.incipit = ho.s23_en_US_goadedes.hoCA.Troparion7.incipit
-meMA.LaudsTheotokion.text = ho.s23_en_US_goadedes.hoCA.Troparion7.text
+meMA.LaudsTheotokion.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion7.incipit
+meMA.LaudsTheotokion.text = ho.ho23_en_US_goadedes.hoCA.Troparion7.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
