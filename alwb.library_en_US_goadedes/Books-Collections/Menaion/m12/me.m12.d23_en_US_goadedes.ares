@@ -660,6 +660,7 @@ meMA.Ode6H.incipit = he.h.m3_en_US_goadedes.heHE.TousEisTaTeli.incipit
 meMA.Ode6H.text = he.h.m3_en_US_goadedes.heHE.TousEisTaTeli.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.name
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -1011,6 +1012,7 @@ meMA.AposBoth.incipit = "…"
 meMA.AposBoth.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

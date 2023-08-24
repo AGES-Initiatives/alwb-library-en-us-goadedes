@@ -232,6 +232,7 @@ meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = "Behold, the things that the Prophets announced have come to pass. For you, O Virgin, gave birth to Him who long ago was announced by the Prophets and who fulfills what they prophesied by the Spirit's grace."
 
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_goadedes.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_goadedes.heAU.TaAnoZiton.name
 meMA.Kontakion1.incipit = "When you had received…"
 meMA.Kontakion1.text = "When you had received divine revelation from on high, * O Basil, you left the commotion of society. * You led a monastic life; * you received the power to do miracles * and to cure diseases by grace divine, * O wise and all-blessed Saint of God."
@@ -327,6 +328,7 @@ meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = "O Virgin and Mother of God, we pray you shatter the chains of sins that hold us who extol you. Stifle the impulses of temptations. Calm the turbulence of sin, and quell the storm of perils."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

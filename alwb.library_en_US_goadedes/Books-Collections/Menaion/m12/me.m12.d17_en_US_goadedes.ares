@@ -215,6 +215,7 @@ meMA.Ode3H.incipit = he.h.m8_en_US_goadedes.heHE.SyEiToStereoma.incipit
 meMA.Ode3H.text = he.h.m8_en_US_goadedes.heHE.SyEiToStereoma.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_en_US_goadedes.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_en_US_goadedes.heAU.IParthenosSimeron.name
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -572,6 +573,7 @@ meMA.AposBoth.incipit = meVE.SticBoth.incipit
 meMA.AposBoth.text = meVE.SticBoth.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

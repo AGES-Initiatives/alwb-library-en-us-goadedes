@@ -241,6 +241,7 @@ meMA.Ode6C1T.incipit = "The lamp, dwelling in the darkness…"
 meMA.Ode6C1T.text = "The lamp, dwelling in the darkness of his own mother's womb, recognized the Sun hidden in the cloud of His virgin Mother's womb, and he leaped for joy and worshiped Him."
 
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Kontakion1.greekmelody = he.a.m1_en_US_goadedes.heAU.ChorosAngelikos.greekname
 meMA.Kontakion1.melody = he.a.m1_en_US_goadedes.heAU.ChorosAngelikos.name
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -357,6 +358,7 @@ meMA.LaudsGlory.text = "" // similar to me.m06.d24_en_US_goadedes.meVE.SticBoth.
 meMA.MM.Lauds1123as5678.text = properties_en_US_goadedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

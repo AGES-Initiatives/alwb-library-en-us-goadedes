@@ -634,6 +634,7 @@ meMA.Ode6C3T.incipit = "The laws of nature…"
 meMA.Ode6C3T.text = "The laws of nature were overturned * by your unusual childbirth, O Virgin: death is overcome by death, * and life arose from the sepulcher, * and blood of holy Martyrs becomes most fragrant myrrh."
 
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_goadedes.heAU.ToisTonAimatonSou.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_goadedes.heAU.ToisTonAimatonSou.melody
 meMA.Kontakion1.incipit = he.a.m2_en_US_goadedes.heAU.ToisTonAimatonSou.incipit
 meMA.Kontakion1.text = he.a.m2_en_US_goadedes.heAU.ToisTonAimatonSou.text
@@ -939,6 +940,7 @@ meMA.LaudsTheotokion.text = oc.m4.d5_en_US_goadedes.ocVE.AposTheotokion.text
 meMA.MM.Lauds1123as5678.text = properties_en_US_goadedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

@@ -683,6 +683,7 @@ meMA.Ode6C3T.incipit = "…"
 meMA.Ode6C3T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_goadedes.heAU.TousAsfaleis.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_goadedes.heAU.TousAsfaleis.name
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -999,6 +1000,7 @@ meMA.LaudsBoth.text = ""
 meMA.MM.Lauds1234as5678.text = properties_en_US_goadedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

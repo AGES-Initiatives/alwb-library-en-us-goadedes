@@ -218,6 +218,7 @@ meMA.Ode6C14.incipit = "…"
 meMA.Ode6C14.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.name
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -332,6 +333,7 @@ meMA.AposGlory.incipit = "…"
 meMA.AposGlory.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

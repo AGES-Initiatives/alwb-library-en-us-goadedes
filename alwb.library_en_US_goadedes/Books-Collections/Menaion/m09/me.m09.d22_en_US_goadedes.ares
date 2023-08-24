@@ -218,6 +218,7 @@ meMA.Ode3H.incipit = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.incipit
 meMA.Ode3H.text = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_goadedes.heAU.TousAsfaleis.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_goadedes.heAU.TousAsfaleis.name
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -410,6 +411,7 @@ meMA.Ode6H.incipit = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.text
 
 meMA.Kontakion2.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Kontakion2.greekmelody = he.a.m8_en_US_goadedes.heAU.OsAparchas.greekname
 meMA.Kontakion2.melody = he.a.m8_en_US_goadedes.heAU.OsAparchas.name
 meMA.Kontakion2.incipit = "…"
 meMA.Kontakion2.text = ""
@@ -610,6 +612,7 @@ meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

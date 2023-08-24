@@ -645,11 +645,13 @@ meMA.Ode6C3T.text = "O Theotokos, we the faithful declare you to be the temple a
 
 meMA.Kontakion1.poet = poets_en_US_goadedes.po.PatriarchouKyrillou
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_en_US_goadedes.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_en_US_goadedes.heAU.IParthenosSimeron.name
 meMA.Kontakion1.incipit = "You created the universe…"
 meMA.Kontakion1.text = "You created the universe * in Your ineffable wisdom, * and by Your authority * You fixed the times and the seasons. * Grant success to all Your Christ-loving faithful people. * Bless this year, O Lord, and all our comings and goings. * We entreat You to direct us and all our actions * to conform to Your divine will."
 
 meMA.Kontakion2.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Kontakion2.greekmelody = he.a.m2_en_US_goadedes.heAU.TaAnoZiton.greekname
 meMA.Kontakion2.melody = he.a.m2_en_US_goadedes.heAU.TaAnoZiton.melody
 meMA.Kontakion2.incipit = he.a.m2_en_US_goadedes.heAU.TaAnoZiton.incipit
 meMA.Kontakion2.text = he.a.m2_en_US_goadedes.heAU.TaAnoZiton.text
@@ -658,6 +660,7 @@ meMA.Oikos2.text = ""
 
 meMA.Kontakion3.poet = poets_en_US_goadedes.po.IakovouProtopsaltou
 meMA.Kontakion3.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kontakion3.greekmelody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kontakion3.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
 meMA.Kontakion3.incipit = "…"
 meMA.Kontakion3.text = ""
@@ -974,16 +977,19 @@ meMA.MM.Ve1123as5678.text = properties_en_US_goadedes.media.key
 meLI.MM.EntranceHymn.text = properties_en_US_goadedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.Kontakion2.mode = meMA.Kontakion2.mode
+meLI.Kontakion2.greekmelody= meMA.Kontakion2.greekmelody
 meLI.Kontakion2.melody = meMA.Kontakion2.melody
 meLI.Kontakion2.incipit = meMA.Kontakion2.incipit
 meLI.Kontakion2.text = meMA.Kontakion2.text
 
 meLI.Kontakion3.mode = meMA.Kontakion3.mode
+meLI.Kontakion3.greekmelody= meMA.Kontakion3.greekmelody
 meLI.Kontakion3.melody = meMA.Kontakion3.melody
 meLI.Kontakion3.incipit = meMA.Kontakion3.incipit
 meLI.Kontakion3.text = meMA.Kontakion3.text

@@ -358,6 +358,7 @@ meMA.Ode6C14.text = ""
 
 meMA.Kontakion1.rubric = ""
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_US_goadedes.heAU.TiYpermacho.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_goadedes.heAU.TiYpermacho.melody
 meMA.Kontakion1.incipit = he.a.m8_en_US_goadedes.heAU.TiYpermacho.incipit
 meMA.Kontakion1.text = he.a.m8_en_US_goadedes.heAU.TiYpermacho.text
@@ -372,6 +373,7 @@ meMA.Oikos17.text = ""
 meMA.Oikos18.text = ""
 
 meMA.Kontakion2.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Kontakion2.greekmelody = he.a.m8_en_US_goadedes.heAU.TiYpermacho.greekname
 meMA.Kontakion2.melody = he.a.m8_en_US_goadedes.heAU.TiYpermacho.name
 meMA.Kontakion2.incipit = "…"
 meMA.Kontakion2.text = ""
@@ -534,6 +536,7 @@ meMA.MM.Lauds1123as5678.text = properties_en_US_goadedes.media.key
 meLI.MM.EntranceHymn.text = properties_en_US_goadedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

@@ -445,6 +445,7 @@ meMA.Ode6C22.incipit = "…"
 meMA.Ode6C22.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Kontakion1.greekmelody = he.a.m6_en_US_goadedes.heAU.TinEnPresveiais.greekname
 meMA.Kontakion1.melody = he.a.m6_en_US_goadedes.heAU.TinEnPresveiais.melody
 meMA.Kontakion1.incipit = he.a.m6_en_US_goadedes.heAU.TinEnPresveiais.incipit
 meMA.Kontakion1.text = he.a.m6_en_US_goadedes.heAU.TinEnPresveiais.text
@@ -637,6 +638,7 @@ meLI.MM.Beatitudes.Ode6C2as910GB.text = properties_en_US_goadedes.media.key
 meLI.MM.EntranceHymn.text = properties_en_US_goadedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

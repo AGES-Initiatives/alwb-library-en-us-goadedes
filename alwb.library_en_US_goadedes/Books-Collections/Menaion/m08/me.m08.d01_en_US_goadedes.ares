@@ -283,6 +283,7 @@ meMA.Ode3C2T.incipit = "…"
 meMA.Ode3C2T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.melody
 meMA.Kontakion1.incipit = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.incipit
 meMA.Kontakion1.text = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.text
@@ -512,6 +513,7 @@ meMA.Ode6C2T.incipit = "…"
 meMA.Ode6C2T.text = ""
 
 meMA.Kontakion2.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Kontakion2.greekmelody = he.a.m2_en_US_goadedes.heAU.TaAnoZiton.greekname
 meMA.Kontakion2.melody = he.a.m2_en_US_goadedes.heAU.TaAnoZiton.name
 meMA.Kontakion2.incipit = "…"
 meMA.Kontakion2.text = ""
@@ -817,6 +819,7 @@ meMA.AdditionalIdiomelon1.incipit = me.m09.d14_en_US_goadedes.meMA.AdditionalIdi
 meMA.AdditionalIdiomelon1.text = me.m09.d14_en_US_goadedes.meMA.AdditionalIdiomelon1.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

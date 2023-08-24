@@ -229,6 +229,7 @@ meMA.Ode3H.incipit = he.h.m8_en_US_goadedes.heHE.OukEstinAgios.incipit
 meMA.Ode3H.text = he.h.m8_en_US_goadedes.heHE.OukEstinAgios.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_en_US_goadedes.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_en_US_goadedes.heAU.IParthenosSimeron.name
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -411,6 +412,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_goadedes.heHE.ChitonaMoiParaschou.incipit
 meMA.Ode6H.text = he.h.m8_en_US_goadedes.heHE.ChitonaMoiParaschou.text
 
 meMA.Kontakion2.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kontakion2.greekmelody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.greekname
 meMA.Kontakion2.melody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.name
 meMA.Kontakion2.incipit = "…"
 meMA.Kontakion2.text = ""
@@ -660,6 +662,7 @@ meMA.AposGlory.incipit = "…"
 meMA.AposGlory.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

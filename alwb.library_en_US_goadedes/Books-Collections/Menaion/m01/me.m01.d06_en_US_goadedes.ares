@@ -558,6 +558,7 @@ meMA.Ode6C225.text = ""
 
 meMA.Kontakion1.poet = poets_en_US_goadedes.po.RomanouTouMelodou
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.melody
 meMA.Kontakion1.incipit = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.incipit
 meMA.Kontakion1.text = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.text
@@ -843,6 +844,7 @@ meLI.MM.EntranceHymn.text = properties_en_US_goadedes.media.key
 meLI.MM.EntranceHymnSunday.text = properties_en_US_goadedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

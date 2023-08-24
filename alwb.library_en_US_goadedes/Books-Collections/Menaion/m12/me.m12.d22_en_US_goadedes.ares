@@ -591,6 +591,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_US_goadedes.heHE.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_goadedes.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_goadedes.heAU.TaAnoZiton.name
 meMA.Kontakion1.incipit = "When we find ourselves…"
 meMA.Kontakion1.text = "When we find ourselves in trouble and adversity, * we run to your church for recourse, and we all receive * the divine healings and cures * of the grace of God that truly dwells in you. * O Anastasia, forevermore * you pour out the healings for all the world."
@@ -917,6 +918,7 @@ meMA.AposBoth.incipit = "…"
 meMA.AposBoth.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

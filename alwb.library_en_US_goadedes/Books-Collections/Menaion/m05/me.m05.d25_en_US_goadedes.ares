@@ -270,6 +270,7 @@ meMA.Ode6C1T.incipit = "O blessed Forerunner…"
 meMA.Ode6C1T.text = "O blessed Forerunner John, * when you went down to the netherworld, * you preached to those who were there * that Light had become a man, * incarnate of virgin blood, and that He was coming * for the good of all humanity."
 
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode6
+meMA.Kontakion1.greekmelody = he.a.m6_en_US_goadedes.heAU.TinYperImon.greekname
 meMA.Kontakion1.melody = he.a.m6_en_US_goadedes.heAU.TinYperImon.name
 meMA.Kontakion1.incipit = "In the world is he…"
 meMA.Kontakion1.text = "In the world is he a divine and brilliant pillar; * he is the noetic Sun's lamp and Forerunner. * By revealing today his divine and luminous head * to the farthest reaches of the earth, * he sanctifies those who faithfully * venerate it and cry out to him, * \"O wise Baptist of Christ, we pray you, save us all.\""
@@ -391,6 +392,7 @@ meMA.LaudsTheotokion.incipit = he.o_en_US_goadedes.heOT.TheotokeSyEi.incipit
 meMA.LaudsTheotokion.text = he.o_en_US_goadedes.heOT.TheotokeSyEiProdromou.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

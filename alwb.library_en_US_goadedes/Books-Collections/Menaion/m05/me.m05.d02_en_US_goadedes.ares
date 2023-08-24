@@ -218,6 +218,7 @@ meMA.Ode6C1T.incipit = "We all extol the immaculate Mother…"
 meMA.Ode6C1T.text = "We all extol the immaculate Mother, * the only Virgin after childbirth. * She contained within her womb the uncontainable Word, * who is co-eternal with the Father and Spirit."
 
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_goadedes.heAU.ToisTonAimatonSou.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_goadedes.heAU.ToisTonAimatonSou.name
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -322,6 +323,7 @@ meMA.LaudsGlory.incipit = "…"
 meMA.LaudsGlory.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

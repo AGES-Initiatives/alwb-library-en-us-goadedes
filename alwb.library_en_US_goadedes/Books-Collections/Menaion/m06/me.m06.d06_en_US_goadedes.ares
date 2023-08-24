@@ -214,6 +214,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_goadedes.heHE.IlasthitiMoiSotir.incipit
 meMA.Ode6H.text = he.h.m8_en_US_goadedes.heHE.IlasthitiMoiSotir.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Kontakion1.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 meMA.Kontakion1.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
 meMA.Kontakion1.incipit = "Subjected to the fire…"
 meMA.Kontakion1.text = "Subjected to the fire, you did not die or burn up, * O holy father, wise and courageous confessor, * for you had the dew of God to refresh you, Hilarion. * Having finished all your superhuman contests, * godly-minded Saint, with the Devout you delight now. * Together remember us."
@@ -308,6 +309,7 @@ meMA.Ode9H.incipit = he.h.m8_en_US_goadedes.heHE.ExestiEpiTouto.incipit
 meMA.Ode9H.text = he.h.m8_en_US_goadedes.heHE.ExestiEpiTouto.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
