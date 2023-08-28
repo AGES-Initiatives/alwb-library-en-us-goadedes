@@ -144,8 +144,8 @@ meVE.Lity3.text = ""
 
 meVE.LityGlory.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.LityGlory.melody = ""
-meVE.LityGlory.incipit = "…"
-meVE.LityGlory.text = ""
+meVE.LityGlory.incipit = meVE.Lity1.incipit
+meVE.LityGlory.text = meVE.Lity1.text
 
 meVE.LityBoth.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.LityBoth.melody = ""
