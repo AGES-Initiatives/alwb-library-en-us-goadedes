@@ -363,6 +363,7 @@ peMA.Ode6C1T.incipit = "The One who by divine will…"
 peMA.Ode6C1T.text = "The One who by divine will is holding * the universe is held now, O Virgin * Theotokos, in your arms, * as He snatches us all by the hand * from servitude to the foe, as our Savior."
 
 peMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode3
+peMA.Kontakion1.greekmelody = he.a.m3_en_US_goadedes.heAU.IParthenosSimeron.greekname
 peMA.Kontakion1.melody = he.a.m3_en_US_goadedes.heAU.IParthenosSimeron.name
 peMA.Kontakion1.incipit = "…"
 peMA.Kontakion1.text = ""
@@ -567,6 +568,7 @@ peMA.LaudsGlory.incipit = "…"
 peMA.LaudsGlory.text = ""
 
 peLI.Kontakion1.mode = peMA.Kontakion1.mode
+peLI.Kontakion1.greekmelody = peMA.Kontakion1.greekmelody
 peLI.Kontakion1.melody = peMA.Kontakion1.melody
 peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
 peLI.Kontakion1.text = peMA.Kontakion1.text

@@ -530,6 +530,7 @@ peMA.Ode6C2T.incipit = "O Virgin pure…"
 peMA.Ode6C2T.text = "O Virgin pure, we extol and praise * your marvelous conceiving and childbirth, through which we have been saved * from death and ruin and suffering * and from the bleak imprisonment in the netherworld."
 
 peMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode6
+peMA.Kontakion1.greekmelody = he.a.m6_en_US_goadedes.heAU.TinYperImon.greekname
 peMA.Kontakion1.melody = he.a.m6_en_US_goadedes.heAU.TinYperImon.melody
 peMA.Kontakion1.incipit = he.a.m6_en_US_goadedes.heAU.TinYperImon.incipit
 peMA.Kontakion1.text = he.a.m6_en_US_goadedes.heAU.TinYperImon.text
@@ -792,6 +793,7 @@ peLI.MM.EntranceHymn.text = properties_en_US_goadedes.media.key
 peLI.MM.EntranceHymnAF.text = properties_en_US_goadedes.media.key
 
 peLI.Kontakion1.mode = peMA.Kontakion1.mode
+peLI.Kontakion1.greekmelody = peMA.Kontakion1.greekmelody
 peLI.Kontakion1.melody = peMA.Kontakion1.melody
 peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
 peLI.Kontakion1.text = peMA.Kontakion1.text

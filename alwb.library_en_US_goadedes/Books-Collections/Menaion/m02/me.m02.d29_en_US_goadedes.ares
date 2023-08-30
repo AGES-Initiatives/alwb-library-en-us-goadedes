@@ -20,20 +20,20 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode2
-meVE.Stichera01.greekmelody = ""
-meVE.Stichera01.melody = ""
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
+meVE.Stichera01.greekmelody = "Ἄγγελος μὲν τὸ χαῖρε."
+meVE.Stichera01.melody = "Before Your conception."
+meVE.Stichera01.incipit = "Having lived like an Angel…"
+meVE.Stichera01.text = "Having lived like an Angel on the earth, O godly-minded Cassian, * you are ranked with the hosts of the bodiless. * For you carried your Cross upon your shoulders, O righteous Saint, * and you followed the Savior and God of all. * By your ascetic labors You uprooted soul-corrupting passions, * And thus the Holy Spirit dwelt in you, who were His vessel, worthy and pure. * And now we cry to you: On behalf of all who praise you, earnestly pray to God."
 
 meVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode2
-meVE.Stichera02.melody = ""
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
+meVE.Stichera02.melody = "Before Your conception."
+meVE.Stichera02.incipit = "By keeping vigils…"
+meVE.Stichera02.text = "By keeping vigils and protracted fasting, you always clung to God, * O blessed Saint, and you were superior * to every carnal pleasure. And as you were unceasingly * illumined by good ascents, you overflowed * with streams of godly teachings, which have watered the hearts of the faithful * and set before them saving knowledge, O godly-minded St. Cassian. * And now we cry to you: On behalf of all who praise you, earnestly pray to God."
 
 meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode2
-meVE.Stichera03.melody = ""
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
+meVE.Stichera03.melody = "Before Your conception."
+meVE.Stichera03.incipit = "Holy father, illumined from above…"
+meVE.Stichera03.text = "Holy father, illumined from above was your clever intellect, * and it shone with your teachings resplendently, * Generations of monastics have been guided by this light. * They have been freed from passions as if from mist. * And therefore they all honor and celebrate your holy memory, * while ever glorifying the Lord of glory, who glorified you, O Saint, * for you competed well, and you defeated the serpent, that cunning enemy."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticTheotokion.melody = ""
@@ -235,11 +235,11 @@ meMA.Ode6C1T.melody = he.h.m2_en_US_goadedes.heHE.EnAvyssoPtaismaton.name
 meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = ""
 
-meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Kontakion1.greekmelody = he.a.m1_en_US_goadedes.heAU.ChorosAngelikos.greekname
-meMA.Kontakion1.melody = he.a.m1_en_US_goadedes.heAU.ChorosAngelikos.name
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
+meMA.Kontakion1ger.mode = miscellanea_en_US_goadedes.misc.Mode1
+meMA.Kontakion1ger.greekmelody = he.a.m1_en_US_goadedes.heAU.ChorosAngelikos.greekname
+meMA.Kontakion1ger.melody = he.a.m1_en_US_goadedes.heAU.ChorosAngelikos.name
+meMA.Kontakion1ger.incipit = "…"
+meMA.Kontakion1ger.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_goadedes.misc.Mode2
@@ -337,11 +337,11 @@ meMA.Ode9C1T.melody = he.h.m2_en_US_goadedes.heHE.AnarchouGennitoros.name
 meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = ""
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1ger.mode = meMA.Kontakion1ger.mode
+meLI.Kontakion1ger.greekmelody= meMA.Kontakion1ger.greekmelody
+meLI.Kontakion1ger.melody = meMA.Kontakion1ger.melody
+meLI.Kontakion1ger.incipit = meMA.Kontakion1ger.incipit
+meLI.Kontakion1ger.text = meMA.Kontakion1ger.text
 
 meMegalynarion.text = ""
 

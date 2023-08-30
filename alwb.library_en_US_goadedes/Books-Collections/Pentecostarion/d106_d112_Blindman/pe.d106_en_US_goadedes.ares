@@ -331,6 +331,7 @@ peMA.Ode6C1T.incipit = "All-blameless Virgin…"
 peMA.Ode6C1T.text = "All-blameless Virgin, who can speak of your magnificence? * Ineffably you gave birth to God in the flesh; and through you He saved the world, * and He released it from every sin, O all-immaculate Lady."
 
 peMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Kontakion1.greekmelody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.greekname
 peMA.Kontakion1.melody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.name
 peMA.Kontakion1.incipit = "…"
 peMA.Kontakion1.text = ""
@@ -528,6 +529,7 @@ peMA.LaudsGlory.incipit = "…"
 peMA.LaudsGlory.text = ""
 
 peLI.Kontakion1.mode = peMA.Kontakion1.mode
+peLI.Kontakion1.greekmelody = peMA.Kontakion1.greekmelody
 peLI.Kontakion1.melody = peMA.Kontakion1.melody
 peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
 peLI.Kontakion1.text = peMA.Kontakion1.text

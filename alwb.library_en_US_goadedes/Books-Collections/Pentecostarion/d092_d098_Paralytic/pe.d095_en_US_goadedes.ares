@@ -466,6 +466,7 @@ peMA.Ode6C2T.incipit = "We praise and glorify…"
 peMA.Ode6C2T.text = "We praise and glorify you, O Bride of God, * the virgin Mother, who after childbirth * alone remained a pure and all-holy virgin. * For truly from you God became incarnate, * and He brought us back to life."
 
 peMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Kontakion1.greekmelody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.greekname
 peMA.Kontakion1.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
 peMA.Kontakion1.incipit = "…"
 peMA.Kontakion1.text = ""
@@ -793,6 +794,7 @@ peMA.LaudsGlory.incipit = "…"
 peMA.LaudsGlory.text = ""
 
 peLI.Kontakion1.mode = peMA.Kontakion1.mode
+peLI.Kontakion1.greekmelody = peMA.Kontakion1.greekmelody
 peLI.Kontakion1.melody = peMA.Kontakion1.melody
 peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
 peLI.Kontakion1.text = peMA.Kontakion1.text
