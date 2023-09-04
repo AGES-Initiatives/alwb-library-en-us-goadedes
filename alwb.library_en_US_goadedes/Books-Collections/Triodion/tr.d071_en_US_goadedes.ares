@@ -60,27 +60,26 @@ trVE.SticTheotokion.melody = ""
 trVE.SticTheotokion.incipit = oc.m1.d1_en_US_goadedes.ocVE.SticTheotokion.incipit
 trVE.SticTheotokion.text = oc.m1.d1_en_US_goadedes.ocVE.SticTheotokion.text
 
-// Hymn of the Three Servants
-trHW.SaturdayHymn.title = ""
-trHW.SaturdayHymn.mode = miscellanea_en_US_goadedes.misc.Mode1
-trHW.SaturdayHymn.text = properties_en_US_goadedes.media.key
+trLI.SaturdayHymn.title = ""
+trLI.SaturdayHymn.mode = miscellanea_en_US_goadedes.misc.Mode1
+trLI.SaturdayHymn.text = properties_en_US_goadedes.media.key
 
-trHW.SaturdayArise.text = properties_en_US_goadedes.media.key
+trLI.SaturdayArise.text = properties_en_US_goadedes.media.key
 
-trHW.CherubicHymn.title = ""
-trHW.CherubicHymn.mode = miscellanea_en_US_goadedes.misc.Mode5
-trHW.CherubicHymnPart1.incipit = "…"
-trHW.CherubicHymnPart1.text = ""
-trHW.CherubicHymnPart2.incipit = "…"
-trHW.CherubicHymnPart2.text = ""
+trLI.CherubicHymn.title = ""
+trLI.CherubicHymn.mode = miscellanea_en_US_goadedes.misc.Mode5
+trLI.CherubicHymnPart1.incipit = "…"
+trLI.CherubicHymnPart1.text = ""
+trLI.CherubicHymnPart2.incipit = "…"
+trLI.CherubicHymnPart2.text = ""
 
-trHW.TheotokosHymn.mode = miscellanea_en_US_goadedes.misc.Mode8
-trHW.TheotokosHymn.incipit = oc.m8.d1_en_US_goadedes.ocMA.Kathisma23.incipit
-trHW.TheotokosHymn.text = oc.m8.d1_en_US_goadedes.ocMA.Kathisma23.text
+trLI.TheotokosHymn.mode = miscellanea_en_US_goadedes.misc.Mode8
+trLI.TheotokosHymn.incipit = oc.m8.d1_en_US_goadedes.ocMA.Kathisma23.incipit
+trLI.TheotokosHymn.text = oc.m8.d1_en_US_goadedes.ocMA.Kathisma23.text
 
-trHW.CommunionHymn.text = properties_en_US_goadedes.media.key
+trLI.CommunionHymn.text = properties_en_US_goadedes.media.key
 
-trHW.AfterCommunion.mode = miscellanea_en_US_goadedes.misc.Mode2
-trHW.AfterCommunion.incipit = "…"
-trHW.AfterCommunion.text = ""
+trLI.AfterCommunion.mode = miscellanea_en_US_goadedes.misc.Mode2
+trLI.AfterCommunion.incipit = "…"
+trLI.AfterCommunion.text = ""
 
