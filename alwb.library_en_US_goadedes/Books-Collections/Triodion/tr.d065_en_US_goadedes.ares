@@ -247,16 +247,12 @@ trCO.Ode9C1T.melody = he.h.m8_en_US_goadedes.heHE.AllotrionTonMiteron.name
 trCO.Ode9C1T.incipit = "…"
 trCO.Ode9C1T.text = ""
 
-trHW.Alleluia.text = "" // for media
+trMA.MM.Alleluia.text = "" // for media
 
-trHW.Troparion.mode = miscellanea_en_US_goadedes.misc.Mode8
-trHW.Troparion.melody = ""
-trHW.Troparion.incipit = "…"
-trHW.Troparion.text = ""
-trHW.Troparion1.text = ""
-trHW.Troparion2.incipit = "…"
-trHW.Troparion2.text = ""
-trHW.Troparion3.text = ""
+trMA.Troparion.mode = miscellanea_en_US_goadedes.misc.Mode8
+trMA.Troparion.melody = ""
+trMA.Troparion.incipit = "…"
+trMA.Troparion.text = ""
 
 trMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
 trMA.Kathisma11.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
@@ -390,7 +386,6 @@ trMA.Exaposteilarion1.melody = he.a.m3_en_US_goadedes.heAU.TonNymfonaSouVlepo.me
 trMA.Exaposteilarion1.incipit = he.a.m3_en_US_goadedes.heAU.TonNymfonaSouVlepo.incipit
 trMA.Exaposteilarion1.text = he.a.m3_en_US_goadedes.heAU.TonNymfonaSouVlepo.text
 
-trHW.Lauds01.text = "" // for media
 
 trMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode1
 trMA.Lauds1.melody = miscellanea_en_US_goadedes.misc.Idiomelon

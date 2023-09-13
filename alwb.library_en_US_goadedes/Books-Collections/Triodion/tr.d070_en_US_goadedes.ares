@@ -17,7 +17,6 @@ trVE.header = ""
 trEM.header = "" //for pdf evening Matins
 trDA.dismissal = dismissals_en_US_goadedes.dis00.holyfriday
 
-trHW.LIHC.text = "" // for media
 
 trVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode1
 trVE.Stichera01.melody = miscellanea_en_US_goadedes.misc.Idiomelon
@@ -95,408 +94,401 @@ trVE.Apolytikion3.melody = ""
 trVE.Apolytikion3.incipit = "The Angel who had come…"
 trVE.Apolytikion3.text = "The Angel who had come to the sepulcher said to the Myrrh-bearing women, \"Ointments are appropriate for mortal men; but Christ is indeed a stranger to decay.\""
 
-trHW.GITL.text = "" // for media
 
-trHW.Encomia.title = "The Lamentations."
+trMA.Encomia.title = "The Lamentations."
 
-trHW.Encomia100.title = "First Section."
-trHW.Encomia100.mode = miscellanea_en_US_goadedes.misc.Mode5
+trMA.Encomia100.title = "First Section."
+trMA.Encomia100.mode = miscellanea_en_US_goadedes.misc.Mode5
 
-trHW.Encomia101.text = "You, O Life, were buried * in a tomb, O my Christ, * and angelic hosts were struck with astonishment, * glorifying Your ineffable descent."
+trMA.Encomia101.text = "You, O Life, were buried * in a tomb, O my Christ, * and angelic hosts were struck with astonishment, * glorifying Your ineffable descent."
 
-trHW.Encomia102.text = "You are dead and buried. * O Life, how can this be! * You are devastating death and its realm, O Lord. * From the netherworld You resurrect the dead."
+trMA.Encomia102.text = "You are dead and buried. * O Life, how can this be! * You are devastating death and its realm, O Lord. * From the netherworld You resurrect the dead."
 
-trHW.Encomia103.text = "You are King, O Jesus, and we magnify You; * and we honor Your entombment and suffering, * by which You, O Lord, have salvaged us from doom."
+trMA.Encomia103.text = "You are King, O Jesus, and we magnify You; * and we honor Your entombment and suffering, * by which You, O Lord, have salvaged us from doom."
 
-trHW.Encomia104.text = "You who laid the measures * of the earth lie today * in a narrow tomb, O Jesus the King of all, * resurrecting many dead from opened tombs."
+trMA.Encomia104.text = "You who laid the measures * of the earth lie today * in a narrow tomb, O Jesus the King of all, * resurrecting many dead from opened tombs."
 
-trHW.Encomia105.text = "Jesus Christ, my Savior, * what did You, King of all, * seek to do, going to Hades? In fact it was * to deliver and release the human race."
+trMA.Encomia105.text = "Jesus Christ, my Savior, * what did You, King of all, * seek to do, going to Hades? In fact it was * to deliver and release the human race."
 
-trHW.Encomia106.text = "The almighty Master * is observed to be dead. * He is laid within a new, unused sepulcher, * He who emptied many graves of those who died."
+trMA.Encomia106.text = "The almighty Master * is observed to be dead. * He is laid within a new, unused sepulcher, * He who emptied many graves of those who died."
 
-trHW.Encomia107.text = "You, O Life, were buried * in a tomb, O my Christ. * You destroyed the realm of death by Your death, O Lord, * and became the source of life for all the world."
+trMA.Encomia107.text = "You, O Life, were buried * in a tomb, O my Christ. * You destroyed the realm of death by Your death, O Lord, * and became the source of life for all the world."
 
-trHW.Encomia108.text = "With those malefactors * You were counted, O Christ, * as a criminal, while You vindicated us * from the ancient villain's crime against us all."
+trMA.Encomia108.text = "With those malefactors * You were counted, O Christ, * as a criminal, while You vindicated us * from the ancient villain's crime against us all."
 
-trHW.Encomia109.text = "He was called the fairest * and most handsome of men. * He who beautified the nature of all appears * as a corpse bereft of majesty and form."
+trMA.Encomia109.text = "He was called the fairest * and most handsome of men. * He who beautified the nature of all appears * as a corpse bereft of majesty and form."
 
-trHW.Encomia110.text = "How will Hades bear it * when You go there, O Christ, * being swiftly crushed and blinded and stupefied * by the flash and gleaming glory of Your light?"
+trMA.Encomia110.text = "How will Hades bear it * when You go there, O Christ, * being swiftly crushed and blinded and stupefied * by the flash and gleaming glory of Your light?"
 
-trHW.Encomia111.text = "How can You be hidden * in a dark, unlit tomb, * O my Jesus, being sweet and salvific light? * Your forbearance is ineffable, O Lord."
+trMA.Encomia111.text = "How can You be hidden * in a dark, unlit tomb, * O my Jesus, being sweet and salvific light? * Your forbearance is ineffable, O Lord."
 
-trHW.Encomia112.text = "All noetic beings * and the bodiless hosts * are bewildered and perplexed by the mystery * of Your awe-inspiring burial, O Christ."
+trMA.Encomia112.text = "All noetic beings * and the bodiless hosts * are bewildered and perplexed by the mystery * of Your awe-inspiring burial, O Christ."
 
-trHW.Encomia113.text = "As a breathless body, * He who gave me my breath * is by Joseph's hands prepared now for burial. * Oh the strange and novel wonders we behold!"
+trMA.Encomia113.text = "As a breathless body, * He who gave me my breath * is by Joseph's hands prepared now for burial. * Oh the strange and novel wonders we behold!"
 
-trHW.Encomia114.text = "It is paradoxal * and amazing, O Christ, * that You lay within the tomb here on earth and yet * never left Your Father's bosom in the heights."
+trMA.Encomia114.text = "It is paradoxal * and amazing, O Christ, * that You lay within the tomb here on earth and yet * never left Your Father's bosom in the heights."
 
-trHW.Encomia115.text = "Jesus, all creation * recognized You as true * King of heaven and of earth, even when You were * in a dark and narrow sepulcher enclosed."
+trMA.Encomia115.text = "Jesus, all creation * recognized You as true * King of heaven and of earth, even when You were * in a dark and narrow sepulcher enclosed."
 
-trHW.Encomia116.text = "After You, O Maker, * had been laid in a tomb, * the foundations of the netherworld quaked, O Christ, * and the tombs opened of people who had died."
+trMA.Encomia116.text = "After You, O Maker, * had been laid in a tomb, * the foundations of the netherworld quaked, O Christ, * and the tombs opened of people who had died."
 
-trHW.Encomia117.text = "Jesus, who is holding * all the earth in His hand, * has been killed, and underground is His body held, * as He liberates the dead from Hades' hold."
+trMA.Encomia117.text = "Jesus, who is holding * all the earth in His hand, * has been killed, and underground is His body held, * as He liberates the dead from Hades' hold."
 
-trHW.Encomia118.text = "O my life and Savior, * when You died, You went down * to the place where all the dead were and smashed the bars * of the netherworld and rose again from death."
+trMA.Encomia118.text = "O my life and Savior, * when You died, You went down * to the place where all the dead were and smashed the bars * of the netherworld and rose again from death."
 
-trHW.Encomia119.text = "The Lord's holy body, * the proverbial lamp * that was put under a bushel, is hidden now * underground, driving away the nether gloom."
+trMA.Encomia119.text = "The Lord's holy body, * the proverbial lamp * that was put under a bushel, is hidden now * underground, driving away the nether gloom."
 
-trHW.Encomia120.text = "The angelic armies * came to watch Joseph help * Nicodemus wrap Your body and bury it * in a tomb, O Lord whom nothing can contain."
+trMA.Encomia120.text = "The angelic armies * came to watch Joseph help * Nicodemus wrap Your body and bury it * in a tomb, O Lord whom nothing can contain."
 
-trHW.Encomia121.text = "Fount of life, my Jesus, * by Your own will You died * and were buried in the earth and gave life to me, * who through tragic disobedience had died."
+trMA.Encomia121.text = "Fount of life, my Jesus, * by Your own will You died * and were buried in the earth and gave life to me, * who through tragic disobedience had died."
 
-trHW.Encomia122.text = "By Your Passion, all things * were affected, O Lord. * All creation joined You suffering, knowing You * as the Logos and maintainer of all things."
+trMA.Encomia122.text = "By Your Passion, all things * were affected, O Lord. * All creation joined You suffering, knowing You * as the Logos and maintainer of all things."
 
-trHW.Encomia123.text = "When voracious Hades * swallowed You, Rock of life, * and had You inside its belly, it vomited * and expelled the dead it swallowed from all time."
+trMA.Encomia123.text = "When voracious Hades * swallowed You, Rock of life, * and had You inside its belly, it vomited * and expelled the dead it swallowed from all time."
 
-trHW.Encomia124.text = "You, O Christ, were buried * in a new, unused tomb. * Then You rose within three days from the dead as God, * and You made our human nature new again."
+trMA.Encomia124.text = "You, O Christ, were buried * in a new, unused tomb. * Then You rose within three days from the dead as God, * and You made our human nature new again."
 
-trHW.Encomia125.text = "You came down, O Master, * to save Adam on earth. * But not finding him on earth, You went further down * into Hades, and You sought to find him there."
+trMA.Encomia125.text = "You came down, O Master, * to save Adam on earth. * But not finding him on earth, You went further down * into Hades, and You sought to find him there."
 
-trHW.Encomia126.text = "All the earth was quaking, * and it trembled with fear; * and the sun concealed its light, when the greatest Light, * You the Logos, were concealed beneath the earth."
+trMA.Encomia126.text = "All the earth was quaking, * and it trembled with fear; * and the sun concealed its light, when the greatest Light, * You the Logos, were concealed beneath the earth."
 
-trHW.Encomia127.text = "Willingly, O Savior, * as a mortal You died; * and as God You resurrected the dead from graves * and all people from the hellish pit of sin."
+trMA.Encomia127.text = "Willingly, O Savior, * as a mortal You died; * and as God You resurrected the dead from graves * and all people from the hellish pit of sin."
 
-trHW.Encomia128.text = "Tearful lamentations * did the pure Lady pour * over You, O sweetest Jesus, maternally * crying out, \"How can I bury You, my Son?\""
+trMA.Encomia128.text = "Tearful lamentations * did the pure Lady pour * over You, O sweetest Jesus, maternally * crying out, \"How can I bury You, my Son?\""
 
-trHW.Encomia129.text = "Buried, You were planted * like a kernel of wheat * in the earth; and then You raised Adam's progeny, * thus producing fruit abundantly, O Lord. "
+trMA.Encomia129.text = "Buried, You were planted * like a kernel of wheat * in the earth; and then You raised Adam's progeny, * thus producing fruit abundantly, O Lord. "
 
-trHW.Encomia130.text = "Like the sun, O Savior, * You have set; and by earth * You are hidden and concealed by the night of death. * Rise and shine even more splendidly, we pray!"
+trMA.Encomia130.text = "Like the sun, O Savior, * You have set; and by earth * You are hidden and concealed by the night of death. * Rise and shine even more splendidly, we pray!"
 
-trHW.Encomia131.text = "You, O Lord and Savior, * are eclipsed now by death * in the body; for the tomb is concealing You, * as the moon conceals the sun in an eclipse."
+trMA.Encomia131.text = "You, O Lord and Savior, * are eclipsed now by death * in the body; for the tomb is concealing You, * as the moon conceals the sun in an eclipse."
 
-trHW.Encomia132.text = "Christ is life incarnate. * He experienced death, * and from death He liberated humanity. * Now to everyone He gives the gift of life."
+trMA.Encomia132.text = "Christ is life incarnate. * He experienced death, * and from death He liberated humanity. * Now to everyone He gives the gift of life."
 
-trHW.Encomia133.text = "You have come as Adam, * made anew in the flesh. * By Your death, O Lord, You brought Adam back to life; * for of old because of envy he had died."
+trMA.Encomia133.text = "You have come as Adam, * made anew in the flesh. * By Your death, O Lord, You brought Adam back to life; * for of old because of envy he had died."
 
-trHW.Encomia134.text = "When they saw You, Savior, * lying dead on the Stone * of Anointing for our sake, Your angelic hosts * were astounded and stood veiled behind their wings."
+trMA.Encomia134.text = "When they saw You, Savior, * lying dead on the Stone * of Anointing for our sake, Your angelic hosts * were astounded and stood veiled behind their wings."
 
-trHW.Encomia135.text = "Lord and Word, when Joseph * took You down from the Cross, * he prepared Your corpse laid it inside the tomb. * Now arise as God and save us all, we pray!"
+trMA.Encomia135.text = "Lord and Word, when Joseph * took You down from the Cross, * he prepared Your corpse laid it inside the tomb. * Now arise as God and save us all, we pray!"
 
-trHW.Encomia136.text = "For Your Angels, Savior, * You are naturally joy. * When they saw You as a dead, lifeless corpse, O Lord, * You became for them the cause of grief as well."
+trMA.Encomia136.text = "For Your Angels, Savior, * You are naturally joy. * When they saw You as a dead, lifeless corpse, O Lord, * You became for them the cause of grief as well."
 
-trHW.Encomia137.text = "Savior, being lifted * on the Cross, with yourself * You lift up the living; and going underground, * You are raising those who lie beneath the earth."
+trMA.Encomia137.text = "Savior, being lifted * on the Cross, with yourself * You lift up the living; and going underground, * You are raising those who lie beneath the earth."
 
-trHW.Encomia138.text = "You bowed down, O Savior, * as a lion and slept * in the flesh and died; but then You were roused again * as a cub, and You shook off old age of flesh."
+trMA.Encomia138.text = "You bowed down, O Savior, * as a lion and slept * in the flesh and died; but then You were roused again * as a cub, and You shook off old age of flesh."
 
-trHW.Encomia139.text = "From the side of Adam * You, O Lord, took a rib * and made Eve from it of old. Now Your side is pierced, * and from it You pour out purifying streams."
+trMA.Encomia139.text = "From the side of Adam * You, O Lord, took a rib * and made Eve from it of old. Now Your side is pierced, * and from it You pour out purifying streams."
 
-trHW.Encomia140.text = "Lambs were once discretely * sacrificially slain. * O forbearing Savior, You they slew publicly; * and You purified the whole world by Your blood."
+trMA.Encomia140.text = "Lambs were once discretely * sacrificially slain. * O forbearing Savior, You they slew publicly; * and You purified the whole world by Your blood."
 
-trHW.Encomia141.text = "Shocking and horrific * is this turn of events! * He who rules over creation now willingly * undergoes the Passion and He dies for us."
+trMA.Encomia141.text = "Shocking and horrific * is this turn of events! * He who rules over creation now willingly * undergoes the Passion and He dies for us."
 
-trHW.Encomia142.text = "Angels in amazement * cried aloud, \"How can God, * the immortal source and giver of life, appear * to be dead and be enclosed within a tomb?\""
+trMA.Encomia142.text = "Angels in amazement * cried aloud, \"How can God, * the immortal source and giver of life, appear * to be dead and be enclosed within a tomb?\""
 
-trHW.Encomia143.text = "From Your side, O Savior, * that was pierced with a spear, * You drip life on Life, yes Eve who of old deprived * me of life, and You make me and her alive."
+trMA.Encomia143.text = "From Your side, O Savior, * that was pierced with a spear, * You drip life on Life, yes Eve who of old deprived * me of life, and You make me and her alive."
 
-trHW.Encomia144.text = "With Your arms extended * on the Cross, You, O Lord, * drew all people. Since Your life-giving side was pierced, * You, O Jesus, gush forgiveness unto all."
+trMA.Encomia144.text = "With Your arms extended * on the Cross, You, O Lord, * drew all people. Since Your life-giving side was pierced, * You, O Jesus, gush forgiveness unto all."
 
-trHW.Encomia145.text = "That respected member * of the council, O Lord, * wraps Your body and respectfully buries You. * He is awestruck at this awful sight of You."
+trMA.Encomia145.text = "That respected member * of the council, O Lord, * wraps Your body and respectfully buries You. * He is awestruck at this awful sight of You."
 
-trHW.Encomia146.text = "As You willed, O Jesus, * as a mortal You go * to the netherworld and lead to the heights again * those who long ago had fallen thence, O Lord."
+trMA.Encomia146.text = "As You willed, O Jesus, * as a mortal You go * to the netherworld and lead to the heights again * those who long ago had fallen thence, O Lord."
 
-trHW.Encomia147.text = "Even if we saw You * as one dead, yet as God * You are living and reviving the ones who died, * after neutralizing him who made me dead."
+trMA.Encomia147.text = "Even if we saw You * as one dead, yet as God * You are living and reviving the ones who died, * after neutralizing him who made me dead."
 
-trHW.Encomia148.text = "Jesus, great and boundless * was the joy and delight * that You filled them with in Hades when You arrived * and were flashing light in dark and gloomy caves."
+trMA.Encomia148.text = "Jesus, great and boundless * was the joy and delight * that You filled them with in Hades when You arrived * and were flashing light in dark and gloomy caves."
 
-trHW.Encomia149.text = "I revere Your Passion, * Your entombment I praise, * and I magnify Your might, for by these am I * freed from soul-destroying passions, loving Lord."
+trMA.Encomia149.text = "I revere Your Passion, * Your entombment I praise, * and I magnify Your might, for by these am I * freed from soul-destroying passions, loving Lord."
 
-trHW.Encomia150.text = "Against You, O Savior, * godless men whet a sword; * and the sword of the once strong man is blunted now; * and the sword that guarded Eden is withdrawn."
+trMA.Encomia150.text = "Against You, O Savior, * godless men whet a sword; * and the sword of the once strong man is blunted now; * and the sword that guarded Eden is withdrawn."
 
-trHW.Encomia151.text = "When the Savior's Mother * saw her lamb being slain, * shot with anguish she lamented and cried aloud, * moving us, the flock of Christ, to cry as well."
+trMA.Encomia151.text = "When the Savior's Mother * saw her lamb being slain, * shot with anguish she lamented and cried aloud, * moving us, the flock of Christ, to cry as well."
 
-trHW.Encomia152.text = "Jesus Christ my Savior, * even though You were laid * in a sepulcher and went to the netherworld, * You stripped Hades and evacuated tombs."
+trMA.Encomia152.text = "Jesus Christ my Savior, * even though You were laid * in a sepulcher and went to the netherworld, * You stripped Hades and evacuated tombs."
 
-trHW.Encomia153.text = "As You wished, descending * to the regions below, * You revived the dead, O Savior, and led them up, * in the glory of Your Father and our God."
+trMA.Encomia153.text = "As You wished, descending * to the regions below, * You revived the dead, O Savior, and led them up, * in the glory of Your Father and our God."
 
-trHW.Encomia154.text = "All creation shudders, * both the sun and the earth, * which is quaking now, for one of the Trinity * in the flesh endured a painful death for us."
+trMA.Encomia154.text = "All creation shudders, * both the sun and the earth, * which is quaking now, for one of the Trinity * in the flesh endured a painful death for us."
 
-trHW.Encomia155.text = "Jesus is the Savior * who gave manna as food * to the tribe of Judah, which like a bitter pool * issued offspring who have laid Him in a pit."
+trMA.Encomia155.text = "Jesus is the Savior * who gave manna as food * to the tribe of Judah, which like a bitter pool * issued offspring who have laid Him in a pit."
 
-trHW.Encomia156.text = "Even as the chosen * Judge of all, Jesus Christ * stood on trial before Pilate who wrongfully * sentenced Him to die by hanging on a cross."
+trMA.Encomia156.text = "Even as the chosen * Judge of all, Jesus Christ * stood on trial before Pilate who wrongfully * sentenced Him to die by hanging on a cross."
 
-trHW.Encomia157.text = "Such a prideful people! * What a murderous mob! * What befell you that wanted Barabbas freed * but delivered Christ the Savior to the cross?"
+trMA.Encomia157.text = "Such a prideful people! * What a murderous mob! * What befell you that wanted Barabbas freed * but delivered Christ the Savior to the cross?"
 
-trHW.Encomia158.text = "With Your hand You fashioned * first-formed Adam of earth. * You became in nature human for him, O Lord. * You were crucified for him as You so willed."
+trMA.Encomia158.text = "With Your hand You fashioned * first-formed Adam of earth. * You became in nature human for him, O Lord. * You were crucified for him as You so willed."
 
-trHW.Encomia159.text = "You obeyed Your Father, * Son and Logos of God, * and came down, even as far as the netherworld, * and from awful Hades raised the human race."
+trMA.Encomia159.text = "You obeyed Your Father, * Son and Logos of God, * and came down, even as far as the netherworld, * and from awful Hades raised the human race."
 
-trHW.Encomia160.text = "As the Virgin Mary * was lamenting, she wept, * and purportedly she said, \"O my light, alas! * O my dearest Jesus, light of all the world!\""
+trMA.Encomia160.text = "As the Virgin Mary * was lamenting, she wept, * and purportedly she said, \"O my light, alas! * O my dearest Jesus, light of all the world!\""
 
-trHW.Encomia161.text = "People filled with envy, * wretched murderous mob, * now that Christ has truly risen, be shamed at last * by the grave clothes that were left and by the shroud."
+trMA.Encomia161.text = "People filled with envy, * wretched murderous mob, * now that Christ has truly risen, be shamed at last * by the grave clothes that were left and by the shroud."
 
-trHW.Encomia162.text = "O defiled disciple, * vile murderer, come, * and explain to me the ways of your wickedness, * by which you became the betrayer of Christ."
+trMA.Encomia162.text = "O defiled disciple, * vile murderer, come, * and explain to me the ways of your wickedness, * by which you became the betrayer of Christ."
 
-trHW.Encomia163.text = "Foolish, blind, disloyal, * and completely depraved, * you pretend to be some kind of philanthropist, * who would sell the costly ointment for a price."
+trMA.Encomia163.text = "Foolish, blind, disloyal, * and completely depraved, * you pretend to be some kind of philanthropist, * who would sell the costly ointment for a price."
 
-trHW.Encomia164.text = "What was your suggested * price for heavenly myrrh? * What would you accept as right for the costly oil? * Cursed devil, as your prize you lost your mind."
+trMA.Encomia164.text = "What was your suggested * price for heavenly myrrh? * What would you accept as right for the costly oil? * Cursed devil, as your prize you lost your mind."
 
-trHW.Encomia165.text = "If you cared for the poor * and were grieved that the oil * that was poured on Christ the Light to redeem a soul * was not sold, how can you sell Him out for gold?"
+trMA.Encomia165.text = "If you cared for the poor * and were grieved that the oil * that was poured on Christ the Light to redeem a soul * was not sold, how can you sell Him out for gold?"
 
-trHW.Encomia166.text = "You are God and Logos. * You, my Son, are my joy. * How can I endure Your three day long burial? As a mother I am torn inside with grief."
+trMA.Encomia166.text = "You are God and Logos. * You, my Son, are my joy. * How can I endure Your three day long burial? As a mother I am torn inside with grief."
 
-trHW.Encomia167.text = "The all-holy Virgin * Bride of God cried aloud, *\"Who will hydrate me as I shed a flood of tears, * as I weep for sweetest Jesus, yes my Son?\""
+trMA.Encomia167.text = "The all-holy Virgin * Bride of God cried aloud, *\"Who will hydrate me as I shed a flood of tears, * as I weep for sweetest Jesus, yes my Son?\""
 
-trHW.Encomia168.text = "Alas! hills and valleys, * multitudes of mankind, * join me; all you people everywhere, weep with me, * who am Mother of our God, as I lament."
+trMA.Encomia168.text = "Alas! hills and valleys, * multitudes of mankind, * join me; all you people everywhere, weep with me, * who am Mother of our God, as I lament."
 
-trHW.Encomia169.text = "The all-holy Virgin * cried aloud in her grief, * \"Savior, when will I behold You, eternal light, * You my Son, the joy and sweetness of my heart?\""
+trMA.Encomia169.text = "The all-holy Virgin * cried aloud in her grief, * \"Savior, when will I behold You, eternal light, * You my Son, the joy and sweetness of my heart?\""
 
-trHW.Encomia170.text = "Savior, as the capstone * You consented to be * struck and cut, O Lord and source of eternal life; * and You thus for us poured out the living stream."
+trMA.Encomia170.text = "Savior, as the capstone * You consented to be * struck and cut, O Lord and source of eternal life; * and You thus for us poured out the living stream."
 
-trHW.Encomia171.text = "From that single fountain * of Your side, on the Cross * You gushed forth the double river, from which we now * sacramentally imbibe immortal life."
+trMA.Encomia171.text = "From that single fountain * of Your side, on the Cross * You gushed forth the double river, from which we now * sacramentally imbibe immortal life."
 
-trHW.Encomia172.text = "As You willed, O Logos, * You were seen as one dead * in the tomb, and yet You live; and as You foretold, * by Your rising You, my Savior, raise mankind."
+trMA.Encomia172.text = "As You willed, O Logos, * You were seen as one dead * in the tomb, and yet You live; and as You foretold, * by Your rising You, my Savior, raise mankind."
 
-trHW.Encomia1Tr.text = "Lord of all and Logos, * we extol You as God * with Your Father and Your Spirit, and glorify * Your divine and holy burial, O Christ."
+trMA.Encomia1Tr.text = "Lord of all and Logos, * we extol You as God * with Your Father and Your Spirit, and glorify * Your divine and holy burial, O Christ."
 
-trHW.Encomia1T.text = "Virgin Theotokos, * now we all call you blessed, * and we honor the divine three-day burial * of your Son, our God, with ardent faith and love."
+trMA.Encomia1T.text = "Virgin Theotokos, * now we all call you blessed, * and we honor the divine three-day burial * of your Son, our God, with ardent faith and love."
 
-trHW.Encomia1F.text = trHW.Encomia101.text
+trMA.Encomia1F.text = trMA.Encomia101.text
 
-trHW.Encomia200.title = "Second Section."
-trHW.Encomia200.mode = miscellanea_en_US_goadedes.misc.Mode5
+trMA.Encomia200.title = "Second Section."
+trMA.Encomia200.mode = miscellanea_en_US_goadedes.misc.Mode5
 
-trHW.Encomia201.text = "Right it is to sing * magnifying You, life-giving Savior. * You stretched out Your arms on the Cross, O Lord, * and You shattered the dominion of the foe."
+trMA.Encomia201.text = "Right it is to sing * magnifying You, life-giving Savior. * You stretched out Your arms on the Cross, O Lord, * and You shattered the dominion of the foe."
 
-trHW.Encomia202.text = "Right it is to sing * magnifying You who made the cosmos. * By Your Passion saved from destructive death, * we may now attain dispassion in our lives."
+trMA.Encomia202.text = "Right it is to sing * magnifying You who made the cosmos. * By Your Passion saved from destructive death, * we may now attain dispassion in our lives."
 
-trHW.Encomia203.text = "Never-setting Sun, * buried physically, You set, O Savior. * Earth expressed its horror and quaked, O Christ, * and the sun in awe and protest was eclipsed."
+trMA.Encomia203.text = "Never-setting Sun, * buried physically, You set, O Savior. * Earth expressed its horror and quaked, O Christ, * and the sun in awe and protest was eclipsed."
 
-trHW.Encomia204.text = "In the tomb You slept * life-producing sleep, O Christ my Savior, * even as You woke up the human race * from the deep and heavy sleep of death and sin."
+trMA.Encomia204.text = "In the tomb You slept * life-producing sleep, O Christ my Savior, * even as You woke up the human race * from the deep and heavy sleep of death and sin."
 
-trHW.Encomia205.text = "Virgin Mary said, * \"Son, I bore You as the only woman * who gave birth with no pain. But watching now * as You suffer, I feel agonizing pain.\""
+trMA.Encomia205.text = "Virgin Mary said, * \"Son, I bore You as the only woman * who gave birth with no pain. But watching now * as You suffer, I feel agonizing pain.\""
 
-trHW.Encomia206.text = "Seraphim see You, * who on high are never separated * from the Father, Savior, below on earth * lying dead, and they are shuddering in awe."
+trMA.Encomia206.text = "Seraphim see You, * who on high are never separated * from the Father, Savior, below on earth * lying dead, and they are shuddering in awe."
 
-trHW.Encomia207.text = "You were crucified, * and the curtain of the Temple ruptured. * You, the Sun, were hidden beneath the earth, * and the stars above, O Logos, hid their light."
+trMA.Encomia207.text = "You were crucified, * and the curtain of the Temple ruptured. * You, the Sun, were hidden beneath the earth, * and the stars above, O Logos, hid their light."
 
-trHW.Encomia208.text = "He who simply willed * and made planet earth in the beginning * goes now as a dead man beneath the earth. * At this spectacle, O Heaven, be amazed!"
+trMA.Encomia208.text = "He who simply willed * and made planet earth in the beginning * goes now as a dead man beneath the earth. * At this spectacle, O Heaven, be amazed!"
 
-trHW.Encomia209.text = "You who fashioned man * with Your hand have gone beneath the earth now, * so that You might raise all humanity * from its fall, by Your almighty strength, O Christ."
+trMA.Encomia209.text = "You who fashioned man * with Your hand have gone beneath the earth now, * so that You might raise all humanity * from its fall, by Your almighty strength, O Christ."
 
-trHW.Encomia210.text = "Come and let us sing * unto Christ, who died, these lamentations, * so that, as the Myrrh-bearing Women then, * we may also hear the Savior say, \"Rejoice!\""
+trMA.Encomia210.text = "Come and let us sing * unto Christ, who died, these lamentations, * so that, as the Myrrh-bearing Women then, * we may also hear the Savior say, \"Rejoice!\""
 
-trHW.Encomia211.text = "Word, You are in truth * inexhaustible perfume and ointment. * Thus to You who live, as to one who died, * did the Myrrh-bearers bring ointments and perfume."
+trMA.Encomia211.text = "Word, You are in truth * inexhaustible perfume and ointment. * Thus to You who live, as to one who died, * did the Myrrh-bearers bring ointments and perfume."
 
-trHW.Encomia212.text = "Christ, You were entombed, * and You crushed the mighty realm of Hades; * death You put to death by Your death, O Lord; * from destruction You have saved us born on earth."
+trMA.Encomia212.text = "Christ, You were entombed, * and You crushed the mighty realm of Hades; * death You put to death by Your death, O Lord; * from destruction You have saved us born on earth."
 
-trHW.Encomia213.text = "Christ, the Wisdom of God, * pouring forth the streams of life, was buried, * went into the depths of the netherworld, * and gave life to those who languished in its cells."
+trMA.Encomia213.text = "Christ, the Wisdom of God, * pouring forth the streams of life, was buried, * went into the depths of the netherworld, * and gave life to those who languished in its cells."
 
-trHW.Encomia214.text = "By My death I wish * to renew destructed human nature. * So, I let them whip me and scar my flesh. * Therefore, Mother, do not grieve  and beat your breasts."
+trMA.Encomia214.text = "By My death I wish * to renew destructed human nature. * So, I let them whip me and scar my flesh. * Therefore, Mother, do not grieve  and beat your breasts."
 
-trHW.Encomia215.text = "Sun of righteousness, * when You set beneath the earth, O Savior, * You wakened the dead as from sleep, O Lord, * and from Hades You drove out the darkness all."
+trMA.Encomia215.text = "Sun of righteousness, * when You set beneath the earth, O Savior, * You wakened the dead as from sleep, O Lord, * and from Hades You drove out the darkness all."
 
-trHW.Encomia216.text = "In the ground today * is the double-natured, life-producing * kernel sown and watered with tears of grief. * When it blossoms it will fill the world with joy."
+trMA.Encomia216.text = "In the ground today * is the double-natured, life-producing * kernel sown and watered with tears of grief. * When it blossoms it will fill the world with joy."
 
-trHW.Encomia217.text = "Adam hid in fear * at the sound of God walking in Eden. * Seeing Him in Hades, he leaps for joy, * being raised now from his fall so long ago."
+trMA.Encomia217.text = "Adam hid in fear * at the sound of God walking in Eden. * Seeing Him in Hades, he leaps for joy, * being raised now from his fall so long ago."
 
-trHW.Encomia218.text = "Christ, Your Mother wept * many tears for You, as she lamented, * as Your corpse was laid in the sepulcher. * She cried out, \"My Son, arise, as You foretold!\""
+trMA.Encomia218.text = "Christ, Your Mother wept * many tears for You, as she lamented, * as Your corpse was laid in the sepulcher. * She cried out, \"My Son, arise, as You foretold!\""
 
-trHW.Encomia219.text = "Joseph reverently * in his own new tomb inters Your body. * Mixing lamentations with funeral hymns * fit for God, he sings to You, O Savior Christ."
+trMA.Encomia219.text = "Joseph reverently * in his own new tomb inters Your body. * Mixing lamentations with funeral hymns * fit for God, he sings to You, O Savior Christ."
 
-trHW.Encomia220.text = "When Your Mother saw * how they nailed You to the Cross, O Logos, * nails of bitter sorrow and darts of grief * pierced her heart and soul, as she had been foretold."
+trMA.Encomia220.text = "When Your Mother saw * how they nailed You to the Cross, O Logos, * nails of bitter sorrow and darts of grief * pierced her heart and soul, as she had been foretold."
 
-trHW.Encomia221.text = "Watching You, O Lord, * sweet delight of all the world, be given * sour wine to drink it, Your Mother wept, * and she wet her holy face with bitter tears."
+trMA.Encomia221.text = "Watching You, O Lord, * sweet delight of all the world, be given * sour wine to drink it, Your Mother wept, * and she wet her holy face with bitter tears."
 
-trHW.Encomia222.text = "\"I am pained and pricked * to the heart, my Son and Logos, watching * You unjustifiably be put to death,\" * said the all-pure Virgin Mary as she wept."
+trMA.Encomia222.text = "\"I am pained and pricked * to the heart, my Son and Logos, watching * You unjustifiably be put to death,\" * said the all-pure Virgin Mary as she wept."
 
-trHW.Encomia223.text = "\"How am I to shut * Your sweet eyes and lips, O Lord and Logos? * How can I prepare You for burial?\" * Joseph shuddered as he uttered this to Christ."
+trMA.Encomia223.text = "\"How am I to shut * Your sweet eyes and lips, O Lord and Logos? * How can I prepare You for burial?\" * Joseph shuddered as he uttered this to Christ."
 
-trHW.Encomia224.text = "Graveside hymns are sung * now by Joseph and by Nicodemus * unto Christ who died for the sake of all. * They are joined in sacred song by Seraphim."
+trMA.Encomia224.text = "Graveside hymns are sung * now by Joseph and by Nicodemus * unto Christ who died for the sake of all. * They are joined in sacred song by Seraphim."
 
-trHW.Encomia225.text = "Sun of Righteousness, * You have set beneath the earth, O Savior, * blocking her who bore You from seeing You. * Like the moon, she was eclipsed by pain and grief."
+trMA.Encomia225.text = "Sun of Righteousness, * You have set beneath the earth, O Savior, * blocking her who bore You from seeing You. * Like the moon, she was eclipsed by pain and grief."
 
-trHW.Encomia226.text = "Hades quaked in fear * when it saw You, O life-giving Savior, * as You resurrected the dead it held * from the dawn of time and stripped it of its wealth."
+trMA.Encomia226.text = "Hades quaked in fear * when it saw You, O life-giving Savior, * as You resurrected the dead it held * from the dawn of time and stripped it of its wealth."
 
-trHW.Encomia227.text = "After night the sun * brightly shines, and likewise You, O Logos, * after death will rise and will brightly shine * from Your chamber as the Bridegroom that You are."
+trMA.Encomia227.text = "After night the sun * brightly shines, and likewise You, O Logos, * after death will rise and will brightly shine * from Your chamber as the Bridegroom that You are."
 
-trHW.Encomia228.text = "Savior, earth received * You, its Maker, in its lowest caverns. * Trembling under pressure, it quaked with fear * and by quaking woke the dead who were asleep."
+trMA.Encomia228.text = "Savior, earth received * You, its Maker, in its lowest caverns. * Trembling under pressure, it quaked with fear * and by quaking woke the dead who were asleep."
 
-trHW.Encomia229.text = "Nicodemus brought * myrrh and aloes and with Joseph wrapped You * in a manner new and unique, O Christ; * and they cried, \"Behold and shudder, all the earth!\""
+trMA.Encomia229.text = "Nicodemus brought * myrrh and aloes and with Joseph wrapped You * in a manner new and unique, O Christ; * and they cried, \"Behold and shudder, all the earth!\""
 
-trHW.Encomia230.text = "You created light. * Now You set, and with You sets the sun's light. * All creation trembles, proclaiming You * as the Maker of the universe, O Christ."
+trMA.Encomia230.text = "You created light. * Now You set, and with You sets the sun's light. * All creation trembles, proclaiming You * as the Maker of the universe, O Christ."
 
-trHW.Encomia231.text = "Earth, behold and quake! * For the Cornerstone has now been covered * by a quarried stone, and within a tomb * God as mortal is concealed by mortal man."
+trMA.Encomia231.text = "Earth, behold and quake! * For the Cornerstone has now been covered * by a quarried stone, and within a tomb * God as mortal is concealed by mortal man."
 
-trHW.Encomia232.text = "\"Child, behold and see * Your beloved Disciple and Your Mother. * Let me hear Your sweet voice. Please speak to me,\" cried the Virgin Mary tearfully to Christ."
+trMA.Encomia232.text = "\"Child, behold and see * Your beloved Disciple and Your Mother. * Let me hear Your sweet voice. Please speak to me,\" cried the Virgin Mary tearfully to Christ."
 
-trHW.Encomia233.text = "O Giver of life,* even stretched out on the Cross, O Logos, * You refused to put any Jews to death; * on the contrary You raised their dead as well."
+trMA.Encomia233.text = "O Giver of life,* even stretched out on the Cross, O Logos, * You refused to put any Jews to death; * on the contrary You raised their dead as well."
 
-trHW.Encomia234.text = "Lord, You had no form * neither comeliness during Your Passion. * But once You arose, You shone brilliantly, * and You beautified mankind with light divine."
+trMA.Encomia234.text = "Lord, You had no form * neither comeliness during Your Passion. * But once You arose, You shone brilliantly, * and You beautified mankind with light divine."
 
-trHW.Encomia235.text = "Never-setting Sun, * when You set beneath the earth in body, * in the sky the sun could not bear to watch, * and at high noon it went dark and hid its light."
+trMA.Encomia235.text = "Never-setting Sun, * when You set beneath the earth in body, * in the sky the sun could not bear to watch, * and at high noon it went dark and hid its light."
 
-trHW.Encomia236.text = "Savior, sun and moon * both went dark, and thereby they depicted * most devoted servants of Yours, O Lord, * for they hid their light and robed themselves in black."
+trMA.Encomia236.text = "Savior, sun and moon * both went dark, and thereby they depicted * most devoted servants of Yours, O Lord, * for they hid their light and robed themselves in black."
 
-trHW.Encomia237.text = "Joseph cried aloud, * \"The Centurion has recognized You * as God, even after You died, O Lord. * O my God, how can I touch You with my hands?\""
+trMA.Encomia237.text = "Joseph cried aloud, * \"The Centurion has recognized You * as God, even after You died, O Lord. * O my God, how can I touch You with my hands?\""
 
-trHW.Encomia238.text = "Adam went to sleep; * from his side he brought forth death in due course. * You, O Word of God, also went to sleep; * now You pour out streams of life for all the world."
+trMA.Encomia238.text = "Adam went to sleep; * from his side he brought forth death in due course. * You, O Word of God, also went to sleep; * now You pour out streams of life for all the world."
 
-trHW.Encomia239.text = "You, O Savior, slept * for a short time and reanimated * the dead, O good Lord; and since You arose, * You have raised those who for ages slept in death."
+trMA.Encomia239.text = "You, O Savior, slept * for a short time and reanimated * the dead, O good Lord; and since You arose, * You have raised those who for ages slept in death."
 
-trHW.Encomia240.text = "Taken from the earth, * You, O Lord, the grape vine ever flowing * with life, still pour out our salvation's wine. * Now I glorify Your Passion and Your Cross."
+trMA.Encomia240.text = "Taken from the earth, * You, O Lord, the grape vine ever flowing * with life, still pour out our salvation's wine. * Now I glorify Your Passion and Your Cross."
 
-trHW.Encomia241.text = "When they saw You judged, * naked, bloody, and condemned, O Savior, * how did Your sublime Master Sergeants bear * the audacity of those who crucified You?"
+trMA.Encomia241.text = "When they saw You judged, * naked, bloody, and condemned, O Savior, * how did Your sublime Master Sergeants bear * the audacity of those who crucified You?"
 
-trHW.Encomia242.text = "Disobedient * and delinquents of the chosen people, * you knew that the Temple could be rebuilt. * So then why did you condemn and censure Christ?"
+trMA.Encomia242.text = "Disobedient * and delinquents of the chosen people, * you knew that the Temple could be rebuilt. * So then why did you condemn and censure Christ?"
 
-trHW.Encomia243.text = "In a scarlet robe * is the Marshal of celestial armies, * who splendidly studded the sky with stars * and who decorated earth, arrayed and mocked."
+trMA.Encomia243.text = "In a scarlet robe * is the Marshal of celestial armies, * who splendidly studded the sky with stars * and who decorated earth, arrayed and mocked."
 
-trHW.Encomia244.text = "From Your wounded side * You shed vivifying streams, O Logos, * and revived Your children when we were dead, * as the pelican of lore revived her young."
+trMA.Encomia244.text = "From Your wounded side * You shed vivifying streams, O Logos, * and revived Your children when we were dead, * as the pelican of lore revived her young."
 
-trHW.Encomia245.text = "Joshua stayed the sun * on that day he smote the foreign armies. * You, O Lord, conversely concealed its light, * and the prince of darkness fell to You, O Christ."
+trMA.Encomia245.text = "Joshua stayed the sun * on that day he smote the foreign armies. * You, O Lord, conversely concealed its light, * and the prince of darkness fell to You, O Christ."
 
-trHW.Encomia246.text = "Tender-loving Lord, * You were ever in the Father's bosom, * and You were well pleased to became a man, * and to Hades You descended, O Christ."
+trMA.Encomia246.text = "Tender-loving Lord, * You were ever in the Father's bosom, * and You were well pleased to became a man, * and to Hades You descended, O Christ."
 
-trHW.Encomia247.text = "Hung upon a cross * is the One who hung the earth on waters. * Dead now, He is buried beneath the earth, * which, unable to endure it, quakes with fear."
+trMA.Encomia247.text = "Hung upon a cross * is the One who hung the earth on waters. * Dead now, He is buried beneath the earth, * which, unable to endure it, quakes with fear."
 
-trHW.Encomia248.text = "\"Woe is me, O Son!\" * said the Virgin Mary and lamented. * \"You have been condemned and are crucified, * You whom I had hoped would reign as King of all!\""
+trMA.Encomia248.text = "\"Woe is me, O Son!\" * said the Virgin Mary and lamented. * \"You have been condemned and are crucified, * You whom I had hoped would reign as King of all!\""
 
-trHW.Encomia249.text = "So said Gabriel * when he came at the Annunciation; * he told me that Jesus my Son would reign, * and that of His kingdom there will be no end."
+trMA.Encomia249.text = "So said Gabriel * when he came at the Annunciation; * he told me that Jesus my Son would reign, * and that of His kingdom there will be no end."
 
-trHW.Encomia250.text = "Woe is me! Alas! * What the Elder Symeon foretold me, * that a sword would pierce through my heart and soul, * is fulfilled now, O Emmanuel, my Son."
+trMA.Encomia250.text = "Woe is me! Alas! * What the Elder Symeon foretold me, * that a sword would pierce through my heart and soul, * is fulfilled now, O Emmanuel, my Son."
 
-trHW.Encomia251.text = "See and be ashamed, * O you Pharisees and scribes and chief priests, * at least by the dead who were raised by Christ, * the Life-giver, you delivered to be killed."
+trMA.Encomia251.text = "See and be ashamed, * O you Pharisees and scribes and chief priests, * at least by the dead who were raised by Christ, * the Life-giver, you delivered to be killed."
 
-trHW.Encomia252.text = "When the sun beheld * You the unseen Light, O Christ my Savior, * a dead corpse concealed in a sepulcher, * it was horrified and hid its midday light."
+trMA.Encomia252.text = "When the sun beheld * You the unseen Light, O Christ my Savior, * a dead corpse concealed in a sepulcher, * it was horrified and hid its midday light."
 
-trHW.Encomia253.text = "Your immaculate * and all-blameless Mother cried her eyes out, * watching You be laid in a tomb, O Christ * the ineffable eternal Word and God."
+trMA.Encomia253.text = "Your immaculate * and all-blameless Mother cried her eyes out, * watching You be laid in a tomb, O Christ * the ineffable eternal Word and God."
 
-trHW.Encomia254.text = "When she saw Your death, * O my Christ, Your ever-virgin Mother * poignantly cried out, \"O my Son and life, * do not stay among the dead for very long.\""
+trMA.Encomia254.text = "When she saw Your death, * O my Christ, Your ever-virgin Mother * poignantly cried out, \"O my Son and life, * do not stay among the dead for very long.\""
 
-trHW.Encomia255.text = "When it saw You, Lord * and immortal Sun of glory, enter, * frightful Hades, frightened, was terrified * and at once released its prisoners to You."
+trMA.Encomia255.text = "When it saw You, Lord * and immortal Sun of glory, enter, * frightful Hades, frightened, was terrified * and at once released its prisoners to You."
 
-trHW.Encomia256.text = "Great and terrible * is the spectacle today, O Savior! * As it was Your will to give life to all, * You the cause of life willingly yield to death."
+trMA.Encomia256.text = "Great and terrible * is the spectacle today, O Savior! * As it was Your will to give life to all, * You the cause of life willingly yield to death."
 
-trHW.Encomia257.text = "Lord, Your side was pierced * and Your hands were nailed; and by the wounding * of Your side, You healed our Ancestors' wound * and corrected the intemperance of their hands."
+trMA.Encomia257.text = "Lord, Your side was pierced * and Your hands were nailed; and by the wounding * of Your side, You healed our Ancestors' wound * and corrected the intemperance of their hands."
 
-trHW.Encomia258.text = "Rachael's son of old * was the subject once of lamentation. * Now it is for Jesus, the Virgin's Son, * that His Mother and Disciples all lament."
+trMA.Encomia258.text = "Rachael's son of old * was the subject once of lamentation. * Now it is for Jesus, the Virgin's Son, * that His Mother and Disciples all lament."
 
-trHW.Encomia259.text = "Struck across the cheek * by the hands of men was Christ the Savior, * who with His divine hand had fashioned man * and in Hades broke the savage lion's teeth."
+trMA.Encomia259.text = "Struck across the cheek * by the hands of men was Christ the Savior, * who with His divine hand had fashioned man * and in Hades broke the savage lion's teeth."
 
-trHW.Encomia260.text = "With these hymns, O Christ, * we the faithful all extol Your Passion * and Your Crucifixion and Burial. * By Your death, O Lord, You rescued us from death."
+trMA.Encomia260.text = "With these hymns, O Christ, * we the faithful all extol Your Passion * and Your Crucifixion and Burial. * By Your death, O Lord, You rescued us from death."
 
-trHW.Encomia2Tr.text = "O eternal God, * co-eternal Word, and Holy Spirit, * fortify our country and drive away * foreign enemies, O Lord, as You are good."
+trMA.Encomia2Tr.text = "O eternal God, * co-eternal Word, and Holy Spirit, * fortify our country and drive away * foreign enemies, O Lord, as You are good."
 
-trHW.Encomia2T.text = "Mother of our life, * O good Lady, pure and blameless Virgin, * put an end to scandals within the Church, * and restore her peace and unity once more."
+trMA.Encomia2T.text = "Mother of our life, * O good Lady, pure and blameless Virgin, * put an end to scandals within the Church, * and restore her peace and unity once more."
 
-trHW.Encomia2F.text = trHW.Encomia201.text
+trMA.Encomia2F.text = trMA.Encomia201.text
 
-trHW.Encomia300.title = "Third Section."
-trHW.Encomia300.mode = miscellanea_en_US_goadedes.misc.Mode3
+trMA.Encomia300.title = "Third Section."
+trMA.Encomia300.mode = miscellanea_en_US_goadedes.misc.Mode3
 
-trHW.Encomia301.text = "All generations offer * these hymns, O Christ my Savior, * to honor Your entombment."
+trMA.Encomia301.text = "All generations offer * these hymns, O Christ my Savior, * to honor Your entombment."
 
-trHW.Encomia302.text = "The Arimathean * from the Cross removed You, * O Christ, and he entombed You."
+trMA.Encomia302.text = "The Arimathean * from the Cross removed You, * O Christ, and he entombed You."
 
-trHW.Encomia303.text = "O Christ, Myrrh-bearing women * prepared their fragrant ointments * and brought them to anoint You."
+trMA.Encomia303.text = "O Christ, Myrrh-bearing women * prepared their fragrant ointments * and brought them to anoint You."
 
-trHW.Encomia304.text = "All creation, come now, * sing to our Creator * these graveside lamentations."
+trMA.Encomia304.text = "All creation, come now, * sing to our Creator * these graveside lamentations."
 
-trHW.Encomia305.text = "As if Myrrh-bearing women, * knowingly we perfume * as dead the living Savior."
+trMA.Encomia305.text = "As if Myrrh-bearing women, * knowingly we perfume * as dead the living Savior."
 
-trHW.Encomia306.text = "Bury now the body * of Christ who is the Giver * of life, thrice-blessed Joseph."
+trMA.Encomia306.text = "Bury now the body * of Christ who is the Giver * of life, thrice-blessed Joseph."
 
-trHW.Encomia307.text = "Descendants of the people * who ate the manna lifted * their heel against their Savior."
+trMA.Encomia307.text = "Descendants of the people * who ate the manna lifted * their heel against their Savior."
 
-trHW.Encomia308.text = "Descendants of the people * who ate sweet manna offer * their Savior sour wine mingled."
+trMA.Encomia308.text = "Descendants of the people * who ate sweet manna offer * their Savior sour wine mingled."
 
-trHW.Encomia309.text = "Madness was the killing * of their own Messiah * of those who killed the Prophets."
+trMA.Encomia309.text = "Madness was the killing * of their own Messiah * of those who killed the Prophets."
 
-trHW.Encomia310.text = "As a foolish servant, * Judas the disciple * betrayed the sea of wisdom."
+trMA.Encomia310.text = "As a foolish servant, * Judas the disciple * betrayed the sea of wisdom."
 
-trHW.Encomia311.text = "Judas the dissembler, * by selling off the Savior * became himself a captive."
+trMA.Encomia311.text = "Judas the dissembler, * by selling off the Savior * became himself a captive."
 
-trHW.Encomia312.text = " The mouth of lawless chief priests * and scribes was like a deep pit, * according to the Proverbs."
+trMA.Encomia312.text = " The mouth of lawless chief priests * and scribes was like a deep pit, * according to the Proverbs."
 
-trHW.Encomia313.text = "Thorns and snares were surely * in the ways of wicked * perverted scribes and chief priests."
+trMA.Encomia313.text = "Thorns and snares were surely * in the ways of wicked * perverted scribes and chief priests."
 
-trHW.Encomia314.text = "With help from Nicodemus, * Joseph buries Jesus, * decedent and Creator."
+trMA.Encomia314.text = "With help from Nicodemus, * Joseph buries Jesus, * decedent and Creator."
 
-trHW.Encomia315.text = "O life-giving Savior, * glory to You power, * by which You conquered Hades!"
+trMA.Encomia315.text = "O life-giving Savior, * glory to You power, * by which You conquered Hades!"
 
-trHW.Encomia316.text = "Seeing You, O Logos, * lying dead, the Virgin * maternally lamented."
+trMA.Encomia316.text = "Seeing You, O Logos, * lying dead, the Virgin * maternally lamented."
 
-trHW.Encomia317.text = "O my sweetest Child, * my refreshing springtime, * why has Your beauty wilted?"
+trMA.Encomia317.text = "O my sweetest Child, * my refreshing springtime, * why has Your beauty wilted?"
 
-trHW.Encomia318.text = "Moved to lamentation * was Your all-pure Mother, * seeing You dead, O Logos."
+trMA.Encomia318.text = "Moved to lamentation * was Your all-pure Mother, * seeing You dead, O Logos."
 
-trHW.Encomia319.text = "Women come with spices * and ointments to perfume You, * O Christ, the divine ointment."
+trMA.Encomia319.text = "Women come with spices * and ointments to perfume You, * O Christ, the divine ointment."
 
-trHW.Encomia320.text = "O my God, You killed death * by Your death, O Savior, * in Your divine dominion"
+trMA.Encomia320.text = "O my God, You killed death * by Your death, O Savior, * in Your divine dominion"
 
-trHW.Encomia321.text = "Deceiving the deceiver, * O God, You masterminded * the rescue of his victim."
+trMA.Encomia321.text = "Deceiving the deceiver, * O God, You masterminded * the rescue of his victim."
 
-trHW.Encomia322.text = "Cast into the pit of * decay and to the bottom * of Hell was the betrayer."
+trMA.Encomia322.text = "Cast into the pit of * decay and to the bottom * of Hell was the betrayer."
 
-trHW.Encomia323.text = "The crooked ways of Judas, * thrice-wretched and demented, * are thorns and snares, as written."
+trMA.Encomia323.text = "The crooked ways of Judas, * thrice-wretched and demented, * are thorns and snares, as written."
 
-trHW.Encomia324.text = "With him Your crucifiers, * O Son of God and Logos * and King of all, have perished."
+trMA.Encomia324.text = "With him Your crucifiers, * O Son of God and Logos * and King of all, have perished."
 
-trHW.Encomia325.text = "Likewise into the pit of * decay those men of blood were * cast down, and there they perished."
+trMA.Encomia325.text = "Likewise into the pit of * decay those men of blood were * cast down, and there they perished."
 
-trHW.Encomia326.text = "O Son of God, my Maker * and King of all, how did You * submit and bear the Passion!"
+trMA.Encomia326.text = "O Son of God, my Maker * and King of all, how did You * submit and bear the Passion!"
 
-trHW.Encomia327.text = "The heifer saw her young bull * crucified, and therefore * she cried aloud lamenting."
+trMA.Encomia327.text = "The heifer saw her young bull * crucified, and therefore * she cried aloud lamenting."
 
-trHW.Encomia328.text = "With help from Nicodemus, * Joseph wraps and buries * the vivifying body."
+trMA.Encomia328.text = "With help from Nicodemus, * Joseph wraps and buries * the vivifying body."
 
-trHW.Encomia329.text = "The Virgin cried in anguish; * her heart was pierced with sorrow: * she wept hot tears lamenting."
+trMA.Encomia329.text = "The Virgin cried in anguish; * her heart was pierced with sorrow: * she wept hot tears lamenting."
 
-trHW.Encomia330.text = "The sepulcher conceals You * from me. Alas! O Jesus, * light of my eyes, my sweet Son!"
+trMA.Encomia330.text = "The sepulcher conceals You * from me. Alas! O Jesus, * light of my eyes, my sweet Son!"
 
-trHW.Encomia331.text = "Do not lament, O Mother. * I suffer this to rescue * Adam and Eve from Hades."
+trMA.Encomia331.text = "Do not lament, O Mother. * I suffer this to rescue * Adam and Eve from Hades."
 
-trHW.Encomia332.text = "My Son, I glorify You * and Your sublime compassion, * because of which You suffer."
+trMA.Encomia332.text = "My Son, I glorify You * and Your sublime compassion, * because of which You suffer."
 
-trHW.Encomia333.text = "To cancel the illicit * taste of old, O Savior, * You tasted gall and sour wine."
+trMA.Encomia333.text = "To cancel the illicit * taste of old, O Savior, * You tasted gall and sour wine."
 
-trHW.Encomia334.text = "Nailed unto a post, Lord, * are You who saved Your people * with cloud and fiery pillar."
+trMA.Encomia334.text = "Nailed unto a post, Lord, * are You who saved Your people * with cloud and fiery pillar."
 
-trHW.Encomia335.text = "Women came with spices * to Your tomb, O Savior. * Now they are called Myrrh-bearers."
+trMA.Encomia335.text = "Women came with spices * to Your tomb, O Savior. * Now they are called Myrrh-bearers."
 
-trHW.Encomia336.text = "Arise, O loving Savior, * and also resurrect us * from Hades and perdition."
+trMA.Encomia336.text = "Arise, O loving Savior, * and also resurrect us * from Hades and perdition."
 
-trHW.Encomia337.text = "Your Mother weeps a faucet * of tears as she is saying, * \"Arise now, O Life-giver!\""
+trMA.Encomia337.text = "Your Mother weeps a faucet * of tears as she is saying, * \"Arise now, O Life-giver!\""
 
-trHW.Encomia338.text = "Speedily, O Logos, * arise and put an end to * Your virgin Mother's sorrow."
+trMA.Encomia338.text = "Speedily, O Logos, * arise and put an end to * Your virgin Mother's sorrow."
 
-trHW.Encomia339.text = "The Powers of the heavens * were struck with fear and wonder, * seeing You dead and buried."
+trMA.Encomia339.text = "The Powers of the heavens * were struck with fear and wonder, * seeing You dead and buried."
 
-trHW.Encomia340.text = "Forgive every transgression * of those who now with longing * and love extol Your Passion."
+trMA.Encomia340.text = "Forgive every transgression * of those who now with longing * and love extol Your Passion."
 
-trHW.Encomia341.text = "How can earth conceal You! * This scene is horrifying * and strange, O God and Logos."
+trMA.Encomia341.text = "How can earth conceal You! * This scene is horrifying * and strange, O God and Logos."
 
-trHW.Encomia342.text = "One Joseph long ago, Lord, * took You and departed; * another now entombs You."
+trMA.Encomia342.text = "One Joseph long ago, Lord, * took You and departed; * another now entombs You."
 
-trHW.Encomia343.text = "Your all-holy Mother * sees You dead, O Savior; * and weeping, she laments You."
+trMA.Encomia343.text = "Your all-holy Mother * sees You dead, O Savior; * and weeping, she laments You."
 
-trHW.Encomia344.text = "The Angels shudder, seeing * the strange and dread entombment * of You the world's Creator."
+trMA.Encomia344.text = "The Angels shudder, seeing * the strange and dread entombment * of You the world's Creator."
 
-trHW.Encomia345.text = "Coming very early, * Myrrh-bearing women sprinkled * Your sepulcher with perfume."
+trMA.Encomia345.text = "Coming very early, * Myrrh-bearing women sprinkled * Your sepulcher with perfume."
 
-trHW.Encomia346.text = "By Your resurrection, * reconcile Your churches, * O Lord, and save Your people."
+trMA.Encomia346.text = "By Your resurrection, * reconcile Your churches, * O Lord, and save Your people."
 
-trHW.Encomia3Tr.text = "O Trinity, my one God, * Father, Son, and Spirit, * grant the world Your mercy."
+trMA.Encomia3Tr.text = "O Trinity, my one God, * Father, Son, and Spirit, * grant the world Your mercy."
 
-trHW.Encomia3T.text = "We pray you, Virgin Mother * of Christ, to count us worthy * to see His resurrection."
+trMA.Encomia3T.text = "We pray you, Virgin Mother * of Christ, to count us worthy * to see His resurrection."
 
 // Not in Triodion, but common
-trHW.Encomia3F.text = trHW.Encomia301.text
+trMA.Encomia3F.text = trMA.Encomia301.text
 
 // Resurrectional Evlogetaria keys for media
-trHW.Evlogetaria1.incipit = ho.ho03_en_US_goadedes.hoMA.ResEvlog1.incipit
-trHW.Evlogetaria1.text = ho.ho03_en_US_goadedes.hoMA.ResEvlog1.text
-trHW.Evlogetaria2.incipit = ho.ho03_en_US_goadedes.hoMA.ResEvlog2.incipit
-trHW.Evlogetaria2.text = ho.ho03_en_US_goadedes.hoMA.ResEvlog2.text
-trHW.Evlogetaria3.incipit = ho.ho03_en_US_goadedes.hoMA.ResEvlog3.incipit
-trHW.Evlogetaria3.text = ho.ho03_en_US_goadedes.hoMA.ResEvlog3.text
-trHW.Evlogetaria4.incipit = ho.ho03_en_US_goadedes.hoMA.ResEvlog4.incipit
-trHW.Evlogetaria4.text = ho.ho03_en_US_goadedes.hoMA.ResEvlog4.text
-trHW.Evlogetaria5.incipit = ho.ho03_en_US_goadedes.hoMA.ResEvlog5.incipit
-trHW.Evlogetaria5.text = ho.ho03_en_US_goadedes.hoMA.ResEvlog5.text
-trHW.Evlogetaria6.incipit = ho.ho03_en_US_goadedes.hoMA.ResEvlog6.incipit
-trHW.Evlogetaria6.text = ho.ho03_en_US_goadedes.hoMA.ResEvlog6.text
-trHW.Evlogetaria7.text = ho.ho03_en_US_goadedes.hoMA.ResEvlog7.text
+trMA.MM.Evlogetaria1.text = properties_en_US_goadedes.media.key
+trMA.MM.Evlogetaria2.text = properties_en_US_goadedes.media.key
+trMA.MM.Evlogetaria3.text = properties_en_US_goadedes.media.key
+trMA.MM.Evlogetaria4.text = properties_en_US_goadedes.media.key
+trMA.MM.Evlogetaria5.text = properties_en_US_goadedes.media.key
+trMA.MM.Evlogetaria6.text = properties_en_US_goadedes.media.key
+trMA.MM.Evlogetaria7.text = properties_en_US_goadedes.media.key
 
 trMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
 trMA.Kathisma11.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
@@ -816,7 +808,6 @@ trMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
 trMA.Exaposteilarion1.melody = ""
 trMA.Exaposteilarion1.text = ho.ho03_en_US_goadedes.hoMA.SunExapVerse1.text
 
-trHW.Lauds01.text = "" // for media
 
 trMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode2
 trMA.Lauds1.melody = miscellanea_en_US_goadedes.misc.Idiomelon

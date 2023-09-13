@@ -14,6 +14,251 @@ peHO.note1 = ""
 peHO.note2 = ""
 peDA.dismissal = dismissals_en_US_goadedes.dis00.resurrection
 
+peMO.Troparion1.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMO.Troparion1.incipit = "…"
+peMO.Troparion1.text = ""
+
+peMO.Troparion2.mode = miscellanea_en_US_goadedes.misc.Mode6
+peMO.Troparion2.incipit = oc.m6.d1_en_US_goadedes.ocVE.Aposticha1.incipit
+peMO.Troparion2.text = oc.m6.d1_en_US_goadedes.ocVE.Aposticha1.text
+
+peMA.Troparion.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Troparion.incipit = "…"
+peMA.Troparion.text = ""
+peMA.Troparion1a.incipit = "…"
+peMA.Troparion1a.text = ""
+peMA.Troparion1b.text = ""
+peMA.Troparion2a.incipit = "…"
+peMA.Troparion2a.text = ""
+peMA.Troparion2b.incipit = "…"
+peMA.Troparion2b.text = ""
+peMA.TroparionShort.incipit = "…"
+peMA.TroparionShort.text = "" //for media
+
+peMA.C1.poet = poets_en_US_goadedes.po.IoannouTouDamaskinou
+peMA.MM.Canon1.text = "" //for media
+peMA.C1.title = titles_en_US_goadedes.ti.CanonPascha
+peMA.C1.verse = prayers_en_US_goadedes.pr.verse_Resurrection.text
+
+peMA.C2.acrostic.title = "Canon for the Theotokos."
+peMA.C2.acrostic.notice1 = ""
+peMA.C2.acrostic.text = ""
+peMA.C2.acrostic.notice2 = ""
+peMA.C2.poet = "Some manuscripts say that only the first troparion of each ode is by Theophanes, and the rest are by Joseph of Thessalonica."
+peMA.C2.title = titles_en_US_goadedes.ti.CanonTheotokos
+
+peMA.Ode1C1H.ode = miscellanea_en_US_goadedes.misc.Ode1
+peMA.Ode1C1H.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode1C1H.greekmelody = he.h.m1_en_US_goadedes.heHE.AnastaseosImera.greekname
+peMA.Ode1C1H.melody = he.h.m1_en_US_goadedes.heHE.AnastaseosImera.melody
+peMA.Ode1C1H.incipit = he.h.m1_en_US_goadedes.heHE.AnastaseosImera.incipit
+peMA.Ode1C1H.text = he.h.m1_en_US_goadedes.heHE.AnastaseosImera.text
+
+peMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
+peMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode1C11.melody = he.h.m1_en_US_goadedes.heHE.AnastaseosImera.name
+peMA.Ode1C11.incipit = "…"
+peMA.Ode1C11.text = ""
+
+peMA.Ode1C12.ode = miscellanea_en_US_goadedes.misc.Ode1
+peMA.Ode1C12.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode1C12.melody = he.h.m1_en_US_goadedes.heHE.AnastaseosImera.name
+peMA.Ode1C12.incipit = "…"
+peMA.Ode1C12.text = ""
+
+peMA.Ode1C21.ode = miscellanea_en_US_goadedes.misc.Ode1
+peMA.Ode1C21.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode1C21.greekmelody = he.h.m1_en_US_goadedes.heHE.AnastaseosImera.greekname
+peMA.Ode1C21.melody = he.h.m1_en_US_goadedes.heHE.AnastaseosImera.name
+peMA.Ode1C21.incipit = "Now we say that you pried…"
+peMA.Ode1C21.text = "Now we say that you pried open the boundaries by death, * all-blameless holy Virgin, * for you are truly she who bore life eternal, namely Christ who rose today * and shone from the sepulcher * and illumined the universe."
+
+peMA.Ode1C22.ode = miscellanea_en_US_goadedes.misc.Ode1
+peMA.Ode1C22.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode1C22.melody = he.h.m1_en_US_goadedes.heHE.AnastaseosImera.name
+peMA.Ode1C22.incipit = "As you see your Son…"
+peMA.Ode1C22.text = "As you see your Son and God who has risen from the dead, * rejoice with the Apostles, * all-blameless Virgin full of grace. * As the cause of the joy for all, O Mother of God, * primarily you received the salutation, \"Rejoice!\""
+
+peMA.Ode1K.ode = miscellanea_en_US_goadedes.misc.Ode1
+peMA.Ode1K.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode1K.greekmelody = he.h.m1_en_US_goadedes.heHE.AnastaseosImera.greekname
+peMA.Ode1K.melody = he.h.m1_en_US_goadedes.heHE.AnastaseosImera.melody
+peMA.Ode1K.incipit = he.h.m1_en_US_goadedes.heHE.AnastaseosImera.incipit
+peMA.Ode1K.text = he.h.m1_en_US_goadedes.heHE.AnastaseosImera.text
+
+peMA.Ode3C1H.ode = miscellanea_en_US_goadedes.misc.Ode3
+peMA.Ode3C1H.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode3C1H.greekmelody = he.h.m1_en_US_goadedes.heHE.DeftePomaPiomen.greekname
+peMA.Ode3C1H.melody = he.h.m1_en_US_goadedes.heHE.DeftePomaPiomen.melody
+peMA.Ode3C1H.incipit = he.h.m1_en_US_goadedes.heHE.DeftePomaPiomen.incipit
+peMA.Ode3C1H.text = he.h.m1_en_US_goadedes.heHE.DeftePomaPiomen.text
+
+peMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
+peMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode3C11.melody = he.h.m1_en_US_goadedes.heHE.DeftePomaPiomen.name
+peMA.Ode3C11.incipit = "…"
+peMA.Ode3C11.text = ""
+
+peMA.Ode3C12.ode = miscellanea_en_US_goadedes.misc.Ode3
+peMA.Ode3C12.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode3C12.melody = he.h.m1_en_US_goadedes.heHE.DeftePomaPiomen.name
+peMA.Ode3C12.incipit = "…"
+peMA.Ode3C12.text = ""
+
+peMA.Ode3C21.ode = miscellanea_en_US_goadedes.misc.Ode3
+peMA.Ode3C21.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode3C21.greekmelody = he.h.m1_en_US_goadedes.heHE.DeftePomaPiomen.greekname
+peMA.Ode3C21.melody = he.h.m1_en_US_goadedes.heHE.DeftePomaPiomen.name
+peMA.Ode3C21.incipit = "O Virgin, today…"
+peMA.Ode3C21.text = "O Virgin, today I am restored * to immortal life by the great benevolence * of Christ our God born of you. * He flashes the resurrection's light * that shines on the universe."
+
+peMA.Ode3C22.ode = miscellanea_en_US_goadedes.misc.Ode3
+peMA.Ode3C22.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode3C22.melody = he.h.m1_en_US_goadedes.heHE.DeftePomaPiomen.name
+peMA.Ode3C22.incipit = "Immaculate Lady…"
+peMA.Ode3C22.text = "Immaculate Lady, as you gaze * on your Son, whom you bore in the flesh, and who as God * rose from the dead as He said, * celebrate. And as He is our God, * magnify Him, Virgin pure."
+
+peMA.Ode3K.ode = miscellanea_en_US_goadedes.misc.Ode3
+peMA.Ode3K.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode3K.greekmelody = he.h.m1_en_US_goadedes.heHE.DeftePomaPiomen.greekname
+peMA.Ode3K.melody = he.h.m1_en_US_goadedes.heHE.DeftePomaPiomen.melody
+peMA.Ode3K.incipit = he.h.m1_en_US_goadedes.heHE.DeftePomaPiomen.incipit
+peMA.Ode3K.text = he.h.m1_en_US_goadedes.heHE.DeftePomaPiomen.text
+
+peMA.Hypakoe.mode = miscellanea_en_US_goadedes.misc.Mode4
+peMA.Hypakoe.incipit = "…"
+peMA.Hypakoe.text = ""
+
+peMA.Ode4C1H.ode = miscellanea_en_US_goadedes.misc.Ode4
+peMA.Ode4C1H.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode4C1H.greekmelody = he.h.m1_en_US_goadedes.heHE.EpiTisTheiasFylakis.greekname
+peMA.Ode4C1H.melody = he.h.m1_en_US_goadedes.heHE.EpiTisTheiasFylakis.melody
+peMA.Ode4C1H.incipit = he.h.m1_en_US_goadedes.heHE.EpiTisTheiasFylakis.incipit
+peMA.Ode4C1H.text = he.h.m1_en_US_goadedes.heHE.EpiTisTheiasFylakis.text
+
+peMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
+peMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode4C11.melody = he.h.m1_en_US_goadedes.heHE.EpiTisTheiasFylakis.name
+peMA.Ode4C11.incipit = "…"
+peMA.Ode4C11.text = ""
+
+peMA.Ode4C12.ode = miscellanea_en_US_goadedes.misc.Ode4
+peMA.Ode4C12.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode4C12.melody = he.h.m1_en_US_goadedes.heHE.EpiTisTheiasFylakis.name
+peMA.Ode4C12.incipit = "…"
+peMA.Ode4C12.text = ""
+
+peMA.Ode4C13.ode = miscellanea_en_US_goadedes.misc.Ode4
+peMA.Ode4C13.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode4C13.melody = he.h.m1_en_US_goadedes.heHE.EpiTisTheiasFylakis.name
+peMA.Ode4C13.incipit = "…"
+peMA.Ode4C13.text = ""
+
+peMA.Ode4C21.ode = miscellanea_en_US_goadedes.misc.Ode4
+peMA.Ode4C21.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode4C21.greekmelody = he.h.m1_en_US_goadedes.heHE.EpiTisTheiasFylakis.greekname
+peMA.Ode4C21.melody = he.h.m1_en_US_goadedes.heHE.EpiTisTheiasFylakis.name
+peMA.Ode4C21.incipit = "All-holy Virgin, He who formed…"
+peMA.Ode4C21.text = "All-holy Virgin, He who formed Adam your ancestor of old * was molded from you. * He has neutralized the death, once introduced * through Adam, by His own death and rising today. * And by the flashing resplendence of His divine resurrection, He illumined all."
+
+peMA.Ode4C22.ode = miscellanea_en_US_goadedes.misc.Ode4
+peMA.Ode4C22.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode4C22.melody = he.h.m1_en_US_goadedes.heHE.EpiTisTheiasFylakis.name
+peMA.Ode4C22.incipit = "All-blameless Virgin, as you gaze…"
+peMA.Ode4C22.text = "All-blameless Virgin, as you gaze on Christ, the holy Son you bore, * glowing handsomely, * having risen from the dead today as God * for the salvation of all, O beautiful * and fairest among women, * join the Apostles and glorify Him joyfully."
+
+peMA.Ode4K.ode = miscellanea_en_US_goadedes.misc.Ode4
+peMA.Ode4K.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode4K.greekmelody = he.h.m1_en_US_goadedes.heHE.EpiTisTheiasFylakis.greekname
+peMA.Ode4K.melody = he.h.m1_en_US_goadedes.heHE.EpiTisTheiasFylakis.melody
+peMA.Ode4K.incipit = he.h.m1_en_US_goadedes.heHE.EpiTisTheiasFylakis.incipit
+peMA.Ode4K.text = he.h.m1_en_US_goadedes.heHE.EpiTisTheiasFylakis.text
+
+peMA.Ode5C1H.ode = miscellanea_en_US_goadedes.misc.Ode5
+peMA.Ode5C1H.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode5C1H.greekmelody = he.h.m1_en_US_goadedes.heHE.OrthrisomenOrthrouVatheos.greekname
+peMA.Ode5C1H.melody = he.h.m1_en_US_goadedes.heHE.OrthrisomenOrthrouVatheos.melody
+peMA.Ode5C1H.incipit = he.h.m1_en_US_goadedes.heHE.OrthrisomenOrthrouVatheos.incipit
+peMA.Ode5C1H.text = he.h.m1_en_US_goadedes.heHE.OrthrisomenOrthrouVatheos.text
+
+peMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
+peMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode5C11.melody = he.h.m1_en_US_goadedes.heHE.OrthrisomenOrthrouVatheos.name
+peMA.Ode5C11.incipit = "…"
+peMA.Ode5C11.text = ""
+
+peMA.Ode5C12.ode = miscellanea_en_US_goadedes.misc.Ode5
+peMA.Ode5C12.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode5C12.melody = he.h.m1_en_US_goadedes.heHE.OrthrisomenOrthrouVatheos.name
+peMA.Ode5C12.incipit = "…"
+peMA.Ode5C12.text = ""
+
+peMA.Ode5C21.ode = miscellanea_en_US_goadedes.misc.Ode5
+peMA.Ode5C21.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode5C21.greekmelody = he.h.m1_en_US_goadedes.heHE.OrthrisomenOrthrouVatheos.greekname
+peMA.Ode5C21.melody = he.h.m1_en_US_goadedes.heHE.OrthrisomenOrthrouVatheos.name
+peMA.Ode5C21.incipit = "All-blameless and pure…"
+peMA.Ode5C21.text = "All-blameless and pure Theotokos, * believing Christians are illumined by divine, vivifying * rays arising from your Son's resurrection from the dead, * and they are filled with triumphant joy."
+
+peMA.Ode5C22.ode = miscellanea_en_US_goadedes.misc.Ode5
+peMA.Ode5C22.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode5C22.melody = he.h.m1_en_US_goadedes.heHE.OrthrisomenOrthrouVatheos.name
+peMA.Ode5C22.incipit = "When You, who are King…"
+peMA.Ode5C22.text = "When You, who are King of creation, * became incarnate, You did not open the gates of the Virgin, * nor did You undo the seals that secured the sepulcher. * Seeing You risen, she greatly rejoiced."
+
+peMA.Ode5K.ode = miscellanea_en_US_goadedes.misc.Ode5
+peMA.Ode5K.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode5K.greekmelody = he.h.m1_en_US_goadedes.heHE.OrthrisomenOrthrouVatheos.greekname
+peMA.Ode5K.melody = he.h.m1_en_US_goadedes.heHE.OrthrisomenOrthrouVatheos.melody
+peMA.Ode5K.incipit = he.h.m1_en_US_goadedes.heHE.OrthrisomenOrthrouVatheos.incipit
+peMA.Ode5K.text = he.h.m1_en_US_goadedes.heHE.OrthrisomenOrthrouVatheos.text
+
+peMA.Ode6C1H.ode = miscellanea_en_US_goadedes.misc.Ode6
+peMA.Ode6C1H.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode6C1H.greekmelody = he.h.m1_en_US_goadedes.heHE.KatilthesEnToisKatotatois.greekname
+peMA.Ode6C1H.melody = he.h.m1_en_US_goadedes.heHE.KatilthesEnToisKatotatois.melody
+peMA.Ode6C1H.incipit = he.h.m1_en_US_goadedes.heHE.KatilthesEnToisKatotatois.incipit
+peMA.Ode6C1H.text = he.h.m1_en_US_goadedes.heHE.KatilthesEnToisKatotatois.text
+
+peMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
+peMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode6C11.melody = he.h.m1_en_US_goadedes.heHE.KatilthesEnToisKatotatois.name
+peMA.Ode6C11.incipit = "…"
+peMA.Ode6C11.text = ""
+
+peMA.Ode6C12.ode = miscellanea_en_US_goadedes.misc.Ode6
+peMA.Ode6C12.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode6C12.melody = he.h.m1_en_US_goadedes.heHE.KatilthesEnToisKatotatois.name
+peMA.Ode6C12.incipit = "…"
+peMA.Ode6C12.text = ""
+
+peMA.Ode6C21.ode = miscellanea_en_US_goadedes.misc.Ode6
+peMA.Ode6C21.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode6C21.greekmelody = he.h.m1_en_US_goadedes.heHE.KatilthesEnToisKatotatois.greekname
+peMA.Ode6C21.melody = he.h.m1_en_US_goadedes.heHE.KatilthesEnToisKatotatois.name
+peMA.Ode6C21.incipit = "O virgin Theotokos…"
+peMA.Ode6C21.text = "O virgin Theotokos, the human race, * held hostage of old in death and corruption, * was brought back by Him who became incarnate * from your most pure womb, * to the life that has no end and is free of corruption."
+
+peMA.Ode6C22.ode = miscellanea_en_US_goadedes.misc.Ode6
+peMA.Ode6C22.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode6C22.melody = he.h.m1_en_US_goadedes.heHE.KatilthesEnToisKatotatois.name
+peMA.Ode6C22.incipit = "He went down…"
+peMA.Ode6C22.text = "He went down to the nether regions of earth, * He who came down and dwelt inside your womb * and became incarnate ineffably. * From the tomb He rose, * and together with himself He raised Adam, O Virgin."
+
+peMA.Ode6K.ode = miscellanea_en_US_goadedes.misc.Ode6
+peMA.Ode6K.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode6K.greekmelody = he.h.m1_en_US_goadedes.heHE.KatilthesEnToisKatotatois.greekname
+peMA.Ode6K.melody = he.h.m1_en_US_goadedes.heHE.KatilthesEnToisKatotatois.melody
+peMA.Ode6K.incipit = he.h.m1_en_US_goadedes.heHE.KatilthesEnToisKatotatois.incipit
+peMA.Ode6K.text = he.h.m1_en_US_goadedes.heHE.KatilthesEnToisKatotatois.text
+
+peMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode8
+peMA.Kontakion1.melody = ""
+peMA.Kontakion1.incipit = "…"
+peMA.Kontakion1.text = ""
+
+peMA.Oikos1.text = ""
+
 peSY.commemoration.text = ""
 peSY.commemoration.couplet1.title = titles_en_US_goadedes.ti.Verses
 peSY.commemoration.couplet1.verse1 = ""
@@ -26,6 +271,183 @@ peSY.commemoration.narration.p05 = ""
 peSY.commemoration.narration.p06 = ""
 peSY.commemoration.narration.p07 = ""
 peSY.lastline = ""
+
+peMA.Ode7C1H.ode = miscellanea_en_US_goadedes.misc.Ode7
+peMA.Ode7C1H.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode7C1H.greekmelody = he.h.m1_en_US_goadedes.heHE.OPaidasEkKaminou.greekname
+peMA.Ode7C1H.melody = he.h.m1_en_US_goadedes.heHE.OPaidasEkKaminou.melody
+peMA.Ode7C1H.incipit = he.h.m1_en_US_goadedes.heHE.OPaidasEkKaminou.incipit
+peMA.Ode7C1H.text = he.h.m1_en_US_goadedes.heHE.OPaidasEkKaminou.text
+
+peMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
+peMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode7C11.melody = he.h.m1_en_US_goadedes.heHE.OPaidasEkKaminou.name
+peMA.Ode7C11.incipit = "…"
+peMA.Ode7C11.text = ""
+
+peMA.Ode7C12.ode = miscellanea_en_US_goadedes.misc.Ode7
+peMA.Ode7C12.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode7C12.melody = he.h.m1_en_US_goadedes.heHE.OPaidasEkKaminou.name
+peMA.Ode7C12.incipit = "…"
+peMA.Ode7C12.text = ""
+
+peMA.Ode7C13.ode = miscellanea_en_US_goadedes.misc.Ode7
+peMA.Ode7C13.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode7C13.melody = he.h.m1_en_US_goadedes.heHE.OPaidasEkKaminou.name
+peMA.Ode7C13.incipit = "…"
+peMA.Ode7C13.text = ""
+
+peMA.Ode7C21.ode = miscellanea_en_US_goadedes.misc.Ode7
+peMA.Ode7C21.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode7C21.greekmelody = he.h.m1_en_US_goadedes.heHE.OPaidasEkKaminou.greekname
+peMA.Ode7C21.melody = he.h.m1_en_US_goadedes.heHE.OPaidasEkKaminou.name
+peMA.Ode7C21.incipit = "Today, your Son…"
+peMA.Ode7C21.text = "Today, your Son has put death to death by death, * O Virgin immaculate; * and to mortals all, * He has bestowed eternal life, * unto ages of ages, all-blameless one. * For He is the only God of the fathers, * blessed and supremely glorious."
+
+peMA.Ode7C22.ode = miscellanea_en_US_goadedes.misc.Ode7
+peMA.Ode7C22.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode7C22.melody = he.h.m1_en_US_goadedes.heHE.OPaidasEkKaminou.name
+peMA.Ode7C22.incipit = "The One who reigns…"
+peMA.Ode7C22.text = "The One who reigns as King of creation all * dwelt inside your virgin womb * when He became man, * O Maiden full of grace divine. * He endured crucifixion and death for us. * He rose, and with himself He also raised us, * for He is our almighty God."
+
+peMA.Ode7K.ode = miscellanea_en_US_goadedes.misc.Ode7
+peMA.Ode7K.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode7K.greekmelody = he.h.m1_en_US_goadedes.heHE.OPaidasEkKaminou.greekname
+peMA.Ode7K.melody = he.h.m1_en_US_goadedes.heHE.OPaidasEkKaminou.melody
+peMA.Ode7K.incipit = he.h.m1_en_US_goadedes.heHE.OPaidasEkKaminou.incipit
+peMA.Ode7K.text = he.h.m1_en_US_goadedes.heHE.OPaidasEkKaminou.text
+
+peMA.Ode8C1H.ode = miscellanea_en_US_goadedes.misc.Ode8
+peMA.Ode8C1H.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode8C1H.greekmelody = he.h.m1_en_US_goadedes.heHE.AftiIKliti.greekname
+peMA.Ode8C1H.melody = he.h.m1_en_US_goadedes.heHE.AftiIKliti.melody
+peMA.Ode8C1H.incipit = he.h.m1_en_US_goadedes.heHE.AftiIKliti.incipit
+peMA.Ode8C1H.text = he.h.m1_en_US_goadedes.heHE.AftiIKliti.text
+
+peMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
+peMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode8C11.melody = he.h.m1_en_US_goadedes.heHE.AftiIKliti.name
+peMA.Ode8C11.incipit = "…"
+peMA.Ode8C11.text = ""
+
+peMA.Ode8C12.ode = miscellanea_en_US_goadedes.misc.Ode8
+peMA.Ode8C12.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode8C12.melody = he.h.m1_en_US_goadedes.heHE.AftiIKliti.name
+peMA.Ode8C12.incipit = "…"
+peMA.Ode8C12.text = ""
+
+peMA.Ode8C13.ode = miscellanea_en_US_goadedes.misc.Ode8
+peMA.Ode8C13.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode8C13.melody = he.h.m1_en_US_goadedes.heHE.AftiIKliti.name
+peMA.Ode8C13.incipit = "…"
+peMA.Ode8C13.text = ""
+
+peMA.Ode8C21.ode = miscellanea_en_US_goadedes.misc.Ode8
+peMA.Ode8C21.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode8C21.greekmelody = he.h.m1_en_US_goadedes.heHE.AftiIKliti.greekname
+peMA.Ode8C21.melody = he.h.m1_en_US_goadedes.heHE.AftiIKliti.name
+peMA.Ode8C21.incipit = "Virgin Theotokos, through you…"
+peMA.Ode8C21.text = "Virgin Theotokos, through you our Creator * came into the world, and He went down and shattered the belly * of Hades, and He gave to us mortals the gift of the resurrection. * Therefore we extol Him and bless Him to the ages."
+
+peMA.Ode8C22.ode = miscellanea_en_US_goadedes.misc.Ode8
+peMA.Ode8C22.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode8C22.melody = he.h.m1_en_US_goadedes.heHE.AftiIKliti.name
+peMA.Ode8C22.incipit = "Virgin Theotokos, when your Son…"
+peMA.Ode8C22.text = "Virgin Theotokos, when your Son completely * defeated the dominion of death by His resurrection, * as omnipotent God, He exalted us with Him, deifying us. * Therefore we extol Him and bless Him to the ages."
+
+peMA.Ode8K.ode = miscellanea_en_US_goadedes.misc.Ode8
+peMA.Ode8K.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode8K.greekmelody = he.h.m1_en_US_goadedes.heHE.AftiIKliti.greekname
+peMA.Ode8K.melody = he.h.m1_en_US_goadedes.heHE.AftiIKliti.melody
+peMA.Ode8K.incipit = he.h.m1_en_US_goadedes.heHE.AftiIKliti.incipit
+peMA.Ode8K.text = he.h.m1_en_US_goadedes.heHE.AftiIKliti.text
+
+peMA.Ode9C1M01.incipit = "…"
+peMA.Ode9C1M01.text = ""
+
+peMA.Ode9C1M02.incipit = "…"
+peMA.Ode9C1M02.text = ""
+
+peMA.Ode9C1M03.incipit = "…"
+peMA.Ode9C1M03.text = ""
+
+peMA.Ode9C1M04.incipit = "…"
+peMA.Ode9C1M04.text = ""
+
+peMA.Ode9C1M05.incipit = "…"
+peMA.Ode9C1M05.text = ""
+
+peMA.Ode9C1M06.incipit = "…"
+peMA.Ode9C1M06.text = ""
+
+peMA.Ode9C1M07.incipit = "…"
+peMA.Ode9C1M07.text = ""
+
+peMA.Ode9C1M08.incipit = "…"
+peMA.Ode9C1M08.text = ""
+
+peMA.Ode9C1M09.incipit = "…"
+peMA.Ode9C1M09.text = ""
+
+peMA.Ode9C1MTr.incipit = me.m01.d06_en_US_goadedes.meMA.Ode9C2MTr.incipit
+peMA.Ode9C1MTr.text = me.m01.d06_en_US_goadedes.meMA.Ode9C2MTr.text
+
+peMA.Ode9C1MTh.incipit = "…"
+peMA.Ode9C1MTh.text = ""
+
+peMA.Ode9C1MKa.incipit = "…"
+peMA.Ode9C1MKa.text = ""
+
+peMA.Ode9C1H.ode = miscellanea_en_US_goadedes.misc.Ode9
+peMA.Ode9C1H.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode9C1H.greekmelody = he.h.m1_en_US_goadedes.heHE.FotizouFotizou.greekname
+peMA.Ode9C1H.melody = he.h.m1_en_US_goadedes.heHE.FotizouFotizou.melody
+peMA.Ode9C1H.incipit = he.h.m1_en_US_goadedes.heHE.FotizouFotizou.incipit
+peMA.Ode9C1H.text = he.h.m1_en_US_goadedes.heHE.FotizouFotizou.text
+
+peMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
+peMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode9C11.melody = he.h.m1_en_US_goadedes.heHE.FotizouFotizou.name
+peMA.Ode9C11.incipit = "…"
+peMA.Ode9C11.text = ""
+
+peMA.Ode9C12.ode = miscellanea_en_US_goadedes.misc.Ode9
+peMA.Ode9C12.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode9C12.melody = he.h.m1_en_US_goadedes.heHE.FotizouFotizou.name
+peMA.Ode9C12.incipit = "…"
+peMA.Ode9C12.text = ""
+
+peMA.Ode9C21.ode = miscellanea_en_US_goadedes.misc.Ode9
+peMA.Ode9C21.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode9C21.greekmelody = he.h.m1_en_US_goadedes.heHE.FotizouFotizou.greekname
+peMA.Ode9C21.melody = he.h.m1_en_US_goadedes.heHE.FotizouFotizou.name
+peMA.Ode9C21.incipit = "O Virgin, with one voice…"
+peMA.Ode9C21.text = "O Virgin, with one voice, all we believers call you blessed. * Metaphorical City and Gate of the Lord, rejoice! * Light of your Son's resurrection from the dead * shines on us today through you, O Lady. * And therefore we salute you: Rejoice!"
+
+peMA.Ode9C22.ode = miscellanea_en_US_goadedes.misc.Ode9
+peMA.Ode9C22.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode9C22.melody = he.h.m1_en_US_goadedes.heHE.FotizouFotizou.name
+peMA.Ode9C22.incipit = "…"
+peMA.Ode9C22.text = ""
+
+peMA.MM.Ode9HH1122asM1M2M3M4GMtrBMth.text = properties_en_US_goadedes.media.key
+peMA.MM.Ode9HH12asM1M2M3M4.text = properties_en_US_goadedes.media.key
+peMA.MM.Ode9T1T2asThTh.text = properties_en_US_goadedes.media.key
+peMA.MM.Ode9T1T2asGB.text = properties_en_US_goadedes.media.key
+peMA.MM.Ode9T1T2asGMtrBMth.text = properties_en_US_goadedes.media.key
+
+peMA.Ode9K.ode = miscellanea_en_US_goadedes.misc.Ode9
+peMA.Ode9K.mode = miscellanea_en_US_goadedes.misc.Mode1
+peMA.Ode9K.greekmelody = he.h.m1_en_US_goadedes.heHE.FotizouFotizou.greekname
+peMA.Ode9K.melody = he.h.m1_en_US_goadedes.heHE.FotizouFotizou.melody
+peMA.Ode9K.incipit = he.h.m1_en_US_goadedes.heHE.FotizouFotizou.incipit
+peMA.Ode9K.text = he.h.m1_en_US_goadedes.heHE.FotizouFotizou.text
+
+peMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
+peMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_goadedes.heAU.SarkiYpnosas.greekname
+peMA.Exaposteilarion1.melody = he.a.m2_en_US_goadedes.heAU.SarkiYpnosas.melody
+peMA.Exaposteilarion1.incipit = he.a.m2_en_US_goadedes.heAU.SarkiYpnosas.incipit
+peMA.Exaposteilarion1.text = he.a.m2_en_US_goadedes.heAU.SarkiYpnosas.text
 
 peMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode1
 peMA.Lauds1.melody = ""
@@ -46,5 +468,55 @@ peMA.Lauds4.mode = miscellanea_en_US_goadedes.misc.Mode1
 peMA.Lauds4.melody = ""
 peMA.Lauds4.incipit = oc.m1.d1_en_US_goadedes.ocMA.Lauds4.incipit
 peMA.Lauds4.text = oc.m1.d1_en_US_goadedes.ocMA.Lauds4.text
+
+peMA.Stichera1.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Stichera1.incipit = "…"
+peMA.Stichera1.text = ""
+
+peMA.Stichera2.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Stichera2.incipit = "…"
+peMA.Stichera2.text = ""
+
+peMA.Stichera3.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Stichera3.incipit = "…"
+peMA.Stichera3.text = ""
+
+peMA.Stichera4.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.Stichera4.incipit = "…"
+peMA.Stichera4.text = ""
+
+peMA.SticheraGlory.mode = miscellanea_en_US_goadedes.misc.Mode5
+peMA.SticheraGlory.incipit = "…"
+peMA.SticheraGlory.text = ""
+
+peMA.Homily.title = ""
+peMA.Homily.text = ""
+
+peLI.MM.EntranceHymn.text = properties_en_US_goadedes.media.key
+
+peLI.Hypakoe.mode = peMA.Hypakoe.mode
+peLI.Hypakoe.incipit = peMA.Hypakoe.incipit
+peLI.Hypakoe.text = peMA.Hypakoe.text
+
+peLI.Kontakion1.mode = peMA.Kontakion1.mode
+peLI.Kontakion1.melody = peMA.Kontakion1.melody
+peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
+peLI.Kontakion1.text = peMA.Kontakion1.text
+
+peLI.TheotokosHymn.mode = miscellanea_en_US_goadedes.misc.Mode1
+peLI.TheotokosHymnVerse.text = peMA.Ode9C1MKa.text
+peLI.TheotokosHymn.incipit = peMA.Ode9C1H.incipit
+peLI.TheotokosHymn.text = peMA.Ode9C1H.text
+
+peLI.CommunionHymn.incipit = "…"
+peLI.CommunionHymn.text = ""
+
+peLI.AfterCommunion.mode = miscellanea_en_US_goadedes.misc.Mode5
+peLI.AfterCommunion.incipit = peMA.Troparion.incipit
+peLI.AfterCommunion.text = peMA.Troparion.text
+
+peLI.AfterCommunion2.mode = miscellanea_en_US_goadedes.misc.Mode5 //instead of Blessed be the name
+peLI.AfterCommunion2.incipit = peMA.Troparion.incipit
+peLI.AfterCommunion2.text = peMA.Troparion.text
 
 peMegalynarion.text = "Truly resurrected is Christ our God. * The Cherubim shudder as they tremble in awe of Him. * Hosts of heaven sing hymns of glory to extol Him. * Come let us glorify Him the risen Giver of life."

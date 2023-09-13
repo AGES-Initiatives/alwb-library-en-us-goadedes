@@ -212,8 +212,8 @@ alt1.peVE.AposGlory.text = ""
 
 alt1.peVE.AposBoth.mode = miscellanea_en_US_goadedes.misc.Mode5
 alt1.peVE.AposBoth.melody = ""
-alt1.peVE.AposBoth.incipit = pe.d00P_en_US_goadedes.pePA.SticGlory.incipit
-alt1.peVE.AposBoth.text = pe.d00P_en_US_goadedes.pePA.SticGlory.text
+alt1.peVE.AposBoth.incipit = pe.d071_en_US_goadedes.peMA.SticheraGlory.incipit
+alt1.peVE.AposBoth.text = pe.d071_en_US_goadedes.peMA.SticheraGlory.text
 
 alt1.peVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.peVE.Apolytikion1.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
@@ -593,8 +593,8 @@ alt1.peMA.LaudsGlory.text = ""
 
 alt1.peMA.LaudsBoth.mode = miscellanea_en_US_goadedes.misc.Mode5
 alt1.peMA.LaudsBoth.melody = ""
-alt1.peMA.LaudsBoth.incipit = pe.d00P_en_US_goadedes.pePA.SticGlory.incipit
-alt1.peMA.LaudsBoth.text = pe.d00P_en_US_goadedes.pePA.SticGlory.text
+alt1.peMA.LaudsBoth.incipit = pe.d071_en_US_goadedes.peMA.SticheraGlory.incipit
+alt1.peMA.LaudsBoth.text = pe.d071_en_US_goadedes.peMA.SticheraGlory.text
 
 alt1.peMegalynarion.text = ""
 alt1.peMegalynarion2.text = ""
