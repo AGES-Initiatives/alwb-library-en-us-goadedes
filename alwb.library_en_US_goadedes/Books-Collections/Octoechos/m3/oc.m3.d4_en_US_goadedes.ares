@@ -5,8 +5,8 @@ ocBK.ModeNaked = miscellanea_en_US_goadedes.misc.Mode3.naked
 ocVE.Stichera1.mode = miscellanea_en_US_goadedes.misc.Mode3
 ocVE.Stichera1.greekmelody = he.a.m3_en_US_goadedes.heAU.MegaliTouStavrouSou.greekname
 ocVE.Stichera1.melody = he.a.m3_en_US_goadedes.heAU.MegaliTouStavrouSou.name
-ocVE.Stichera1.incipit = "…"
-ocVE.Stichera1.text = ""
+ocVE.Stichera1.incipit = "Creation was affected…"
+ocVE.Stichera1.text = "Creation was affected, O Word, when You were crucified. * The sun concealed its rays out of fear, and the earth shook, * and the curtain of the Temple was torn in two, * and all believers were saved. * And now we glorify Your immense wealth of mercy."
 
 ocVE.Stichera2.mode = miscellanea_en_US_goadedes.misc.Mode3
 ocVE.Stichera2.melody = he.a.m3_en_US_goadedes.heAU.MegaliTouStavrouSou.name
@@ -101,8 +101,8 @@ ocMA.Kathisma23.text = "Your ever-virgin, pure Mother, saw You, O Christ, * when
 ocMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode3
 ocMA.Kathisma31.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
 ocMA.Kathisma31.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.name
-ocMA.Kathisma31.incipit = "…"
-ocMA.Kathisma31.text = ""
+ocMA.Kathisma31.incipit = "You who who transcend…"
+ocMA.Kathisma31.text = "You who who transcend the whole created universe, * wishing to honor me who long ago sustained * the grave dishonor, have endured dishonorable death on the cross. * And You let your side be pierced * with a spear, for you wished to free * from utter destruction me, * whom You fashioned, O forbearing Lord. * I glorify Your goodness, O Savior, * and Your great compassion, O benevolent God."
 
 ocMA.Kathisma32.mode = miscellanea_en_US_goadedes.misc.Mode3
 ocMA.Kathisma32.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
@@ -113,8 +113,8 @@ ocMA.Kathisma32.text = ""
 ocMA.Kathisma33.mode = miscellanea_en_US_goadedes.misc.Mode3
 ocMA.Kathisma33.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
 ocMA.Kathisma33.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.name
-ocMA.Kathisma33.incipit = "…"
-ocMA.Kathisma33.text = ""
+ocMA.Kathisma33.incipit = "When Your immaculate…"
+ocMA.Kathisma33.text = "When Your immaculate and irreproachable * and ever-virgin pure, all-holy Mother watched * as You were crucified, O Lord, she saw You on the cross and wept. * Tearfully she cried aloud, \"Woe is me! O my sweetest Son! * How could this unlawful crowd condemn You to be crucified, * for You are Lord of all and Creator! * I glorify Your goodness that has no end.\""
 
 ocMA.C1.acrostic.title = "Canon for the Cross."
 ocMA.C1.acrostic.notice1 = ""
@@ -589,8 +589,8 @@ ocMA.OdeW9C24.text = ""
 
 ocMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode3
 ocMA.Aposticha1.melody = ""
-ocMA.Aposticha1.incipit = "…"
-ocMA.Aposticha1.text = ""
+ocMA.Aposticha1.incipit = "I was cast out of Eden …"
+ocMA.Aposticha1.text = "I was cast out of Eden because of envy. It was a terrible fall. But You, O Master, did not overlook me. But You assumed my nature for me, and You were crucified. And You save me and bring me into glory. O my Redeemer, glory to You!"
 
 ocMA.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode3
 ocMA.Aposticha2.greekmelody = he.a.m3_en_US_goadedes.heAU.StavrofanosMoysis.greekname
@@ -600,13 +600,14 @@ ocMA.Aposticha2.text = he.a.m3_en_US_goadedes.heAU.StavrofanosMoysis.text
 
 ocMA.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode3
 ocMA.Aposticha3.melody = ""
-ocMA.Aposticha3.incipit = "…"
-ocMA.Aposticha3.text = ""
+ocMA.Aposticha3.incipit = "O holy Martyrs…"
+ocMA.Aposticha3.text = "O holy Martyrs, even after death, you shine on the world like luminaries, for you fought the good fight. 
+Now that you have confidence when praying to Christ, entreat Him to have mercy on our souls."
 
 ocMA.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode3
 ocMA.AposTheotokion.melody = ""
-ocMA.AposTheotokion.incipit = "…"
-ocMA.AposTheotokion.text = ""
+ocMA.AposTheotokion.incipit = "O Christ, my most benevolent…"
+ocMA.AposTheotokion.text = "O Christ, my most benevolent Savior, when Your irreproachable Mother saw You hanging on the cross, she lamented and cried aloud, \"O my beloved Son, how could this unlawful crowd condemn You to be crucified!\""
 
 ocMA.ApolTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode3
 ocMA.ApolTheotokion.melody = ""
