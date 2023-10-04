@@ -573,7 +573,7 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
-meMegalynarion.text = ""
+meLI.Megalynarion.text = ""
 
 //__________________
 
@@ -1032,9 +1032,9 @@ alt1.meLI.Kontakion1.melody = alt1.meMA.Kontakion1.melody
 alt1.meLI.Kontakion1.incipit = alt1.meMA.Kontakion1.incipit
 alt1.meLI.Kontakion1.text = alt1.meMA.Kontakion1.text
 
-alt1.meMegalynarion.text = ""
+alt1.meLI.Megalynarion.text = ""
 
 alt1.meCoupletv1.text = ""
 alt1.meCoupletv2.text = ""
 
-alt1.meMegalynarion2.text = ""
+alt1.meLI.Megalynarion2.text = ""

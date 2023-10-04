@@ -436,7 +436,7 @@ meLI.Kontakion1.melody = ""
 meLI.Kontakion1.incipit = "…"
 meLI.Kontakion1.text = ""
 
-meMegalynarion.text = ""
+meLI.Megalynarion.text = ""
 
 //These extra hymns are found in the back of the Feb. Menaion
 
@@ -997,7 +997,7 @@ alt1.meLI.Kontakion1.text = alt1.meMA.Kontakion1.text
 
 alt1.meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
-alt1.meMegalynarion.text = ""
+alt1.meLI.Megalynarion.text = ""
 
 alt2.meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt2.meDA.commemoration.full = "" // full title of day
@@ -1523,7 +1523,7 @@ alt2.meLI.Kontakion1.text = alt2.meMA.Kontakion1.text
 
 alt2.meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
-alt2.meMegalynarion.text = ""
+alt2.meLI.Megalynarion.text = ""
 
 alt2.meCoupletv1.text = ""
 alt2.meCoupletv2.text = ""

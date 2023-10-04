@@ -628,7 +628,7 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
-meMegalynarion.text = "Being all afire with heavenly zeal, * you, the fire-breathing zealot, burned up pagan deceit. * Then a fiery chariot took you up, O Prophet * Elijah, to abide in life incorruptible."
+meLI.Megalynarion.text = "Being all afire with heavenly zeal, * you, the fire-breathing zealot, burned up pagan deceit. * Then a fiery chariot took you up, O Prophet * Elijah, to abide in life incorruptible."
 
 //supplemental hymns
 
@@ -717,5 +717,5 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "…"
 alt1.meMA.PostGospelIdiomelon.text = ""
 
-alt1.meMegalynarion.poet = poets_en_US_goadedes.po.NikodimouAgioreitou
-alt1.meMegalynarion.text = ""
+alt1.meLI.Megalynarion.poet = poets_en_US_goadedes.po.NikodimouAgioreitou
+alt1.meLI.Megalynarion.text = ""

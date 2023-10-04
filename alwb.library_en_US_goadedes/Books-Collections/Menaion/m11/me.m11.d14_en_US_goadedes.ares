@@ -405,8 +405,8 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
-meMegalynarion.text = "Glorious Apostle and famous friend * of the One who emptied himself, taking a servant's form, * in the world you preached His ineffable and saving * self-emptying, O Philip, seer of Christ our God."
-meMegalynarion2.text = ""
+meLI.Megalynarion.text = "Glorious Apostle and famous friend * of the One who emptied himself, taking a servant's form, * in the world you preached His ineffable and saving * self-emptying, O Philip, seer of Christ our God."
+meLI.Megalynarion2.text = ""
 
 alt1.meDA.date = ""
 alt1.meDA.commemoration.full = "" // full title of day
@@ -1200,4 +1200,4 @@ alt1.meLI.Kontakion1.melody = alt1.meMA.Kontakion1.melody
 alt1.meLI.Kontakion1.incipit = alt1.meMA.Kontakion1.incipit
 alt1.meLI.Kontakion1.text = alt1.meMA.Kontakion1.text
 
-alt1.meMegalynarion.text = "Godly-minded Gregory Palamas, * all who read your wise and fragrant writings are introduced * to knowledge of God and the wisdom of the heavens. * We therefore magnify you, O holy hierarch."
+alt1.meLI.Megalynarion.text = "Godly-minded Gregory Palamas, * all who read your wise and fragrant writings are introduced * to knowledge of God and the wisdom of the heavens. * We therefore magnify you, O holy hierarch."

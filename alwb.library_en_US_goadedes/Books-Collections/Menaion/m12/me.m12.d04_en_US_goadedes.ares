@@ -610,9 +610,9 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
-meMegalynarion.text = "Leaving your impious father behind, * you became the daughter of the heavenly King of all, * for whom, O St. Barbara, you became a martyr. * And now you free from illness all those who pray to you."
-meMegalynarion2.text = ""
-meMegalynarion3.text = ""
+meLI.Megalynarion.text = "Leaving your impious father behind, * you became the daughter of the heavenly King of all, * for whom, O St. Barbara, you became a martyr. * And now you free from illness all those who pray to you."
+meLI.Megalynarion2.text = ""
+meLI.Megalynarion3.text = ""
 
 alt1.meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meVE.Stichera01.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
