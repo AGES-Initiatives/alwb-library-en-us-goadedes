@@ -282,8 +282,8 @@ trMA.AposMartyric.text = ""
 
 trMA.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode5
 trMA.AposTheotokion.melody = ""
-trMA.AposTheotokion.incipit = "…"
-trMA.AposTheotokion.text = ""
+trMA.AposTheotokion.incipit = me.m12.d11_en_US_goadedes.meVE.SticTheotokion.incipit
+trMA.AposTheotokion.text = me.m12.d11_en_US_goadedes.meVE.SticTheotokion.text
 
 trTE.Troparion.mode = miscellanea_en_US_goadedes.misc.Mode6
 trTE.Troparion.melody = ""

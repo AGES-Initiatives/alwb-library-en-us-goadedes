@@ -337,7 +337,6 @@ meMA.Ode6H.text = he.h.m2_en_US_goadedes.heHE.EnAvyssoPtaismaton.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Kontakion1.greekmelody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.greekname
-meMA.Kontakion1.greekmelody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.name
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -650,8 +649,7 @@ alt1.meVE.SticTheotokion.text = oc.m6.d1_en_US_goadedes.ocVE.SticTheotokion.text
 alt1.meVE.Lity1.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt1.meVE.Lity1.melody = ""
 alt1.meVE.Lity1.incipit = "Once you received…"
-alt1.meVE.Lity1.text = "Once you received the true light from Christ, you shone as a light of the world, O Apostle Bartholomew. Being close to the Master, you received the initiation into things indescribable, and then you taught uninitiated people the great mystery of godliness You managed well the position you were given; and now you have been granted the celestial kingdom
-by Christ our God, the Savior of our souls."
+alt1.meVE.Lity1.text = "Once you received the true light from Christ, you shone as a light of the world, O Apostle Bartholomew. Being close to the Master, you received the initiation into things indescribable, and then you taught uninitiated people the great mystery of godliness You managed well the position you were given; and now you have been granted the celestial kingdom by Christ our God, the Savior of our souls."
 
 alt1.meVE.Lity2.mode = miscellanea_en_US_goadedes.misc.Mode2
 alt1.meVE.Lity2.melody = ""
@@ -754,7 +752,6 @@ alt1.meMA.Kathisma3T.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 alt1.meMA.Kathisma3T.incipit = "…"
 alt1.meMA.Kathisma3T.text = ""
 
-alt1.meMA.MM.Prokeimenon.text = properties_en_US_goadedes.media.key
 
 alt1.meMA.PostGospelGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 alt1.meMA.PostGospelGlory.melody = ""
