@@ -588,8 +588,8 @@ ocMA.Aposticha2.text = oc.m8.d5_en_US_goadedes.ocVE.Aposticha2.text
 
 ocMA.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode8
 ocMA.Aposticha3.melody = ""
-ocMA.Aposticha3.incipit = "…"
-ocMA.Aposticha3.text = ""
+ocMA.Aposticha3.incipit = "When you put on the breastplate…"
+ocMA.Aposticha3.text = "When you put on the breastplate of righteousness and faith, and you fully armed yourselves with the sign of the cross, you became the Lord's mighty soldiers, you bravely confronted the tyrants, and you blunted the deceit of the devil. And you were awarded medals as victors. We pray you intercede for the salvation of our souls."
 
 ocMA.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
 ocMA.AposTheotokion.melody = ""
@@ -660,8 +660,8 @@ octrMA.Kathisma12.text = ocMA.Kathisma11.text
 
 octrMA.Kathisma1T.mode = miscellanea_en_US_goadedes.misc.Mode8
 octrMA.Kathisma1T.melody = ""
-octrMA.Kathisma1T.incipit = "…"
-octrMA.Kathisma1T.text = ""
+octrMA.Kathisma1T.incipit = oc.m8.d2_en_US_goadedes.ocVE.ApolTheotokionVM.incipit
+octrMA.Kathisma1T.text = oc.m8.d2_en_US_goadedes.ocVE.ApolTheotokionVM.text
 
 octrMA.Ode7Martyricon.mode = miscellanea_en_US_goadedes.misc.Mode8
 octrMA.Ode7Martyricon.melody = ""

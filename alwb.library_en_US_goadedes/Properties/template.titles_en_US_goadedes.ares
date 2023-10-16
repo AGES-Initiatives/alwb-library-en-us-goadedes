@@ -292,6 +292,11 @@ vl.pdf.header = ""
 vl.pdf.cover = ""
 vl.pdf.cover2 = ""
 
+vl2.html.tab = "VESPERAL LITURGY OF ST. JOHN CHRYSOSTOM"
+vl2.pdf.header = "Vesperal Liturgy of St. John Chrysostom"
+vl2.pdf.cover = "Vesperal Liturgy"
+vl2.pdf.cover2 = "of St. John Chrysostom"
+
 //other
 d = ""
 d.delimiter = ""
