@@ -433,6 +433,8 @@ trMA.Lauds3.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
 trMA.Lauds3.incipit = "…"
 trMA.Lauds3.text = ""
 
+trMA.MM.Lauds1123as5678.text = properties_en_US_goadedes.media.key
+
 trMA.LaudsGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 trMA.LaudsGlory.melody = ""
 trMA.LaudsGlory.incipit = "…"
@@ -442,7 +444,6 @@ trMA.LaudsTheotokion.mode = ""
 trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.incipit = oc.m2.d1_en_US_goadedes.ocMA.Kathisma23.incipit
 trMA.LaudsTheotokion.text = oc.m2.d1_en_US_goadedes.ocMA.Kathisma23.text
-
 
 trLI.MM.EntranceHymn.text = properties_en_US_goadedes.media.key
 
