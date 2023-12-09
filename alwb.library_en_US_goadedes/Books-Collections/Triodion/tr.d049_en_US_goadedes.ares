@@ -47,9 +47,9 @@ trMA.Kathisma21b.incipit = tr.d014_en_US_goadedes.trMA.Kathisma21b.incipit
 trMA.Kathisma21b.text = tr.d014_en_US_goadedes.trMA.Kathisma21b.text
 
 trMA.Kathisma22.mode = miscellanea_en_US_goadedes.misc.Mode5
-trMA.Kathisma22.melody = tr.d014_en_US_goadedes.trMA.Kathisma22.melody
-trMA.Kathisma22.incipit = "…"
-trMA.Kathisma22.text = ""
+trMA.Kathisma22.melody = ""
+trMA.Kathisma22.incipit = tr.d014_en_US_goadedes.trMA.Kathisma22.incipit
+trMA.Kathisma22.text = tr.d014_en_US_goadedes.trMA.Kathisma22.text
 
 trMA.C1.acrostic.title = "The four-ode Canon."
 trMA.C1.acrostic.notice1 = ""
