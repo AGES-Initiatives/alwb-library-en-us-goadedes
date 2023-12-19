@@ -96,8 +96,8 @@ ocMA.Kathisma22.text = "Wholly darkened by the mist of sinful pleasures of life 
 
 ocMA.Kathisma23.mode = miscellanea_en_US_goadedes.misc.Mode4
 ocMA.Kathisma23.melody = ""
-ocMA.Kathisma23.incipit = "…"
-ocMA.Kathisma23.text = ""
+ocMA.Kathisma23.incipit = "We magnify you, O Theotokos…"
+ocMA.Kathisma23.text = "We magnify you, O Theotokos, and salute you: Rejoice! You are the cloud of the never-setting light, for you held in your arm the Lord of glory."
 
 ocMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode4
 ocMA.Kathisma31.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
@@ -657,8 +657,8 @@ ocMA.AposTheotokion.text = "All pure Theotokos and Queen of all, the Orthodox bo
 
 ocMA.ApolTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 ocMA.ApolTheotokion.melody = ""
-ocMA.ApolTheotokion.incipit = oc.m4.d3_en_US_goadedes.ocMA.Kathisma23.incipit
-ocMA.ApolTheotokion.text = oc.m4.d3_en_US_goadedes.ocMA.Kathisma23.text
+ocMA.ApolTheotokion.incipit = "…"
+ocMA.ApolTheotokion.text = ""
 
 ocLI.Beatitudes1.mode = miscellanea_en_US_goadedes.misc.Mode4
 ocLI.Beatitudes1.melody = ""
