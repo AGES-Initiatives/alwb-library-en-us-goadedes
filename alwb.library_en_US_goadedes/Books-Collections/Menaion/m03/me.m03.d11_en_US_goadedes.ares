@@ -35,6 +35,8 @@ meVE.Stichera03.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
 meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
+meVE.MM.Stichera123as8910.text = properties_en_US_goadedes.media.key
+
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.SticTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 meVE.SticTheotokion.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
@@ -44,8 +46,8 @@ meVE.SticTheotokion.text = me.m02.d15_en_US_goadedes.meVE.SticTheotokion.text
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.incipit = me.m02.d27_en_US_goadedes.meVE.SticStavrotheotokion.incipit
+meVE.SticStavrotheotokion.text = me.m02.d27_en_US_goadedes.meVE.SticStavrotheotokion.text
 
 meVE.GeneralApolytikion1.name = "" // name of saint for General Apolytikia when not in Menaion
 
