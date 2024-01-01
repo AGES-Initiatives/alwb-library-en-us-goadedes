@@ -16,7 +16,7 @@ hoTY.Key0213.text = ""
 hoTY.Key0214.text = ""
 hoTY.Key0215.text = ""
 hoTY.Key0216.text = ""
-hoTY.Key0217.text = ""
+hoTY.Key0217.text = "Pardon, remit, and forgive our offenses, voluntary or involuntary, in deed or word, committed knowingly or unknowingly, day or night, in mind and thought; forgive us all things, as our good and benevolent God."
 
 //0300-0313
 //0400-0408
@@ -32,18 +32,22 @@ hoTY.Key0501.text = ""
 hoLI.Antiphon1.text = ""
 
 hoLI.Antiphon21.text = ""
-hoLI.Antiphon2s.incipit = "…"
-hoLI.Antiphon2s.text = ""
-hoLI.Antiphon2w.incipit = "…"
-hoLI.Antiphon2w.text = ""
 hoLI.Antiphon22.text = ""
 
 hoLI.EntranceHymn.incipit = "…"
 hoLI.EntranceHymn.text = "" //in the template add parts of Antiphon 2
-hoLI.EntranceHymn2s.incipit = hoLI.Antiphon2s.incipit
-hoLI.EntranceHymn2s.text = hoLI.Antiphon2s.text
-hoLI.EntranceHymn2w.incipit = hoLI.Antiphon2w.incipit
-hoLI.EntranceHymn2w.text = hoLI.Antiphon2w.text
+hoLI.MM.EntranceHymn2s.text = properties_en_US_goadedes.media.key
+hoLI.MM.EntranceHymn2w.text = properties_en_US_goadedes.media.key
+
+//deprecated keys
+hoLI.Antiphon2s.incipit = properties_en_US_goadedes.deprecated.key
+hoLI.Antiphon2s.text = properties_en_US_goadedes.deprecated.key
+hoLI.Antiphon2w.incipit = properties_en_US_goadedes.deprecated.key
+hoLI.Antiphon2w.text = properties_en_US_goadedes.deprecated.key
+hoLI.EntranceHymn2s.incipit = properties_en_US_goadedes.deprecated.key
+hoLI.EntranceHymn2s.text = properties_en_US_goadedes.deprecated.key
+hoLI.EntranceHymn2w.incipit = properties_en_US_goadedes.deprecated.key
+hoLI.EntranceHymn2w.text = properties_en_US_goadedes.deprecated.key
 
 hoLI.TrisagiosHymn.title = ""
 hoLI.TrisagiosHymn.incipit = "…"
