@@ -109,6 +109,16 @@ meMA.Ode3Kathisma1.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
+meMA.Ode3KathismaT.mode = miscellanea_en_US_goadedes.misc.Mode3
+meMA.Ode3KathismaT.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
+meMA.Ode3KathismaT.incipit = me.m01.d25_en_US_goadedes.meMA.Kathisma1T.incipit
+meMA.Ode3KathismaT.text = me.m01.d25_en_US_goadedes.meMA.Kathisma1T.text
+
+meMA.Ode3KathismaSt.mode = miscellanea_en_US_goadedes.misc.Mode3
+meMA.Ode3KathismaSt.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
+meMA.Ode3KathismaSt.incipit = me.m01.d29_en_US_goadedes.meMA.Ode3KathismaSt.incipit
+meMA.Ode3KathismaSt.text = me.m01.d29_en_US_goadedes.meMA.Ode3KathismaSt.text
+
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode4C11.greekmelody = he.h.m8_en_US_goadedes.heHE.SyMouIschys.greekname

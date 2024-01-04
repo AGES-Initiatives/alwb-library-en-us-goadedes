@@ -111,6 +111,16 @@ meMA.Ode3Kathisma1.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
+meMA.Ode3KathismaT.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
+meMA.Ode3KathismaT.incipit = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.incipit
+meMA.Ode3KathismaT.text = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.text
+
+meMA.Ode3KathismaSt.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3KathismaSt.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
+meMA.Ode3KathismaSt.incipit = oc.m8.d4_en_US_goadedes.ocMA.Kathisma13.incipit
+meMA.Ode3KathismaSt.text = oc.m8.d4_en_US_goadedes.ocMA.Kathisma13.text
+
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode4C11.greekmelody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.greekname
