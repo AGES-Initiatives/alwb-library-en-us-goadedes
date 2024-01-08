@@ -126,7 +126,7 @@ meGW.Apolytikion.text = me.m01.d06_en_US_goadedes.meVE.Apolytikion1.text
 meGW.R071 = ""
 meGW.R072 = ""
 meGW.R073 = ""
-meGW.R08 = ""
+meGW.R08 = "Entering the nave, we sing the following:"
 
 meGW.Idiomelon4.mode = miscellanea_en_US_goadedes.misc.Mode6
 meGW.Idiomelon4.incipit = me.m01.d12_en_US_goadedes.meVE.AposGlory.incipit
@@ -837,8 +837,6 @@ meMA.LaudsBoth.incipit = "…"
 meMA.LaudsBoth.text = ""
 
 meMA.MM.Lauds1234as5678.text = properties_en_US_goadedes.media.key
-
-meLI.MM.Antiphon2.text = properties_en_US_goadedes.media.key
 
 meLI.MM.EntranceHymn.text = properties_en_US_goadedes.media.key
 meLI.MM.EntranceHymnSunday.text = properties_en_US_goadedes.media.key
