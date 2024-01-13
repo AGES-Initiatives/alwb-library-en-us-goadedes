@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = skeletons_en_US_goadedes 
 
-skLI.Notice1.text = "This is the text of the Divine Liturgy of St. John Chrysostom, as it is celebrated throughout most of the year. The variable parts have been omitted. It is intended to be used in conjunction with the \"Liturgy - Variable Parts\" files available each day on the GOA DCS."
-skLI.Notice2.text = "This is the text of the Divine Liturgy of St. Basil the Great, as it is celebrated on January 1 and the Sundays of Lent. The variable parts have been omitted. It is intended to be used in conjunction with the \"Liturgy - Variable Parts\" files available each day on the GOA DCS."
+skLI.Notice1.text = "This is the text of the Divine Liturgy of St. John Chrysostom, as it is celebrated throughout most of the year. The variable parts have been omitted. It is intended to be used in conjunction with the “Liturgy - Variable Parts” files available each day on the GOA DCS."
+skLI.Notice2.text = "This is the text of the Divine Liturgy of St. Basil the Great, as it is celebrated on January 1 and the Sundays of Lent. The variable parts have been omitted. It is intended to be used in conjunction with the “Liturgy - Variable Parts” files available each day on the GOA DCS."
 
 skLI.Antiphon1.title = "The 1st Antiphon"
 skLI.Antiphon1.text = "(See Variable Parts.)"
@@ -17,7 +17,7 @@ skLI.Antiphon3.pagenumber = ""
 
 skLI.SmallEntrance.title = "The Small Entrance"
 skLI.SmallEntrance.text = "(See Variable Parts.)"
-skLI.SmallEntrance.rubric = "The choir repeats the end of the Entrance Hymn: \"Save us...\""
+skLI.SmallEntrance.rubric = "The choir repeats the end of the Entrance Hymn: “Save us...”"
 skLI.SmallEntrance.pagenumber = ""
 
 skLI.HymnsAfterSmallEntrance.title = "Hymns After Small Entrance"
@@ -56,7 +56,7 @@ skLI.TheotokosHymn.title = "Hymn to the Theotokos"
 skLI.TheotokosHymn.text = "(See Variable Parts.)"
 skLI.TheotokosHymn.pagenumber = "23"
 
-skLI.LordsPrayer.title = "The Lord's Prayer"
+skLI.LordsPrayer.title = "The Lord’s Prayer"
 skLI.LordsPrayer.pagenumber = "26"
 
 skLI.CommunionPrayers.title = "Communion Prayers"

@@ -40,7 +40,7 @@ heGA.OMartysSouKyrie.incipit = "You Martyr, O Lord…"
 heGA.OMartysSouKyrie.mode = miscellanea_en_US_goadedes.misc.Mode4
 heGA.OMartysSouKyrie.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 heGA.OMartysSouKyrie.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
-heGA.OMartysSouKyrie.text = "Your Martyr, O Lord, was worthily awarded by You * the crown of incorruption, in that he contested for You our immortal God. * Since he possessed Your power, he defeated the tyrants, * dashing the demons' powerless displays of defiance. * O Christ God, at his fervent entreaties, save our souls."
+heGA.OMartysSouKyrie.text = "Your Martyr, O Lord, was worthily awarded by You * the crown of incorruption, in that he contested for You our immortal God. * Since he possessed Your power, he defeated the tyrants, * dashing the demons’ powerless displays of defiance. * O Christ God, at his fervent entreaties, save our souls."
 
 // For several unnamed Martyrs
 heGA.OiMartyresSouKyrie.name = "Your Martyrs, O Lord."
@@ -48,7 +48,7 @@ heGA.OiMartyresSouKyrie.incipit = "Your Martyrs, O Lord…"
 heGA.OiMartyresSouKyrie.mode = miscellanea_en_US_goadedes.misc.Mode4
 heGA.OiMartyresSouKyrie.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 heGA.OiMartyresSouKyrie.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
-heGA.OiMartyresSouKyrie.text = "Your Martyrs, O Lord, were worthily awarded by You * the crowns of incorruption, in that they contested for You our immortal God. * Since they possessed Your power, they defeated the tyrants, * dashing the demons' powerless displays of defiance. * O Christ God, at their fervent entreaties, save our souls."
+heGA.OiMartyresSouKyrie.text = "Your Martyrs, O Lord, were worthily awarded by You * the crowns of incorruption, in that they contested for You our immortal God. * Since they possessed Your power, they defeated the tyrants, * dashing the demons’ powerless displays of defiance. * O Christ God, at their fervent entreaties, save our souls."
 
 // For one unnamed woman Martyr
 heGA.IAmnasSou.name = "Your maiden Martyr."
@@ -56,7 +56,7 @@ heGA.IAmnasSou.incipit = "Your maiden Martyr, like a lamb…"
 heGA.IAmnasSou.mode = miscellanea_en_US_goadedes.misc.Mode4
 heGA.IAmnasSou.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 heGA.IAmnasSou.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
-heGA.IAmnasSou.text = "Your maiden Martyr, like a lamb, cries out, \"O Jesus, for You, * my pure Bridegroom, I long; and seeking You I compete; * and I am crucified and buried with You in Your baptism. * I suffer for Your sake, that I may reign with You. * I die for You that I may also live in You. * Accept me as an unblemished sacrifice * as I offer myself to You with love.\" * At her entreaties and intercessions, * save our souls, O Merciful Lord."
+heGA.IAmnasSou.text = "Your maiden Martyr, like a lamb, cries out, “O Jesus, for You, * my pure Bridegroom, I long; and seeking You I compete; * and I am crucified and buried with You in Your baptism. * I suffer for Your sake, that I may reign with You. * I die for You that I may also live in You. * Accept me as an unblemished sacrifice * as I offer myself to You with love.” * At her entreaties and intercessions, * save our souls, O Merciful Lord."
 
 // For a group of unnamed Martyrs
 heGA.TasAlgidonas.name = "The holy martyrs suffered."
@@ -120,7 +120,7 @@ heGA.OrthodoxiasOdigeH.incipit = "Guide of Orthodoxy…"
 heGA.OrthodoxiasOdigeH.mode = miscellanea_en_US_goadedes.misc.Mode8
 heGA.OrthodoxiasOdigeH.melody = ""
 heGA.OrthodoxiasOdigeH.text1 = "Guide of Orthodoxy and a sacred teacher of piety and dignity, luminary of the world, and God-inspired jewel of the episcopate, O wise"
-heGA.OrthodoxiasOdigeH.text2 = "the Spirit's instrument: by your teachings you enlightened all. Intercede with Christ our God for the salvation of our souls."
+heGA.OrthodoxiasOdigeH.text2 = "the Spirit’s instrument: by your teachings you enlightened all. Intercede with Christ our God for the salvation of our souls."
 
 // For one named monastic Confessor or Teacher with comma.
 heGA.OrthodoxiasOdigeM.name = "Guide of Orthodoxy."
@@ -128,7 +128,7 @@ heGA.OrthodoxiasOdigeM.incipit = "Guide of Orthodoxy…"
 heGA.OrthodoxiasOdigeM.mode = miscellanea_en_US_goadedes.misc.Mode8
 heGA.OrthodoxiasOdigeM.melody = ""
 heGA.OrthodoxiasOdigeM.text1 = "Guide of Orthodoxy and a sacred teacher of piety and dignity, luminary of the world, and God-inspired jewel of monastics, O wise"
-heGA.OrthodoxiasOdigeM.text2 = "the Spirit's instrument: by your teachings you enlightened all. Intercede with Christ our God for the salvation of our souls."
+heGA.OrthodoxiasOdigeM.text2 = "the Spirit’s instrument: by your teachings you enlightened all. Intercede with Christ our God for the salvation of our souls."
 
 // For several unnamed holy Fathers
 heGA.OTheosTonPateronImon.name = "O God of our Fathers."

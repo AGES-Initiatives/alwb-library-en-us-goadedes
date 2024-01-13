@@ -47,12 +47,12 @@ meVE.Stichera04.text = "Blessed Ignatius, correctly called God-bearer, * when th
 meVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera05.melody = he.a.m4_en_US_goadedes.heAU.OExYpsistouKlitheis.name
 meVE.Stichera05.incipit = "Ignatius, wounded by love…"
-meVE.Stichera05.text = "Ignatius, wounded by love most pure and perfect, * when the thunderstorm of love exploded in your soul, * igniting you and inciting you, O sacred father, * to go to be with your Lord and Savior Christ, * then it was that you pronounced those memorable words, * \"I am the wheat of my Maker God, and it is needful * that I be ground by the teeth of wild beasts, * that I be found to be the purest bread * of the Logos, the Lord, namely Christ my God.\" * We entreat you to pray Him * to illumine us and save our souls."
+meVE.Stichera05.text = "Ignatius, wounded by love most pure and perfect, * when the thunderstorm of love exploded in your soul, * igniting you and inciting you, O sacred father, * to go to be with your Lord and Savior Christ, * then it was that you pronounced those memorable words, * “I am the wheat of my Maker God, and it is needful * that I be ground by the teeth of wild beasts, * that I be found to be the purest bread * of the Logos, the Lord, namely Christ my God.” * We entreat you to pray Him * to illumine us and save our souls."
 
 meVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera06.melody = he.a.m4_en_US_goadedes.heAU.OExYpsistouKlitheis.name
 meVE.Stichera06.incipit = "Bishop and teacher…"
-meVE.Stichera06.text = "Bishop and teacher, inspired by God, you uttered, * \"My love has been crucified. Permit me to attain * to Jesus Christ and to imitate His holy passion\"; * for you desired to be crucified with Him. * Then God deemed you worthy to be sent for from the east * unto the west, and much like the sun, along your journey, * blessed Ignatius, you radiated light. * And you were decorated with the crown * of the kingdom God and were brought to Christ. * We entreat you to pray Him * to illumine us and save our souls."
+meVE.Stichera06.text = "Bishop and teacher, inspired by God, you uttered, * “My love has been crucified. Permit me to attain * to Jesus Christ and to imitate His holy passion”; * for you desired to be crucified with Him. * Then God deemed you worthy to be sent for from the east * unto the west, and much like the sun, along your journey, * blessed Ignatius, you radiated light. * And you were decorated with the crown * of the kingdom God and were brought to Christ. * We entreat you to pray Him * to illumine us and save our souls."
 
 meVE.MM.Stichera456as567.text = properties_en_US_goadedes.media.key
 
@@ -342,7 +342,7 @@ meMA.Kontakion1.melody = he.a.m3_en_US_goadedes.heAU.IParthenosSimeron.melody
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
 
-meMA.Oikos1.text = "The sacred words of the Prophets are coming to pass. Behold, a Virgin gives birth to God in the flesh, in the city of Bethlehem, inside the Grotto. All creation be enriched! Rejoice exceedingly and dance for joy! The Master of all has come to live among His servants; and from the devil's control He is freeing us, who had succumbed to corruption. He is seen as an infant, wrapped in swaddling clothes lying in a manger, a newborn Child, the pre-eternal God."
+meMA.Oikos1.text = "The sacred words of the Prophets are coming to pass. Behold, a Virgin gives birth to God in the flesh, in the city of Bethlehem, inside the Grotto. All creation be enriched! Rejoice exceedingly and dance for joy! The Master of all has come to live among His servants; and from the devil’s control He is freeing us, who had succumbed to corruption. He is seen as an infant, wrapped in swaddling clothes lying in a manger, a newborn Child, the pre-eternal God."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
@@ -518,7 +518,7 @@ meMA.Ode6C12.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode6C12.melody = he.h.m1_en_US_goadedes.heHE.TonProfitinIonan.notmetered
 meMA.Ode6C12.incipit = "The Prophet proclaims…"
-meMA.Ode6C12.text = "The Prophet proclaims and openly declares, \"O Bethlehem, House of Ephrathah, where God will come forth from the Virgin, leap and dance for joy!\""
+meMA.Ode6C12.text = "The Prophet proclaims and openly declares, “O Bethlehem, House of Ephrathah, where God will come forth from the Virgin, leap and dance for joy!”"
 
 meMA.Ode6C13.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C13.mode = miscellanea_en_US_goadedes.misc.Mode1
@@ -788,13 +788,13 @@ meMA.Exaposteilarion2.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion2.incipit = "O St. Ignatius, God-bearer…"
-meMA.Exaposteilarion2.text = "O St. Ignatius, God-bearer, * you wrote in your epistle, * \"I am the wheat of God, my Lord * and Savior. So now let me become the food for the wild beasts. * I must be ground by their teeth, * that I be found the sweet and pure * bread of Christ.\" Please remember us who observe * your most splendid memory, as you stand now * near the all-holy Trinity, * wise Hierarch and Martyr."
+meMA.Exaposteilarion2.text = "O St. Ignatius, God-bearer, * you wrote in your epistle, * “I am the wheat of God, my Lord * and Savior. So now let me become the food for the wild beasts. * I must be ground by their teeth, * that I be found the sweet and pure * bread of Christ.” Please remember us who observe * your most splendid memory, as you stand now * near the all-holy Trinity, * wise Hierarch and Martyr."
 
 meMA.Exaposteilarion3.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Exaposteilarion3.greekmelody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion3.melody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion3.incipit = "Ignatius, being wounded…"
-meMA.Exaposteilarion3.text = "Ignatius, being wounded by the love of God your Lord, you said, * \"My love, namely Christ my Savior, * has been crucified of His own will. * I thirst now to be thirsted for; alive, I love to be loved by Him. * I wish to be imitating * His passion and long to join Him * in His everlasting kingdom.\""
+meMA.Exaposteilarion3.text = "Ignatius, being wounded by the love of God your Lord, you said, * “My love, namely Christ my Savior, * has been crucified of His own will. * I thirst now to be thirsted for; alive, I love to be loved by Him. * I wish to be imitating * His passion and long to join Him * in His everlasting kingdom.”"
 
 meMA.Exaposteilarion4.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Exaposteilarion4.greekmelody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.greekname
