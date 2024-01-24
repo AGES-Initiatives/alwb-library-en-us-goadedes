@@ -104,6 +104,8 @@ R26 = ""
 hoVE.MM.LityKyrieEleison.text = properties_en_US_goadedes.media.key
 
 // Blessing of Loaves
-hoVE.MM.LoavesHymn1_Theotokos.text = properties_en_US_goadedes.media.key
-hoVE.MM.LoavesHymn2_ps33v11.text = properties_en_US_goadedes.media.key
+hoVE.MM.LoavesHymn1_Theotokos.text = properties_en_US_goadedes.deprecated.key
+hoVE.MM.LoavesHymn2_ps33v11.text = properties_en_US_goadedes.deprecated.key
+hoVE.MM.LoavesHymn1Theotokos.text = properties_en_US_goadedes.media.key
+hoVE.MM.LoavesHymn2ps33v11.text = properties_en_US_goadedes.media.key
 
