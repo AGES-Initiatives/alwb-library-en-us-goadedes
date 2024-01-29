@@ -1,7 +1,8 @@
 A_Resource_Whose_Name = eu.lipresanctified_en_US_goadedes
 
-euPL.title = ""
+euPL.title = "THE DIVINE LITURGY OF PRESANCTIFIED GIFTS"
 
+euPL.Key0001.title = ""
 euPL.Key0100.title = ""
 euPL.Key0101.text = ""
 euPL.Key0102.text = ""
@@ -11,74 +12,162 @@ euPL.Key0105.text = ""
 euPL.Key0106.text = ""
 euPL.Key0107.text = ""
 euPL.Key0108.text = ""
+euPL.Key0109.text = ""
 
-euPL.Key0200.title = ""
-euPL.Key0201.text = prayers_en_US_goadedes.pr.enarxis02.text
-euPL.Key0203.title = ""
-euPL.Key0203.text = hi.hi01_en_US_goadedes.hiVE.Key1101.text
-euPL.Key0204.text = prayers_en_US_goadedes.pr.exc01.text
+euPL.Key0110.title = ""
+euPL.Key0111.text = ""
+euPL.Key0112.text = ""
+euPL.Key0113.text = ""
+euPL.Key0114.text = ""
+
+euPL.Key0200.title = "ENARXIS"
+euPL.Key0201.text = ""
+euPL.Key0202.text = ""
+euPL.Key0203.text = ""
+
+euPL.Key0204.title = "INTRODUCTORY PSALM - PRAYERS"
+euPL.Key0205.text = ""
+euPL.Key0206.title = "VESPERAL PRAYER 5"
+euPL.Key0207.title = "VESPERAL PRAYER 6"
+euPL.Key0208.title = "VESPERAL PRAYER 7"
+euPL.Key0209.title = "PEACE LITANY"
+euPL.Key0210.text = ""
+euPL.Key0210a.text = ""
+
+euPL.Key0211.title = "VESPERAL PRAYER 1"
+euPL.Key0212.text = ""
+
+euPL.Key0213.title = "PSALTER READING - PROTHESIS"
+euPL.Key0214.text = ""
+euPL.Key0215.text = ""
+euPL.Key0216.text = ""
+euPL.Key0217.text = ""
+euPL.Key0218.text = ""
 
 euPL.Key0300.title = ""
-euPL.Key0306.title = ""
-euPL.Key0306.text = hi.hi01_en_US_goadedes.hiVE.Key1102.text
-euPL.Key0307.text = prayers_en_US_goadedes.pr.exc02.text
+euPL.Key0306.title = "VESPERAL PRAYER 2"
+euPL.Key0306.text = ""
+euPL.Key0307.text = ""
 
 euPL.Key0400.title = ""
-euPL.Key0406.title = ""
-euPL.Key0406.text = hi.hi01_en_US_goadedes.hiVE.Key1103.text
-euPL.Key0407.text = prayers_en_US_goadedes.pr.exc03.text
+euPL.Key0406.title = "VESPERAL PRAYER 3"
+euPL.Key0406.text = ""
+euPL.Key0407.text = ""
 
 euPL.Key0500.title = ""
-euPL.Key0506.title = ""
-euPL.Key0506.text = hi.hi01_en_US_goadedes.hiVE.Key1104.text
-euPL.Key0507.text = prayers_en_US_goadedes.pr.exc22.text
+euPL.Key0506.title = "VESPERAL PRAYER 4"
 
-euPL.Key0600.title = ""
-//Vespers with entrance
+euPL.Key0600.title = "VESPERAL PSALMS - CENSING"
+euPL.Key0601.text = ""
+euPL.Key0602.text = ""
+euPL.Key0603.title = "ENTRANCE"
+euPL.Key0604.text = ""
+euPL.Key0605.text = ""
+euPL.Key0606.text = ""
+euPL.Key0607.title = "ENTRANCE PRAYER"
+euPL.Key0608.text = ""
+euPL.Key0609.text = ""
+euPL.Key0610.text = ""
+euPL.Key0611.text = ""
+euPL.Key0612.text = ""
 
-euPL.Key0700.title = ""
-euPL.Key0701.text = ""
-euPL.Key0702.text = ""
+euPL.Key0620.title = "READINGS - “LET MY PRAYER”"
+euPL.Key0621.text = ""
+euPL.Key0622.text = ""
+euPL.Key0623.text = ""
+euPL.Key0624.text = ""
+euPL.Key0625.text = ""
+euPL.Key0626.text = ""
 
-euPL.Key0800.title = ""
-euPL.Key0800.text = properties_en_US_goadedes.media.key
+euPL.Key0701.text = "Christ's light"
+euPL.Key0701a.text = ""
+euPL.Key0702.text = "illuminates all."
+euPL.Key0703.text = ""
+euPL.Key0704.text = ""
+euPL.Key0705.text = ""
 
-//euPL.Key0900
-euPL.Key0901.title = ""
+euPL.MM.Key0800.text = properties_en_US_goadedes.media.key
+euPL.Key0801.text = ""
+euPL.Key0802.text = ""
+
+euPL.Key0810.text = ""
+euPL.Key0811.text = ""
+
+euPL.Key0820.title = "THE SUPPLICATION"
+euPL.Key0821.text = ""
+euPL.Key0822.text = ""
+euPL.Key0823.title = "THE SUPPLICATION PRAYER"
+
+euPL.Key0900.title = "LITANY FOR THE CATECHUMENS"
+euPL.Key0900.text = ""
+euPL.Key0900a.text = ""
+euPL.Key0901.title = "CATECHUMENS PRAYER"
 euPL.Key0901.text = ""
-euPL.Key0902.text = prayers_en_US_goadedes.pr.petCatechumens09.text
+euPL.Key0902.text = properties_en_US_goadedes.deprecated.key
+euPL.Key0902a.text = ""
+euPL.Key0902b.text = ""
+euPL.Key0902c.title = "LITANY FOR THOSE NEARING ILLUMINATION"
+euPL.Key0902d.text = ""
+euPL.Key0902e.text = ""
 euPL.Key0903.title = ""
 euPL.Key0903.text = ""
-euPL.Key0904.text = prayers_en_US_goadedes.pr.petCatechumens24.text
+euPL.Key0904.text = properties_en_US_goadedes.deprecated.key
+epPL.Key0904.title = "LITANY FOR THE FAITHFUL"
+euPL.Key0904a.text = ""
 euPL.Key0905.title = ""
-euPL.Key0905.text = ""
-euPL.Key0906.text = prayers_en_US_goadedes.pr.exc01.text
-euPL.Key0907.title = ""
+euPL.Key0905.text = "PRAYER FOR THE FAITHFUL 1"
+euPL.Key0906.text = properties_en_US_goadedes.deprecated.key
+euPL.Key0907.title = "PRAYER FOR THE FAITHFUL 2"
 euPL.Key0907.text = ""
 euPL.Key0908.text = ""
 
-euPL.Key1000.title = ""
+euPL.Key1000.title = "ENTRANCE OF THE PRESANCTIFIED GIFTS"
 euPL.Key1001.text = ""
 euPL.Key1002.text = ""
 
-euPL.Key1101.text = ""
-euPL.Key1102.title = ""
-euPL.Key1102.text = ""
-euPL.Key1103.title = ""
-euPL.Key1103.text = ""
-euPL.Key1104.text = ""
+euPL.Key1010.text = ""
+euPL.Key1011.text = ""
+euPL.Key1012.text = ""
+euPL.Key1013.text = ""
+euPL.Key1014.text = ""
 
-euPL.Key1201.title = ""
-euPL.Key1201.text = properties_en_US_goadedes.media.key
+euPL.Key1100.title = "COMPLETION LITANY - THE LORD'S PRAYER"
+euPL.Key1100.text = ""
+euPL.Key1101.text = ""
+euPL.Key1101a.text = ""
+euPL.Key1102.title = "PRAYER AFTER THE HOLY GIFTS ARE PLACED ON THE HOLY TABLE"
+euPL.Key1102.text = ""
+euPL.Key1102a.text = ""
+euPL.Key1103.title = "BOWING THE HEAD"
+euPL.Key1103.text = ""
+euPL.Key1104.text = properties_en_US_goadedes.deprecated.key
+euPL.Key1105.text = ""
+euPL.Key1106.text = ""
+
+euPL.Key1114.title = "FRACTION - COMMUNION"
+euPL.Key1115.text = ""
+euPL.Key1116.text = ""
+euPL.Key1117.text = ""
+euPL.Key1118.text = ""
+euPL.Key1119.text = ""
+
+
+euPL.MM.Key1201.text = properties_en_US_goadedes.media.key
 euPL.Key1202.title = ""
 euPL.Key1202.text = ""
+euPL.Key1203.title = "THANKSGIVING"
 euPL.Key1203.text = ""
-euPL.Key1204.title = ""
+euPL.Key1203a.text = ""
+euPL.Key1203b.text = ""
+euPL.Key1204.title = "PRAYER AFTER EVERYONE COMMUNES"
 euPL.Key1204.text = ""
-euPL.Key1205.text = prayers_en_US_goadedes.pr.exc24.text
-euPL.Key1206.title = ""
+euPL.Key1204a.text = ""
+euPL.Key1205.text = properties_en_US_goadedes.deprecated.key
+euPL.Key1205.title = "DISMISSAL"
+euPL.Key1205a.text = ""
+euPL.Key1206.title = "AMBO PRAYER"
 euPL.Key1206.text = ""
-euPL.Key1207.text = properties_en_US_goadedes.media.key
-euPL.Key1208.title = ""
+euPL.MM.Key1207.text = properties_en_US_goadedes.media.key
+euPL.Key1208.title = "PRAYERS AS THE HOLY GIFTS ARE COMMINGLED"
+euPL.Key1208a.text = ""
 euPL.Key1208.text = ""
-
