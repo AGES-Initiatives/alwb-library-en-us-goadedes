@@ -20,7 +20,8 @@ euLI.Key0109.text = properties_en_US_goadedes.deprecated.key
 euLI.Key0110.text = properties_en_US_goadedes.deprecated.key
 
 // Part 02 Great Litany - Antiphon 1
-euLI.Key0200.text = "" //.text and not .title for the sake of media
+euLI.Key0200.title = ""
+euLI.MM.Key0200.text = ""
 euLI.Key0201.title = ""
 euLI.Key0201.text = ""
 euLI.Key0202.title = ""
