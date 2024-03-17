@@ -17,7 +17,6 @@ trVE.header = ""
 trEM.header = "" //for pdf evening Matins
 trDA.dismissal = dismissals_en_US_goadedes.dis00.holyfriday
 
-
 trVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode1
 trVE.Stichera01.melody = miscellanea_en_US_goadedes.misc.Idiomelon
 trVE.Stichera01.incipit = tr.d069_en_US_goadedes.trMA.Aposticha1.incipit
@@ -93,7 +92,6 @@ trVE.Apolytikion3.mode = miscellanea_en_US_goadedes.misc.Mode2
 trVE.Apolytikion3.melody = ""
 trVE.Apolytikion3.incipit = "The Angel who had come…"
 trVE.Apolytikion3.text = "The Angel who had come to the sepulcher said to the Myrrh-bearing women, “Ointments are appropriate for mortal men; but Christ is indeed a stranger to decay.”"
-
 
 trMA.Encomia.title = "The Lamentations."
 
@@ -805,7 +803,6 @@ trMA.Ode9K.text = he.h.m6_en_US_goadedes.heHE.MiEpodyrouMouMiter.text
 trMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode2
 trMA.Exaposteilarion1.melody = ""
 trMA.Exaposteilarion1.text = ho.ho03_en_US_goadedes.hoMA.SunExapVerse1.text
-
 
 trMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode2
 trMA.Lauds1.melody = miscellanea_en_US_goadedes.misc.Idiomelon

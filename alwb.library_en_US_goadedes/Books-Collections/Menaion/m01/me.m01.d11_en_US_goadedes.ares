@@ -108,7 +108,6 @@ meMA.Kathisma32.melody = he.a.m3_en_US_goadedes.heAU.IParthenosSimeron.name
 meMA.Kathisma32.incipit = me.m01.d10_en_US_goadedes.meMA.Kathisma11.incipit
 meMA.Kathisma32.text = me.m01.d10_en_US_goadedes.meMA.Kathisma11.text
 
-
 meMA.PostGospelGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.incipit = ho.ho03_en_US_goadedes.hoMA.PostGospelMonastic.incipit
@@ -465,7 +464,6 @@ meMA.LaudsBoth.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.incipit = me.m01.d06_en_US_goadedes.meMA.LaudsBoth.incipit
 meMA.LaudsBoth.text = me.m01.d06_en_US_goadedes.meMA.LaudsBoth.text
-
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody

@@ -66,11 +66,6 @@ trLI.AfterCommunion.text = trLI.CommunionHymn.text
 
 // Foot Washing
 
-
-
-
-
-
 // Holy Thursday night
 
 trMA.MM.Alleluia.text = properties_en_US_goadedes.media.key
@@ -403,7 +398,6 @@ trMA.BeatitudesT.melody = he.a.m4_en_US_goadedes.heAU.DiaXylouOAdam.name
 trMA.BeatitudesT.incipit = "…"
 trMA.BeatitudesT.text = ""
 
-
 trMA.C1.acrostic.title = ""
 trMA.C1.acrostic.notice1 = ""
 trMA.C1.acrostic.text = ""
@@ -540,7 +534,6 @@ trMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_goadedes.heAU.TonListinAfthime
 trMA.Exaposteilarion1.melody = he.a.m3_en_US_goadedes.heAU.TonListinAfthimeron.melody
 trMA.Exaposteilarion1.incipit = he.a.m3_en_US_goadedes.heAU.TonListinAfthimeron.incipit
 trMA.Exaposteilarion1.text = he.a.m3_en_US_goadedes.heAU.TonListinAfthimeron.text
-
 
 trMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode3
 trMA.Lauds1.melody = miscellanea_en_US_goadedes.misc.Idiomelon

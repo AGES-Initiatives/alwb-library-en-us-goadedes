@@ -420,7 +420,6 @@ meMA.AposGlory.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 meMA.AposGlory.incipit = "…"
 meMA.AposGlory.text = ""
 
-
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -623,7 +622,6 @@ alt1.meMA.Kathisma32.greekmelody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.g
 alt1.meMA.Kathisma32.melody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.name
 alt1.meMA.Kathisma32.incipit = "…"
 alt1.meMA.Kathisma32.text = ""
-
 
 alt1.meMA.PostGospelGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 alt1.meMA.PostGospelGlory.melody = ""
