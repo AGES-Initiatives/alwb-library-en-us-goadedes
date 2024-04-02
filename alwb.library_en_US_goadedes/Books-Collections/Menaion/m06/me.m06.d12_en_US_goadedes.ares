@@ -457,12 +457,12 @@ alt1.meVE.Stichera05.text = "Brookline's inspired professor, divine Gerasimos, *
 alt1.meVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt1.meVE.Stichera06.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 alt1.meVE.Stichera06.incipit = "Let us extol…"
-alt1.meVE.Stichera06.text = "Let us extol that all-holy bishop, Gerasimos * of Abydus, who partakes of the kingdom of heaven. * On high he lives together with angels and saints. * He is counted worthy to gaze * on the ineffable, splendid, and most sublime  * divine beauty of the face of Christ."
+alt1.meVE.Stichera06.text = "Let us extol that all-holy bishop, Gerasimos * of Abydus, who partakes of the kingdom of heaven. * On high he lives together with angels and saints. * He is counted worthy to gaze * on the ineffable, splendid, and most sublime * divine beauty of the face of Christ."
 
 alt1.meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode5
 alt1.meVE.SticGlory.melody = ""
 alt1.meVE.SticGlory.incipit = "Let us honor Bishop Gerasimos…"
-alt1.meVE.SticGlory.text = "Let us honor Bishop Gerasimos of Abydus, that radiant luminary of America, who in modern times shone brightly in Brookline. He was a superb theologian and professor of wisdom, as he confessed Christ crucified and risen. Now let us reverently say to him, \"Holy father, in America you were moved by the Spirit, as you taught the pious youth, and as you expertly provided pastoral care to the Orthodox Christian communities. We pray you illumine the souls of all who honor you, and dispel the darkness of ignorance, sinful passions, and adversities.\""
+alt1.meVE.SticGlory.text = "Let us honor Bishop Gerasimos of Abydus, that radiant luminary of America, who in modern times shone brightly in Brookline. He was a superb theologian and professor of wisdom, as he confessed Christ crucified and risen. Now let us reverently say to him, “Holy father, in America you were moved by the Spirit, as you taught the pious youth, and as you expertly provided pastoral care to the Orthodox Christian communities. We pray you illumine the souls of all who honor you, and dispel the darkness of ignorance, sinful passions, and adversities.”"
 
 alt1.meVE.Lity1.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt1.meVE.Lity1.melody = ""
@@ -513,7 +513,7 @@ alt1.meVE.Aposticha3.text = "Joyfully we salute you today, * godly Gerasimos the
 alt1.meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 alt1.meVE.AposGlory.melody = ""
 alt1.meVE.AposGlory.incipit = "The titular bishop of Abydus…"
-alt1.meVE.AposGlory.text = "The titular bishop of Abydus, Gerasimos, was a sonorous trumpet of the Orthodoxy, in Athens, in Germany, and especially in America, where he professed and praised the saving truth, which the holy Apostles proclaimed, when they were illumined through the fiery tongues, and they received divine wisdom. Let us dutifully extol him now and reverently say to him, \"Holy father, you adorned the Church with your inspired teaching, your pastoral care, and your Christ-like humility. We pray you deliver our souls from death, and sanctify us who joyously magnify you.\""
+alt1.meVE.AposGlory.text = "The titular bishop of Abydus, Gerasimos, was a sonorous trumpet of the Orthodoxy, in Athens, in Germany, and especially in America, where he professed and praised the saving truth, which the holy Apostles proclaimed, when they were illumined through the fiery tongues, and they received divine wisdom. Let us dutifully extol him now and reverently say to him, “Holy father, you adorned the Church with your inspired teaching, your pastoral care, and your Christ-like humility. We pray you deliver our souls from death, and sanctify us who joyously magnify you.”"
 
 alt1.meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode5
 alt1.meVE.Apolytikion1.greekmelody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.greekname
@@ -717,17 +717,17 @@ alt1.meMA.Ode6C1T.text = ""
 
 alt1.meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode8
 alt1.meMA.Kontakion1.melody = he.a.m8_en_US_goadedes.heAU.TiYpermacho.name
-alt1.meMA.Kontakion1.incipit = "…"
-alt1.meMA.Kontakion1.text = ""
+alt1.meMA.Kontakion1.incipit = "Let us extol that theologian…"
+alt1.meMA.Kontakion1.text = "Let us extol that theologian who was virtuous, * the prayerful scholar who received the Holy Spirit's grace, * the inspired holy hierarch and professor * of the sacred seminary on the Holy Hill, * who directed all his students to knowledge of God. * Let us sing to him, “We salute you, St. Gerasimos!”"
 
-alt1.meMA.Oikos1.text = ""
-alt1.meMA.Oikos12.text = ""
-alt1.meMA.Oikos13.text = ""
-alt1.meMA.Oikos14.text = ""
-alt1.meMA.Oikos15.text = ""
-alt1.meMA.Oikos16.text = ""
-alt1.meMA.Oikos17.text = ""
-alt1.meMA.Oikos18.text = ""
+alt1.meMA.Oikos1.text = "Erudite holy hierarch and spiritual father of clergy and devout faithful Christians, you enlightened all people, O Saint Gerasimos, by your God-inspired words and deeds. We pray you dispel the passions that darken our souls, and we cry out:"
+alt1.meMA.Oikos12.text = "We salute you, who glowed with Orthodox teaching. We salute you, who showed its truth in your preaching."
+alt1.meMA.Oikos13.text = "We salute you, blooming scion of Greece and Corinthia. We salute you, grace-filled trunk of the Orthodox faith in God."
+alt1.meMA.Oikos14.text = "We salute you, lightning bolt of wisdom and humility's lamp. We salute you, jewel of bishops, glowing with knowledge of God."
+alt1.meMA.Oikos15.text = "We salute you, the professor of the seminary in Brookline. We salute you, inspired scholar of salvific holy Scripture."
+alt1.meMA.Oikos16.text = "We salute you, who were a perpetual fount of love. We salute you, who were perfumed with the peace of God."
+alt1.meMA.Oikos17.text = "We salute you, director of God-loving people. We salute you, defender of those who invoke you."
+alt1.meMA.Oikos18.text = "We salute you, St. Gerasimos!"
 
 alt1.meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 alt1.meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -818,28 +818,28 @@ alt1.meMA.ExapTheotokion.text = "O Lady, whose all-holy womb hosted the Word of 
 alt1.meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode8
 alt1.meMA.Lauds1.greekmelody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.greekname
 alt1.meMA.Lauds1.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
-alt1.meMA.Lauds1.incipit = "…"
-alt1.meMA.Lauds1.text = ""
+alt1.meMA.Lauds1.incipit = "All-precious gem…"
+alt1.meMA.Lauds1.text = "All-precious gem of the Church of Christ, you were a treasure indeed * of pastoral experience, * born in Greece and having lived * on Mt. Athos and Germany. * Coming to Brookline, you taught at Holy Cross * School of Theology, wise Gerasimos, * guiding the students there * on the path to knowledge of the love of God, * by your grace-filled words and deeds, O father blest by God."
 
 alt1.meMA.Lauds2.mode = miscellanea_en_US_goadedes.misc.Mode8
 alt1.meMA.Lauds2.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
-alt1.meMA.Lauds2.incipit = "…"
-alt1.meMA.Lauds2.text = ""
+alt1.meMA.Lauds2.incipit = "Wise and educated hierarch…"
+alt1.meMA.Lauds2.text = "Wise and educated hierarch and saint, Gerasimos, * you were known for the grace of God * emanating from your soul * and your honest humility, * sincere demeanor, and Christ-like poverty. * You glowed with virtue and Orthodox belief. * Shining the light of truth, * by your sacred teachings you enlighten all * who lie in the darkness and shadow of ignorance."
 
 alt1.meMA.Lauds3.mode = miscellanea_en_US_goadedes.misc.Mode8
 alt1.meMA.Lauds3.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
-alt1.meMA.Lauds3.incipit = "…"
-alt1.meMA.Lauds3.text = ""
+alt1.meMA.Lauds3.incipit = "Father, divine wisdom…"
+alt1.meMA.Lauds3.text = "Father, divine wisdom dwelt in you, and you were truly imbued * with an Orthodox frame of mind, * hierarch and scholar of * holy Scripture, Gerasimos. * You were the faithful good shepherd of your flock * and of your students, the seminarians * up on the Holy Hill, * who for spiritual guidance came to you; * and you healed the sicknesses of soul with fatherly love."
 
 alt1.meMA.Lauds4.mode = miscellanea_en_US_goadedes.misc.Mode8
 alt1.meMA.Lauds4.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
-alt1.meMA.Lauds4.incipit = "…"
-alt1.meMA.Lauds4.text = ""
+alt1.meMA.Lauds4.incipit = "Father, emulating…"
+alt1.meMA.Lauds4.text = "Father, emulating the divine Apostles, sowing the seed * of the Orthodox faith with love * in America, you now * dwell with them in the mansions on high. * As a devoted professor at the School * of Holy Cross and a holy hierarch, * blessed Gerasimos, * by your labors you produced abundant fruit, * your students and sacred flock, which you presented to God."
 
 alt1.meMA.LaudsGlory.mode = miscellanea_en_US_goadedes.misc.Mode5
 alt1.meMA.LaudsGlory.melody = ""
 alt1.meMA.LaudsGlory.incipit = "…"
-alt1.meMA.LaudsGlory.text = ""
+alt1.meMA.LaudsGlory.text = "O congregations in America who are fond of the Church's celebrations, come, let us sing sacred hymns in honor of St. Gerasimos. He was a holy hierarch and a professor of theology. He magnified the name of Christ, by his teachings that were full of divine wisdom, and by the example of his virtuous life. Let us reverently say to him, “You are an unshakable pillar of divine inspiration, and the very paragon of Orthodoxy. You immersed yourself in the study of holy Scripture. As an experienced guide to the truth, teach us the truth in all things, and deliver our souls from death, we pray.”"
 
 alt1.meMA.MM.LaudsSunday.text = properties_en_US_goadedes.media.key
 
