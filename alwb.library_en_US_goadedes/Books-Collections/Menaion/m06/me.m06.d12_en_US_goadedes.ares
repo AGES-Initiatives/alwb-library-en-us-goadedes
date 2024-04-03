@@ -521,6 +521,13 @@ alt1.meVE.Apolytikion1.melody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.
 alt1.meVE.Apolytikion1.incipit = "God-inspired professor…"
 alt1.meVE.Apolytikion1.text = "God-inspired professor and teacher of the Faith * and the spiritual life to the Orthodox who live * in America, O grace-filled Gerasimos, * we salute you as a Christ-centered, humble hierarch * who loved the all-holy Gospel. * You pray to Christ our compassionate Savior for all of us."
 
+alt1.meVE.Apolytikion2.poet = "By Fr. Seraphim Dedes"
+alt1.meVE.Apolytikion2.mode = miscellanea_en_US_goadedes.misc.Mode3
+alt1.meVE.Apolytikion2.greekmelody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.greekname
+alt1.meVE.Apolytikion2.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
+alt1.meVE.Apolytikion2.incipit = "In your love for Christ…"
+alt1.meVE.Apolytikion2.text = "In your love for Christ, O holy father, * as a monk in Greece you had the calling * to learn theology; therefore you studied abroad. * You providentially came to America, * and taught the people of God as a hierarch. * O Gerasimos, our spiritual father, pray for us, * and ask the Lord to send us His great mercy."
+
 alt1.meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt1.meMA.Kathisma11.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 alt1.meMA.Kathisma11.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
@@ -629,6 +636,13 @@ alt1.meMA.Ode3C1T.melody = he.h.m4_en_US_goadedes.heHE.TousSousYmnologous.name
 alt1.meMA.Ode3C1T.incipit = "…"
 alt1.meMA.Ode3C1T.text = ""
 
+alt1.meMA.Kontakion2.poet = "By Fr. Seraphim Dedes"
+alt1.meMA.Kontakion2.mode = miscellanea_en_US_goadedes.misc.Mode4
+alt1.meMA.Kontakion2.greekmelody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.greekname
+alt1.meMA.Kontakion2.melody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.name
+alt1.meMA.Kontakion2.incipit = "Loving God with all your heart…"
+alt1.meMA.Kontakion2.text = "Loving God with all your heart, you were His vessel. * And you served His people well throughout America, O Saint. * Now it is right that we honor you, * father of fathers, O blessed Gerasimos."
+
 alt1.meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode3
 alt1.meMA.Ode3Kathisma1.greekmelody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.greekname
 alt1.meMA.Ode3Kathisma1.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
@@ -722,11 +736,11 @@ alt1.meMA.Kontakion1.text = "Let us extol that theologian who was virtuous, * th
 
 alt1.meMA.Oikos1.text = "Erudite holy hierarch and spiritual father of clergy and devout faithful Christians, you enlightened all people, O Saint Gerasimos, by your God-inspired words and deeds. We pray you dispel the passions that darken our souls, and we cry out:"
 alt1.meMA.Oikos12.text = "We salute you, who glowed with Orthodox teaching. We salute you, who showed its truth in your preaching."
-alt1.meMA.Oikos13.text = "We salute you, blooming scion of Greece and Corinthia. We salute you, grace-filled trunk of the Orthodox faith in God."
-alt1.meMA.Oikos14.text = "We salute you, lightning bolt of wisdom and humility's lamp. We salute you, jewel of bishops, glowing with knowledge of God."
-alt1.meMA.Oikos15.text = "We salute you, the professor of the seminary in Brookline. We salute you, inspired scholar of salvific holy Scripture."
-alt1.meMA.Oikos16.text = "We salute you, who were a perpetual fount of love. We salute you, who were perfumed with the peace of God."
-alt1.meMA.Oikos17.text = "We salute you, director of God-loving people. We salute you, defender of those who invoke you."
+alt1.meMA.Oikos13.text = "We salute you, who hail from the land of Corinthia. We salute you, who hallow the shores of America."
+alt1.meMA.Oikos14.text = "We salute you. Learning and humility are exemplified in you. We salute you. Clergy and the laity are all edified by you."
+alt1.meMA.Oikos15.text = "We salute you, beloved teacher at Holy Cross in Brookline. We salute you, inspired scholar of Holy Writ and Scripture."
+alt1.meMA.Oikos16.text = "We salute you, the bottomless fount of the love of God. We salute you, whose soul was imbued with the peace of God."
+alt1.meMA.Oikos17.text = "We salute you, who guided your students to virtue. We salute you, for God blesses those who invoke you."
 alt1.meMA.Oikos18.text = "We salute you, St. Gerasimos!"
 
 alt1.meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
