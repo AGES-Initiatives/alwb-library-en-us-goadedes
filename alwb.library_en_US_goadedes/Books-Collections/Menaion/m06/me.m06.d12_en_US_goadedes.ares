@@ -580,10 +580,11 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "You became an image of Christ…"
 alt1.meMA.PostGospelIdiomelon.text = "You became an image of Christ, the great Teacher of salvation, the Logos of God Most High, the river of knowledge and wisdom. And you became an imitator of the Apostles, when in America you taught the truth of the Gospel, in a manner pleasing to God. Therefore we accordingly honor you, O Gerasimos, the teacher of seminarians in Brookline, the spiritual director of churchmen, the God-inspired bishop, and the apologist and professor of Orthodox Christianity. Now we reverently request your blessing and your confident prayers to God, as we endeavor to attain virtue and eternal life."
 
-alt1.meMA.C1.acrostic.title = ""
-alt1.meMA.C1.acrostic.notice1 = ""
-alt1.meMA.C1.acrostic.text = ""
+alt1.meMA.C1.acrostic.title = "Canon for the Saint,"
+alt1.meMA.C1.acrostic.notice1 = "with an acrostic in the Theotokia:"
+alt1.meMA.C1.acrostic.text = "“Seraphim”"
 alt1.meMA.C1.poet = poets_en_US_goadedes.po.CharalambousBousia
+alt1.meMA.C1.translator = "Translated by Fr. Seraphim Dedes"
 alt1.meMA.C1.title = titles_en_US_goadedes.ti.CanonHierarch
 alt1.meMA.C1.verse = prayers_en_US_goadedes.pr.verse_SaintM.text
 
@@ -591,51 +592,51 @@ alt1.meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 alt1.meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Ode1C11.greekmelody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.greekname
 alt1.meMA.Ode1C11.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
-alt1.meMA.Ode1C11.incipit = "…"
-alt1.meMA.Ode1C11.text = ""
+alt1.meMA.Ode1C11.incipit = "We honor the God-inspired…"
+alt1.meMA.Ode1C11.text = "We honor the God-inspired holy bishop Gerasimos, * who shone as a luminary of the Faith in our times. * As a paragon of scholarship and virtue, * he led congregations to Christ and His saving light. "
 
 alt1.meMA.Ode1C12.ode = miscellanea_en_US_goadedes.misc.Ode1
 alt1.meMA.Ode1C12.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Ode1C12.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
-alt1.meMA.Ode1C12.incipit = "…"
-alt1.meMA.Ode1C12.text = ""
+alt1.meMA.Ode1C12.incipit = "O father Gerasimos…"
+alt1.meMA.Ode1C12.text = "O father Gerasimos, eminent son of Corinthia, * you shined with the light of virtue from the time of your youth. * You became a wise and erudite professor, * who taught us the Orthodox Faith in the Most High God."
 
 alt1.meMA.Ode1C13.ode = miscellanea_en_US_goadedes.misc.Ode1
 alt1.meMA.Ode1C13.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Ode1C13.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
-alt1.meMA.Ode1C13.incipit = "…"
-alt1.meMA.Ode1C13.text = ""
+alt1.meMA.Ode1C13.incipit = "All-blessed Gerasimos…"
+alt1.meMA.Ode1C13.text = "All-blessed Gerasimos, you emulated the orators * and spiritual fathers who had been inspired by God. * You were temperate, above reproach, and blameless, * a capable teacher of true Christianity."
 
 alt1.meMA.Ode1C1T.ode = miscellanea_en_US_goadedes.misc.Ode1
 alt1.meMA.Ode1C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Ode1C1T.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
-alt1.meMA.Ode1C1T.incipit = "…"
-alt1.meMA.Ode1C1T.text = ""
+alt1.meMA.Ode1C1T.incipit = "Support us, your servants…"
+alt1.meMA.Ode1C1T.text = "Support us, your servants who with Psalms and poetry honor you, * O Lady, and glorify your most benevolent Son, * O immaculate and virgin Theotokos; * and help us to rise above all things that pass away."
 
 alt1.meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 alt1.meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Ode3C11.greekmelody = he.h.m4_en_US_goadedes.heHE.TousSousYmnologous.greekname
 alt1.meMA.Ode3C11.melody = he.h.m4_en_US_goadedes.heHE.TousSousYmnologous.name
-alt1.meMA.Ode3C11.incipit = "…"
-alt1.meMA.Ode3C11.text = ""
+alt1.meMA.Ode3C11.incipit = "Retiring at Holy Cross…"
+alt1.meMA.Ode3C11.text = "Retiring at Holy Cross in Brookline, you treated your lodging like a cell; * and leading an ascetic life, * O father, you adorned yourself * with virtue and humility, O godly bishop Gerasimos."
 
 alt1.meMA.Ode3C12.ode = miscellanea_en_US_goadedes.misc.Ode3
 alt1.meMA.Ode3C12.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Ode3C12.melody = he.h.m4_en_US_goadedes.heHE.TousSousYmnologous.name
-alt1.meMA.Ode3C12.incipit = "…"
-alt1.meMA.Ode3C12.text = ""
+alt1.meMA.Ode3C12.incipit = "The souls of your spiritual children…"
+alt1.meMA.Ode3C12.text = "The souls of your spiritual children received the refreshment of the grace * that you received from God, O St. * Gerasimos, through sweat and tears. * O father, for the faithful you became a fountain of holiness."
 
 alt1.meMA.Ode3C13.ode = miscellanea_en_US_goadedes.misc.Ode3
 alt1.meMA.Ode3C13.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Ode3C13.melody = he.h.m4_en_US_goadedes.heHE.TousSousYmnologous.name
-alt1.meMA.Ode3C13.incipit = "…"
-alt1.meMA.Ode3C13.text = ""
+alt1.meMA.Ode3C13.incipit = "O Saint, you preferred…"
+alt1.meMA.Ode3C13.text = "O Saint, you preferred to be unnoticed, not seeking the power of this world; * and yet throughout your life you had * commanded the respect of all * and influenced their hearts and minds, O godly father Gerasimos."
 
 alt1.meMA.Ode3C1T.ode = miscellanea_en_US_goadedes.misc.Ode3
 alt1.meMA.Ode3C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Ode3C1T.melody = he.h.m4_en_US_goadedes.heHE.TousSousYmnologous.name
-alt1.meMA.Ode3C1T.incipit = "…"
-alt1.meMA.Ode3C1T.text = ""
+alt1.meMA.Ode3C1T.incipit = "Especially when we are in trouble…"
+alt1.meMA.Ode3C1T.text = "Especially when we are in trouble, O Lady, we count on you for help. * We pray that you will rescue us * from hardship and calamity, * all-holy virgin Mother of the very merciful King of all."
 
 alt1.meMA.Kontakion2.poet = "By Fr. Seraphim Dedes"
 alt1.meMA.Kontakion2.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -647,38 +648,38 @@ alt1.meMA.Kontakion2.text = "Loving God with all your heart, you were His vessel
 alt1.meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode3
 alt1.meMA.Ode3Kathisma1.greekmelody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.greekname
 alt1.meMA.Ode3Kathisma1.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
-alt1.meMA.Ode3Kathisma1.incipit = "…"
-alt1.meMA.Ode3Kathisma1.text = ""
+alt1.meMA.Ode3Kathisma1.incipit = "O Gerasimos, a son of Corinth…"
+alt1.meMA.Ode3Kathisma1.text = "O Gerasimos, a son of Corinth, * from an early age you were judicious, * and with grace and maturity you kept the peace * among your friends and companions, O blessed Saint. * Later in life you would shine in the world with rays * of your godly life, enlightening seminarians * in Brookline as you taught them and counseled them."
 
 alt1.meMA.Ode3KathismaT.mode = miscellanea_en_US_goadedes.misc.Mode3
 alt1.meMA.Ode3KathismaT.melody = he.a.m3_en_US_goadedes.heAU.TheiasPisteos.name
-alt1.meMA.Ode3KathismaT.incipit = "…"
-alt1.meMA.Ode3KathismaT.text = ""
+alt1.meMA.Ode3KathismaT.incipit = "You gave birth to God…"
+alt1.meMA.Ode3KathismaT.text = "You gave birth to God, O virgin Mother. * In your holy womb you truly carried * Christ our merciful Savior ineffably. * He is the One who has rescued humanity * and saved the world from the fate of eternal death. * Now we magnify and praise you with hymns and poetry, * relying on your prayers to your Son for us."
 
 alt1.meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 alt1.meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Ode4C11.greekmelody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.greekname
 alt1.meMA.Ode4C11.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.name
-alt1.meMA.Ode4C11.incipit = "…"
-alt1.meMA.Ode4C11.text = ""
+alt1.meMA.Ode4C11.incipit = "You did not give…"
+alt1.meMA.Ode4C11.text = "You did not give to your eyelids * slumber nor close your eyes in sleep, * good and watchful shepherd, * so that you could guide seminarians * and all your spiritual children and the flock of Christ * to the knowledge of God, all-holy bishop Gerasimos."
 
 alt1.meMA.Ode4C12.ode = miscellanea_en_US_goadedes.misc.Ode4
 alt1.meMA.Ode4C12.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Ode4C12.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.name
 alt1.meMA.Ode4C12.incipit = "…"
-alt1.meMA.Ode4C12.text = ""
+alt1.meMA.Ode4C12.text = "Your impeccable behavior * was the standard for Orthodox * scholars and professors. * Father, by possessing a good command * of the New Testament, by the Holy Spirit you helped * all to understand the saving truth, O Gerasimos."
 
 alt1.meMA.Ode4C13.ode = miscellanea_en_US_goadedes.misc.Ode4
 alt1.meMA.Ode4C13.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Ode4C13.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.name
-alt1.meMA.Ode4C13.incipit = "…"
-alt1.meMA.Ode4C13.text = ""
+alt1.meMA.Ode4C13.incipit = "Let us sing our hymns…"
+alt1.meMA.Ode4C13.text = "Let us sing our hymns in honor * of our father Gerasimos, * the inspired professor * and all-holy bishop, who rightly taught * the Christian Faith to his flock, which sensed the fragrant scent * of that Spirit-filled treasure of virtue and watchfulness."
 
 alt1.meMA.Ode4C1T.ode = miscellanea_en_US_goadedes.misc.Ode4
 alt1.meMA.Ode4C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Ode4C1T.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.name
-alt1.meMA.Ode4C1T.incipit = "…"
-alt1.meMA.Ode4C1T.text = ""
+alt1.meMA.Ode4C1T.incipit = "Reverentially, O Lady…"
+alt1.meMA.Ode4C1T.text = "Reverentially, O Lady, * we extol all your miracles. * Orthodox believers * call you The Directress who guides them all * to the perfection of virtue and the love of God, * and they swiftly run to your protection, O Virgin pure."
 
 alt1.meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 alt1.meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -736,7 +737,7 @@ alt1.meMA.Kontakion1.greekmelody = he.a.m8_en_US_goadedes.heAU.TiYpermacho.greek
 alt1.meMA.Kontakion1.incipit = "Let us extol that theologian…"
 alt1.meMA.Kontakion1.text = "Let us extol that theologian who was virtuous, * the prayerful scholar who received the Holy Spirit's grace, * the inspired holy hierarch and professor * of the sacred seminary on the Holy Hill, * who directed all his students to knowledge of God. * Let us sing to him, “We salute you, St. Gerasimos!”"
 
-alt1.meMA.Oikos1.text = "All-blessed holy bishop and the spiritual father of clergy and devout faithful Christians, you enlightened all people, O Saint Gerasimos, by your God-inspired words and deeds. We pray you dispel the passions that darken our souls, and we cry out:"
+alt1.meMA.Oikos1.text = "All-blessed bishop, scholar, and the spiritual father of clergy and devout faithful Christians, you enlightened all people, O Saint Gerasimos, by your God-inspired words and deeds. We pray you dispel the passions that darken our souls, and we cry out:"
 alt1.meMA.Oikos12.text = "We salute you, who glowed with Orthodox teaching. We salute you, who showed its truth in your preaching."
 alt1.meMA.Oikos13.text = "We salute you, who hail from the land of Corinthia. We salute you, who hallow the shores of America."
 alt1.meMA.Oikos14.text = "We salute you. Learning and humility are exemplified in you. We salute you. Clergy and the laity are all edified by you."
