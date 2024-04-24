@@ -1067,8 +1067,10 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""
 
-meH.title = ""
-meH.translation = ""
+meH.title = "This key is deprecated"
+meH.translation = "This key is deprecated"
+meHR.title = ""
+meHR.translation = ""
 meH1.title = ""
 meH1.Troparion.incipit = me.m01.d05_en_US_goadedes.meVE.Apolytikion1.incipit
 meH1.Troparion.text = me.m01.d05_en_US_goadedes.meVE.Apolytikion1.text

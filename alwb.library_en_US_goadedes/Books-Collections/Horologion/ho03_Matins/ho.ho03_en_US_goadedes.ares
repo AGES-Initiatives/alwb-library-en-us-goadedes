@@ -1,14 +1,14 @@
 A_Resource_Whose_Name = ho.ho03_en_US_goadedes
 
-hoMA.title = ""
-hoMA.MatinsOrdinary.title = ""
-hoMA.MatinsOrdinary.text = properties_en_US_goadedes.media.key
+hoMA.title = "The Service of Matins"
+hoMA.MatinsOrdinary.title = "Matins Ordinary"
+hoMA.MatinsOrdinary.text = ""
 R01 = ""
 R02 = ""
 hoMA.Troparion3.text = ""
 R3 = ""
 R4 = ""
-SixPsalms.title = ""
+SixPsalms.title = "The Six Psalms."
 R6 = ""
 R7 = ""
 R8 = ""
@@ -78,69 +78,68 @@ Triadic3
 R12a = ""
 R12b = ""
 
-hoMA.ResEvlog.title1 = ""
-hoMA.ResEvlog.title2 = ""
-//Title Mode5
-R13 = ""
-hoMA.ResEvlogVerse.text = ""
+hoMA.ResEvlog.title1 = "Resurrectional Evlogetaria."
+hoMA.ResEvlog.title2 = "Chanted on Sundays throughout the year"
+R13 = "Before each Troparion, we sing:"
+hoMA.ResEvlogVerse.text = "Blessed are You, O Lord, teach me Your statutes."
 hoMA.ResEvlog1.mode = miscellanea_en_US_goadedes.misc.Mode5
-hoMA.ResEvlog1.incipit = "…"
-hoMA.ResEvlog1.text = ""
+hoMA.ResEvlog1.incipit = "When the hosts of the…"
+hoMA.ResEvlog1.text = "When the hosts of the Angels saw how You were accounted among the dead, they all marveled. You, O Savior, are the One who destroyed the might of death; and when You arose You raised Adam with yourself and from Hades liberated everyone."
 hoMA.ResEvlog2.mode = miscellanea_en_US_goadedes.misc.Mode5
-hoMA.ResEvlog2.incipit = "…"
-hoMA.ResEvlog2.text = ""
+hoMA.ResEvlog2.incipit = "“Why do you mingle the…"
+hoMA.ResEvlog2.text = "“Why do you mingle the ointments with your tears full of pity, O women disciples?” Thus the Angel who was shining in the tomb cried to the myrrh-bearing women. “See for yourselves the empty tomb and understand, that the Savior has risen from the sepulcher.”"
 hoMA.ResEvlog3.mode = miscellanea_en_US_goadedes.misc.Mode5
-hoMA.ResEvlog3.incipit = "…"
-hoMA.ResEvlog3.text = ""
+hoMA.ResEvlog3.incipit = "Very early in the morning…"
+hoMA.ResEvlog3.text = "Very early in the morning, the myrrh-bearing women were hastening to Your tomb lamenting. But the Angel appeared to them and uttered, “The time for lamentation has ended; weep no more. Go announce the Resurrection to the Apostles.”"
 hoMA.ResEvlog4.mode = miscellanea_en_US_goadedes.misc.Mode5
-hoMA.ResEvlog4.incipit = "…"
-hoMA.ResEvlog4.text = ""
+hoMA.ResEvlog4.incipit = "When the myrrh-bearing women had…"
+hoMA.ResEvlog4.text = "When the myrrh-bearing women had come with their spices to Your sepulcher, O Savior, they heard the voice of an Angel clearly speaking to them, “Why do you account among the dead the One who lives? For as God, He has risen from the sepulcher.”"
 hoMA.ResEvlog5.mode = miscellanea_en_US_goadedes.misc.Mode5
-hoMA.ResEvlog5.incipit = "…"
-hoMA.ResEvlog5.text = ""
+hoMA.ResEvlog5.incipit = "We bow down in worship…"
+hoMA.ResEvlog5.text = "We bow down in worship to the Father and His Son and the Holy Spirit, the Holy Trinity, one in essence; and we cry aloud with the Seraphim: Holy, Holy, Holy are You, O Lord."
 hoMA.ResEvlog6.mode = miscellanea_en_US_goadedes.misc.Mode5
-hoMA.ResEvlog6.incipit = "…"
-hoMA.ResEvlog6.text = ""
+hoMA.ResEvlog6.incipit = "Giving birth to the Giver…"
+hoMA.ResEvlog6.text = "Giving birth to the Giver of life, O Virgin, you delivered Adam from sin, and to Eve you have rendered joy in place of sorrow. He who from you became incarnate, God and man, has directed to life him who fell from it."
 hoMA.ResEvlog7.mode = miscellanea_en_US_goadedes.misc.Mode5
 hoMA.ResEvlog7.text = prayers_en_US_goadedes.pr.Alleluia3Glory.text
 
-hoMA.FuneralEvlog.title1 = ""
+hoMA.FuneralEvlog.title1 = "Evlogetaria for the Dead."
 hoMA.FuneralEvlog.title2 = ""
 R14 = ""
-hoMA.FuneralEvlogVerse.text = ""
+hoMA.FuneralEvlogVerse.text = "Blessed are You, O Lord, teach me Your statutes."
 hoMA.FuneralEvlog1.mode = miscellanea_en_US_goadedes.misc.Mode5
 hoMA.FuneralEvlog1.incipit = "…"
 hoMA.FuneralEvlog1.text = ""
 hoMA.FuneralEvlog2.mode = miscellanea_en_US_goadedes.misc.Mode5
-hoMA.FuneralEvlog2.incipit = "…"
-hoMA.FuneralEvlog2.text = ""
+hoMA.FuneralEvlog2.incipit = "You who proclaimed the Gospel…"
+hoMA.FuneralEvlog2.text = "You who proclaimed the Gospel of the Lamb of God * and who were yourselves like lambs slaughtered, * and were translated to life that is immortal and eternal, * earnestly entreat Him, O holy martyr Saints, * that He grant us remission of all our debts."
 hoMA.FuneralEvlog3.mode = miscellanea_en_US_goadedes.misc.Mode5
-hoMA.FuneralEvlog3.incipit = "…"
-hoMA.FuneralEvlog3.text = ""
-hoMA.FuneralEvlog4.mode = miscellanea_en_US_goadedes.misc.Mode5
+hoMA.FuneralEvlog3.incipit = "All you who during your…"
+hoMA.FuneralEvlog3.text = "All you who during your earthly life * walked the narrow way full of hardships, * who taking up the cross as a yoke * followed after Me believing, * come now and enjoy the rewards * and the heavenly crowns that I prepared for you."
+hoMA.FuneralEvlog4.mode = ""
 hoMA.FuneralEvlog4.incipit = "…"
 hoMA.FuneralEvlog4.text = ""
-hoMA.FuneralEvlog5.mode = miscellanea_en_US_goadedes.misc.Mode5
+hoMA.FuneralEvlog5.mode = ""
 hoMA.FuneralEvlog5.incipit = "…"
 hoMA.FuneralEvlog5.text = ""
-hoMA.FuneralEvlog6.mode = miscellanea_en_US_goadedes.misc.Mode5
+hoMA.FuneralEvlog6.mode = ""
 hoMA.FuneralEvlog6.incipit = "…"
 hoMA.FuneralEvlog6.text = ""
-hoMA.FuneralEvlog7.mode = miscellanea_en_US_goadedes.misc.Mode5
+hoMA.FuneralEvlog7.mode = ""
 hoMA.FuneralEvlog7.incipit = "…"
 hoMA.FuneralEvlog7.text = ""
-hoMA.FuneralEvlog8.mode = miscellanea_en_US_goadedes.misc.Mode5
+hoMA.FuneralEvlog8.mode = ""
 hoMA.FuneralEvlog8.incipit = "…"
 hoMA.FuneralEvlog8.text = ""
-hoMA.FuneralEvlog9.mode = miscellanea_en_US_goadedes.misc.Mode5
-hoMA.FuneralEvlog9.text = prayers_en_US_goadedes.pr.Alleluia3Glory.text
+hoMA.FuneralEvlog9.mode = ""
+hoMA.FuneralEvlog9.text = ""
 
 //Psalm 50
-hoMA.Psalm50.text = properties_en_US_goadedes.media.key //for media
+hoMA.Psalm50.text = properties_en_US_goadedes.media.key
 
 hoMA.MM.Magnificat.text = properties_en_US_goadedes.media.key //for media of all modes together
-hoMA.Ode9.Meg00.incipit = "…"
-hoMA.Ode9.Meg00.text = ""
+hoMA.Ode9.Meg00.incipit = "It is truly right…"
+hoMA.Ode9.Meg00.text = "It is truly right to call you blessed, Theotokos, the ever-blessed and all-blameless one and the Mother of our God."
 
 R15 = ""
 R16 = "" //(Lent)
@@ -181,10 +180,10 @@ Title Mode8
 Hymn 3x
 
 */
-hoMA.Exaposteilaria.title = ""
-hoMA.Exaposteilaria.title2 = ""
+hoMA.Exaposteilaria.title = "Exaposteilaria"
+hoMA.Exaposteilaria.title2 = "for each day of the week"
 
-hoMA.ExapMonTitle = ""
+hoMA.ExapMonTitle = "On Monday"
 hoMA.ExapMon1.mode = miscellanea_en_US_goadedes.misc.Mode3
 hoMA.ExapMon1.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.melody
 hoMA.ExapMon1.incipit = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.incipit
@@ -195,7 +194,7 @@ hoMA.ExapMonTh.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
 hoMA.ExapMonTh.incipit = da.d7_en_US_goadedes.daMA.ExapTheotokion1.incipit
 hoMA.ExapMonTh.text = da.d7_en_US_goadedes.daMA.ExapTheotokion1.text
 
-hoMA.ExapTueTitle = ""
+hoMA.ExapTueTitle = "On Tuesday"
 hoMA.ExapTue1.mode = miscellanea_en_US_goadedes.misc.Mode3
 hoMA.ExapTue1.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
 hoMA.ExapTue1.incipit = da.d3_en_US_goadedes.daMA.Exaposteilarion1.incipit
@@ -206,7 +205,7 @@ hoMA.ExapTueTh.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
 hoMA.ExapTueTh.incipit = da.d7_en_US_goadedes.daMA.ExapTheotokion1.incipit
 hoMA.ExapTueTh.text = da.d7_en_US_goadedes.daMA.ExapTheotokion1.text
 
-hoMA.ExapWedFriTitle = ""
+hoMA.ExapWedFriTitle = "On Wednesday and Friday"
 hoMA.ExapWedFri1.mode = miscellanea_en_US_goadedes.misc.Mode2
 hoMA.ExapWedFri1.melody = he.a.m2_en_US_goadedes.heAU.TonMathitonOrontonSe.name
 hoMA.ExapWedFri1.incipit = me.m09.d14_en_US_goadedes.meMA.Exaposteilarion1.incipit
@@ -217,7 +216,7 @@ hoMA.ExapWedFriTh.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
 hoMA.ExapWedFriTh.incipit = da.d6_en_US_goadedes.daMA.ExapTheotokion2.incipit
 hoMA.ExapWedFriTh.text = da.d6_en_US_goadedes.daMA.ExapTheotokion2.text
 
-hoMA.ExapThuTitle = ""
+hoMA.ExapThuTitle = "On Thursday"
 hoMA.ExapThu1.mode = miscellanea_en_US_goadedes.misc.Mode2
 hoMA.ExapThu1.melody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.name
 hoMA.ExapThu1.incipit = "…"
@@ -230,10 +229,10 @@ hoMA.ExapThu2.text = me.m12.d06_en_US_goadedes.meMA.Exaposteilarion1.text
 
 hoMA.ExapThuTh.mode = miscellanea_en_US_goadedes.misc.Mode2
 hoMA.ExapThuTh.melody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.name
-hoMA.ExapThuTh.incipit = "…"
-hoMA.ExapThuTh.text = ""
+hoMA.ExapThuTh.incipit = "O Mary, you indeed became…"
+hoMA.ExapThuTh.text = "O Mary, you indeed became * the censer made of purest gold, * the uncontainable Holy * Trinity’s all-holy vessel. * The Father was well pleased in you; * the Son came down and dwelt in you; * for when the all-holy Spirit * overshadowed you, O Maiden, * He made you the Theotokos."
 
-hoMA.ExapSatTitle = ""
+hoMA.ExapSatTitle = "On Saturday"
 hoMA.ExapSat1.mode = miscellanea_en_US_goadedes.misc.Mode3
 hoMA.ExapSat1.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
 hoMA.ExapSat1.incipit = da.d7_en_US_goadedes.daMA.Exaposteilarion2.incipit
@@ -248,39 +247,39 @@ R19 = ""
 R20 = ""
 R21 = ""
 
-R_Lauds_Hierarchical = ""
+R_Lauds_Hierarchical = "The Hierarch descends from the throne and recites the preparatory prayers for the Liturgy, as the Choirs sing:"
 
 hoMA.LaudsSunTheotokion.incipit = oc.m2.d1_en_US_goadedes.ocMA.Kathisma23.incipit
 hoMA.LaudsSunTheotokion.text = oc.m2.d1_en_US_goadedes.ocMA.Kathisma23.text
 
-hoMA.DoxologyGreat.title = ""
+hoMA.DoxologyGreat.title = "Great Doxology"
 hoMA.MM.DoxologyGreat.text = properties_en_US_goadedes.media.key
-hoMA.DoxologyGreatIntro.text = ""
-hoMA.DoxologyVerse01.text = "" //le.go.os_en_US_goadedes.leosMA.GreatDoxology.v01.text
-hoMA.DoxologyVerse02.text = ""
-hoMA.DoxologyVerse03.text = ""
-hoMA.DoxologyVerse04.text = ""
-hoMA.DoxologyVerse05.text = ""
-hoMA.DoxologyVerse06.text = ""
-hoMA.DoxologyVerse07.text = "" //ps_en_US_goadedes.psa144.v2.text
-hoMA.DoxologyVerse07e.text = ""
-hoMA.DoxologyVerse08.text = ""
-hoMA.DoxologyVerse08e.text = ""
-hoMA.DoxologyVerse08n.text = ""
-hoMA.DoxologyVerse09.text = "" //le.pr.os_en_US_goadedes.leosMA.GreatDoxology.v09.text
-hoMA.DoxologyVerse10.text = "" //ps_en_US_goadedes.psa32.v22.text
-hoMA.DoxologyVerse11a.text = "" //ps_en_US_goadedes.psa118.v12.text
-hoMA.DoxologyVerse11b.text = ""
-hoMA.DoxologyVerse11c.text = ""
-hoMA.DoxologyVerse12a.text = "" //ps_en_US_goadedes.psa89.v1.text
-hoMA.DoxologyVerse12b.text = "" //ps_en_US_goadedes.psa40.v5.text
-hoMA.DoxologyVerse13.text = "" //ps_en_US_goadedes.psa142.v10alt.text
-hoMA.DoxologyVerse14.text = "" //ps_en_US_goadedes.psa35.v10.text
-hoMA.DoxologyVerse15.text = "" //ps_en_US_goadedes.psa35.v11a.text
-hoMA.DoxologyVerse16.text = ""
-hoMA.DoxologyVerse17.text = ""
-hoMA.DoxologyVerse18.text = ""
-hoMA.DoxologyVerse19.text = ""
+hoMA.DoxologyGreatIntro.text = "Glory be to You who showed the light."
+hoMA.DoxologyVerse01.text = "Glory in the highest to God. His peace is on earth, His good pleasure in mankind."
+hoMA.DoxologyVerse02.text = "We praise You, we bless You, we worship You, we glorify You, we give thanks to You for Your great glory."
+hoMA.DoxologyVerse03.text = "Lord King, heavenly God, Father, Ruler over all; Lord, only-begotten Son, Jesus Christ; and You, O Holy Spirit."
+hoMA.DoxologyVerse04.text = "Lord God, Lamb of God, Son of the Father, who take away the sin of the world, have mercy on us, You who take away the sins of the world."
+hoMA.DoxologyVerse05.text = "Accept our supplication, You who sit at the right hand of the Father, and have mercy on us."
+hoMA.DoxologyVerse06.text = "For You alone are holy, You alone are Lord, Jesus Christ, to the glory of God the Father. Amen."
+hoMA.DoxologyVerse07.text = "Every day I will bless You, and Your name will I praise to eternity, and to the ages of ages."
+hoMA.DoxologyVerse07e.text = "Every evening I will bless You, and Your name will I praise to eternity, and to the ages of ages."
+hoMA.DoxologyVerse08.text = "Vouchsafe, O Lord, this day, that we be kept without sin."
+hoMA.DoxologyVerse08e.text = "Vouchsafe, O Lord, this evening, that we be kept without sin."
+hoMA.DoxologyVerse08n.text = "Vouchsafe, O Lord, this night, that we be kept without sin."
+hoMA.DoxologyVerse09.text = "Blessed are You, O Lord, the God of our fathers, and praised and glorified is Your name to the ages. Amen."
+hoMA.DoxologyVerse10.text = "Let Your mercy be on us, O Lord, as we have set our hope on You."
+hoMA.DoxologyVerse11a.text = "Blessed are You, O Lord. Teach me Your statutes."
+hoMA.DoxologyVerse11b.text = "Blessed are You, O Master. Grant me to understand Your statutes."
+hoMA.DoxologyVerse11c.text = "Blessed are You, O Lord. Enlighten me with Your statutes."
+hoMA.DoxologyVerse12a.text = "Lord, You have been our refuge from generation to generation."
+hoMA.DoxologyVerse12b.text = "I said: Lord, have mercy on me. Heal my soul, for I have sinned against You."
+hoMA.DoxologyVerse13.text = "Lord, I have fled to You. Teach me to do Your will, for You are my God."
+hoMA.DoxologyVerse14.text = "For with You is the fountain of life; in Your light we shall see light."
+hoMA.DoxologyVerse15.text = "Continue Your mercy to those who know You."
+hoMA.DoxologyVerse16.text = "Holy God, Holy Mighty, Holy Immortal, have mercy on us."
+hoMA.DoxologyVerse17.text = "Glory to the Father and the Son and the Holy Spirit."
+hoMA.DoxologyVerse18.text = "Both now and ever and to the ages of ages. Amen."
+hoMA.DoxologyVerse19.text = "Holy Immortal, have mercy on us."
 R22 = ""
 hoMA.MM.DoxologyGreatAsmatic.text = properties_en_US_goadedes.media.key
 hoMA.DoxologyVerse20.text = hoMA.DoxologyVerse16.text
@@ -300,8 +299,8 @@ hoMA.SmallDoxology3.text = ""
 R24 = ""
 R25 = ""
 R26 = ""
-R27 = ""
-R28 = "" //[maybe unpack]
+R27 = "Then we begin the First Hour, saying: “Come let us worship…”"
+R28 = ""
 hoMA.Apolytikion = oc.m6.d5_en_US_goadedes.ocMA.Kathisma33.text
 R29 = "" //[maybe unpack]
 R30 = ""
@@ -309,27 +308,27 @@ R31 = ""
 R32 = ""
 R33 = ""
 R34 = ""
-R35 = ""
-R36 = ""
+R35 = "Then we begin the First Hour, saying: “Come let us worship…”"
+R36 = "After the Doxology, sing the following Resurrectional Troparion."
 hoMA.SunTroparion1.mode = miscellanea_en_US_goadedes.misc.Mode4
-hoMA.SunTroparion1.incipit = "…"
-hoMA.SunTroparion1.text = ""
+hoMA.SunTroparion1.incipit = "Today has salvation come to pass…"
+hoMA.SunTroparion1.text = "Today has salvation come to pass in the world. Let us sing to Him who resurrected from the tomb and is the Author of our life. For, destroying death by death, He gave us the victory and the great mercy."
 R37 = ""
 //Title ultimately link this to pe.d18.peMA.Kath12
 hoMA.SunTroparion2.mode = miscellanea_en_US_goadedes.misc.Mode8
-hoMA.SunTroparion2.incipit = "…"
-hoMA.SunTroparion2.text = ""
+hoMA.SunTroparion2.incipit = "When You rose from the sepulcher…"
+hoMA.SunTroparion2.text = "When You rose from the sepulcher and broke the bonds of Hades, You repealed the sentence of death, O Lord, and delivered all from the snares of the enemy. And when You showed yourself to Your Apostles, You sent them out to preach, and through them You granted peace to the whole world, O only very merciful One."
 R38 = "" //[maybe unpack]
-R39 = ""
+R39 = "The Doxology follows immediately. At the end of the Doxology, we sing the Apolytikion."
 
 //Order of Matins Gospel
-hoMA.Antiphon11.title = ""
+hoMA.Antiphon11.title = "Anavathmoi Antiphon 1 of Mode 4."
 hoMA.Antiphon11.text = properties_en_US_goadedes.media.key
 
 hoMA.PreGospelHymn.text = "" // for media
 
-hoMA.SunPostGospel.incipit = "…"
-hoMA.SunPostGospel.text = ""
+hoMA.SunPostGospel.incipit = "Having seen the Resurrection of Christ…"
+hoMA.SunPostGospel.text = "Having seen the Resurrection of Christ, let us worship the Holy Lord Jesus, the only sinless one. Your Cross do we worship, O Christ, and Your holy Resurrection do we hymn and glorify. For You are our God, we know no other but You, we call upon Your name. Come all the faithful, let us worship the holy Resurrection of Christ; for behold through the Cross, joy has come in all the world. Ever blessing the Lord, we extol His Resurrection. For enduring the Cross for us, He destroyed death by death."
 
 hoMA.PostGospelTrinity.incipit = "Father, Word and Spirit…"
 hoMA.PostGospelTrinity.text = "Father, Word and Spirit, the Trinity in Union, O Lord of mercy, blot out my many offenses."
@@ -370,19 +369,19 @@ hoMA.PostGospelHierarch.text = "At the intercession of Your holy Hierarch, O Lor
 hoMA.PostGospelMaleSaint.incipit = "At the intercession of Your Saint, O Master…"
 hoMA.PostGospelMaleSaint.text = "At the intercession of Your Saint, O Master and Lord of mercy, blot out my many offenses."
 
-hoMA.SunPostGospelIdiomelon.incipit = "…"
-hoMA.SunPostGospelIdiomelon.text = ""
+hoMA.SunPostGospelIdiomelon.incipit = "Jesus, having risen…"
+hoMA.SunPostGospelIdiomelon.text = "Jesus, having risen from the grave as He foretold, has granted us eternal life and great mercy."
 
-hoMA.SunExapVerse1.text = "" //for media
+hoMA.SunExapVerse1.text = properties_en_US_goadedes.media.key
 
 //Triodion specific, not in Horologion
-hoMA.RtrSoS01 = ""
+hoMA.RtrSoS01 = "The priest comes out of the gates and, standing before the icon of Christ, intones the memorial petitions for the deceased."
 
 //Polyelelos, not in Horologion
 hoMA.MM.PolyeleosPsalm134.text = properties_en_US_goadedes.media.key
 hoMA.MM.PolyeleosPsalm135.text = properties_en_US_goadedes.media.key
 
-hoMA.EclogeTheotokionWeekday.text = ""
+hoMA.EclogeTheotokionWeekday.text = "We Your people now invoke the name * of Your holy Mother entreating for us. * O Good One, at her fervent prayers, * send to us Your tender mercies, O Christ, * so that we may glorify * You, the hope of our souls, O Lord."
 
 hoMA.FestalMagnification.title = "The Magnification"
 hoMA.FestalMagnification.rubric = "Here may be inserted the Festal Magnification."
