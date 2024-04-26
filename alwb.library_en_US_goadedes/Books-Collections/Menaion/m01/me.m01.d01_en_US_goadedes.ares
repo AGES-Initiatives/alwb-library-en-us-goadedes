@@ -57,8 +57,8 @@ meVE.SticGlory.text = ""
 meVE.SticBoth.poet = poets_en_US_goadedes.po.Anatoliou
 meVE.SticBoth.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.SticBoth.melody = ""
-meVE.SticBoth.incipit = meVE.Stichera01.incipit
-meVE.SticBoth.text = meVE.Stichera01.text
+meVE.SticBoth.incipit = me.m01.d01_en_US_goadedes.meVE.Stichera01.incipit
+meVE.SticBoth.text = me.m01.d01_en_US_goadedes.meVE.Stichera01.text
 
 meVE.Lity1.poet = poets_en_US_goadedes.po.Germanou
 meVE.Lity1.mode = miscellanea_en_US_goadedes.misc.Mode3
@@ -190,8 +190,8 @@ meMA.PostGospelBoth.text = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.text
 meMA.PostGospelIdiomelon.poet = poets_en_US_goadedes.po.Vyzantiou
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.incipit = meVE.LityGlory.incipit
-meMA.PostGospelIdiomelon.text = meVE.LityGlory.text
+meMA.PostGospelIdiomelon.incipit = me.m01.d01_en_US_goadedes.meVE.LityGlory.incipit
+meMA.PostGospelIdiomelon.text = me.m01.d01_en_US_goadedes.meVE.LityGlory.text
 
 meMA.C1.poet = poets_en_US_goadedes.po.Stefanou
 meMA.C1.title = titles_en_US_goadedes.ti.CanonFeast
@@ -709,14 +709,14 @@ meMA.Lauds4.text = ""
 meMA.LaudsGlory.poet = poets_en_US_goadedes.po.Vyzantiou
 meMA.LaudsGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.incipit = meVE.LityGlory.incipit
-meMA.LaudsGlory.text = meVE.LityGlory.text
+meMA.LaudsGlory.incipit = me.m01.d01_en_US_goadedes.meVE.LityGlory.incipit
+meMA.LaudsGlory.text = me.m01.d01_en_US_goadedes.meVE.LityGlory.text
 
 meMA.LaudsBoth.poet = poets_en_US_goadedes.po.Anatoliou
 meMA.LaudsBoth.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.LaudsBoth.melody = ""
-meMA.LaudsBoth.incipit = meVE.Stichera01.incipit
-meMA.LaudsBoth.text = meVE.Stichera01.text
+meMA.LaudsBoth.incipit = me.m01.d01_en_US_goadedes.meVE.Stichera01.incipit
+meMA.LaudsBoth.text = me.m01.d01_en_US_goadedes.meVE.Stichera01.text
 
 meMA.MM.Lauds1234as5678.text = properties_en_US_goadedes.media.key
 
@@ -724,11 +724,11 @@ meLI.MM.Antiphon2.text = properties_en_US_goadedes.media.key
 
 meLI.MM.EntranceHymn.text = properties_en_US_goadedes.media.key
 
-meLI.Kontakion1.mode = meMA.Ode3Kathisma3.mode
-meLI.Kontakion1.greekmelody = meMA.Ode3Kathisma3.greekmelody
-meLI.Kontakion1.melody = meMA.Ode3Kathisma3.melody
-meLI.Kontakion1.incipit = meMA.Ode3Kathisma3.incipit
-meLI.Kontakion1.text = meMA.Ode3Kathisma3.text
+meLI.Kontakion1.mode = me.m01.d01_en_US_goadedes.meMA.Ode3Kathisma3.mode
+meLI.Kontakion1.greekmelody = me.m01.d01_en_US_goadedes.meMA.Ode3Kathisma3.greekmelody
+meLI.Kontakion1.melody = me.m01.d01_en_US_goadedes.meMA.Ode3Kathisma3.melody
+meLI.Kontakion1.incipit = me.m01.d01_en_US_goadedes.meMA.Ode3Kathisma3.incipit
+meLI.Kontakion1.text = me.m01.d01_en_US_goadedes.meMA.Ode3Kathisma3.text
 
 meLI.TheotokosHymn.mode = ""
 meLI.TheotokosHymn.incipit = oc.m8.d1_en_US_goadedes.ocMA.Kathisma23.incipit
@@ -739,8 +739,8 @@ meLI.Megalynarion.rubric = "In some places it is customary to sing a Megalynario
 meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
 meLI.AfterCommunion.mode = miscellanea_en_US_goadedes.misc.Mode1
-meLI.AfterCommunion.incipit = meVE.Apolytikion2.incipit
-meLI.AfterCommunion.text = meVE.Apolytikion2.text
+meLI.AfterCommunion.incipit = me.m01.d01_en_US_goadedes.meVE.Apolytikion2.incipit
+meLI.AfterCommunion.text = me.m01.d01_en_US_goadedes.meVE.Apolytikion2.text
 
 meLI.Megalynarion.incipit = "…"
 meLI.Megalynarion.text = ""

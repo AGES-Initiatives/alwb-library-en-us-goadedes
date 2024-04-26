@@ -646,10 +646,10 @@ trMA.AposTheotokion.melody = ""
 trMA.AposTheotokion.incipit = oc.m6.d7_en_US_goadedes.ocMA.LaudsTheotokion.incipit
 trMA.AposTheotokion.text = oc.m6.d7_en_US_goadedes.ocMA.LaudsTheotokion.text
 
-trLI.Kontakion1.mode = trMA.Kontakion1.mode
-trLI.Kontakion1.melody = trMA.Kontakion1.melody
-trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
-trLI.Kontakion1.text = trMA.Kontakion1.text
+trLI.Kontakion1.mode = tr.d014_en_US_goadedes.trMA.Kontakion1.mode
+trLI.Kontakion1.melody = tr.d014_en_US_goadedes.trMA.Kontakion1.melody
+trLI.Kontakion1.incipit = tr.d014_en_US_goadedes.trMA.Kontakion1.incipit
+trLI.Kontakion1.text = tr.d014_en_US_goadedes.trMA.Kontakion1.text
 
 trLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 

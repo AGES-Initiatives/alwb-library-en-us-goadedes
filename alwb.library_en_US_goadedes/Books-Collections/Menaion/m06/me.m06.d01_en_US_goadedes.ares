@@ -309,10 +309,10 @@ meMA.Ode9H.melody = he.h.m2_en_US_goadedes.heHE.TonEkTheouTheonLogon.melody
 meMA.Ode9H.incipit = he.h.m2_en_US_goadedes.heHE.TonEkTheouTheonLogon.incipit
 meMA.Ode9H.text = he.h.m2_en_US_goadedes.heHE.TonEkTheouTheonLogon.text
 
-meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
-meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
-meLI.Kontakion1.text = meMA.Kontakion1ger.text
+meLI.Kontakion1.mode = me.m06.d01_en_US_goadedes.meMA.Kontakion1ger.mode
+meLI.Kontakion1.melody = me.m06.d01_en_US_goadedes.meMA.Kontakion1ger.melody
+meLI.Kontakion1.incipit = me.m06.d01_en_US_goadedes.meMA.Kontakion1ger.incipit
+meLI.Kontakion1.text = me.m06.d01_en_US_goadedes.meMA.Kontakion1ger.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 

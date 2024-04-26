@@ -741,35 +741,35 @@ octrVE.Stichera1.text = oc.m1.d2_en_US_goadedes.ocVE.Aposticha3.text
 
 octrVE.Stichera2.mode = miscellanea_en_US_goadedes.misc.Mode1
 octrVE.Stichera2.melody = ""
-octrVE.Stichera2.incipit = ocVE.Aposticha1.incipit
-octrVE.Stichera2.text = ocVE.Aposticha1.text
+octrVE.Stichera2.incipit = oc.m1.d7_en_US_goadedes.ocVE.Aposticha1.incipit
+octrVE.Stichera2.text = oc.m1.d7_en_US_goadedes.ocVE.Aposticha1.text
 
 octrVE.Stichera3.mode = miscellanea_en_US_goadedes.misc.Mode1
 octrVE.Stichera3.melody = ""
-octrVE.Stichera3.incipit = ocVE.Aposticha2.incipit
-octrVE.Stichera3.text = ocVE.Aposticha2.text
+octrVE.Stichera3.incipit = oc.m1.d7_en_US_goadedes.ocVE.Aposticha2.incipit
+octrVE.Stichera3.text = oc.m1.d7_en_US_goadedes.ocVE.Aposticha2.text
 
 octrVE.Stichera4.mode = miscellanea_en_US_goadedes.misc.Mode1
-octrVE.Stichera4.greekmelody = ocVE.Aposticha3.greekmelody
-octrVE.Stichera4.melody = ocVE.Aposticha3.melody
-octrVE.Stichera4.incipit = ocVE.Aposticha3.incipit
-octrVE.Stichera4.text = ocVE.Aposticha3.text
+octrVE.Stichera4.greekmelody = oc.m1.d7_en_US_goadedes.ocVE.Aposticha3.greekmelody
+octrVE.Stichera4.melody = oc.m1.d7_en_US_goadedes.ocVE.Aposticha3.melody
+octrVE.Stichera4.incipit = oc.m1.d7_en_US_goadedes.ocVE.Aposticha3.incipit
+octrVE.Stichera4.text = oc.m1.d7_en_US_goadedes.ocVE.Aposticha3.text
 
 octrVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode1
 octrVE.SticGlory.melody = ""
-octrVE.SticGlory.incipit = ocVE.Aposticha4.incipit
-octrVE.SticGlory.text = ocVE.Aposticha4.text
+octrVE.SticGlory.incipit = oc.m1.d7_en_US_goadedes.ocVE.Aposticha4.incipit
+octrVE.SticGlory.text = oc.m1.d7_en_US_goadedes.ocVE.Aposticha4.text
 
 octrVE.SticBoth.mode = miscellanea_en_US_goadedes.misc.Mode1
 octrVE.SticBoth.melody = ""
-octrVE.SticBoth.incipit = ocVE.SticTheotokion.incipit
-octrVE.SticBoth.text = ocVE.SticTheotokion.text
+octrVE.SticBoth.incipit = oc.m1.d7_en_US_goadedes.ocVE.SticTheotokion.incipit
+octrVE.SticBoth.text = oc.m1.d7_en_US_goadedes.ocVE.SticTheotokion.text
 
 octrMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
 octrMA.Kathisma11.greekmelody = he.a.m1_en_US_goadedes.heAU.TouLithouSfragisthentos.greekname
 octrMA.Kathisma11.melody = he.a.m1_en_US_goadedes.heAU.TouLithouSfragisthentos.name
-octrMA.Kathisma11.incipit = ocMA.Kathisma11.incipit
-octrMA.Kathisma11.text = ocMA.Kathisma11.text
+octrMA.Kathisma11.incipit = oc.m1.d7_en_US_goadedes.ocMA.Kathisma11.incipit
+octrMA.Kathisma11.text = oc.m1.d7_en_US_goadedes.ocMA.Kathisma11.text
 
 octrMA.Kathisma12.mode = miscellanea_en_US_goadedes.misc.Mode1
 octrMA.Kathisma12.melody = ""
@@ -779,8 +779,8 @@ octrMA.Kathisma12.text = oc.m1.d4_en_US_goadedes.ocMA.Kathisma32.text
 octrMA.Kathisma13.mode = miscellanea_en_US_goadedes.misc.Mode1
 octrMA.Kathisma13.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 octrMA.Kathisma13.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
-octrMA.Kathisma13.incipit = ocMA.Kathisma13.incipit
-octrMA.Kathisma13.text = ocMA.Kathisma13.text
+octrMA.Kathisma13.incipit = oc.m1.d7_en_US_goadedes.ocMA.Kathisma13.incipit
+octrMA.Kathisma13.text = oc.m1.d7_en_US_goadedes.ocMA.Kathisma13.text
 
 octrMA.Kathisma14.mode = miscellanea_en_US_goadedes.misc.Mode1
 octrMA.Kathisma14.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
@@ -791,8 +791,8 @@ octrMA.Kathisma14.text = ""
 octrMA.Kathisma1T.mode = miscellanea_en_US_goadedes.misc.Mode1
 octrMA.Kathisma1T.greekmelody = he.a.m1_en_US_goadedes.heAU.TouLithouSfragisthentos.greekname
 octrMA.Kathisma1T.melody = he.a.m1_en_US_goadedes.heAU.TouLithouSfragisthentos.name
-octrMA.Kathisma1T.incipit = ocMA.Kathisma14.incipit
-octrMA.Kathisma1T.text = ocMA.Kathisma14.text
+octrMA.Kathisma1T.incipit = oc.m1.d7_en_US_goadedes.ocMA.Kathisma14.incipit
+octrMA.Kathisma1T.text = oc.m1.d7_en_US_goadedes.ocMA.Kathisma14.text
 
 octrMA.Photogogic.mode = miscellanea_en_US_goadedes.misc.Mode1
 octrMA.Photogogic.incipit = oc.m1.d2_en_US_goadedes.octrMA.Photagogic.incipit
@@ -800,29 +800,29 @@ octrMA.Photogogic.text = oc.m1.d2_en_US_goadedes.octrMA.Photagogic.text
 
 octrMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode1
 octrMA.Lauds1.melody = ""
-octrMA.Lauds1.incipit = ocMA.Lauds1.incipit
-octrMA.Lauds1.text = ocMA.Lauds1.text
+octrMA.Lauds1.incipit = oc.m1.d7_en_US_goadedes.ocMA.Lauds1.incipit
+octrMA.Lauds1.text = oc.m1.d7_en_US_goadedes.ocMA.Lauds1.text
 
 octrMA.Lauds2.mode = miscellanea_en_US_goadedes.misc.Mode1
 octrMA.Lauds2.melody = ""
-octrMA.Lauds2.incipit = ocMA.Lauds2.incipit
-octrMA.Lauds2.text = ocMA.Lauds2.text
+octrMA.Lauds2.incipit = oc.m1.d7_en_US_goadedes.ocMA.Lauds2.incipit
+octrMA.Lauds2.text = oc.m1.d7_en_US_goadedes.ocMA.Lauds2.text
 
 octrMA.Lauds3.mode = miscellanea_en_US_goadedes.misc.Mode1
 octrMA.Lauds3.melody = ""
-octrMA.Lauds3.incipit = ocMA.Lauds3.incipit
-octrMA.Lauds3.text = ocMA.Lauds3.text
+octrMA.Lauds3.incipit = oc.m1.d7_en_US_goadedes.ocMA.Lauds3.incipit
+octrMA.Lauds3.text = oc.m1.d7_en_US_goadedes.ocMA.Lauds3.text
 
 octrMA.Lauds4.mode = miscellanea_en_US_goadedes.misc.Mode1
 octrMA.Lauds4.melody = ""
-octrMA.Lauds4.incipit = ocMA.Lauds4.incipit
-octrMA.Lauds4.text = ocMA.Lauds4.text
+octrMA.Lauds4.incipit = oc.m1.d7_en_US_goadedes.ocMA.Lauds4.incipit
+octrMA.Lauds4.text = oc.m1.d7_en_US_goadedes.ocMA.Lauds4.text
 
 octrMA.LaudsGlory.poet = poets_en_US_goadedes.po.IoannouTouDamaskinou
 octrMA.LaudsGlory.mode = miscellanea_en_US_goadedes.misc.Mode1
 octrMA.LaudsGlory.melody = ""
-octrMA.LaudsGlory.incipit = ocMA.Lauds5.incipit
-octrMA.LaudsGlory.text = ocMA.Lauds5.text
+octrMA.LaudsGlory.incipit = oc.m1.d7_en_US_goadedes.ocMA.Lauds5.incipit
+octrMA.LaudsGlory.text = oc.m1.d7_en_US_goadedes.ocMA.Lauds5.text
 
 octrMA.LaudsTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode1
 octrMA.LaudsTheotokion.greekmelody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.greekname
@@ -834,25 +834,25 @@ octrMA.Aposticha1.poet = poets_en_US_goadedes.po.Theofanous
 octrMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode1
 octrMA.Aposticha1.greekmelody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.greekname
 octrMA.Aposticha1.melody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.name
-octrMA.Aposticha1.incipit = ocMA.Aposticha1.incipit
-octrMA.Aposticha1.text = ocMA.Aposticha1.text
+octrMA.Aposticha1.incipit = oc.m1.d7_en_US_goadedes.ocMA.Aposticha1.incipit
+octrMA.Aposticha1.text = oc.m1.d7_en_US_goadedes.ocMA.Aposticha1.text
 
 octrMA.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode1
 octrMA.Aposticha2.melody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.name
-octrMA.Aposticha2.incipit = ocMA.Aposticha2.incipit
-octrMA.Aposticha2.text = ocMA.Aposticha2.text
+octrMA.Aposticha2.incipit = oc.m1.d7_en_US_goadedes.ocMA.Aposticha2.incipit
+octrMA.Aposticha2.text = oc.m1.d7_en_US_goadedes.ocMA.Aposticha2.text
 
 octrMA.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode1
 octrMA.Aposticha3.melody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.name
-octrMA.Aposticha3.incipit = ocMA.Aposticha3.incipit
-octrMA.Aposticha3.text = ocMA.Aposticha3.text
+octrMA.Aposticha3.incipit = oc.m1.d7_en_US_goadedes.ocMA.Aposticha3.incipit
+octrMA.Aposticha3.text = oc.m1.d7_en_US_goadedes.ocMA.Aposticha3.text
 
 octrMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode1
 octrMA.AposGlory.melody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.name
-octrMA.AposGlory.incipit = ocMA.Aposticha4.incipit
-octrMA.AposGlory.text = ocMA.Aposticha4.text
+octrMA.AposGlory.incipit = oc.m1.d7_en_US_goadedes.ocMA.Aposticha4.incipit
+octrMA.AposGlory.text = oc.m1.d7_en_US_goadedes.ocMA.Aposticha4.text
 
 octrMA.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode1
 octrMA.AposTheotokion.melody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.name
-octrMA.AposTheotokion.incipit = ocMA.AposTheotokion.incipit
-octrMA.AposTheotokion.text = ocMA.AposTheotokion.text
+octrMA.AposTheotokion.incipit = oc.m1.d7_en_US_goadedes.ocMA.AposTheotokion.incipit
+octrMA.AposTheotokion.text = oc.m1.d7_en_US_goadedes.ocMA.AposTheotokion.text

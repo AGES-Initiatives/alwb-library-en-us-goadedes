@@ -538,8 +538,8 @@ peMA.Lauds4.text = oc.m4.d1_en_US_goadedes.ocMA.Lauds4.text
 
 peMA.Lauds7.mode = miscellanea_en_US_goadedes.misc.Mode3
 peMA.Lauds7.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-peMA.Lauds7.incipit = peVE.LityGlory.incipit
-peMA.Lauds7.text = peVE.LityGlory.text
+peMA.Lauds7.incipit = pe.d099_en_US_goadedes.peVE.LityGlory.incipit
+peMA.Lauds7.text = pe.d099_en_US_goadedes.peVE.LityGlory.text
 
 peMA.Lauds8.mode = miscellanea_en_US_goadedes.misc.Mode6
 peMA.Lauds8.melody = miscellanea_en_US_goadedes.misc.Idiomelon
@@ -551,10 +551,10 @@ peMA.LaudsGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
 peMA.LaudsGlory.incipit = "…"
 peMA.LaudsGlory.text = ""
 
-peLI.Kontakion1.mode = peMA.Kontakion1.mode
-peLI.Kontakion1.melody = peMA.Kontakion1.melody
-peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
-peLI.Kontakion1.text = peMA.Kontakion1.text
+peLI.Kontakion1.mode = pe.d099_en_US_goadedes.peMA.Kontakion1.mode
+peLI.Kontakion1.melody = pe.d099_en_US_goadedes.peMA.Kontakion1.melody
+peLI.Kontakion1.incipit = pe.d099_en_US_goadedes.peMA.Kontakion1.incipit
+peLI.Kontakion1.text = pe.d099_en_US_goadedes.peMA.Kontakion1.text
 
 peLI.TheotokosHymn.mode = miscellanea_en_US_goadedes.misc.Mode1
 peLI.TheotokosHymnVerse.text = pe.d071_en_US_goadedes.peMA.Ode9C1MKa.text

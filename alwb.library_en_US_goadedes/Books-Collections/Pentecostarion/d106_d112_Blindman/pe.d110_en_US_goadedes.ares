@@ -16,48 +16,48 @@ peDA.dismissal = dismissals_en_US_goadedes.dis00.ascension
 
 peSV.Stichera1.mode = miscellanea_en_US_goadedes.misc.Mode6
 peSV.Stichera1.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-peSV.Stichera1.incipit = peVE.Stichera01.incipit
-peSV.Stichera1.text = peVE.Stichera01.text
+peSV.Stichera1.incipit = pe.d110_en_US_goadedes.peVE.Stichera01.incipit
+peSV.Stichera1.text = pe.d110_en_US_goadedes.peVE.Stichera01.text
 
 peSV.Stichera2.mode = miscellanea_en_US_goadedes.misc.Mode6
 peSV.Stichera2.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-peSV.Stichera2.incipit = peVE.Stichera02.incipit
-peSV.Stichera2.text = peVE.Stichera02.text
+peSV.Stichera2.incipit = pe.d110_en_US_goadedes.peVE.Stichera02.incipit
+peSV.Stichera2.text = pe.d110_en_US_goadedes.peVE.Stichera02.text
 
 peSV.Stichera3.mode = miscellanea_en_US_goadedes.misc.Mode6
 peSV.Stichera3.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-peSV.Stichera3.incipit = peVE.Stichera03.incipit
-peSV.Stichera3.text = peVE.Stichera03.text
+peSV.Stichera3.incipit = pe.d110_en_US_goadedes.peVE.Stichera03.incipit
+peSV.Stichera3.text = pe.d110_en_US_goadedes.peVE.Stichera03.text
 
 peSV.Stichera4.mode = miscellanea_en_US_goadedes.misc.Mode6
 peSV.Stichera4.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-peSV.Stichera4.incipit = peVE.Stichera04.incipit
-peSV.Stichera4.text = peVE.Stichera04.text
+peSV.Stichera4.incipit = pe.d110_en_US_goadedes.peVE.Stichera04.incipit
+peSV.Stichera4.text = pe.d110_en_US_goadedes.peVE.Stichera04.text
 
 peSV.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 peSV.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-peSV.SticGlory.incipit = peVE.Stichera05.incipit
-peSV.SticGlory.text = peVE.Stichera05.text
+peSV.SticGlory.incipit = pe.d110_en_US_goadedes.peVE.Stichera05.incipit
+peSV.SticGlory.text = pe.d110_en_US_goadedes.peVE.Stichera05.text
 
 peSV.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode1
 peSV.Aposticha1.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-peSV.Aposticha1.incipit = peVE.Lity1.incipit
-peSV.Aposticha1.text = peVE.Lity1.text
+peSV.Aposticha1.incipit = pe.d110_en_US_goadedes.peVE.Lity1.incipit
+peSV.Aposticha1.text = pe.d110_en_US_goadedes.peVE.Lity1.text
 
 peSV.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode1
 peSV.Aposticha2.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-peSV.Aposticha2.incipit = peVE.Lity2.incipit
-peSV.Aposticha2.text = peVE.Lity2.text
+peSV.Aposticha2.incipit = pe.d110_en_US_goadedes.peVE.Lity2.incipit
+peSV.Aposticha2.text = pe.d110_en_US_goadedes.peVE.Lity2.text
 
 peSV.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode1
 peSV.Aposticha3.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-peSV.Aposticha3.incipit = peVE.Lity3.incipit
-peSV.Aposticha3.text = peVE.Lity3.text
+peSV.Aposticha3.incipit = pe.d110_en_US_goadedes.peVE.Lity3.incipit
+peSV.Aposticha3.text = pe.d110_en_US_goadedes.peVE.Lity3.text
 
 peSV.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 peSV.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-peSV.AposGlory.incipit = peVE.AposGlory.incipit
-peSV.AposGlory.text = peVE.AposGlory.text
+peSV.AposGlory.incipit = pe.d110_en_US_goadedes.peVE.AposGlory.incipit
+peSV.AposGlory.text = pe.d110_en_US_goadedes.peVE.AposGlory.text
 
 peVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode6
 peVE.Stichera01.melody = miscellanea_en_US_goadedes.misc.Idiomelon
@@ -785,29 +785,29 @@ peMA.MM.Lauds123as123.text = properties_en_US_goadedes.media.key
 
 peMA.LaudsGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 peMA.LaudsGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-peMA.LaudsGlory.incipit = peVE.Aposticha1.incipit
-peMA.LaudsGlory.text = peVE.Aposticha1.text
+peMA.LaudsGlory.incipit = pe.d110_en_US_goadedes.peVE.Aposticha1.incipit
+peMA.LaudsGlory.text = pe.d110_en_US_goadedes.peVE.Aposticha1.text
 
 peLI.MM.Antiphon2.text = properties_en_US_goadedes.media.key
 
 peLI.MM.EntranceHymn.text = properties_en_US_goadedes.media.key
 peLI.MM.EntranceHymnAF.text = properties_en_US_goadedes.media.key
 
-peLI.Kontakion1.mode = peMA.Kontakion1.mode
-peLI.Kontakion1.greekmelody = peMA.Kontakion1.greekmelody
-peLI.Kontakion1.melody = peMA.Kontakion1.melody
-peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
-peLI.Kontakion1.text = peMA.Kontakion1.text
+peLI.Kontakion1.mode = pe.d110_en_US_goadedes.peMA.Kontakion1.mode
+peLI.Kontakion1.greekmelody = pe.d110_en_US_goadedes.peMA.Kontakion1.greekmelody
+peLI.Kontakion1.melody = pe.d110_en_US_goadedes.peMA.Kontakion1.melody
+peLI.Kontakion1.incipit = pe.d110_en_US_goadedes.peMA.Kontakion1.incipit
+peLI.Kontakion1.text = pe.d110_en_US_goadedes.peMA.Kontakion1.text
 
-peLI.TheotokosHymn.mode = peMA.Ode9C1H.mode
-peLI.TheotokosHymn.incipit = peMA.Ode9C1H.incipit
-peLI.TheotokosHymn.text = peMA.Ode9C1H.text
+peLI.TheotokosHymn.mode = pe.d110_en_US_goadedes.peMA.Ode9C1H.mode
+peLI.TheotokosHymn.incipit = pe.d110_en_US_goadedes.peMA.Ode9C1H.incipit
+peLI.TheotokosHymn.text = pe.d110_en_US_goadedes.peMA.Ode9C1H.text
 
 peLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
-peLI.AfterCommunion.mode = peVE.Apolytikion1.mode
-peLI.AfterCommunion.incipit = peVE.Apolytikion1.incipit
-peLI.AfterCommunion.text = peVE.Apolytikion1.text
+peLI.AfterCommunion.mode = pe.d110_en_US_goadedes.peVE.Apolytikion1.mode
+peLI.AfterCommunion.incipit = pe.d110_en_US_goadedes.peVE.Apolytikion1.incipit
+peLI.AfterCommunion.text = pe.d110_en_US_goadedes.peVE.Apolytikion1.text
 
 peLI.Megalynarion.text = "After He had risen, the Savior went * to the Mount of Olives in the flesh after forty days. * From there He ascended in glory to the heavens, * that He might send the Holy Spirit into the world."
 peLI.Megalynarion2.text = ""

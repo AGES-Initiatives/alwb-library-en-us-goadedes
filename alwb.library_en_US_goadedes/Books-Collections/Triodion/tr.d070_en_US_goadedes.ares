@@ -246,7 +246,7 @@ trMA.Encomia1Tr.text = "Lord of all and Logos, * we extol You as God * with Your
 
 trMA.Encomia1T.text = "Virgin Theotokos, * now we all call you blessed, * and we honor the divine three-day burial * of your Son, our God, with ardent faith and love."
 
-trMA.Encomia1F.text = trMA.Encomia101.text
+trMA.Encomia1F.text = tr.d070_en_US_goadedes.trMA.Encomia101.text
 
 trMA.Encomia200.title = "Second Section."
 trMA.Encomia200.mode = miscellanea_en_US_goadedes.misc.Mode5
@@ -375,7 +375,7 @@ trMA.Encomia2Tr.text = "O eternal God, * co-eternal Word, and Holy Spirit, * for
 
 trMA.Encomia2T.text = "Mother of our life, * O good Lady, pure and blameless Virgin, * put an end to scandals within the Church, * and restore her peace and unity once more."
 
-trMA.Encomia2F.text = trMA.Encomia201.text
+trMA.Encomia2F.text = tr.d070_en_US_goadedes.trMA.Encomia201.text
 
 trMA.Encomia300.title = "Third Section."
 trMA.Encomia300.mode = miscellanea_en_US_goadedes.misc.Mode3
@@ -477,7 +477,7 @@ trMA.Encomia3Tr.text = "O Trinity, my one God, * Father, Son, and Spirit, * gran
 trMA.Encomia3T.text = "We pray you, Virgin Mother * of Christ, to count us worthy * to see His resurrection."
 
 // Not in Triodion, but common
-trMA.Encomia3F.text = trMA.Encomia301.text
+trMA.Encomia3F.text = tr.d070_en_US_goadedes.trMA.Encomia301.text
 
 // Resurrectional Evlogetaria keys for media
 trMA.MM.Evlogetaria1.text = properties_en_US_goadedes.media.key

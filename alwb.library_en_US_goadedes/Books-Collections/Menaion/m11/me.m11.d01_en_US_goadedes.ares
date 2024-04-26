@@ -651,10 +651,10 @@ meMA.AposStavrotheotokion.melody = he.a.m8_en_US_goadedes.heAU.OiMartyresSouKyri
 meMA.AposStavrotheotokion.incipit = me.m01.d23_en_US_goadedes.meVE.SticStavrotheotokion.incipit
 meMA.AposStavrotheotokion.text = me.m01.d23_en_US_goadedes.meVE.SticStavrotheotokion.text
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m11.d01_en_US_goadedes.meMA.Kontakion1.mode
+meLI.Kontakion1.melody = me.m11.d01_en_US_goadedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m11.d01_en_US_goadedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m11.d01_en_US_goadedes.meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 

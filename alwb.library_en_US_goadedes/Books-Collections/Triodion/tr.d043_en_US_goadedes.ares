@@ -545,10 +545,10 @@ trMA.AdditionalIdiomelonBoth.text = oc.m6.d4_en_US_goadedes.ocMA.Kathisma21.text
 
 trLI.MM.EntranceHymn.text = properties_en_US_goadedes.media.key
 
-trLI.Kontakion1.mode = trMA.Kontakion1.mode
-trLI.Kontakion1.melody = trMA.Kontakion1.melody
-trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
-trLI.Kontakion1.text = trMA.Kontakion1.text
+trLI.Kontakion1.mode = tr.d043_en_US_goadedes.trMA.Kontakion1.mode
+trLI.Kontakion1.melody = tr.d043_en_US_goadedes.trMA.Kontakion1.melody
+trLI.Kontakion1.incipit = tr.d043_en_US_goadedes.trMA.Kontakion1.incipit
+trLI.Kontakion1.text = tr.d043_en_US_goadedes.trMA.Kontakion1.text
 
 trLI.TheotokosHymn.mode = miscellanea_en_US_goadedes.misc.Mode8
 trLI.TheotokosHymn.incipit = oc.m8.d1_en_US_goadedes.ocMA.Kathisma23.incipit
@@ -557,8 +557,8 @@ trLI.TheotokosHymn.text = oc.m8.d1_en_US_goadedes.ocMA.Kathisma23.text
 trLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
 trLI.AfterCommunion.mode = miscellanea_en_US_goadedes.misc.Mode1
-trLI.AfterCommunion.incipit = trVE.Apolytikion1.incipit
-trLI.AfterCommunion.text = trVE.Apolytikion1.text
+trLI.AfterCommunion.incipit = tr.d043_en_US_goadedes.trVE.Apolytikion1.incipit
+trLI.AfterCommunion.text = tr.d043_en_US_goadedes.trVE.Apolytikion1.text
 
 trLI.Megalynarion.text = ""
 

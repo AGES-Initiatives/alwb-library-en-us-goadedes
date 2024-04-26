@@ -663,8 +663,8 @@ octrMA.Triadic3.text = oc.m4.d2_en_US_goadedes.octrMA.Triadic3.text
 octrMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode4
 octrMA.Kathisma11.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 octrMA.Kathisma11.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
-octrMA.Kathisma11.incipit = ocMA.Kathisma12.incipit
-octrMA.Kathisma11.text = ocMA.Kathisma12.text
+octrMA.Kathisma11.incipit = oc.m4.d5_en_US_goadedes.ocMA.Kathisma12.incipit
+octrMA.Kathisma11.text = oc.m4.d5_en_US_goadedes.ocMA.Kathisma12.text
 
 octrMA.Kathisma12.mode = miscellanea_en_US_goadedes.misc.Mode4
 octrMA.Kathisma12.greekmelody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.greekname

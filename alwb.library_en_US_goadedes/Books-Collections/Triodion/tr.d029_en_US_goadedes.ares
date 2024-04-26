@@ -447,10 +447,10 @@ trMA.LaudsTheotokion.text = oc.m2.d1_en_US_goadedes.ocMA.Kathisma23.text
 
 trLI.MM.EntranceHymn.text = properties_en_US_goadedes.media.key
 
-trLI.Kontakion1.mode = trMA.Kontakion1.mode
-trLI.Kontakion1.melody = trMA.Kontakion1.melody
-trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
-trLI.Kontakion1.text = trMA.Kontakion1.text
+trLI.Kontakion1.mode = tr.d029_en_US_goadedes.trMA.Kontakion1.mode
+trLI.Kontakion1.melody = tr.d029_en_US_goadedes.trMA.Kontakion1.melody
+trLI.Kontakion1.incipit = tr.d029_en_US_goadedes.trMA.Kontakion1.incipit
+trLI.Kontakion1.text = tr.d029_en_US_goadedes.trMA.Kontakion1.text
 
 trLI.TheotokosHymn.mode = miscellanea_en_US_goadedes.misc.Mode8
 trLI.TheotokosHymn.incipit = oc.m8.d1_en_US_goadedes.ocMA.Kathisma23.incipit

@@ -38,8 +38,8 @@ meSV.Stichera3.text = ""
 meSV.SticGlory.poet = poets_en_US_goadedes.po.AndreouKritis
 meSV.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
 meSV.SticGlory.melody = ""
-meSV.SticGlory.incipit = meVE.Lity8.incipit
-meSV.SticGlory.text = meVE.Lity8.text
+meSV.SticGlory.incipit = me.m02.d02_en_US_goadedes.meVE.Lity8.incipit
+meSV.SticGlory.text = me.m02.d02_en_US_goadedes.meVE.Lity8.text
 
 meSV.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
 meSV.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
@@ -205,8 +205,8 @@ meMA.PostGospelBoth.text = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.text
 meMA.PostGospelIdiomelon.poet = poets_en_US_goadedes.po.IoannouMonachou
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.incipit = meVE.SticGlory.incipit
-meMA.PostGospelIdiomelon.text = meVE.SticGlory.text
+meMA.PostGospelIdiomelon.incipit = me.m02.d02_en_US_goadedes.meVE.SticGlory.incipit
+meMA.PostGospelIdiomelon.text = me.m02.d02_en_US_goadedes.meVE.SticGlory.text
 
 meMA.C1.acrostic.title = "The Canon."
 meMA.C1.acrostic.notice1 = ""
@@ -506,14 +506,14 @@ meLI.MM.Antiphon2.text = properties_en_US_goadedes.media.key
 meLI.MM.EntranceHymn.text = properties_en_US_goadedes.media.key
 meLI.MM.EntranceHymnSunday.text = properties_en_US_goadedes.media.key
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m02.d02_en_US_goadedes.meMA.Kontakion1.mode
+meLI.Kontakion1.melody = me.m02.d02_en_US_goadedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m02.d02_en_US_goadedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m02.d02_en_US_goadedes.meMA.Kontakion1.text
 
 meLI.TheotokosHymn.mode = miscellanea_en_US_goadedes.misc.Mode3
-meLI.TheotokosHymnVerse.incipit = meMA.Ode9C1MTh.incipit
-meLI.TheotokosHymnVerse.text = meMA.Ode9C1MTh.text
+meLI.TheotokosHymnVerse.incipit = me.m02.d02_en_US_goadedes.meMA.Ode9C1MTh.incipit
+meLI.TheotokosHymnVerse.text = me.m02.d02_en_US_goadedes.meMA.Ode9C1MTh.text
 meLI.TheotokosHymn.incipit = he.h.m3_en_US_goadedes.heHE.EnNomoSkia.incipit
 meLI.TheotokosHymn.text = he.h.m3_en_US_goadedes.heHE.EnNomoSkia.text
 

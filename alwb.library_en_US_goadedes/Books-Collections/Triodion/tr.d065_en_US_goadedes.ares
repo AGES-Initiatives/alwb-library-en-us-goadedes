@@ -33,13 +33,13 @@ trVE.Stichera03.text = tr.d064_en_US_goadedes.trVE.Aposticha3.text
 
 trVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 trVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-trVE.SticGlory.incipit = trVE.Stichera01.incipit
-trVE.SticGlory.text = trVE.Stichera01.text
+trVE.SticGlory.incipit = tr.d065_en_US_goadedes.trVE.Stichera01.incipit
+trVE.SticGlory.text = tr.d065_en_US_goadedes.trVE.Stichera01.text
 
 trVE.SticBoth.mode = miscellanea_en_US_goadedes.misc.Mode8
 trVE.SticBoth.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-trVE.SticBoth.incipit = trVE.Stichera03.incipit
-trVE.SticBoth.text = trVE.Stichera03.text
+trVE.SticBoth.incipit = tr.d065_en_US_goadedes.trVE.Stichera03.incipit
+trVE.SticBoth.text = tr.d065_en_US_goadedes.trVE.Stichera03.text
 
 trVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
 trVE.Aposticha1.melody = miscellanea_en_US_goadedes.misc.Idiomelon
@@ -58,13 +58,13 @@ trVE.Aposticha3.text = ""
 
 trVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 trVE.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-trVE.AposGlory.incipit = trVE.Aposticha1.incipit
-trVE.AposGlory.text = trVE.Aposticha1.text
+trVE.AposGlory.incipit = tr.d065_en_US_goadedes.trVE.Aposticha1.incipit
+trVE.AposGlory.text = tr.d065_en_US_goadedes.trVE.Aposticha1.text
 
 trVE.AposBoth.mode = miscellanea_en_US_goadedes.misc.Mode3
 trVE.AposBoth.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-trVE.AposBoth.incipit = trVE.Aposticha2.incipit
-trVE.AposBoth.text = trVE.Aposticha2.text
+trVE.AposBoth.incipit = tr.d065_en_US_goadedes.trVE.Aposticha2.incipit
+trVE.AposBoth.text = tr.d065_en_US_goadedes.trVE.Aposticha2.text
 
 trCO.C1.poet = poets_en_US_goadedes.po.AndreouKritis
 

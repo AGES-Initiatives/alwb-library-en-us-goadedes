@@ -456,14 +456,14 @@ peMA.LaudsGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
 peMA.LaudsGlory.incipit = "…"
 peMA.LaudsGlory.text = ""
 
-peLI.Kontakion1.mode = peMA.Kontakion1.mode
-peLI.Kontakion1.melody = peMA.Kontakion1.melody
-peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
-peLI.Kontakion1.text = peMA.Kontakion1.text
+peLI.Kontakion1.mode = pe.d078_en_US_goadedes.peMA.Kontakion1.mode
+peLI.Kontakion1.melody = pe.d078_en_US_goadedes.peMA.Kontakion1.melody
+peLI.Kontakion1.incipit = pe.d078_en_US_goadedes.peMA.Kontakion1.incipit
+peLI.Kontakion1.text = pe.d078_en_US_goadedes.peMA.Kontakion1.text
 
 peLI.TheotokosHymn.mode = miscellanea_en_US_goadedes.misc.Mode1
-peLI.TheotokosHymn.incipit = peMA.Ode9C1H.incipit
-peLI.TheotokosHymn.text = peMA.Ode9C1H.text
+peLI.TheotokosHymn.incipit = pe.d078_en_US_goadedes.peMA.Ode9C1H.incipit
+peLI.TheotokosHymn.text = pe.d078_en_US_goadedes.peMA.Ode9C1H.text
 
 peLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 

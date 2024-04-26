@@ -178,8 +178,8 @@ trCA.Ode6T.text = ""
 
 trCA.Kontakion.mode = miscellanea_en_US_goadedes.misc.Mode8
 trCA.Kontakion.melody = ""
-trCA.Kontakion.incipit = trMA.Kontakion1.incipit
-trCA.Kontakion.text = trMA.Kontakion1.text
+trCA.Kontakion.incipit = tr.d028_en_US_goadedes.trMA.Kontakion1.incipit
+trCA.Kontakion.text = tr.d028_en_US_goadedes.trMA.Kontakion1.text
 
 trCA.Ode71.ode = miscellanea_en_US_goadedes.misc.Ode7
 trCA.Ode71.mode = miscellanea_en_US_goadedes.misc.Mode8
@@ -267,13 +267,13 @@ trCA.Ode9H.text = he.h.m8_en_US_goadedes.heHE.SeTinApeirogamon.text
 
 trCA.Troparion1.mode = miscellanea_en_US_goadedes.misc.Mode2
 trCA.Troparion1.melody = ""
-trCA.Troparion1.incipit = trVE.Apolytikion1.incipit
-trCA.Troparion1.text = trVE.Apolytikion1.text
+trCA.Troparion1.incipit = tr.d028_en_US_goadedes.trVE.Apolytikion1.incipit
+trCA.Troparion1.text = tr.d028_en_US_goadedes.trVE.Apolytikion1.text
 
 trCA.Troparion2.mode = miscellanea_en_US_goadedes.misc.Mode8
 trCA.Troparion2.melody = ""
-trCA.Troparion2.incipit = trMA.Kontakion1.incipit
-trCA.Troparion2.text = trMA.Kontakion1.text
+trCA.Troparion2.incipit = tr.d028_en_US_goadedes.trMA.Kontakion1.incipit
+trCA.Troparion2.text = tr.d028_en_US_goadedes.trMA.Kontakion1.text
 
 trCA.Troparion3.mode = miscellanea_en_US_goadedes.misc.Mode8
 trCA.Troparion3.melody = ""

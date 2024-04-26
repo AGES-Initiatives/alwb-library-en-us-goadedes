@@ -648,8 +648,8 @@ octrMA.Triadic3.text = oc.m7.d2_en_US_goadedes.octrMA.Triadic3.text
 
 octrMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode7
 octrMA.Kathisma11.melody = ""
-octrMA.Kathisma11.incipit = ocMA.Kathisma11.incipit
-octrMA.Kathisma11.text = ocMA.Kathisma11.text
+octrMA.Kathisma11.incipit = oc.m7.d5_en_US_goadedes.ocMA.Kathisma11.incipit
+octrMA.Kathisma11.text = oc.m7.d5_en_US_goadedes.ocMA.Kathisma11.text
 
 octrMA.Kathisma12.mode = miscellanea_en_US_goadedes.misc.Mode7
 octrMA.Kathisma12.melody = ""

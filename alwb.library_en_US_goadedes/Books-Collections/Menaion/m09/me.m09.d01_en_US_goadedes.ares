@@ -187,8 +187,8 @@ meMA.PostGospelBoth.text = //ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.tex
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.incipit = meVE.Aposticha4.incipit
-meMA.PostGospelIdiomelon.text = meVE.Aposticha4.text
+meMA.PostGospelIdiomelon.incipit = me.m09.d01_en_US_goadedes.meVE.Aposticha4.incipit
+meMA.PostGospelIdiomelon.text = me.m09.d01_en_US_goadedes.meVE.Aposticha4.text
 
 meMA.C1.poet = poets_en_US_goadedes.po.IoannouMonachou
 meMA.C1.title = "Canon for the Indiction."
@@ -287,7 +287,7 @@ meMA.Ode1C3T.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C3T.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode1C3T.melody = he.h.m8_en_US_goadedes.heHE.AsomenToKyrioPantesLaoi.notmetered
 meMA.Ode1C3T.incipit = "We salute you…"
-meMA.Ode1C3T.text = "We salute you, O immaculate Theotokos: Rejoice, blessed Virgin! In your womb you contained uncontainable God. Pray to Him  for us who extol you, and entreat Him to deliver us from evils."
+meMA.Ode1C3T.text = "We salute you, O immaculate Theotokos: Rejoice, blessed Virgin! In your womb you contained uncontainable God. Pray to Him for us who extol you, and entreat Him to deliver us from evils."
 
 meMA.Ode3C1H.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_goadedes.misc.Mode1
@@ -960,8 +960,8 @@ meMA.Lauds4.text = ""
 
 meMA.LaudsGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.LaudsGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-meMA.LaudsGlory.incipit = meVE.Stichera07.incipit
-meMA.LaudsGlory.text = meVE.Stichera07.text
+meMA.LaudsGlory.incipit = me.m09.d01_en_US_goadedes.meVE.Stichera07.incipit
+meMA.LaudsGlory.text = me.m09.d01_en_US_goadedes.meVE.Stichera07.text
 
 meMA.LaudsBoth.poet = poets_en_US_goadedes.po.Germanou
 meMA.LaudsBoth.mode = miscellanea_en_US_goadedes.misc.Mode8
@@ -973,23 +973,23 @@ meMA.MM.Ve1123as5678.text = properties_en_US_goadedes.media.key
 
 meLI.MM.EntranceHymn.text = properties_en_US_goadedes.media.key
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m09.d01_en_US_goadedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m09.d01_en_US_goadedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m09.d01_en_US_goadedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m09.d01_en_US_goadedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m09.d01_en_US_goadedes.meMA.Kontakion1.text
 
-meLI.Kontakion2.mode = meMA.Kontakion2.mode
-meLI.Kontakion2.greekmelody= meMA.Kontakion2.greekmelody
-meLI.Kontakion2.melody = meMA.Kontakion2.melody
-meLI.Kontakion2.incipit = meMA.Kontakion2.incipit
-meLI.Kontakion2.text = meMA.Kontakion2.text
+meLI.Kontakion2.mode = me.m09.d01_en_US_goadedes.meMA.Kontakion2.mode
+meLI.Kontakion2.greekmelody = me.m09.d01_en_US_goadedes.meMA.Kontakion2.greekmelody
+meLI.Kontakion2.melody = me.m09.d01_en_US_goadedes.meMA.Kontakion2.melody
+meLI.Kontakion2.incipit = me.m09.d01_en_US_goadedes.meMA.Kontakion2.incipit
+meLI.Kontakion2.text = me.m09.d01_en_US_goadedes.meMA.Kontakion2.text
 
-meLI.Kontakion3.mode = meMA.Kontakion3.mode
-meLI.Kontakion3.greekmelody= meMA.Kontakion3.greekmelody
-meLI.Kontakion3.melody = meMA.Kontakion3.melody
-meLI.Kontakion3.incipit = meMA.Kontakion3.incipit
-meLI.Kontakion3.text = meMA.Kontakion3.text
+meLI.Kontakion3.mode = me.m09.d01_en_US_goadedes.meMA.Kontakion3.mode
+meLI.Kontakion3.greekmelody = me.m09.d01_en_US_goadedes.meMA.Kontakion3.greekmelody
+meLI.Kontakion3.melody = me.m09.d01_en_US_goadedes.meMA.Kontakion3.melody
+meLI.Kontakion3.incipit = me.m09.d01_en_US_goadedes.meMA.Kontakion3.incipit
+meLI.Kontakion3.text = me.m09.d01_en_US_goadedes.meMA.Kontakion3.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 

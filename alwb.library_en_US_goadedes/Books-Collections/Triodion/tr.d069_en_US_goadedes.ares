@@ -61,8 +61,8 @@ trLI.CommunionHymn.incipit = "…"
 trLI.CommunionHymn.text = ""
 
 trLI.AfterCommunion.mode = ""
-trLI.AfterCommunion.incipit = trLI.CommunionHymn.incipit
-trLI.AfterCommunion.text = trLI.CommunionHymn.text
+trLI.AfterCommunion.incipit = tr.d069_en_US_goadedes.trLI.CommunionHymn.incipit
+trLI.AfterCommunion.text = tr.d069_en_US_goadedes.trLI.CommunionHymn.text
 
 // Foot Washing
 
@@ -591,8 +591,8 @@ trMA.AposBoth.incipit = "…"
 trMA.AposBoth.text = ""
 
 trMA.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode4
-trMA.Apolytikion1.incipit = trMA.Antiphon15Kathisma.incipit
-trMA.Apolytikion1.text = trMA.Antiphon15Kathisma.text
+trMA.Apolytikion1.incipit = tr.d069_en_US_goadedes.trMA.Antiphon15Kathisma.incipit
+trMA.Apolytikion1.text = tr.d069_en_US_goadedes.trMA.Antiphon15Kathisma.text
 
 trHR.title = ""
 trHR.poet = poets_en_US_goadedes.po.KyrillouAlexandreias
@@ -609,8 +609,8 @@ trH1.Theotokion.text = ho.ho04_en_US_goadedes.hoH1.Theotokion.text
 
 trH1.Idiomelon1.mode = miscellanea_en_US_goadedes.misc.Mode8
 trH1.Idiomelon1.melody = ""
-trH1.Idiomelon1.incipit = trMA.Antiphon122.incipit
-trH1.Idiomelon1.text = trMA.Antiphon122.text
+trH1.Idiomelon1.incipit = tr.d069_en_US_goadedes.trMA.Antiphon122.incipit
+trH1.Idiomelon1.text = tr.d069_en_US_goadedes.trMA.Antiphon122.text
 
 trH1.Idiomelon2.mode = miscellanea_en_US_goadedes.misc.Mode8
 trH1.Idiomelon2.melody = ""
@@ -619,12 +619,12 @@ trH1.Idiomelon2.text = ""
 
 trH1.Idiomelon3.mode = miscellanea_en_US_goadedes.misc.Mode8
 trH1.Idiomelon3.melody = ""
-trH1.Idiomelon3.incipit = trMA.Antiphon071.incipit
-trH1.Idiomelon3.text = trMA.Antiphon071.text
+trH1.Idiomelon3.incipit = tr.d069_en_US_goadedes.trMA.Antiphon071.incipit
+trH1.Idiomelon3.text = tr.d069_en_US_goadedes.trMA.Antiphon071.text
 
 trH1.Kontakion.mode = miscellanea_en_US_goadedes.misc.Mode8
-trH1.Kontakion.incipit = trMA.Kontakion1.incipit
-trH1.Kontakion.text = trMA.Kontakion1.text
+trH1.Kontakion.incipit = tr.d069_en_US_goadedes.trMA.Kontakion1.incipit
+trH1.Kontakion.text = tr.d069_en_US_goadedes.trMA.Kontakion1.text
 
 trH3.title = ho.ho05_en_US_goadedes.hoH3.title
 
@@ -652,8 +652,8 @@ trH3.Idiomelon3.incipit = "…"
 trH3.Idiomelon3.text = ""
 
 trH3.Kontakion.mode = miscellanea_en_US_goadedes.misc.Mode8
-trH3.Kontakion.incipit = trMA.Kontakion1.incipit
-trH3.Kontakion.text = trMA.Kontakion1.text
+trH3.Kontakion.incipit = tr.d069_en_US_goadedes.trMA.Kontakion1.incipit
+trH3.Kontakion.text = tr.d069_en_US_goadedes.trMA.Kontakion1.text
 
 trH6.title = ho.ho06_en_US_goadedes.hoH6.title
 
@@ -667,13 +667,13 @@ trH6.Theotokion.text = ho.ho06_en_US_goadedes.hoH6.Theotokion.text
 
 trH6.Idiomelon1.mode = miscellanea_en_US_goadedes.misc.Mode8
 trH6.Idiomelon1.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-trH6.Idiomelon1.incipit = trMA.Antiphon121.incipit
-trH6.Idiomelon1.text = trMA.Antiphon121.text
+trH6.Idiomelon1.incipit = tr.d069_en_US_goadedes.trMA.Antiphon121.incipit
+trH6.Idiomelon1.text = tr.d069_en_US_goadedes.trMA.Antiphon121.text
 
 trH6.Idiomelon2.mode = miscellanea_en_US_goadedes.misc.Mode8
 trH6.Idiomelon2.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-trH6.Idiomelon2.incipit = trMA.Antiphon123.incipit
-trH6.Idiomelon2.text = trMA.Antiphon123.text
+trH6.Idiomelon2.incipit = tr.d069_en_US_goadedes.trMA.Antiphon123.incipit
+trH6.Idiomelon2.text = tr.d069_en_US_goadedes.trMA.Antiphon123.text
 
 trH6.Idiomelon3.mode = miscellanea_en_US_goadedes.misc.Mode5
 trH6.Idiomelon3.melody = miscellanea_en_US_goadedes.misc.Idiomelon
@@ -681,8 +681,8 @@ trH6.Idiomelon3.incipit = "…"
 trH6.Idiomelon3.text = ""
 
 trH6.Kontakion.mode = miscellanea_en_US_goadedes.misc.Mode8
-trH6.Kontakion.incipit = trMA.Kontakion1.incipit
-trH6.Kontakion.text = trMA.Kontakion1.text
+trH6.Kontakion.incipit = tr.d069_en_US_goadedes.trMA.Kontakion1.incipit
+trH6.Kontakion.text = tr.d069_en_US_goadedes.trMA.Kontakion1.text
 
 trH9.title = ho.ho09_en_US_goadedes.hoH9.title
 
@@ -710,6 +710,6 @@ trH9.Idiomelon3.melody = miscellanea_en_US_goadedes.misc.Idiomelon
 trH9.Idiomelon3.text = "" //use Antiphon151
 
 trH9.Kontakion.mode = miscellanea_en_US_goadedes.misc.Mode8
-trH9.Kontakion.incipit = trMA.Kontakion1.incipit
-trH9.Kontakion.text = trMA.Kontakion1.text
+trH9.Kontakion.incipit = tr.d069_en_US_goadedes.trMA.Kontakion1.incipit
+trH9.Kontakion.text = tr.d069_en_US_goadedes.trMA.Kontakion1.text
 

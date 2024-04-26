@@ -678,16 +678,16 @@ octrMA.Triadic3.incipit = oc.m5.d2_en_US_goadedes.octrMA.Triadic3.incipit
 octrMA.Triadic3.text = oc.m5.d2_en_US_goadedes.octrMA.Triadic3.text
 
 octrMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode5
-octrMA.Kathisma11.greekmelody = ocMA.Kathisma21.greekmelody
-octrMA.Kathisma11.melody = ocMA.Kathisma21.melody
-octrMA.Kathisma11.incipit = ocMA.Kathisma21.incipit
-octrMA.Kathisma11.text = ocMA.Kathisma21.text
+octrMA.Kathisma11.greekmelody = oc.m5.d4_en_US_goadedes.ocMA.Kathisma21.greekmelody
+octrMA.Kathisma11.melody = oc.m5.d4_en_US_goadedes.ocMA.Kathisma21.melody
+octrMA.Kathisma11.incipit = oc.m5.d4_en_US_goadedes.ocMA.Kathisma21.incipit
+octrMA.Kathisma11.text = oc.m5.d4_en_US_goadedes.ocMA.Kathisma21.text
 
 octrMA.Kathisma12.mode = miscellanea_en_US_goadedes.misc.Mode5
-octrMA.Kathisma12.greekmelody = ocMA.Kathisma21.greekmelody
-octrMA.Kathisma12.melody = ocMA.Kathisma21.melody
-octrMA.Kathisma12.incipit = ocMA.Kathisma22.incipit
-octrMA.Kathisma12.text = ocMA.Kathisma22.text
+octrMA.Kathisma12.greekmelody = oc.m5.d4_en_US_goadedes.ocMA.Kathisma21.greekmelody
+octrMA.Kathisma12.melody = oc.m5.d4_en_US_goadedes.ocMA.Kathisma21.melody
+octrMA.Kathisma12.incipit = oc.m5.d4_en_US_goadedes.ocMA.Kathisma22.incipit
+octrMA.Kathisma12.text = oc.m5.d4_en_US_goadedes.ocMA.Kathisma22.text
 
 octrMA.Kathisma1T.mode = miscellanea_en_US_goadedes.misc.Mode5
 octrMA.Kathisma1T.greekmelody = oc.m5.d6_en_US_goadedes.ocMA.Kathisma13.greekmelody

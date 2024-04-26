@@ -87,13 +87,13 @@ trVE.Stichera05.text = ""
 
 trVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 trVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-trVE.SticGlory.incipit = trVE.Stichera01.incipit
-trVE.SticGlory.text = trVE.Stichera01.text
+trVE.SticGlory.incipit = tr.d064_en_US_goadedes.trVE.Stichera01.incipit
+trVE.SticGlory.text = tr.d064_en_US_goadedes.trVE.Stichera01.text
 
 trVE.SticBoth.mode = miscellanea_en_US_goadedes.misc.Mode6
 trVE.SticBoth.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-trVE.SticBoth.incipit = trVE.Stichera01.incipit
-trVE.SticBoth.text = trVE.Stichera01.text
+trVE.SticBoth.incipit = tr.d064_en_US_goadedes.trVE.Stichera01.incipit
+trVE.SticBoth.text = tr.d064_en_US_goadedes.trVE.Stichera01.text
 
 trVE.Lity1.mode = miscellanea_en_US_goadedes.misc.Mode1
 trVE.Lity1.melody = miscellanea_en_US_goadedes.misc.Idiomelon
@@ -142,13 +142,13 @@ trVE.Aposticha3.text = ""
 
 trVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 trVE.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-trVE.AposGlory.incipit = trVE.Stichera01.incipit
-trVE.AposGlory.text = trVE.Stichera01.text
+trVE.AposGlory.incipit = tr.d064_en_US_goadedes.trVE.Stichera01.incipit
+trVE.AposGlory.text = tr.d064_en_US_goadedes.trVE.Stichera01.text
 
 trVE.AposBoth.mode = miscellanea_en_US_goadedes.misc.Mode6
 trVE.AposBoth.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-trVE.AposBoth.incipit = trVE.Stichera01.incipit
-trVE.AposBoth.text = trVE.Stichera01.text
+trVE.AposBoth.incipit = tr.d064_en_US_goadedes.trVE.Stichera01.incipit
+trVE.AposBoth.text = tr.d064_en_US_goadedes.trVE.Stichera01.text
 
 trVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode1
 trVE.Apolytikion1.melody = ""
@@ -197,13 +197,13 @@ trMA.PostGospelGlory.text = ""
 
 trMA.PostGospelBoth.mode = miscellanea_en_US_goadedes.misc.Mode2
 trMA.PostGospelBoth.melody = ""
-trMA.PostGospelBoth.incipit = trMA.PostGospelGlory.incipit
-trMA.PostGospelBoth.text = trMA.PostGospelGlory.text
+trMA.PostGospelBoth.incipit = tr.d064_en_US_goadedes.trMA.PostGospelGlory.incipit
+trMA.PostGospelBoth.text = tr.d064_en_US_goadedes.trMA.PostGospelGlory.text
 
 trMA.PostGospelIdiomelon.mode = miscellanea_en_US_goadedes.misc.Mode6
 trMA.PostGospelIdiomelon.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-trMA.PostGospelIdiomelon.incipit = trVE.Stichera01.incipit
-trMA.PostGospelIdiomelon.text = trVE.Stichera01.text
+trMA.PostGospelIdiomelon.incipit = tr.d064_en_US_goadedes.trVE.Stichera01.incipit
+trMA.PostGospelIdiomelon.text = tr.d064_en_US_goadedes.trVE.Stichera01.text
 
 trMA.C1.acrostic.title = ""
 trMA.C1.acrostic.notice1 = ""
@@ -447,27 +447,27 @@ trMA.Lauds4.text = ""
 
 trMA.LaudsGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 trMA.LaudsGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-trMA.LaudsGlory.incipit = trVE.Stichera05.incipit
-trMA.LaudsGlory.text = trVE.Stichera05.text
+trMA.LaudsGlory.incipit = tr.d064_en_US_goadedes.trVE.Stichera05.incipit
+trMA.LaudsGlory.text = tr.d064_en_US_goadedes.trVE.Stichera05.text
 
 trLI.MM.Antiphon2.text = properties_en_US_goadedes.media.key
 
 trLI.MM.EntranceHymn.text = properties_en_US_goadedes.media.key
 
-trLI.Kontakion1.mode = trMA.Kontakion1.mode
-trLI.Kontakion1.melody = trMA.Kontakion1.melody
-trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
-trLI.Kontakion1.text = trMA.Kontakion1.text
+trLI.Kontakion1.mode = tr.d064_en_US_goadedes.trMA.Kontakion1.mode
+trLI.Kontakion1.melody = tr.d064_en_US_goadedes.trMA.Kontakion1.melody
+trLI.Kontakion1.incipit = tr.d064_en_US_goadedes.trMA.Kontakion1.incipit
+trLI.Kontakion1.text = tr.d064_en_US_goadedes.trMA.Kontakion1.text
 
 trLI.TheotokosHymn.mode = miscellanea_en_US_goadedes.misc.Mode4
-trLI.TheotokosHymn.incipit = trMA.Ode9C1H.incipit
-trLI.TheotokosHymn.text = trMA.Ode9C1H.text
+trLI.TheotokosHymn.incipit = tr.d064_en_US_goadedes.trMA.Ode9C1H.incipit
+trLI.TheotokosHymn.text = tr.d064_en_US_goadedes.trMA.Ode9C1H.text
 
 trLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
 trLI.AfterCommunion.mode = miscellanea_en_US_goadedes.misc.Mode1
-trLI.AfterCommunion.incipit = trVE.Apolytikion1.incipit
-trLI.AfterCommunion.text = trVE.Apolytikion1.text
+trLI.AfterCommunion.incipit = tr.d064_en_US_goadedes.trVE.Apolytikion1.incipit
+trLI.AfterCommunion.text = tr.d064_en_US_goadedes.trVE.Apolytikion1.text
 
 trLI.Megalynarion.text = ""
 

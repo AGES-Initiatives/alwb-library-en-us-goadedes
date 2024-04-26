@@ -340,11 +340,11 @@ meMA.ExapStavrotheotokion.melody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisth
 meMA.ExapStavrotheotokion.incipit = "…"
 meMA.ExapStavrotheotokion.text = "All-pure one, you were present at the crucifixion of your Son. * You saw Him nailed and suspended * upon the cross, and not breathing. * Maternally you cried aloud, and shedding tears you said to Him, * “What is this awful paradox, * that You who created all things * are crucified of Your own will?”" //similar to da.d4.daMA.ExapTheotokion1
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m08.d03_en_US_goadedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m08.d03_en_US_goadedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m08.d03_en_US_goadedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m08.d03_en_US_goadedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m08.d03_en_US_goadedes.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""
 

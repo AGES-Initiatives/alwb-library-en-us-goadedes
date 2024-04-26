@@ -328,10 +328,10 @@ meMA.Ode9C1T.melody = he.h.m8_en_US_goadedes.heHE.KyriosTheotokon.notmetered
 meMA.Ode9C1T.incipit = "O Mother of God…"
 meMA.Ode9C1T.text = "O Mother of God, I have you as my divine protection and a unfailing hope, to rescue me from sin and danger."
 
-meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
-meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
-meLI.Kontakion1.text = meMA.Kontakion1ger.text
+meLI.Kontakion1.mode = me.m03.d01_en_US_goadedes.meMA.Kontakion1ger.mode
+meLI.Kontakion1.melody = me.m03.d01_en_US_goadedes.meMA.Kontakion1ger.melody
+meLI.Kontakion1.incipit = me.m03.d01_en_US_goadedes.meMA.Kontakion1ger.incipit
+meLI.Kontakion1.text = me.m03.d01_en_US_goadedes.meMA.Kontakion1ger.text
 
 meLI.Megalynarion.text = ""
 

@@ -738,10 +738,10 @@ peMA.LaudsGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
 peMA.LaudsGlory.incipit = eo.e02_en_US_goadedes.eo.Doxasticon.incipit
 peMA.LaudsGlory.text = eo.e02_en_US_goadedes.eo.Doxasticon.text
 
-peLI.Kontakion1.mode = peMA.Kontakion1.mode
-peLI.Kontakion1.melody = peMA.Kontakion1.melody
-peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
-peLI.Kontakion1.text = peMA.Kontakion1.text
+peLI.Kontakion1.mode = pe.d085_en_US_goadedes.peMA.Kontakion1.mode
+peLI.Kontakion1.melody = pe.d085_en_US_goadedes.peMA.Kontakion1.melody
+peLI.Kontakion1.incipit = pe.d085_en_US_goadedes.peMA.Kontakion1.incipit
+peLI.Kontakion1.text = pe.d085_en_US_goadedes.peMA.Kontakion1.text
 
 peLI.TheotokosHymn.mode = miscellanea_en_US_goadedes.misc.Mode1
 peLI.TheotokosHymnVerse.text = pe.d071_en_US_goadedes.peMA.Ode9C1MKa.text

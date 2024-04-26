@@ -585,13 +585,13 @@ ocMA.OdeW9C2T.text = ""
 
 ocMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode5
 ocMA.Aposticha1.melody = ""
-ocMA.Aposticha1.incipit = ocVE.Aposticha1.incipit
-ocMA.Aposticha1.text = ocVE.Aposticha1.text
+ocMA.Aposticha1.incipit = oc.m5.d5_en_US_goadedes.ocVE.Aposticha1.incipit
+ocMA.Aposticha1.text = oc.m5.d5_en_US_goadedes.ocVE.Aposticha1.text
 
 ocMA.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode5
 ocMA.Aposticha2.melody = ""
-ocMA.Aposticha2.incipit = ocVE.Aposticha2.incipit
-ocMA.Aposticha2.text = ocVE.Aposticha2.text
+ocMA.Aposticha2.incipit = oc.m5.d5_en_US_goadedes.ocVE.Aposticha2.incipit
+ocMA.Aposticha2.text = oc.m5.d5_en_US_goadedes.ocVE.Aposticha2.text
 
 ocMA.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode5
 ocMA.Aposticha3.melody = ""
@@ -655,16 +655,16 @@ octrMA.Triadic3.incipit = oc.m5.d2_en_US_goadedes.octrMA.Triadic3.incipit
 octrMA.Triadic3.text = oc.m5.d2_en_US_goadedes.octrMA.Triadic3.text
 
 octrMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode5
-octrMA.Kathisma11.greekmelody = ocMA.Kathisma11.greekmelody
-octrMA.Kathisma11.melody = ocMA.Kathisma11.melody
-octrMA.Kathisma11.incipit = ocMA.Kathisma11.incipit
-octrMA.Kathisma11.text = ocMA.Kathisma11.text
+octrMA.Kathisma11.greekmelody = oc.m5.d5_en_US_goadedes.ocMA.Kathisma11.greekmelody
+octrMA.Kathisma11.melody = oc.m5.d5_en_US_goadedes.ocMA.Kathisma11.melody
+octrMA.Kathisma11.incipit = oc.m5.d5_en_US_goadedes.ocMA.Kathisma11.incipit
+octrMA.Kathisma11.text = oc.m5.d5_en_US_goadedes.ocMA.Kathisma11.text
 
 octrMA.Kathisma12.mode = miscellanea_en_US_goadedes.misc.Mode5
-octrMA.Kathisma12.greekmelody = ocMA.Kathisma12.greekmelody
-octrMA.Kathisma12.melody = ocMA.Kathisma12.melody
-octrMA.Kathisma12.incipit = ocMA.Kathisma12.incipit
-octrMA.Kathisma12.text = ocMA.Kathisma12.text
+octrMA.Kathisma12.greekmelody = oc.m5.d5_en_US_goadedes.ocMA.Kathisma12.greekmelody
+octrMA.Kathisma12.melody = oc.m5.d5_en_US_goadedes.ocMA.Kathisma12.melody
+octrMA.Kathisma12.incipit = oc.m5.d5_en_US_goadedes.ocMA.Kathisma12.incipit
+octrMA.Kathisma12.text = oc.m5.d5_en_US_goadedes.ocMA.Kathisma12.text
 
 octrMA.Kathisma1T.mode = miscellanea_en_US_goadedes.misc.Mode5
 octrMA.Kathisma1T.greekmelody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.greekname

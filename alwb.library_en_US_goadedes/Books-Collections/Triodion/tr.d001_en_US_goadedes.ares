@@ -429,13 +429,13 @@ trMA.ExapTheotokion.text = ""
 
 trMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode1
 trMA.Lauds1.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-trMA.Lauds1.incipit = trVE.Stichera01.incipit
-trMA.Lauds1.text = trVE.Stichera01.text
+trMA.Lauds1.incipit = tr.d001_en_US_goadedes.trVE.Stichera01.incipit
+trMA.Lauds1.text = tr.d001_en_US_goadedes.trVE.Stichera01.text
 
 trMA.Lauds2.mode = miscellanea_en_US_goadedes.misc.Mode1
 trMA.Lauds2.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-trMA.Lauds2.incipit = trVE.Stichera02.incipit
-trMA.Lauds2.text = trVE.Stichera02.text
+trMA.Lauds2.incipit = tr.d001_en_US_goadedes.trVE.Stichera02.incipit
+trMA.Lauds2.text = tr.d001_en_US_goadedes.trVE.Stichera02.text
 
 trMA.Lauds3.mode = miscellanea_en_US_goadedes.misc.Mode3
 trMA.Lauds3.melody = miscellanea_en_US_goadedes.misc.Idiomelon
@@ -460,10 +460,10 @@ trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.incipit = oc.m2.d1_en_US_goadedes.ocMA.Kathisma23.incipit
 trMA.LaudsTheotokion.text = oc.m2.d1_en_US_goadedes.ocMA.Kathisma23.text
 
-trLI.Kontakion1.mode = trMA.Kontakion0.mode
-trLI.Kontakion1.melody = trMA.Kontakion0.melody
-trLI.Kontakion1.incipit = trMA.Kontakion0.incipit
-trLI.Kontakion1.text = trMA.Kontakion0.text
+trLI.Kontakion1.mode = tr.d001_en_US_goadedes.trMA.Kontakion0.mode
+trLI.Kontakion1.melody = tr.d001_en_US_goadedes.trMA.Kontakion0.melody
+trLI.Kontakion1.incipit = tr.d001_en_US_goadedes.trMA.Kontakion0.incipit
+trLI.Kontakion1.text = tr.d001_en_US_goadedes.trMA.Kontakion0.text
 
 trLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
