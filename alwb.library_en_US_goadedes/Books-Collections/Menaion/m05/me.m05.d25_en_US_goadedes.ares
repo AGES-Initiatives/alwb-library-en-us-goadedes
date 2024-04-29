@@ -189,8 +189,8 @@ meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.name
-meMA.Ode3KathismaT.incipit = meMA.Kathisma3T.incipit
-meMA.Ode3KathismaT.text = meMA.Kathisma3T.text
+meMA.Ode3KathismaT.incipit = me.m05.d25_en_US_goadedes.meMA.Kathisma3T.incipit
+meMA.Ode3KathismaT.text = me.m05.d25_en_US_goadedes.meMA.Kathisma3T.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode8
@@ -389,11 +389,11 @@ meMA.LaudsTheotokion.melody = he.o_en_US_goadedes.heOT.TheotokeSyEi.name
 meMA.LaudsTheotokion.incipit = he.o_en_US_goadedes.heOT.TheotokeSyEi.incipit
 meMA.LaudsTheotokion.text = he.o_en_US_goadedes.heOT.TheotokeSyEiProdromou.text
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m05.d25_en_US_goadedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m05.d25_en_US_goadedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m05.d25_en_US_goadedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m05.d25_en_US_goadedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m05.d25_en_US_goadedes.meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 

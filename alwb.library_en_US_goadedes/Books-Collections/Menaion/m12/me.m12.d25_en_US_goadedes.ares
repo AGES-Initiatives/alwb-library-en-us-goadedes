@@ -163,8 +163,8 @@ meMA.PostGospelGlory.text = ""
 
 meMA.PostGospelBoth.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.incipit = meMA.PostGospelGlory.incipit
-meMA.PostGospelBoth.text = meMA.PostGospelGlory.text
+meMA.PostGospelBoth.incipit = me.m12.d25_en_US_goadedes.meMA.PostGospelGlory.incipit
+meMA.PostGospelBoth.text = me.m12.d25_en_US_goadedes.meMA.PostGospelGlory.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.PostGospelIdiomelon.melody = ""
@@ -784,23 +784,23 @@ meLI.MM.Antiphon2.text = properties_en_US_goadedes.media.key
 
 meLI.MM.EntranceHymn.text = properties_en_US_goadedes.media.key
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m12.d25_en_US_goadedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m12.d25_en_US_goadedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m12.d25_en_US_goadedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m12.d25_en_US_goadedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m12.d25_en_US_goadedes.meMA.Kontakion1.text
 
 //Need to prefix Megalynarion
 meLI.TheotokosHymn.mode = miscellanea_en_US_goadedes.misc.Mode1
-meLI.TheotokosHymnVerse.incipit = meMA.Ode9C1M01.incipit
-meLI.TheotokosHymnVerse.text = meMA.Ode9C1M01.text
-meLI.TheotokosHymn.incipit = meMA.Ode9C1H.incipit
-meLI.TheotokosHymn.text = meMA.Ode9C1H.text
+meLI.TheotokosHymnVerse.incipit = me.m12.d25_en_US_goadedes.meMA.Ode9C1M01.incipit
+meLI.TheotokosHymnVerse.text = me.m12.d25_en_US_goadedes.meMA.Ode9C1M01.text
+meLI.TheotokosHymn.incipit = me.m12.d25_en_US_goadedes.meMA.Ode9C1H.incipit
+meLI.TheotokosHymn.text = me.m12.d25_en_US_goadedes.meMA.Ode9C1H.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
 meLI.AfterCommunion.mode = miscellanea_en_US_goadedes.misc.Mode4
-meLI.AfterCommunion.incipit = meVE.Apolytikion1.incipit
-meLI.AfterCommunion.text = meVE.Apolytikion1.text
+meLI.AfterCommunion.incipit = me.m12.d25_en_US_goadedes.meVE.Apolytikion1.incipit
+meLI.AfterCommunion.text = me.m12.d25_en_US_goadedes.meVE.Apolytikion1.text
 
 meLI.Megalynarion.text = "Everything that breathes, come and sing with joy: * “Glory in the highest!” to the One born in Bethlehem. * He appeared on earth, to give peace to all of mankind. * Therefore let us honor His divine Nativity."

@@ -409,11 +409,11 @@ meMA.AposStavrotheotokion.melody = he.a.m8_en_US_goadedes.heAU.OiMartyresSouKyri
 meMA.AposStavrotheotokion.incipit = oc.m8.d6_en_US_goadedes.ocVE.SticTheotokion.incipit
 meMA.AposStavrotheotokion.text = oc.m8.d6_en_US_goadedes.ocVE.SticTheotokion.text
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m10.d21_en_US_goadedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m10.d21_en_US_goadedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m10.d21_en_US_goadedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m10.d21_en_US_goadedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m10.d21_en_US_goadedes.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""
 

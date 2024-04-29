@@ -157,8 +157,8 @@ meMA.PostGospelBoth.text = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.incipit = meVE.Lity1.incipit
-meMA.PostGospelIdiomelon.text = meVE.Lity1.text
+meMA.PostGospelIdiomelon.incipit = me.m11.d30_en_US_goadedes.meVE.Lity1.incipit
+meMA.PostGospelIdiomelon.text = me.m11.d30_en_US_goadedes.meVE.Lity1.text
 
 meMA.C1.title = titles_en_US_goadedes.ti.CanonTheotokos
 meMA.C1.verse = prayers_en_US_goadedes.pr.verse_Theotokos.text
@@ -1000,8 +1000,8 @@ meMA.Lauds4.text = ""
 
 meMA.LaudsGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.incipit = meVE.LityGlory.incipit
-meMA.LaudsGlory.text = meVE.LityGlory.text
+meMA.LaudsGlory.incipit = me.m11.d30_en_US_goadedes.meVE.LityGlory.incipit
+meMA.LaudsGlory.text = me.m11.d30_en_US_goadedes.meVE.LityGlory.text
 
 meMA.LaudsBoth.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.LaudsBoth.melody = ""
@@ -1010,11 +1010,11 @@ meMA.LaudsBoth.text = ""
 
 meMA.MM.Lauds1234as5678.text = properties_en_US_goadedes.media.key
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m11.d30_en_US_goadedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m11.d30_en_US_goadedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m11.d30_en_US_goadedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m11.d30_en_US_goadedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m11.d30_en_US_goadedes.meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 

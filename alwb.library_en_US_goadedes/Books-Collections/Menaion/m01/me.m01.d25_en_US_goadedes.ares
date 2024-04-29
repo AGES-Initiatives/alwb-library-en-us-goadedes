@@ -144,8 +144,8 @@ meVE.Lity3.text = ""
 
 meVE.LityGlory.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.LityGlory.melody = ""
-meVE.LityGlory.incipit = meVE.Lity1.incipit
-meVE.LityGlory.text = meVE.Lity1.text
+meVE.LityGlory.incipit = me.m01.d25_en_US_goadedes.meVE.Lity1.incipit
+meVE.LityGlory.text = me.m01.d25_en_US_goadedes.meVE.Lity1.text
 
 meVE.LityBoth.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.LityBoth.melody = ""
@@ -746,11 +746,11 @@ meMA.LaudsTheotokion.text = oc.m1.d3_en_US_goadedes.ocVE.AposTheotokion.text
 
 meMA.MM.Lauds1234as5678.text = properties_en_US_goadedes.media.key
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m01.d25_en_US_goadedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m01.d25_en_US_goadedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m01.d25_en_US_goadedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m01.d25_en_US_goadedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m01.d25_en_US_goadedes.meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 

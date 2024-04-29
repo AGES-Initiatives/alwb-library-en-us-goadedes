@@ -170,8 +170,8 @@ meMA.PostGospelBoth.text = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.incipit = meVE.Lity1.incipit
-meMA.PostGospelIdiomelon.text = meVE.Lity1.text
+meMA.PostGospelIdiomelon.incipit = me.m08.d06_en_US_goadedes.meVE.Lity1.incipit
+meMA.PostGospelIdiomelon.text = me.m08.d06_en_US_goadedes.meVE.Lity1.text
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
@@ -645,10 +645,10 @@ meMA.LaudsGlory.text = ""
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_goadedes.media.key
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m08.d06_en_US_goadedes.meMA.Kontakion1.mode
+meLI.Kontakion1.melody = me.m08.d06_en_US_goadedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m08.d06_en_US_goadedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m08.d06_en_US_goadedes.meMA.Kontakion1.text
 
 meLI.MM.Antiphon2.text = properties_en_US_goadedes.media.key
 
@@ -658,8 +658,8 @@ meLI.MM.EntranceHymnSunday.text = properties_en_US_goadedes.media.key
 meLI.MM.EntranceHymn2Sunday.text = properties_en_US_goadedes.media.key
 
 meLI.TheotokosHymn.mode = miscellanea_en_US_goadedes.misc.Mode8
-meLI.TheotokosHymn.incipit = meMA.Ode7C23.incipit
-meLI.TheotokosHymn.text = meMA.Ode7C23.text
+meLI.TheotokosHymn.incipit = me.m08.d06_en_US_goadedes.meMA.Ode7C23.incipit
+meLI.TheotokosHymn.text = me.m08.d06_en_US_goadedes.meMA.Ode7C23.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 

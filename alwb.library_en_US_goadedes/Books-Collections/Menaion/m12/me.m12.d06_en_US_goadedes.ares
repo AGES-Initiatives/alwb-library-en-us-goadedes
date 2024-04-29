@@ -239,8 +239,8 @@ meMA.PostGospelBoth.text = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.incipit = meVE.Lity7.incipit
-meMA.PostGospelIdiomelon.text = meVE.Lity7.text
+meMA.PostGospelIdiomelon.incipit = me.m12.d06_en_US_goadedes.meVE.Lity7.incipit
+meMA.PostGospelIdiomelon.text = me.m12.d06_en_US_goadedes.meVE.Lity7.text
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
@@ -899,18 +899,18 @@ meMA.LaudsTheotokion.text = ""
 meMA.AdditionalIdiomelon1.poet = poets_en_US_goadedes.po.Sergiou
 meMA.AdditionalIdiomelon1.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.AdditionalIdiomelon1.melody = ""
-meMA.AdditionalIdiomelon1.incipit = meVE.Lity7.incipit
-meMA.AdditionalIdiomelon1.text = meVE.Lity7.text
+meMA.AdditionalIdiomelon1.incipit = me.m12.d06_en_US_goadedes.meVE.Lity7.incipit
+meMA.AdditionalIdiomelon1.text = me.m12.d06_en_US_goadedes.meVE.Lity7.text
 
 meMA.AdditionalIdiomelon2.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.AdditionalIdiomelon2.melody = ""
-meMA.AdditionalIdiomelon2.incipit = meVE.Lity8.incipit
-meMA.AdditionalIdiomelon2.text = meVE.Lity8.text
+meMA.AdditionalIdiomelon2.incipit = me.m12.d06_en_US_goadedes.meVE.Lity8.incipit
+meMA.AdditionalIdiomelon2.text = me.m12.d06_en_US_goadedes.meVE.Lity8.text
 
 meMA.AdditionalIdiomelonGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.AdditionalIdiomelonGlory.melody = ""
-meMA.AdditionalIdiomelonGlory.incipit = meVE.LityGlory.incipit
-meMA.AdditionalIdiomelonGlory.text = meVE.LityGlory.text
+meMA.AdditionalIdiomelonGlory.incipit = me.m12.d06_en_US_goadedes.meVE.LityGlory.incipit
+meMA.AdditionalIdiomelonGlory.text = me.m12.d06_en_US_goadedes.meVE.LityGlory.text
 
 meMA.AdditionalIdiomelonBoth.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.AdditionalIdiomelonBoth.melody = ""
@@ -920,11 +920,11 @@ meMA.AdditionalIdiomelonBoth.text = oc.m8.d5_en_US_goadedes.ocMA.AposTheotokion.
 meMA.FestalMagnification.incipit = "…"
 meMA.FestalMagnification.text = ""
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m12.d06_en_US_goadedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m12.d06_en_US_goadedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m12.d06_en_US_goadedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m12.d06_en_US_goadedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m12.d06_en_US_goadedes.meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 

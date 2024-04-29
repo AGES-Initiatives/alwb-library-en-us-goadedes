@@ -430,11 +430,11 @@ meMA.AposStavrotheotokion.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.nam
 meMA.AposStavrotheotokion.incipit = me.m02.d25_en_US_goadedes.meVE.SticStavrotheotokion.incipit
 meMA.AposStavrotheotokion.text = me.m02.d25_en_US_goadedes.meVE.SticStavrotheotokion.text
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m10.d07_en_US_goadedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m10.d07_en_US_goadedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m10.d07_en_US_goadedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m10.d07_en_US_goadedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m10.d07_en_US_goadedes.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""
 

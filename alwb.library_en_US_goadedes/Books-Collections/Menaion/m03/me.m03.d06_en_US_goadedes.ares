@@ -410,11 +410,11 @@ meMA.ExapTheotokion.melody = he.a.m3_en_US_goadedes.heAU.EnPnevmatiToIero.name
 meMA.ExapTheotokion.incipit = "As your sympathy is great …"
 meMA.ExapTheotokion.text = "As your sympathy is great and immense is your mercy, * all-lauded Virgin Mary, my Lady Theotokos, * look upon my humble soul, I pray you drive away from me * the turbulence of the passions and all the scandals of this life, * and by your intercessions, rescue me from the fire of hell."
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m03.d06_en_US_goadedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m03.d06_en_US_goadedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m03.d06_en_US_goadedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m03.d06_en_US_goadedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m03.d06_en_US_goadedes.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""
 

@@ -425,11 +425,11 @@ meMA.LaudsTheotokion.text = oc.m8.d5_en_US_goadedes.ocMA.AposTheotokion.text
 meMA.MM.Lauds1123as5678.text = properties_en_US_goadedes.media.key
 meMA.MM.Lauds123as123.text = properties_en_US_goadedes.media.key
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m10.d18_en_US_goadedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m10.d18_en_US_goadedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m10.d18_en_US_goadedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m10.d18_en_US_goadedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m10.d18_en_US_goadedes.meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
@@ -442,13 +442,13 @@ alt1.meVE.Lity1.text = ""
 
 alt1.meVE.Lity2.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meVE.Lity2.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-alt1.meVE.Lity2.incipit = meVE.Aposticha4.incipit
-alt1.meVE.Lity2.text = meVE.Aposticha4.text
+alt1.meVE.Lity2.incipit = me.m10.d18_en_US_goadedes.meVE.Aposticha4.incipit
+alt1.meVE.Lity2.text = me.m10.d18_en_US_goadedes.meVE.Aposticha4.text
 
 alt1.meVE.Lity3.mode = miscellanea_en_US_goadedes.misc.Mode8
 alt1.meVE.Lity3.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-alt1.meVE.Lity3.incipit = meMA.Lauds4.incipit
-alt1.meVE.Lity3.text = meMA.Lauds4.text
+alt1.meVE.Lity3.incipit = me.m10.d18_en_US_goadedes.meMA.Lauds4.incipit
+alt1.meVE.Lity3.text = me.m10.d18_en_US_goadedes.meMA.Lauds4.text
 
 alt1.meVE.LityGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 alt1.meVE.LityGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
@@ -524,8 +524,8 @@ alt1.meMA.PostGospelBoth.text = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.
 
 alt1.meMA.PostGospelIdiomelon.mode = miscellanea_en_US_goadedes.misc.Mode6
 alt1.meMA.PostGospelIdiomelon.melody = ""
-alt1.meMA.PostGospelIdiomelon.incipit = meVE.AposGlory.incipit
-alt1.meMA.PostGospelIdiomelon.text = meVE.AposGlory.text
+alt1.meMA.PostGospelIdiomelon.incipit = me.m10.d18_en_US_goadedes.meVE.AposGlory.incipit
+alt1.meMA.PostGospelIdiomelon.text = me.m10.d18_en_US_goadedes.meVE.AposGlory.text
 
 alt1.meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt1.meMA.Lauds1.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname

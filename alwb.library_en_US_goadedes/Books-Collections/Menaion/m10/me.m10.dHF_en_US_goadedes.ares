@@ -326,10 +326,10 @@ meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.incipit = "When the council of holy fathers…"
 meMA.LaudsGlory.text = "When the council of holy fathers from far and wide had convened, they defined the dogma of the one essence and nature of the Father, Son, and Holy Spirit. And they handed down the formula of this mystery of theology to the Church. Let us with faith call them blessed and extol them and say: “Oh divine battalion, artillery of theologians of the Lord’s army! You are luminaries, who shine like stars in the spiritual firmament, indestructible towers of mystical Zion, fragrant flowers of Paradise, the solid gold mouthpieces of the Logos, the pride and joy of Nicea and celebrities of Christendom. We implore you earnestly intercede for our souls.”"
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m10.dHF_en_US_goadedes.meMA.Kontakion1.mode
+meLI.Kontakion1.melody = me.m10.dHF_en_US_goadedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m10.dHF_en_US_goadedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m10.dHF_en_US_goadedes.meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 

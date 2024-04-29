@@ -36,8 +36,8 @@ meSV.Stichera3.text = ""
 
 meSV.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode1
 meSV.SticGlory.melody = ""
-meSV.SticGlory.incipit = meVE.Lity3.incipit
-meSV.SticGlory.text = meVE.Lity3.text
+meSV.SticGlory.incipit = me.m04.d23_en_US_goadedes.meVE.Lity3.incipit
+meSV.SticGlory.text = me.m04.d23_en_US_goadedes.meVE.Lity3.text
 
 meSV.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
 meSV.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
@@ -57,8 +57,8 @@ meSV.Aposticha3.text = ""
 meSV.AposGlory.poet = poets_en_US_goadedes.po.Anatoliou
 meSV.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
 meSV.AposGlory.melody = ""
-meSV.AposGlory.incipit = meVE.Lity5.incipit
-meSV.AposGlory.text = meVE.Lity5.text
+meSV.AposGlory.incipit = me.m04.d23_en_US_goadedes.meVE.Lity5.incipit
+meSV.AposGlory.text = me.m04.d23_en_US_goadedes.meVE.Lity5.text
 
 meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera01.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
@@ -752,11 +752,11 @@ meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.incipit = "…"
 meMA.LaudsGlory.text = ""
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m04.d23_en_US_goadedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m04.d23_en_US_goadedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m04.d23_en_US_goadedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m04.d23_en_US_goadedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m04.d23_en_US_goadedes.meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 

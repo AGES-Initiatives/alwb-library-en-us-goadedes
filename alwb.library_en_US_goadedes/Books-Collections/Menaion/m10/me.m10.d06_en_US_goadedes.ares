@@ -385,8 +385,8 @@ meMA.Lauds3.text = ""
 
 meMA.LaudsGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.incipit = meVE.AposGlory.incipit
-meMA.LaudsGlory.text = meVE.AposGlory.text
+meMA.LaudsGlory.incipit = me.m10.d06_en_US_goadedes.meVE.AposGlory.incipit
+meMA.LaudsGlory.text = me.m10.d06_en_US_goadedes.meVE.AposGlory.text
 
 meMA.LaudsTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.LaudsTheotokion.melody = he.o_en_US_goadedes.heOT.TheotokeSyEi.name
@@ -395,10 +395,10 @@ meMA.LaudsTheotokion.text = he.o_en_US_goadedes.heOT.TheotokeSyEiApostolou.text
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_goadedes.media.key
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m10.d06_en_US_goadedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m10.d06_en_US_goadedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m10.d06_en_US_goadedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m10.d06_en_US_goadedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m10.d06_en_US_goadedes.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = "O Thomas, you handled the side of Him, * who poured out the streams of life immortal into the world. * From it you received divine rivers of His doctrines, * with which you irrigate souls, O Apostle of Christ."

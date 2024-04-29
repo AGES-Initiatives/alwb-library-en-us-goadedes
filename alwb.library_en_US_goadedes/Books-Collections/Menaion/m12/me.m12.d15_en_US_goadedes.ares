@@ -624,10 +624,10 @@ meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion7.incipit
 meMA.LaudsTheotokion.text = ho.ho23_en_US_goadedes.hoCA.Troparion7.text
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m12.d15_en_US_goadedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m12.d15_en_US_goadedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m12.d15_en_US_goadedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m12.d15_en_US_goadedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m12.d15_en_US_goadedes.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = "By your sacred teachings, O Saint of God, * you led those in bondage to the freedom, which is in Christ. * You endured your contest as if you had no body, * O heir of the free Zion, St. Eleutherios."

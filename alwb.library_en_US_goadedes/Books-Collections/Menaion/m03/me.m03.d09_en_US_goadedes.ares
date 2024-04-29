@@ -49,8 +49,8 @@ alt1.meVE.Stichera04.text = ""
 meVE.SticGlory.poet = poets_en_US_goadedes.po.IoannouMonachou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-meVE.SticGlory.incipit = meVE.Stichera01.incipit
-meVE.SticGlory.text = meVE.Stichera01.text
+meVE.SticGlory.incipit = me.m03.d09_en_US_goadedes.meVE.Stichera01.incipit
+meVE.SticGlory.text = me.m03.d09_en_US_goadedes.meVE.Stichera01.text
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.SticTheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
@@ -60,18 +60,18 @@ meVE.SticTheotokion.text = ""
 
 meVE.Lity1.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Lity1.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-meVE.Lity1.incipit = meMA.Lauds4.incipit
-meVE.Lity1.text = meMA.Lauds4.text
+meVE.Lity1.incipit = me.m03.d09_en_US_goadedes.meMA.Lauds4.incipit
+meVE.Lity1.text = me.m03.d09_en_US_goadedes.meMA.Lauds4.text
 
 meVE.Lity2.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Lity2.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-meVE.Lity2.incipit = meMA.Lauds5.incipit
-meVE.Lity2.text = meMA.Lauds5.text
+meVE.Lity2.incipit = me.m03.d09_en_US_goadedes.meMA.Lauds5.incipit
+meVE.Lity2.text = me.m03.d09_en_US_goadedes.meMA.Lauds5.text
 
 meVE.Lity3.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Lity3.melody = miscellanea_en_US_goadedes.misc.Idiomelon
-meVE.Lity3.incipit = meMA.Lauds6.incipit
-meVE.Lity3.text = meMA.Lauds6.text
+meVE.Lity3.incipit = me.m03.d09_en_US_goadedes.meMA.Lauds6.incipit
+meVE.Lity3.text = me.m03.d09_en_US_goadedes.meMA.Lauds6.text
 
 alt1.meVE.LityGlory.poet = ""
 alt1.meVE.LityGlory.mode = miscellanea_en_US_goadedes.misc.Mode5
@@ -87,18 +87,18 @@ alt1.meVE.LityBoth.text = oc.m5.d3_en_US_goadedes.ocVE.AposTheotokion.text
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.Aposticha1.greekmelody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.greekname
 meVE.Aposticha1.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name
-meVE.Aposticha1.incipit = meMA.Lauds1.incipit
-meVE.Aposticha1.text = meMA.Lauds1.text
+meVE.Aposticha1.incipit = me.m03.d09_en_US_goadedes.meMA.Lauds1.incipit
+meVE.Aposticha1.text = me.m03.d09_en_US_goadedes.meMA.Lauds1.text
 
 meVE.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.Aposticha2.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name
-meVE.Aposticha2.incipit = meMA.Lauds2.incipit
-meVE.Aposticha2.text = meMA.Lauds2.text
+meVE.Aposticha2.incipit = me.m03.d09_en_US_goadedes.meMA.Lauds2.incipit
+meVE.Aposticha2.text = me.m03.d09_en_US_goadedes.meMA.Lauds2.text
 
 meVE.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.Aposticha3.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name
-meVE.Aposticha3.incipit = meMA.Lauds3.incipit
-meVE.Aposticha3.text = meMA.Lauds3.text
+meVE.Aposticha3.incipit = me.m03.d09_en_US_goadedes.meMA.Lauds3.incipit
+meVE.Aposticha3.text = me.m03.d09_en_US_goadedes.meMA.Lauds3.text
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.AposGlory.melody = miscellanea_en_US_goadedes.misc.Idiomelon
@@ -570,11 +570,11 @@ mePL.Theotokion.melody = ""
 mePL.Theotokion.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion7.incipit
 mePL.Theotokion.text = ho.ho23_en_US_goadedes.hoCA.Troparion7.text
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m03.d09_en_US_goadedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m03.d09_en_US_goadedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m03.d09_en_US_goadedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m03.d09_en_US_goadedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m03.d09_en_US_goadedes.meMA.Kontakion1.text
 
 meLI.TheotokosHymn.mode = ""
 meLI.TheotokosHymn.incipit = "…"

@@ -550,10 +550,10 @@ meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.incipit = "…"
 meMA.LaudsGlory.text = ""
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m12.dFF_en_US_goadedes.meMA.Kontakion1.mode
+meLI.Kontakion1.melody = me.m12.dFF_en_US_goadedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m12.dFF_en_US_goadedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m12.dFF_en_US_goadedes.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""
 

@@ -420,11 +420,11 @@ meMA.AposGlory.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
 meMA.AposGlory.incipit = "…"
 meMA.AposGlory.text = ""
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m09.d17_en_US_goadedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m09.d17_en_US_goadedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m09.d17_en_US_goadedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m09.d17_en_US_goadedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m09.d17_en_US_goadedes.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""
 
@@ -517,8 +517,8 @@ alt1.meVE.SticGlory.text = ""
 
 alt1.meVE.SticBoth.mode = miscellanea_en_US_goadedes.misc.Mode6
 alt1.meVE.SticBoth.melody = ""
-alt1.meVE.SticBoth.incipit = meVE.SticGlory.incipit
-alt1.meVE.SticBoth.text = meVE.SticGlory.text
+alt1.meVE.SticBoth.incipit = me.m09.d17_en_US_goadedes.meVE.SticGlory.incipit
+alt1.meVE.SticBoth.text = me.m09.d17_en_US_goadedes.meVE.SticGlory.text
 
 alt1.meVE.Lity1.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt1.meVE.Lity1.melody = ""
