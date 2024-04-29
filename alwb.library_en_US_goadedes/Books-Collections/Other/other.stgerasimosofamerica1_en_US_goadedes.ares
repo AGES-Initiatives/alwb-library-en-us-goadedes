@@ -282,28 +282,28 @@ hoCA.Meg01.incipit = he.h.m6_en_US_goadedes.heHE.TinTimioteran.incipit
 hoCA.Meg01.text = he.h.m6_en_US_goadedes.heHE.TinTimioteran.text
 
 hoCA.Meg02.melody = he.h.m6_en_US_goadedes.heHE.TinTimioteran.name
-hoCA.Meg02.incipit = "…"
-hoCA.Meg02.text = ""
+hoCA.Meg02.incipit = "Now we all salute you…"
+hoCA.Meg02.text = "Now we all salute you and sing, “Rejoice!” * Hierarchs, confessors, and professors admire you. * America has you, her God-appointed guardian * and spiritual father, blessed Gerasimos."
 
 hoCA.Meg03.melody = he.h.m6_en_US_goadedes.heHE.TinTimioteran.name
-hoCA.Meg03.incipit = "…"
-hoCA.Meg03.text = ""
+hoCA.Meg03.incipit = "Father, we extol you…"
+hoCA.Meg03.text = "Father, we extol you who came from Greece. * You instructed students who would go on to serve as priests. * You were both a scholar and God-inspired bishop, * with gifts of grace abounding, blessed Gerasimos."
 
 hoCA.Meg04.melody = he.h.m6_en_US_goadedes.heHE.TinTimioteran.name
-hoCA.Meg04.incipit = "…"
-hoCA.Meg04.text = ""
+hoCA.Meg04.incipit = "Even in retirement…"
+hoCA.Meg04.text = "Even in retirement, when you lived * at the School in Brookline, many students were drawn to Christ, * guided on the path to salvation by your counsels. * We therefore magnify you our Saint Gerasimos."
 
 hoCA.Meg05.melody = he.h.m6_en_US_goadedes.heHE.TinTimioteran.name
-hoCA.Meg05.incipit = "…"
-hoCA.Meg05.text = ""
+hoCA.Meg05.incipit = "When you were in Pittsburgh…"
+hoCA.Meg05.text = "When you were in Pittsburgh and led the flock * of Christ in that district with divine sympathy and love, * you taught all to hold to the Christian faith and ethos. * We honor you, O holy bishop Gerasimos."
 
 hoCA.Meg06.melody = he.h.m6_en_US_goadedes.heHE.TinTimioteran.name
-hoCA.Meg06.incipit = "…"
-hoCA.Meg06.text = ""
+hoCA.Meg06.incipit = "On the Holy Hill…"
+hoCA.Meg06.text = "On the Holy Hill, by the grace of Christ, * you were a professor of theology, and you led * your spiritual children to holiness, O father * Gerasimos. And now all the faithful honor you."
 
 hoCA.Meg07.melody = he.h.m6_en_US_goadedes.heHE.TinTimioteran.name
-hoCA.Meg07.incipit = "…"
-hoCA.Meg07.text = ""
+hoCA.Meg07.incipit = "Mightily protect us…"
+hoCA.Meg07.text = "Mightily protect us who honor you, * who were known as Bishop of Avydu, O man of God. * Especially guard the United States, O father, * where all the faithful honor you, St. Gerasimos."
 
 hoCA.Meg0F.melody = he.h.m6_en_US_goadedes.heHE.TinTimioteran.name
 hoCA.Meg0F.incipit = ho.ho23_en_US_goadedes.hoCA.Meg0F.incipit
@@ -312,8 +312,8 @@ hoCA.Meg0F.text = ho.ho23_en_US_goadedes.hoCA.Meg0F.text
 hoCA.Troparion1.mode = miscellanea_en_US_goadedes.misc.Mode2
 hoCA.Troparion1.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
 hoCA.Troparion1.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
-hoCA.Troparion1.incipit = "…"
-hoCA.Troparion1.text = ""
+hoCA.Troparion1.incipit = "Hear us who in earnest…"
+hoCA.Troparion1.text = "Hear us who in earnest pray to you. * Send to us the grace of the Spirit that richly flows from you. * Paragon of gentleness and of humility, * precious jewel of America, * both Pittsburgh and Brookline * boast for having hosted you, O St. Gerasimos, * for you were the faithful exemplar * of the love of Christ for His people. * Therefore we all prayerfully now honor you. "
 
 hoCA.Troparion2.mode = miscellanea_en_US_goadedes.misc.Mode2
 hoCA.Troparion2.melody = ""
@@ -325,6 +325,6 @@ hoCA.Troparion3.melody = ""
 hoCA.Troparion3.incipit = ho.ho23_en_US_goadedes.hoCA.Troparion7.incipit
 hoCA.Troparion3.text = ho.ho23_en_US_goadedes.hoCA.Troparion7.text
 
-hoCA.couplet1.title = ""
-hoCA.couplet1.verse1 = ""
-hoCA.couplet1.verse2 = ""
+hoCA.couplet1.title = "Couplet"
+hoCA.couplet1.verse1 = "Gracious Gerasimos, remember me to the Savior,"
+hoCA.couplet1.verse2 = "imploring Him to overlook this Seraphim's misbehavior."
