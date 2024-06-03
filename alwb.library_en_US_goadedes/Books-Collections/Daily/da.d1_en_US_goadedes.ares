@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = da.d1_en_US_goadedes
 
-daDay.text = ""
+daDay.text = "Sunday."
+daOnDay.text = "on Sunday,"
 daCommemoration.text = ""
 
 daVE.OnTheEveningBefore.text = template.titles_en_US_goadedes.d.onSaturdayEvening

@@ -12,6 +12,14 @@ hoD05.GeneralApolytikion1.name = ""
 
 hoD06.GeneralApolytikion1.name = ""
 
+hoD08.Apolytikion2.title = "For Virgin Martyr Kalliope."
+hoD08.Apolytikion2.poet = poets_en_US_goadedes.po.GerasimouMonachouMikragiannanitou
+hoD08.Apolytikion2.mode = miscellanea_en_US_goadedes.misc.Mode1
+hoD08.Apolytikion2.greekmelody = he.a.m1_en_US_goadedes.heAU.TisErimouPolitis.greekname
+hoD08.Apolytikion2.melody = he.a.m1_en_US_goadedes.heAU.TisErimouPolitis.name
+hoD08.Apolytikion2.incipit = "O beautiful maiden Kalliopi…"
+hoD08.Apolytikion2.text = "O beautiful maiden Kalliopi, extolled by all, * you loved the beauty of the Savior wholeheartedly. * For Him you suffered martyrdom, O Saint, * and were granted divine glory from on high. * Now we honor and celebrate and observe * your sacred memory and sing: * Glory to Him who gave His might to you! * Glory to Him who placed a crown on you! * Glory to Him who operates through you, providing cures to all!"
+
 hoD11.Apolytikion3.title = ""
 hoD11.Apolytikion3.poet = poets_en_US_goadedes.po.GerasimouMonachouMikragiannanitou
 hoD11.Apolytikion3.mode = miscellanea_en_US_goadedes.misc.Mode4
