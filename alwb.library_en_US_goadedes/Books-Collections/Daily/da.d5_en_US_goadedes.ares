@@ -1,9 +1,11 @@
 A_Resource_Whose_Name = da.d5_en_US_goadedes
 
 daDay.text = "Thursday."
+daForDay.text = ""
 daOnDay.text = "on Thursday,"
 daCommemoration.text = ""
 
+daVE.OnTheDayBefore.text = ""
 daVE.OnTheEveningBefore.text = template.titles_en_US_goadedes.d.onWednesdayEvening
 
 daVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode3
