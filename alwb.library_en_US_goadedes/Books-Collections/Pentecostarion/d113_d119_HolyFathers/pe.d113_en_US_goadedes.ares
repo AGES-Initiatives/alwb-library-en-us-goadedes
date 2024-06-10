@@ -383,8 +383,9 @@ peMA.Exaposteilarion2.melody = he.a.m2_en_US_goadedes.heAU.GynaikesAkoutisthite.
 peMA.Exaposteilarion2.incipit = me.m07.dHF_en_US_goadedes.meMA.Exaposteilarion1.incipit
 peMA.Exaposteilarion2.text = me.m07.dHF_en_US_goadedes.meMA.Exaposteilarion1.text
 
-peMA.Exaposteilarion3.mode = miscellanea_en_US_goadedes.misc.Mode2
-peMA.Exaposteilarion3.melody = miscellanea_en_US_goadedes.misc.Automelon
+peMA.Exaposteilarion3.mode = pe.d110_en_US_goadedes.peMA.Exaposteilarion1.mode
+peMA.Exaposteilarion3.greekmelody = pe.d110_en_US_goadedes.peMA.Exaposteilarion1.greekmelody
+peMA.Exaposteilarion3.melody = pe.d110_en_US_goadedes.peMA.Exaposteilarion1.melody
 peMA.Exaposteilarion3.incipit = pe.d110_en_US_goadedes.peMA.Exaposteilarion1.incipit
 peMA.Exaposteilarion3.text = pe.d110_en_US_goadedes.peMA.Exaposteilarion1.text
 
