@@ -485,9 +485,11 @@ peMA.Stichera4.mode = miscellanea_en_US_goadedes.misc.Mode5
 peMA.Stichera4.incipit = "…"
 peMA.Stichera4.text = ""
 
+peMA.PaschaDoxastikon.note = "Sing, “It is the day of the Resurrection…” through, “And thus let us cry aloud.” Then the left choir sings, “Christ is risen…” in the usual melody, then the right choir repeats it, and finally the left choir sings it a third time."
+
 peMA.SticheraGlory.mode = miscellanea_en_US_goadedes.misc.Mode5
-peMA.SticheraGlory.incipit = "…"
-peMA.SticheraGlory.text = ""
+peMA.SticheraGlory.incipit = "It is the day of the Resurrection…"
+peMA.SticheraGlory.text = "It is the day of the Resurrection. Let us shine brightly for the festival, and also embrace one another. Brethren, let us say even to those who hate us, “Let us forgive everything for the Resurrection.” And thus let us cry aloud, “Christ is risen from the dead, by death trampling down upon death, and to those in the tombs He has granted life.”"
 
 peMA.Homily.title = ""
 peMA.Homily.text = ""
