@@ -238,10 +238,11 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = "…"
 meMA.PostGospelIdiomelon.text = ""
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
+meMA.C1.acrostic.title = "The Canon, by St. Cosmas."
+meMA.C1.acrostic.notice1 = "The Acrostic is:"
+meMA.C1.acrostic.text = "Baptism, washing away sin of humans."
 meMA.C1.poet = poets_en_US_goadedes.po.Kosma
+meMA.C1.translator = "The Canon with the acrostic was translated by Fr. Seraphim Dedes."
 meMA.C1.title = titles_en_US_goadedes.ti.Canon1Feast
 meMA.C1.verse = prayers_en_US_goadedes.pr.verse_God.text
 
@@ -253,6 +254,7 @@ meMA.C2.acrostic.line2.text = "With the pure Spirit’s divine lightning,"
 meMA.C2.acrostic.line3.text = "Strikes, burns, buries sin in water. He gives us grace"
 meMA.C2.acrostic.line4.text = "To translate and sing ethereal hymns."
 meMA.C2.poet = poets_en_US_goadedes.po.IoannouTouDamaskinou
+meMA.C2.translator = "The Canon with the acrostic was translated by Fr. Seraphim Dedes."
 meMA.C2.title = titles_en_US_goadedes.ti.IambicCanon
 meMA.C2.verse = prayers_en_US_goadedes.pr.verse_God.text
 
@@ -267,20 +269,20 @@ meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Ode1C11.greekmelody = he.h.m2_en_US_goadedes.heHE.VythouAnekalypse.greekname
 meMA.Ode1C11.melody = he.h.m2_en_US_goadedes.heHE.VythouAnekalypse.name
-meMA.Ode1C11.incipit = "…"
-meMA.Ode1C11.text = ""
+meMA.Ode1C11.incipit = "As Savior and Lord…"
+meMA.Ode1C11.text = "As Savior and Lord who reigns forever, in the River Jordan Christ remolded fallen Adam who was damaged, and He shattered and crushed the heads of the dragons hiding there; for He is glorified."
 
 meMA.Ode1C12.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Ode1C12.melody = he.h.m2_en_US_goadedes.heHE.VythouAnekalypse.name
-meMA.Ode1C12.incipit = "…"
-meMA.Ode1C12.text = ""
+meMA.Ode1C12.incipit = "Putting on a material body…"
+meMA.Ode1C12.text = "Putting on a material body, the Lord was incarnate of the Virgin, in the fire immaterial of His Godhead; and He is clothed in the Jordan’s water now, for He is glorified."
 
 meMA.Ode1C13.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Ode1C13.melody = he.h.m2_en_US_goadedes.heHE.VythouAnekalypse.name
-meMA.Ode1C13.incipit = "…"
-meMA.Ode1C13.text = ""
+meMA.Ode1C13.incipit = "The Lord who from their filth…"
+meMA.Ode1C13.text = "The Lord who from their filth washes people, for whom He is washed now in the Jordan, and like whom He willed to be, staying what He was, and who were in the darkness, illumines them; for He is glorified."
 
 meMA.Ode1C2H.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C2H.mode = miscellanea_en_US_goadedes.misc.Mode2
@@ -358,14 +360,14 @@ meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Ode3C11.greekmelody = he.h.m2_en_US_goadedes.heHE.IschynODidous.greekname
 meMA.Ode3C11.melody = he.h.m2_en_US_goadedes.heHE.IschynODidous.name
-meMA.Ode3C11.incipit = "…"
-meMA.Ode3C11.text = ""
+meMA.Ode3C11.incipit = "Sing joyfully now…"
+meMA.Ode3C11.text = "Sing joyfully now, O Church of Christ, for although you were once lamentably desolate and barren. Through water and the Spirit now are many offspring born to you, and faithfully they cry aloud and say that there is no one holy like our God, and no one is righteous except for You, O Lord."
 
 meMA.Ode3C12.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C12.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Ode3C12.melody = he.h.m2_en_US_goadedes.heHE.IschynODidous.name
-meMA.Ode3C12.incipit = "…"
-meMA.Ode3C12.text = ""
+meMA.Ode3C12.incipit = "Make straight His paths…"
+meMA.Ode3C12.text = "“Make straight His paths.” So said that great voice, the Forerunner John, who cried in the wilderness and preached to all those who went out to him. “Prepare the ways of Christ our God, and faithfully cry out to Him and say that there is no one holy like our God, and no one is righteous except for You, O Lord.”"
 
 meMA.Ode3C2H.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C2H.mode = miscellanea_en_US_goadedes.misc.Mode2
@@ -434,8 +436,8 @@ meMA.Ode3C225b.text = "risoner in the regions of the belly of the tyrant."
 
 meMA.Hypakoe.mode = miscellanea_en_US_goadedes.misc.Mode5
 meMA.Hypakoe.melody = ""
-meMA.Hypakoe.incipit = "…"
-meMA.Hypakoe.text = ""
+meMA.Hypakoe.incipit = "When, by Your Epiphany…"
+meMA.Hypakoe.text = "When, by Your Epiphany, You illumined the universe, then bitter unbelief fled like the Red Sea of old. The Jordan River turned back again, and instead of flowing down it has raised us up to heaven. Now we pray You, Christ God, preserve us in the height of Your commandments, by the intercessions of the Theotokos, and have mercy on us."
 
 meMA.Ode4C1H.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_goadedes.misc.Mode2
@@ -448,20 +450,20 @@ meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Ode4C11.greekmelody = he.h.m2_en_US_goadedes.heHE.AkikoeKyrieFonisSou.greekname
 meMA.Ode4C11.melody = he.h.m2_en_US_goadedes.heHE.AkikoeKyrieFonisSou.name
-meMA.Ode4C11.incipit = "…"
-meMA.Ode4C11.text = ""
+meMA.Ode4C11.incipit = "Aloud cried the preacher…"
+meMA.Ode4C11.text = "Aloud cried the preacher, “Who has ever seen the washing of the sun, by nature brilliant, that I could wash You, the radiance of the glory of the eternal Father and His express image, and, being grass, touch the fire of Your divinity, for You are Christ, the wisdom and the power of God!”"
 
 meMA.Ode4C12.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Ode4C12.melody = he.h.m2_en_US_goadedes.heHE.AkikoeKyrieFonisSou.name
-meMA.Ode4C12.incipit = "…"
-meMA.Ode4C12.text = ""
+meMA.Ode4C12.incipit = "Surprised was the prophet…"
+meMA.Ode4C12.text = "“Surprised was the prophet Moses, hearing You call to him out of the bush, O Master; and out of fear he turned his face away and hid it, demonstrating thus his awe of God. So how am I look You in the face, or lay my hand upon Your head? For You are Christ, the wisdom and the power of God!”"
 
 meMA.Ode4C13.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Ode4C13.melody = he.h.m2_en_US_goadedes.heHE.AkikoeKyrieFonisSou.name
-meMA.Ode4C13.incipit = "…"
-meMA.Ode4C13.text = ""
+meMA.Ode4C13.incipit = "Honored to have a thinking soul…"
+meMA.Ode4C13.text = "“Honored to have a thinking soul and reason, I fear lest I be shamed by inanimate creation. For if I baptize You, I have as my accusers: Mount Sinai that wrapped itself in smoke; the Red Sea that fled and divided; and this Jordan River that turned back. For You are Christ, the wisdom and the power of God!”"
 
 meMA.Ode4C2H.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C2H.mode = miscellanea_en_US_goadedes.misc.Mode2
@@ -560,14 +562,14 @@ meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Ode5C11.greekmelody = he.h.m2_en_US_goadedes.heHE.IisousOZoisArchigos.greekname
 meMA.Ode5C11.melody = he.h.m2_en_US_goadedes.heHE.IisousOZoisArchigos.name
-meMA.Ode5C11.incipit = "…"
-meMA.Ode5C11.text = ""
+meMA.Ode5C11.incipit = "Now when many multitudes…"
+meMA.Ode5C11.text = "Now when many multitudes had come to be baptized in the river Jordan by John, he stood among them, and cried out and said to them, “You disobedient  brood of vipers! Who warned you to flee from the wrath to come? You ought to produce the fruits that are worthy of Christ, for He is here and is granting peace.”"
 
 meMA.Ode5C12.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C12.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Ode5C12.melody = he.h.m2_en_US_goadedes.heHE.IisousOZoisArchigos.name
-meMA.Ode5C12.incipit = "…"
-meMA.Ode5C12.text = ""
+meMA.Ode5C12.incipit = "God the Judge and Creator…"
+meMA.Ode5C12.text = "God the Judge and Creator of all, standing now as one of you among you, examines hearts and knows all. He holds judgment in His hand like a winnowing fork; with infinite wisdom He clears the threshing floor of the world. He burns what is unfruitful, but to those who bring forth good fruit He grants everlasting life."
 
 meMA.Ode5C2H.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C2H.mode = miscellanea_en_US_goadedes.misc.Mode2
@@ -645,14 +647,14 @@ meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Ode6C11.greekmelody = he.h.m2_en_US_goadedes.heHE.IFoniTouLogou.greekname
 meMA.Ode6C11.melody = he.h.m2_en_US_goadedes.heHE.IFoniTouLogou.name
-meMA.Ode6C11.incipit = "…"
-meMA.Ode6C11.text = ""
+meMA.Ode6C11.incipit = "Without change begotten…"
+meMA.Ode6C11.text = "“Without change begotten of God the Father, Christ became incarnate from the Virgin, without any filth. No one is able to untie His sandal, and to grasp how the Logos is joined to us.” So teaches the Forerunner, freeing us on earth from all fallacy."
 
 meMA.Ode6C12.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Ode6C12.melody = he.h.m2_en_US_goadedes.heHE.IFoniTouLogou.name
-meMA.Ode6C12.incipit = "…"
-meMA.Ode6C12.text = ""
+meMA.Ode6C12.incipit = "All the disobedient…"
+meMA.Ode6C12.text = "All the disobedient, who refuse to believe that Christ is God, He will baptize in the final fire. But in the Holy Spirit, through grace and water, He renews all those who believe and acknowledge His divinity, freeing them from sin and their trespasses."
 
 meMA.Ode6C2H.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C2H.mode = miscellanea_en_US_goadedes.misc.Mode2
@@ -725,7 +727,7 @@ meMA.Kontakion1.melody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.melody
 meMA.Kontakion1.incipit = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.incipit
 meMA.Kontakion1.text = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.text
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "On Galilee of the Gentiles, on the country of Zebulun and the land of Naphtali, as the prophet said, a great light shone, namely Christ. Bright dawn appeared to those who were in darkness, rising from Bethlehem. Or rather, from Mary, the Lord, the Sun of Righteousness, rises and shines His rays on the entire earth. So let all the naked descendants of Adam come and let us clothe ourselves in Him, that we may be warmed. “For You are cover for the naked, and light for those in darkness. You came; You appeared, O unapproachable Light.”"
 
 meMA.Ode7C1H.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_goadedes.misc.Mode2
@@ -738,20 +740,20 @@ meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Ode7C11.greekmelody = he.h.m2_en_US_goadedes.heHE.NeousEfseveis.greekname
 meMA.Ode7C11.melody = he.h.m2_en_US_goadedes.heHE.NeousEfseveis.name
-meMA.Ode7C11.incipit = "…"
-meMA.Ode7C11.text = ""
+meMA.Ode7C11.incipit = "Standing as they do…"
+meMA.Ode7C11.text = "Standing as they do in heaven with trembling and astonishment, * now at the River Jordan the angelic powers behold with awe * the great condescension of their Lord and God. * He who has control over the waters which are above the firmament * with a body now is standing in the water, even as the God of our fathers."
 
 meMA.Ode7C12.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Ode7C12.melody = he.h.m2_en_US_goadedes.heHE.NeousEfseveis.name
-meMA.Ode7C12.incipit = "…"
-meMA.Ode7C12.text = ""
+meMA.Ode7C12.incipit = "In Exodus we see…"
+meMA.Ode7C12.text = "In Exodus we see a prefigurement of the miracle of divine and holy Baptism, when the people of Israel were baptized by Moses in the cloud and the sea. The sea represented the water and the cloud the Holy Spirit. By which purified and perfected, and we cry aloud, “O God of our fathers, You are blessed.”"
 
 meMA.Ode7C13.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Ode7C13.melody = he.h.m2_en_US_goadedes.heHE.NeousEfseveis.name
-meMA.Ode7C13.incipit = "…"
-meMA.Ode7C13.text = ""
+meMA.Ode7C13.incipit = "Now believers all…"
+meMA.Ode7C13.text = "Now believers all, let us join angelic hosts and glorify Father, Son, and Holy Spirit, theologizing unceasingly. God is three consubstantial hypostases. The Trinity is one God, in whom we received perfection in baptism, and to whom we sing, “O most exalted Lord and God of our fathers, You are blessed.”"
 
 meMA.Ode7C2H.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C2H.mode = miscellanea_en_US_goadedes.misc.Mode2
@@ -850,20 +852,20 @@ meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Ode8C11.greekmelody = he.h.m2_en_US_goadedes.heHE.MystirionParadoxon.greekname
 meMA.Ode8C11.melody = he.h.m2_en_US_goadedes.heHE.MystirionParadoxon.name
-meMA.Ode8C11.incipit = "…"
-meMA.Ode8C11.text = ""
+meMA.Ode8C11.incipit = "Fear not at all…"
+meMA.Ode8C11.text = "“Fear not at all, O Baptist John,” the Redeemer called out to the Forerunner. “For now, just obey me. Approach me, for I am good by nature, kind and merciful. Heed my command and baptize me. It is for this that I condescended. All peoples bless me as Lord, and exalt me beyond measure, unto all the ages.”"
 
 meMA.Ode8C12.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Ode8C12.melody = he.h.m2_en_US_goadedes.heHE.MystirionParadoxon.name
-meMA.Ode8C12.incipit = "…"
-meMA.Ode8C12.text = ""
+meMA.Ode8C12.incipit = "His hand atremble…"
+meMA.Ode8C12.text = "His hand atremble, John obeyed the Master’s summons, and he extended it as he was instructed. When he laid his hand upon the head of his own Creator to baptize Him, he said to Him, “You, sanctify me, for You are my God. All peoples bless You as Lord, and exalt You beyond measure, unto all the ages.”"
 
 meMA.Ode8C13.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Ode8C13.melody = he.h.m2_en_US_goadedes.heHE.MystirionParadoxon.name
-meMA.Ode8C13.incipit = "At River Jordan there was a disclosure…"
-meMA.Ode8C13.text = "At River Jordan there was a disclosure of the Trinity, * divinely transcendent in nature. * God the Father spoke and said, * “He who is being baptized is my Son, indeed my beloved.” * His consubstantial Spirit was with Him, * whom people bless and extol, * and exalt supremely, unto all the ages."
+meMA.Ode8C13.incipit = "Uncovered at the Jordan…"
+meMA.Ode8C13.text = "Uncovered at the Jordan was the presence of the Trinity, the transcendently divine nature. For the Father’s voice declared, “He who is being baptized is my Son. He is my beloved.” There, too, was the consubstantial Spirit. All peoples bless Him as Lord, and exalt Him beyond measure, unto all the ages."
 
 meMA.Ode8C2H.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C2H.mode = miscellanea_en_US_goadedes.misc.Mode2
@@ -930,37 +932,37 @@ meMA.Ode8C225.text = "In the Jordan by the Logos who preserves the universe."
 meMA.Ode8C225a.text = "I"
 meMA.Ode8C225b.text = "n the Jordan by the Logos who preserves the universe."
 
-meMA.Ode9C1M01.incipit = "…"
-meMA.Ode9C1M01.text = ""
-meMA.Ode9C1M02.incipit = "…"
-meMA.Ode9C1M02.text = ""
-meMA.Ode9C1M03.incipit = "…"
-meMA.Ode9C1M03.text = ""
-meMA.Ode9C1M04.incipit = "…"
-meMA.Ode9C1M04.text = ""
-meMA.Ode9C1M05.incipit = "…"
-meMA.Ode9C1M05.text = ""
-meMA.Ode9C1M06.incipit = "…"
-meMA.Ode9C1M06.text = ""
-meMA.Ode9C1M07.incipit = "…"
-meMA.Ode9C1M07.text = ""
+meMA.Ode9C1M01.incipit = "O my soul, magnify the woman…"
+meMA.Ode9C1M01.text = "O my soul, magnify the woman, who is higher in honor than the armies of heaven."
+meMA.Ode9C1M02.incipit = "O my soul, magnify the Lord who came…"
+meMA.Ode9C1M02.text = "O my soul, magnify the Lord who came to the Jordan to be baptized."
+meMA.Ode9C1M03.incipit = "O my soul, magnify the Lord…"
+meMA.Ode9C1M03.text = "O my soul, magnify the Lord, who from the Forerunner accepted to be baptized."
+meMA.Ode9C1M04.incipit = "O my soul, magnify the Son…"
+meMA.Ode9C1M04.text = "O my soul, magnify the Son, to whom the Father’s voice bore witness."
+meMA.Ode9C1M05.incipit = "O my soul, magnify the person…"
+meMA.Ode9C1M05.text = "O my soul, magnify the person of the Trinity who bowed His head and accepted to be baptized."
+meMA.Ode9C1M06.incipit = "Come to Me, O Prophet…"
+meMA.Ode9C1M06.text = "Come to Me, O Prophet, extend your hand, and baptize Me without objection."
+meMA.Ode9C1M07.incipit = "Let it be so now…"
+meMA.Ode9C1M07.text = "Let it be so now, and consent to baptize Me. For I came to fulfill all righteousness, O Prophet."
 
-meMA.Ode9C2M01.incipit = "…"
-meMA.Ode9C2M01.text = ""
-meMA.Ode9C2M02.incipit = "…"
-meMA.Ode9C2M02.text = ""
-meMA.Ode9C2M03.incipit = "…"
-meMA.Ode9C2M03.text = ""
-meMA.Ode9C2M04.incipit = "…"
-meMA.Ode9C2M04.text = ""
-meMA.Ode9C2M05.incipit = "…"
-meMA.Ode9C2M05.text = ""
-meMA.Ode9C2M06.incipit = "…"
-meMA.Ode9C2M06.text = ""
-meMA.Ode9C2MTr.incipit = "…"
-meMA.Ode9C2MTr.text = ""
-meMA.Ode9C2MTh.incipit = "…"
-meMA.Ode9C2MTh.text = ""
+meMA.Ode9C2M01.incipit = "Today, the Master bows…"
+meMA.Ode9C2M01.text = "Today, the Master bows His head beneath the hand of John, the Forerunner and Baptist."
+meMA.Ode9C2M02.incipit = "Today, the prophet John…"
+meMA.Ode9C2M02.text = "Today, the prophet John is baptizing the Lord in the waters of the Jordan."
+meMA.Ode9C2M03.incipit = "Today, the Master buries…"
+meMA.Ode9C2M03.text = "Today, the Master buries the sin of mortals in the water."
+meMA.Ode9C2M04.incipit = "Today, the Lord receives testimony…"
+meMA.Ode9C2M04.text = "Today, the Lord receives testimony from on high, as the Son and beloved."
+meMA.Ode9C2M05.incipit = "Today, the Master came…"
+meMA.Ode9C2M05.text = "Today, the Master came to sanctify the natural element of water."
+meMA.Ode9C2M06.incipit = "Today, the Lord receives baptism…"
+meMA.Ode9C2M06.text = "Today, the Lord receives baptism at the hand of the Forerunner and Baptist."
+meMA.Ode9C2MTr.incipit = "O my soul, magnify the power…"
+meMA.Ode9C2MTr.text = "O my soul, magnify the power of the Godhead, that is three hypostases and also undivided."
+meMA.Ode9C2MTh.incipit = "O my soul, magnify the woman, through whom…"
+meMA.Ode9C2MTh.text = "O my soul, magnify the woman, through whom we were redeemed from the curse and condemnation."
 
 meMA.Ode9C1H.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_goadedes.misc.Mode2
@@ -973,20 +975,20 @@ meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Ode9C11.greekmelody = he.h.m2_en_US_goadedes.heHE.AporeiPasaGlossa.greekname
 meMA.Ode9C11.melody = he.h.m2_en_US_goadedes.heHE.AporeiPasaGlossa.name
-meMA.Ode9C11.incipit = "…"
-meMA.Ode9C11.text = ""
+meMA.Ode9C11.incipit = "As a prophet, O David…"
+meMA.Ode9C11.text = "As a prophet, O David, be with us in the Spirit. Sing to those who are to be baptized, “Come to God in faith and be enlightened. This poor man — and namely Adam who had fallen — cried, and indeed the Lord heard him. He came and revealed himself, and in the Jordan’s waters renewed injured humanity."
 
 meMA.Ode9C12.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C12.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Ode9C12.melody = he.h.m2_en_US_goadedes.heHE.AporeiPasaGlossa.name
-meMA.Ode9C12.incipit = "…"
-meMA.Ode9C12.text = ""
+meMA.Ode9C12.incipit = "Now Isaiah is saying…"
+meMA.Ode9C12.text = "Now Isaiah is saying, “Wash yourselves; make yourselves clean; and put away the evils from your souls before the Lord’s eyes. Let the thirsty go to the living water.” For Christ will sprinkle water, which cleanses and renews, on those who run to Him with faith; and He baptizes them in the Spirit, for everlasting life."
 
 meMA.Ode9C13.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C13.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Ode9C13.melody = he.h.m2_en_US_goadedes.heHE.AporeiPasaGlossa.name
-meMA.Ode9C13.incipit = "…"
-meMA.Ode9C13.text = ""
+meMA.Ode9C13.incipit = "So, by grace…"
+meMA.Ode9C13.text = "So, by grace and the seal let us preserve ourselves, O faithful. The Hebrews long ago escaped destruction, when the blood was on the lintel. Now for us this sacred laver of regeneration will be a passing over and exodus to life, where we shall see the never-setting light of the Trinity."
 
 meMA.Ode9C2H.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C2H.mode = miscellanea_en_US_goadedes.misc.Mode2

@@ -88,23 +88,23 @@ meVE.LityGlory.text = ""
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.Aposticha1.greekmelody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.greekname
 meVE.Aposticha1.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name
-meVE.Aposticha1.incipit = "…"
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.incipit = "Anna, much like the swallow…"
+meVE.Aposticha1.text = "Anna, much like the swallow that sings * announcing springtime, you announced the springtime of grace, * for living a life of virtue and blameless dignity, * you became a mother irreproachably; * indeed, you gave birth to her who in time would give birth to God. * You are the sheep who has produced the all-blameless Ewe, * who by word alone as a virgin has given birth * unto the Lamb of God who takes away the sins of the world. * Now we salute you, the forebear of Christ the Lord who translated you. * We pray you implore Him, * supplicating Him to grant His great mercy to our souls."
 
 meVE.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.Aposticha2.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name
-meVE.Aposticha2.incipit = "…"
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.incipit = "Spouses, beloved and chosen…"
+meVE.Aposticha2.text = "Spouses, beloved and chosen by God, * you were illustrious, excelling in holiness; * observing the law’s commandments throughout the course of your life, * O most noble couple, by the grace of God, * you brought forth the holy child who would grow up to be the one * who bore the Author of our Life, O all blessed Saints * Joachim and Anna, devout and all-venerable. * You are the lamps that bore the torch, the spotless Mother of God. * Now we salute you who raised her, the Virgin, holy and full with grace. * We pray that you join her, * to implore her Son to grant His great mercy to our souls."
 
 meVE.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.Aposticha3.melody = he.a.m5_en_US_goadedes.heAU.ChairoisAskitikon.name
-meVE.Aposticha3.incipit = "…"
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.incipit = "Anna, you are the earth…"
+meVE.Aposticha3.text = "Anna, you are the earth that was blest * in bringing forth the one who bore God for all the world. * Unceasingly meditating on the commandments of God, * you personified divine grace, as your name denotes. * Your childbirth delivered you from the censure of barrenness. * And now in dying, you escape the decay of death, * being taken up to divine and celestial light. * All-blessed Grandmother of Christ, the Logos and Son of God, * now we salute you who mothered the Theotokos, the shining lamp. * We pray that you join her, * to implore her Son to grant His great mercy to our souls."
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "All creation, come…"
+meVE.AposGlory.text = "All creation, come, let us extol godly-minded Anna, with our voices, like the cymbals of the Psalms. From her womb she gave birth to Mary, the holy mountain. And today she was translated to the spiritual mountains and mansions of Paradise. Let us sing to her, “Blessed is your womb, for it carried her who carried the light of the world in her own womb. How beautiful are the breasts that nursed the nurse of our life who nursed Christ! We pray you, entreat Him to rescue us from all tribulation and from the assaults of the enemy, and to save our souls.”"
 
 meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Apolytikion1.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
@@ -385,6 +385,7 @@ meLI.Kontakion1.text = me.m07.d25_en_US_goadedes.meMA.Kontakion1.text
 meLI.Megalynarion.text = "Rejoicing you passed on to life on high, * Anna, as the mother of the one who gave birth to God. * We pray you to make us, who honor your dormition, * partakers of the immortal joy and eternal life."
 
 //Supplemental
+meR001 = "The published Menaion does not provide for a Matins Gospel. We have included this section as optional, for a more festal celebration."
 
 alt1.meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode8
 alt1.meMA.Kathisma31.greekmelody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.greekname
@@ -400,8 +401,8 @@ alt1.meMA.Kathisma32.text = ""
 
 alt1.meMA.PostGospelGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 alt1.meMA.PostGospelGlory.melody = ""
-alt1.meMA.PostGospelGlory.incipit = "…"
-alt1.meMA.PostGospelGlory.text = ""
+alt1.meMA.PostGospelGlory.incipit = "At the intercession of the Ancestors of God…"
+alt1.meMA.PostGospelGlory.text = "At the intercession of the Ancestors of God, O Lord of mercy, blot out my many offenses."
 
 alt1.meMA.PostGospelBoth.mode = miscellanea_en_US_goadedes.misc.Mode2
 alt1.meMA.PostGospelBoth.melody = ""
@@ -410,8 +411,8 @@ alt1.meMA.PostGospelBoth.text = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.
 
 alt1.meMA.PostGospelIdiomelon.mode = miscellanea_en_US_goadedes.misc.Mode6
 alt1.meMA.PostGospelIdiomelon.melody = ""
-alt1.meMA.PostGospelIdiomelon.incipit = "…"
-alt1.meMA.PostGospelIdiomelon.text = ""
+alt1.meMA.PostGospelIdiomelon.incipit = "By divine providence…"
+alt1.meMA.PostGospelIdiomelon.text = "By divine providence, you served God, by giving birth to His all-holy Mother, in your old age, as a woman whose soul was pure, O highly acclaimed St. Anna. When you completed your sojourn on earth, with virtue and excellence, you went up to the eternal mansions; and you were granted ineffable blessings, as the renowned Mother of the all-immaculate Theotokos. And now we implore you: Join her interceding for us, and entreat our merciful Lord, to save us who solemnly call you blessed."
 
 alt1.meMA.C1.title = titles_en_US_goadedes.ti.Canon1SaintW
 alt1.meMA.C1.verse = prayers_en_US_goadedes.pr.verse_SaintW.text
