@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m08.d24_en_US_goadedes
 
-meDA.date = ""
+meDA.date = "August 24"
 meDA.commemoration.full = "" //full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
@@ -799,16 +799,16 @@ alt1.meCouplet_v1.text = ""
 alt1.meCouplet_v2.text = ""
 
 
-alt2.meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-alt2.meDA.commemoration.full = "" // full title of day
+alt2.meDA.date = "August 24" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt2.meDA.commemoration.full = "Commemoration of the disinterment of the holy Relic of our Father among the saints Dionysius Archbishop of Aegina, and the subsequent transfer from the Island of Strophada to Zakynthos." // full title of day
 alt2.meDA.commemoration.second = "" // full title of day
-alt2.meDA.commemoration.first_short = ""
-alt2.meDA.commemoration.first_title = ""
-alt2.meDA.commemoration.first_name = ""
+alt2.meDA.commemoration.first_short = "Commemoration of the transfer of the holy Relic of our Father among the saints Dionysius Archbishop of Aegina"
+alt2.meDA.commemoration.first_title = "For St. Dionysius."
+alt2.meDA.commemoration.first_name = "St. Dionysius"
 alt2.meDA.commemoration.second_title = ""
 alt2.meDA.commemoration.second_name = ""
-alt2.meDA.insert1 = "" // for use in petitions and dismissal
-alt2.meDA.insert2 = "" // for use in petitions and dismissal
+alt2.meDA.insert1 = "our father among the saints Dionysius Archbishop of Aegina the Wonderworker," // for use in petitions and dismissal
+alt2.meDA.insert2 = "the transfer of whose the holy Relic we commemorate," // for use in petitions and dismissal
 alt2.meDA.note = ""
 alt2.meLE.commemoration1 = ""
 alt2.meLE.commemoration2 = ""
@@ -822,77 +822,77 @@ alt2.meDA.dismissal = ""
 alt2.meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode2
 alt2.meVE.Stichera01.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
 alt2.meVE.Stichera01.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
-alt2.meVE.Stichera01.incipit = "…"
-alt2.meVE.Stichera01.text = ""
+alt2.meVE.Stichera01.incipit = "By the Lord's selection…"
+alt2.meVE.Stichera01.text = "By the Lord's selection you became * the bishop of Aegina, which you shepherded righteously. * When your sacred soul was touched by the intense love for God, * you retired to solitude, abiding in stillness. * Noetically conversing one to one with God alone, * you ascended heights of dispassion. * You were like a heavenly Angel * and a godly man, O Dionysius."
 
 alt2.meVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode2
 alt2.meVE.Stichera02.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
-alt2.meVE.Stichera02.incipit = "…"
-alt2.meVE.Stichera02.text = ""
+alt2.meVE.Stichera02.incipit = "When the boat returning…"
+alt2.meVE.Stichera02.text = "When the boat returning your divine * body from Strofades was nearing your native Zakynthos, * crowds of your compatriots gathered together on shore * with excitement and heartfelt joy. Upon its arrival, * piously they venerated it with ardent tears. * And they built a church to enshrine it, * where the faithful go now to pray and solemnly extol you, Dionysius."
 
 alt2.meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode2
 alt2.meVE.Stichera03.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
-alt2.meVE.Stichera03.incipit = "…"
-alt2.meVE.Stichera03.text = ""
+alt2.meVE.Stichera03.incipit = "Greater than Siloam…"
+alt2.meVE.Stichera03.text = "Greater than Siloam is your church. * Each year only one was made well there, whereas in here through you * cures abound for all with faith in God, O glorious Saint. * They are cured of their fevers here; and those who gravely * afflicted by evil spirits are delivered from them. * Here the blind are granted their eyesight. * So to celebrate the return of your all-holy relic we assemble here."
 
 alt2.meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode2
 alt2.meVE.Stichera04.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
-alt2.meVE.Stichera04.incipit = "…"
-alt2.meVE.Stichera04.text = ""
+alt2.meVE.Stichera04.incipit = "Famously you loosed…"
+alt2.meVE.Stichera04.text = "Famously you loosed a woman's corpse, * which was bound because she had died while she was still under a ban. * You amazed your deacon when you stopped a river's flow. * And you warned the ascetics at Strofades of earthquake, * wondrously saving a monk from it. You ended a drought * when you called forth rain, like Elijah. * You, O Saint, are always protecting Zakynthos, O father Dionysius."
 
 alt2.meVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode2
 alt2.meVE.Stichera05.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
-alt2.meVE.Stichera05.incipit = "…"
-alt2.meVE.Stichera05.text = ""
+alt2.meVE.Stichera05.incipit = "Regiments of Angels…"
+alt2.meVE.Stichera05.text = "Regiments of Angels join mankind * honoring the feast of your Relic's transfer to Zakynthos, * whose devout inhabitants are celebrating and say, * “Our protector is here with us. Come let us extol him, * venerating him with heartfelt love. Indeed his soul * has gone up to God in the heavens, * where he brightly glows, while his body here on earth performs abundant miracles.”"
 
 alt2.meVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode2
 alt2.meVE.Stichera06.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
-alt2.meVE.Stichera06.incipit = "…"
-alt2.meVE.Stichera06.text = ""
+alt2.meVE.Stichera06.incipit = "Clearly laws of nature…"
+alt2.meVE.Stichera06.text = "Clearly laws of nature are in you * paradoxically overridden, as you remain undecayed, * constantly transcending bounds of physiology * and of justice. You sheltered him who murdered your cousin, * even Angels were amazed by this deed sublime act of yours. * God the source of glory awards you * everlasting glory, O glory of Zakynthos, blessed Dionysius."
 
 alt2.meVE.SticGlory1.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt2.meVE.SticGlory1.melody = ""
 alt2.meVE.SticGlory1.incipit = "…"
-alt2.meVE.SticGlory1.text = ""
+alt2.meVE.SticGlory1.text = "By the command of God, those who are fond of the church's feasts everywhere are transported by their great devotion."
 
 alt2.meVE.SticGlory2.mode = miscellanea_en_US_goadedes.misc.Mode5
 alt2.meVE.SticGlory2.melody = ""
 alt2.meVE.SticGlory2.incipit = "…"
-alt2.meVE.SticGlory2.text = ""
+alt2.meVE.SticGlory2.text = "And reaching the most venerable casket that holds your body, they kiss it in grand veneration."
 
 alt2.meVE.SticGlory3.mode = miscellanea_en_US_goadedes.misc.Mode2
 alt2.meVE.SticGlory3.melody = ""
 alt2.meVE.SticGlory3.incipit = "…"
-alt2.meVE.SticGlory3.text = ""
+alt2.meVE.SticGlory3.text = "Those in high political office are in attendance together with the Christian congregation."
 
 alt2.meVE.SticGlory4.mode = miscellanea_en_US_goadedes.misc.Mode6
 alt2.meVE.SticGlory4.melody = ""
 alt2.meVE.SticGlory4.incipit = "…"
-alt2.meVE.SticGlory4.text = ""
+alt2.meVE.SticGlory4.text = "Seized with awe, they honor your all-holy body, which pours out miracles; highly praising you, they visibly sing along with the melody of the hymns, “Behold, the renowned St. Dionysius is being displayed."
 
 alt2.meVE.SticGlory5.mode = miscellanea_en_US_goadedes.misc.Mode3
 alt2.meVE.SticGlory5.melody = ""
 alt2.meVE.SticGlory5.incipit = "…"
-alt2.meVE.SticGlory5.text = ""
+alt2.meVE.SticGlory5.text = "“Let us lift up a song, and let us duly extol him, who is godly pillar of hierarchs."
 
 alt2.meVE.SticGlory6.mode = miscellanea_en_US_goadedes.misc.Mode7
 alt2.meVE.SticGlory6.melody = ""
 alt2.meVE.SticGlory6.incipit = "…"
-alt2.meVE.SticGlory6.text = ""
+alt2.meVE.SticGlory6.text = "“For the salvation of all Christians is epitomized in him. We are unable to gaze directly at him nor to bestow worthy accolades on him."
 
 alt2.meVE.SticGlory7.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt2.meVE.SticGlory7.melody = ""
 alt2.meVE.SticGlory7.incipit = "…"
-alt2.meVE.SticGlory7.text = ""
+alt2.meVE.SticGlory7.text = "“For his incorruptibility amazes all rational beings.”"
 
 alt2.meVE.SticGlory8.mode = miscellanea_en_US_goadedes.misc.Mode8
 alt2.meVE.SticGlory8.melody = ""
 alt2.meVE.SticGlory8.incipit = "…"
-alt2.meVE.SticGlory8.text = ""
+alt2.meVE.SticGlory8.text = "Therefore, O all-holy Hierarch, as you dwell forever with the immaculate Virgin even now after death, intercede unceasingly, that we who extol you remain untouched by any dangerous circumstances, since we are under your protection."
 
 alt2.meVE.SticGlory9.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt2.meVE.SticGlory9.melody = ""
-alt2.meVE.SticGlory9.text = ""
+alt2.meVE.SticGlory9.text = "As we sing your praises and call you blessed unceasingly."
 
 alt2.meVE.Lity1.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt2.meVE.Lity1.melody = ""
@@ -943,8 +943,8 @@ alt2.meVE.AposGlory.text = ""
 alt2.meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt2.meVE.Apolytikion1.greekmelody = he.a.m1_en_US_goadedes.heAU.TouLithouSfragisthentos.greekname
 alt2.meVE.Apolytikion1.melody = he.a.m1_en_US_goadedes.heAU.TouLithouSfragisthentos.name
-alt2.meVE.Apolytikion1.incipit = "…"
-alt2.meVE.Apolytikion1.text = ""
+alt2.meVE.Apolytikion1.incipit = "Come all, and let us sing…"
+alt2.meVE.Apolytikion1.text = "Come all, and let us sing sacred hymns as we celebrate * the return of the holy Relic of St. Dionysius, * for like the sun, according to the laws * of nature, it had set beneath the earth. * But again it has arisen and shines like dawn * resplendently throughout the world. * “Glory to Christ who glorified you! * Glory to Him who made you marvelous! * Glory to Him who gave you grace to help us all by many miracles!”"
 
 alt2.meVE.Apolytikion2.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt2.meVE.Apolytikion2.greekmelody = he.a.m1_en_US_goadedes.heAU.TouLithouSfragisthentos.greekname
@@ -984,9 +984,9 @@ alt2.meMA.Kathisma22.text = ""
 
 alt2.meMA.Kathisma2T.mode = miscellanea_en_US_goadedes.misc.Mode3
 alt2.meMA.Kathisma2T.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
-alt2.meMA.Kathisma2T.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.name
-alt2.meMA.Kathisma2T.incipit = "…"
-alt2.meMA.Kathisma2T.text = ""
+alt2.meMA.Kathisma2T.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.melody
+alt2.meMA.Kathisma2T.incipit = he.a.m3_en_US_goadedes.heAU.TinOraiotita.incipit
+alt2.meMA.Kathisma2T.text = he.a.m3_en_US_goadedes.heAU.TinOraiotita.text
 
 alt2.meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode8
 alt2.meMA.Kathisma31.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
