@@ -800,15 +800,15 @@ alt1.meCouplet_v2.text = ""
 
 
 alt2.meDA.date = "August 24" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-alt2.meDA.commemoration.full = "Commemoration of the disinterment of the holy Relic of our Father among the saints Dionysius Archbishop of Aegina, and the subsequent transfer from the Island of Strophada to Zakynthos." // full title of day
+alt2.meDA.commemoration.full = "Commemoration of the translation of the holy Relic of our Father among the saints Dionysius Archbishop of Aegina, and its return from Strofades to Zakynthos." // full title of day
 alt2.meDA.commemoration.second = "" // full title of day
-alt2.meDA.commemoration.first_short = "Commemoration of the transfer of the holy Relic of our Father among the saints Dionysius Archbishop of Aegina"
+alt2.meDA.commemoration.first_short = "Commemoration of the translation of the holy Relic of our Father among the saints Dionysius Archbishop of Aegina"
 alt2.meDA.commemoration.first_title = "For St. Dionysius."
 alt2.meDA.commemoration.first_name = "St. Dionysius"
 alt2.meDA.commemoration.second_title = ""
 alt2.meDA.commemoration.second_name = ""
 alt2.meDA.insert1 = "our father among the saints Dionysius Archbishop of Aegina the Wonderworker," // for use in petitions and dismissal
-alt2.meDA.insert2 = "the transfer of whose the holy Relic we commemorate," // for use in petitions and dismissal
+alt2.meDA.insert2 = "the translation of whose the holy Relic we commemorate," // for use in petitions and dismissal
 alt2.meDA.note = ""
 alt2.meLE.commemoration1 = ""
 alt2.meLE.commemoration2 = ""
@@ -955,8 +955,8 @@ alt2.meVE.Apolytikion2.text = me.m12.d17_en_US_goadedes.alt1.meVE.Apolytikion1.t
 alt2.meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt2.meMA.Kathisma11.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 alt2.meMA.Kathisma11.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
-alt2.meMA.Kathisma11.incipit = "…"
-alt2.meMA.Kathisma11.text = ""
+alt2.meMA.Kathisma11.incipit = "On Zakynthos the crowds…"
+alt2.meMA.Kathisma11.text = "On Zakynthos the crowds with delight are observing * the feast of your divine holy relic's translation. * They built you a glorious holy church, where we gather now, * celebrating your commemoration with singing, * and with faith and love kissing your all-holy body, * O St. Dionysius."
 
 alt2.meMA.Kathisma12.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt2.meMA.Kathisma12.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
@@ -967,14 +967,14 @@ alt2.meMA.Kathisma12.text = ""
 alt2.meMA.Kathisma1T.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt2.meMA.Kathisma1T.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 alt2.meMA.Kathisma1T.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
-alt2.meMA.Kathisma1T.incipit = "…"
-alt2.meMA.Kathisma1T.text = ""
+alt2.meMA.Kathisma1T.incipit = me.m01.d27_en_US_goadedes.meMA.Kathisma1T.incipit
+alt2.meMA.Kathisma1T.text = me.m01.d27_en_US_goadedes.meMA.Kathisma1T.text
 
 alt2.meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt2.meMA.Kathisma21.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 alt2.meMA.Kathisma21.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
-alt2.meMA.Kathisma21.incipit = "…"
-alt2.meMA.Kathisma21.text = ""
+alt2.meMA.Kathisma21.incipit = "When you prudently renounced…"
+alt2.meMA.Kathisma21.text = "When you prudently renounced the cares of secular life, * you unwaveringly walked on the path of God's commands, * and you went to the monastery of Anafonitria. * While there, as you excelled in the angelic life, * you purified your soul, obtaining second sight. * And by the grace of the Spirit you reminded * the priest Pancratius of the lapse he had thought to conceal. * And even after you died, your body * pours out cures to all, O St. Dionysius."
 
 alt2.meMA.Kathisma22.mode = miscellanea_en_US_goadedes.misc.Mode3
 alt2.meMA.Kathisma22.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
@@ -1012,8 +1012,8 @@ alt2.meMA.PostGospelBoth.text = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.
 
 alt2.meMA.PostGospelIdiomelon.mode = miscellanea_en_US_goadedes.misc.Mode6
 alt2.meMA.PostGospelIdiomelon.melody = ""
-alt2.meMA.PostGospelIdiomelon.incipit = "…"
-alt2.meMA.PostGospelIdiomelon.text = ""
+alt2.meMA.PostGospelIdiomelon.incipit = "O devout, thrice-blessed…"
+alt2.meMA.PostGospelIdiomelon.text = "O devout, thrice-blessed, all-holy Father, good Shepherd, and Disciple of Christ the Chief Shepherd, you laid down your life for the sheep. O all-lauded hierarch Dionysius, pray for us, that by your intercessions the Lord grant us His great mercy."
 
 alt2.meMA.C1.poet = ""
 alt2.meMA.C1.title = titles_en_US_goadedes.ti.Canon1SaintM
@@ -1206,10 +1206,10 @@ alt2.meMA.Ode6C1T.text = ""
 alt2.meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt2.meMA.Kontakion1.greekmelody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.greekname
 alt2.meMA.Kontakion1.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
-alt2.meMA.Kontakion1.incipit = "…"
-alt2.meMA.Kontakion1.text = ""
+alt2.meMA.Kontakion1.incipit = "Come, all believers…"
+alt2.meMA.Kontakion1.text = "Come, all believers, join the people of Zakynthos, * participating in the yearly festivities, * by singing sacred hymns and songs in honor of the day * celebrating the return of the eminent relic * of the Island's patron Saint, who illumines the whole world. * And as we venerate him, let us cry aloud, * “We all salute you, O St. Dionysius.”"
 
-alt2.meMA.Oikos1.text = ""
+alt2.meMA.Oikos1.text = "You took to heart the words of Christ the Teacher, and you took up His cross on your shoulders. You took the straight and narrow way of this life and never strayed. Discarding the weight kin, possessions, and all other earthly pleasures, alone on the mountains with purified mind, you conversed with God who alone is pure by nature. Then you were seen as new shining star, both alive and after dying, for the Lord, whom you worshiped on earth in purity, glorified your venerable body with incorruptibility, and He gave it to your homeland as a precious gift. Today, as we venerate it, we cry aloud, “We all salute you, O St. Dionysius.”"
 
 alt2.meMA.Synaxarion.text = ""
 
@@ -1321,39 +1321,39 @@ alt2.meMA.Ode9C1T.text = ""
 alt2.meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode3
 alt2.meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_goadedes.heAU.ApostoloiEkPeraton.greekname
 alt2.meMA.Exaposteilarion1.melody = he.a.m3_en_US_goadedes.heAU.ApostoloiEkPeraton.name
-alt2.meMA.Exaposteilarion1.incipit = "…"
-alt2.meMA.Exaposteilarion1.text = ""
+alt2.meMA.Exaposteilarion1.incipit = "All the ranks of the clergy…"
+alt2.meMA.Exaposteilarion1.text = "All the ranks of the clergy, * and the host of monastics, * and congregations of Christians, * come to the sacred temple * of St. Dionysius, * and honor his holy relic."
 
 alt2.meMA.ExapTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode3
 alt2.meMA.ExapTheotokion.melody = he.a.m3_en_US_goadedes.heAU.ApostoloiEkPeraton.name
-alt2.meMA.ExapTheotokion.incipit = "…"
-alt2.meMA.ExapTheotokion.text = ""
+alt2.meMA.ExapTheotokion.incipit = da.d7_en_US_goadedes.daMA.ExapTheotokion1.incipit
+alt2.meMA.ExapTheotokion.text = da.d7_en_US_goadedes.daMA.ExapTheotokion1.text
 
 alt2.meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt2.meMA.Lauds1.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname
 alt2.meMA.Lauds1.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
-alt2.meMA.Lauds1.incipit = "…"
-alt2.meMA.Lauds1.text = ""
+alt2.meMA.Lauds1.incipit = "Now all of Aegina's faithful…"
+alt2.meMA.Lauds1.text = "Now all of Aegina's faithful, and those from Zakynthos, * and the devout monastics from the isles of Strophades * attend the celebration commemorating * the translation of your divine * all-holy relic, O father, the Church's bright * luminary, Dionysius."
 
 alt2.meMA.Lauds2.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt2.meMA.Lauds2.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
-alt2.meMA.Lauds2.incipit = "…"
-alt2.meMA.Lauds2.text = ""
+alt2.meMA.Lauds2.incipit = "Let us rejoice…"
+alt2.meMA.Lauds2.text = "Let us rejoice with the blessed island of Zakynthos, * which has celestial treasure, the miraculous relic, * the body of its own most illustrious son, * godly St. Dionysius. * Through his unceasing entreaties for us to Christ, * we are rescued from adversities."
 
 alt2.meMA.Lauds3.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt2.meMA.Lauds3.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
-alt2.meMA.Lauds3.incipit = "…"
-alt2.meMA.Lauds3.text = ""
+alt2.meMA.Lauds3.incipit = "As you are twofold in essence…"
+alt2.meMA.Lauds3.text = "As you are twofold in essence, your soul makes heaven glad, * and by the Holy Spirit, your miraculous body * sanctifies the earth. And we now receive * twofold strength when we venerate * your holy relic with faith and a pious kiss, * O Archbishop Dionysius."
 
 alt2.meMA.Lauds4.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt2.meMA.Lauds4.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
 alt2.meMA.Lauds4.incipit = "…"
-alt2.meMA.Lauds4.text = ""
+alt2.meMA.Lauds4.text = "Those three Ionian islands, Kerkyra, Zakynthos, * and Kefallinia, have the privilege and honor * of hosting incorruptible relics of saints: * wonderworking Gerasimos, * the elder Spyridon, and one who is today * celebrated, Dionysius."
 
 alt2.meMA.LaudsGlory.mode = miscellanea_en_US_goadedes.misc.Mode5
 alt2.meMA.LaudsGlory.melody = ""
-alt2.meMA.LaudsGlory.incipit = "…"
-alt2.meMA.LaudsGlory.text = ""
+alt2.meMA.LaudsGlory.incipit = "Let us sound the trumpet…"
+alt2.meMA.LaudsGlory.text = "Let us sound the trumpet of sacred song and festively applaud. Let us leap with joy, for the annual celebration of the translation of the relic of our God-inspired father. Let priests and politicians come together, and let us all escort the venerable relic in procession around the city. Let us venerate it with a kiss, and let us solemnly extol him with ceremony and song. O shepherds and teachers, let us join in praising that holy shepherd, who imitated the Christ the Chief Shepherd. We who are sick, let us praise our physician; we who are in trouble, our helper; we sinners, our advocate; we who are poor, our provider; we who are clergy, our pastor; we who live alone, our companion; we are traveling, our navigator. And everyone, extol him who is all things to all people, yes, that most saintly Hierarch, and let us sing his praises and say to him, “All-holy father Dionysius, come and be with us who invoke your name, and protect the people of your island Zakynthos and all Christians, by your supplications.”"
 
 alt2.meMA.MM.Lauds1234as5678.text = properties_en_US_goadedes.media.key
 
