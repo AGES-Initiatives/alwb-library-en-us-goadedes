@@ -41,18 +41,18 @@ meVE.Stichera03.text = ""
 meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera04.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.Stichera04.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.Stichera04.incipit = "…"
-meVE.Stichera04.text = ""
+meVE.Stichera04.incipit = "United by sibling bonds…"
+meVE.Stichera04.text = "United by sibling bonds, the holy girls, pure and virtuous, * undeniably strengthened by the love of our Lord and God, * the mighty Creator, * broke the bond of error by faith and trampled under foot * the feeble enemy most courageously; * and they were decorated with the glowing medals of victory. * They are now in the spiritual bridal hall, where they celebrate. "
 
 meVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera05.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.Stichera05.incipit = "…"
-meVE.Stichera05.text = ""
+meVE.Stichera05.incipit = "Faith who is extolled…"
+meVE.Stichera05.text = "Faith who is extolled by all, and holy Love who is glorious, * also Hope who is wise in God, * have the theological and most lofty virtues * as their given names. They competed well and they prevailed * against the evil one, who of old deceived * our primal mother Eve through guile. And now the three Martyrs, deified, * are residing in Paradise, and they pray on behalf of all."
 
 meVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera06.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.Stichera06.incipit = "…"
-meVE.Stichera06.text = ""
+meVE.Stichera06.incipit = "The three holy sister saints…"
+meVE.Stichera06.text = "The three holy sister saints disdained the fire and the various * means of torture and painful death. * They faithfully sought to see the exquisite beauty * of their handsome Bridegroom. Therefore they beautified themselves * through many torments, and thus were joined to Him, * these daughters of Sophia, Faith and Hope and Love, holy martyrs all. * Through their prayers, Lord, deliver us from disaster and tragedy."
 
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticGlory.melody = ""
@@ -394,8 +394,8 @@ meMA.Ode9H.text = he.h.m1_en_US_goadedes.heHE.TyponTisAgnis.text
 meMA.Exaposteilarion1.mode = miscellanea_en_US_goadedes.misc.Mode3
 meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
-meMA.Exaposteilarion1.incipit = "…"
-meMA.Exaposteilarion1.text = ""
+meMA.Exaposteilarion1.incipit = "The three holy sisters…"
+meMA.Exaposteilarion1.text = "The three holy sisters, * Hope, Faith, and Love, were named for * the trinity of virtues. * They disdained every torture, * for they were ablaze with zeal * for the all-holy Trinity."
 
 meMA.ExapTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_en_US_goadedes.heAU.OOuranonToisAstrois.name
@@ -431,23 +431,21 @@ meLI.Kontakion1.text = me.m09.d17_en_US_goadedes.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""
 
-//Supplementary materials for Sep 17
-
 alt1.meSV.Stichera1.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meSV.Stichera1.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 alt1.meSV.Stichera1.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-alt1.meSV.Stichera1.incipit = "…"
-alt1.meSV.Stichera1.text = ""
+alt1.meSV.Stichera1.incipit = me.m09.d17_en_US_goadedes.meVE.Stichera04.incipit
+alt1.meSV.Stichera1.text = me.m09.d17_en_US_goadedes.meVE.Stichera04.text
 
 alt1.meSV.Stichera2.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meSV.Stichera2.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-alt1.meSV.Stichera2.incipit = "…"
-alt1.meSV.Stichera2.text = ""
+alt1.meSV.Stichera2.incipit = me.m09.d17_en_US_goadedes.meVE.Stichera05.incipit
+alt1.meSV.Stichera2.text = me.m09.d17_en_US_goadedes.meVE.Stichera05.text
 
 alt1.meSV.Stichera3.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meSV.Stichera3.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-alt1.meSV.Stichera3.incipit = "…"
-alt1.meSV.Stichera3.text = ""
+alt1.meSV.Stichera3.incipit = me.m09.d17_en_US_goadedes.meVE.Stichera06.incipit
+alt1.meSV.Stichera3.text = me.m09.d17_en_US_goadedes.meVE.Stichera06.text
 
 alt1.meSV.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 alt1.meSV.SticGlory.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
@@ -499,19 +497,19 @@ alt1.meVE.Stichera03.text = ""
 alt1.meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meVE.Stichera04.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 alt1.meVE.Stichera04.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
-alt1.meVE.Stichera04.incipit = "…"
-alt1.meVE.Stichera04.text = ""
+alt1.meVE.Stichera04.incipit = "Holy virgin and martyr Faith…"
+alt1.meVE.Stichera04.text = "Holy virgin and martyr Faith, you contended with burning fire, * but the mighty power of God kept you unharmed. * Your mother's counsels enabled you to censure the foolish king's * misbelief; and you were brave * when he ordered your breasts removed. When they finally * cut your head off, the Lord from heaven laid the crown of martyrdom upon it, * O famous Saint; and we honor you."
 
 alt1.meVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meVE.Stichera05.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 alt1.meVE.Stichera05.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
-alt1.meVE.Stichera05.incipit = "…"
-alt1.meVE.Stichera05.text = ""
+alt1.meVE.Stichera05.incipit = "Holy virgin and martyr Hope…"
+alt1.meVE.Stichera05.text = "Holy virgin and martyr Hope, you experienced bludgeoning, * but the mighty power of God kept you unharmed. * And you were thrown into furnace fire, a cauldron with boiling tar, * tied and broken on the wheel, * and your body was scraped rakes, adding to your wounds. * When at last with a sword you were beheaded, you went up to the celestial * mansions, O Saint; and we honor you."
 
 alt1.meVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meVE.Stichera06.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
-alt1.meVE.Stichera06.incipit = "…"
-alt1.meVE.Stichera06.text = ""
+alt1.meVE.Stichera06.incipit = "Holy virgin and martyr Love…"
+alt1.meVE.Stichera06.text = "Holy virgin and martyr Love, when you censured ungodly men * for their wrong beliefs with the wisdom of your words, * they stretched you out on the torture wheel, they flogged you with leather whips, * and they threw you into fire * as if gold, and they put you in a cauldron of tar; * and your body was scraped with iron rakes, and then at last you were beheaded, * Such great endurance, O blessed Saint!"
 
 alt1.meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 alt1.meVE.SticGlory.melody = ""
@@ -593,20 +591,20 @@ alt1.meVE.Apolytikion1.text = ""
 alt1.meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt1.meMA.Kathisma11.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 alt1.meMA.Kathisma11.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
-alt1.meMA.Kathisma11.incipit = "…"
-alt1.meMA.Kathisma11.text = ""
+alt1.meMA.Kathisma11.incipit = "O modest holy girls…"
+alt1.meMA.Kathisma11.text = "O modest holy girls, pride and glory of virgins, * you beautified yourselves by the various tortures, * and thus to your beautiful bridegroom Christ you were joined at last. * As a three-light lamp, Faith, Hope, and Love, with Sophia * who was proud of you, now you extol the all-holy * unoriginate Trinity.  "
 
 alt1.meMA.Kathisma12.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt1.meMA.Kathisma12.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 alt1.meMA.Kathisma12.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
-alt1.meMA.Kathisma12.incipit = "…"
-alt1.meMA.Kathisma12.text = ""
+alt1.meMA.Kathisma12.incipit = me.m09.d15_en_US_goadedes.meMA.Kathisma21.incipit
+alt1.meMA.Kathisma12.text = me.m09.d15_en_US_goadedes.meMA.Kathisma21.text
 
 alt1.meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Kathisma21.greekmelody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.greekname
 alt1.meMA.Kathisma21.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
-alt1.meMA.Kathisma21.incipit = "…"
-alt1.meMA.Kathisma21.text = ""
+alt1.meMA.Kathisma21.incipit = "Come, let us congregate…"
+alt1.meMA.Kathisma21.text = "Come, let us congregate today, O believers, * and as we celebrate the feast of the Martyrs, * prayerfully let us send up our requests to them. * “Intercede with Christ the Lord to deliver us sinners * from eternal fire of hell, for our transgressions are many. * Faith, Hope, and Love, the daughters of your famed * mother Sophia, the pride of the martyr saints.”"
 
 alt1.meMA.Kathisma22.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meMA.Kathisma22.greekmelody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.greekname
@@ -638,29 +636,29 @@ alt1.meMA.PostGospelBoth.text = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.
 
 alt1.meMA.PostGospelIdiomelon.mode = miscellanea_en_US_goadedes.misc.Mode6
 alt1.meMA.PostGospelIdiomelon.melody = ""
-alt1.meMA.PostGospelIdiomelon.incipit = "…"
-alt1.meMA.PostGospelIdiomelon.text = ""
+alt1.meMA.PostGospelIdiomelon.incipit = "Let us the congregation…"
+alt1.meMA.PostGospelIdiomelon.text = "Let us the congregation of believers come to church today, and spiritually celebrate; for the annual memory of the medal-winners of Christ, Faith, Hope, and Love, is upon us once again, blessing us with gifts of grace to enrich us. So let us sing with a voice of great joy and a clear conscience, and let us pray to them, “Please do not stop unceasingly interceding for us who faithfully observe the time-honored celebration of your memory.”"
 
 alt1.meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt1.meMA.Lauds1.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname
 alt1.meMA.Lauds1.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
-alt1.meMA.Lauds1.incipit = "…"
-alt1.meMA.Lauds1.text = ""
+alt1.meMA.Lauds1.incipit = "Now leap for joy…"
+alt1.meMA.Lauds1.text = "Now leap for joy, O Sophia, who like a godly field * produced most fragrant lilies, your illustrious daughters, * Faith and Love and Hope, who were champions indeed of the all-holy Trinity. * They were beheaded in martyrdom for the Lord, * who awarded them with heavenly crowns."
 
 alt1.meMA.Lauds2.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt1.meMA.Lauds2.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
-alt1.meMA.Lauds2.incipit = "…"
-alt1.meMA.Lauds2.text = ""
+alt1.meMA.Lauds2.incipit = "The theological virtues…"
+alt1.meMA.Lauds2.text = "The theological virtues of hope and faith and love * were names the noble sisters had received from their mother. * These holy martyrs never succumbed to threats of the emperor Hadrian. * Disdaining glory and riches they underwent * gruesome torments and a painful death."
 
 alt1.meMA.Lauds3.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt1.meMA.Lauds3.melody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.name
-alt1.meMA.Lauds3.incipit = "…"
-alt1.meMA.Lauds3.text = ""
+alt1.meMA.Lauds3.incipit = "The holy martyrs drew wisdom…"
+alt1.meMA.Lauds3.text = "The holy martyrs drew wisdom from God the Savior Christ. * Faith, love, and hope were armor that they wore for protection. * Those three distinguished sisters named Faith, Love, and Hope stopped the mouth of the blasphemous * and senseless emperor Hadrian and refused * to submit to his impiety."
 
 alt1.meMA.LaudsGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 alt1.meMA.LaudsGlory.melody = ""
-alt1.meMA.LaudsGlory.incipit = "…"
-alt1.meMA.LaudsGlory.text = ""
+alt1.meMA.LaudsGlory.incipit = "Come, O believers…"
+alt1.meMA.LaudsGlory.text = "Come, O believers, let us join our voices and sing a hymn of gratitude to God, the Benefactor of all. The trio of His victorious Martyrs, namely Faith, Hope, and Love, in their feminine bodies prevailed against the invisible might of the hostile force. O Christ, at their intercessions, grant peace to Your people and the great mercy to our souls."
 
 alt1.meMA.LaudsBoth.mode = miscellanea_en_US_goadedes.misc.Mode6
 alt1.meMA.LaudsBoth.melody = ""
