@@ -18,7 +18,7 @@ ru.BeginMatins = "And then Matins begins."
 
 ru.BeginVespers = "And Vespers commences immediately with, “Come, let us worship…”"
 
-ru.BlessingWithTheCross = ""
+ru.BlessingWithTheCross = "(blessing with the cross)"
 
 ru.ChoirLeftBegins = "(Left side begins.)"
 
@@ -66,6 +66,8 @@ ru.HolidayWineOil = "Holiday. Wine and oil allowed."
 
 ru.IfExistsIfNot = "if it exists; if not,"
 
+ru.IfLityDoneAtVespers = "If the Lity was sung during Vespers, use the following:"
+
 ru.IfLityNotDoneAtVespers = "If the Lity was not sung at Vespers, sing the following:"
 
 ru.InALowVoice = "(in a low voice)"
@@ -103,6 +105,8 @@ ru.Or = "or:"
 ru.OrAccordingToCommonPractice = "Or, according to common practice:"
 
 ru.OrAccordingToOlderPractice = "Or, according to the older practice:"
+
+ru.OtherwiseTheFollowing = "Otherwise, the following:"
 
 ru.Read = "(read)"
 
