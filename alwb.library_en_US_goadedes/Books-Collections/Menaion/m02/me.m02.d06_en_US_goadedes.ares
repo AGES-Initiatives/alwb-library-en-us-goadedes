@@ -904,10 +904,10 @@ alt1.meMA.Ode9C1M01.incipit = "…"
 alt1.meMA.Ode9C1M01.text = ""
 alt1.meMA.Ode9C1M02.incipit = "…"
 alt1.meMA.Ode9C1M02.text = ""
-alt1.meMA.Ode9C1MTr.incipit = "…"
-alt1.meMA.Ode9C1MTr.text = ""
-alt1.meMA.Ode9C1MTh.incipit = "…"
-alt1.meMA.Ode9C1MTh.text = ""
+alt1.meMA.Ode9C1MTr.incipit = me.m01.d01_en_US_goadedes.meMA.Ode9C2MTr.incipit
+alt1.meMA.Ode9C1MTr.text = me.m01.d01_en_US_goadedes.meMA.Ode9C2MTr.text
+alt1.meMA.Ode9C1MTh.incipit = me.m01.d30_en_US_goadedes.meMA.Ode9C2MTh.incipit
+alt1.meMA.Ode9C1MTh.text = me.m01.d30_en_US_goadedes.meMA.Ode9C2MTh.text
 
 alt1.meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 alt1.meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode4
