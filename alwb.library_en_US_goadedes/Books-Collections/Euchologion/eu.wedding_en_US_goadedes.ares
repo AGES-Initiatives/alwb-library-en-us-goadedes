@@ -16,7 +16,7 @@ euWED.Key0107.text = ""
 euWED.Key0108.text = ""
 
 euWED.Key0200.title = ""
-euWED.Key0200.text = "" //for media for verses
+euWED.Key0200.text = prayers_en_US_goadedes.pr.GloryToYouOurGod.text
 
 euWED.Key0210.text = ""
 euWED.Key0211.text = ""
@@ -27,13 +27,19 @@ euWED.Key0215.text = ""
 euWED.Key0216.text = ""
 euWED.Key0217.text = ""
 
+euWED.Key0220.title = "THE READINGS"
+euWED.MM.Prokeimenon.text = properties_en_US_goadedes.media.key
+euWED.MM.Alleluia.text = properties_en_US_goadedes.media.key
+
 euWED.Key0301.text = ""
 euWED.Key0302.text = ""
 euWED.Key0303.title = ""
 euWED.Key0303.text = ""
 euWED.Key0304.text = prayers_en_US_goadedes.pr.exc04.text
 
-euWED.Key0306.title = ""
+euWED.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
+
+euWED.Key0306.title = "Troparia"
 euWED.Key0306.mode = miscellanea_en_US_goadedes.misc.Mode5
 euWED.Key0306.incipit = he.h.m5_en_US_goadedes.heHE.IsaiaChoreve.incipit
 euWED.Key0306.text = he.h.m5_en_US_goadedes.heHE.IsaiaChoreve.text
