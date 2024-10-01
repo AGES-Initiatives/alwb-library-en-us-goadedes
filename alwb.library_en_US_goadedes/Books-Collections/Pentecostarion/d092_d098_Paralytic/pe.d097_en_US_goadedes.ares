@@ -55,10 +55,10 @@ peVE.AposGlory.incipit = pe.d096_en_US_goadedes.peMA.AposGlory.incipit
 peVE.AposGlory.text = pe.d096_en_US_goadedes.peMA.AposGlory.text
 
 peMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode3
-peMA.Kathisma11.greekmelody = oc.m3.d6_en_US_goadedes.ocMA.Kathisma22.greekmelody
-peMA.Kathisma11.melody = oc.m3.d6_en_US_goadedes.ocMA.Kathisma22.melody
-peMA.Kathisma11.incipit = oc.m3.d6_en_US_goadedes.ocMA.Kathisma22.incipit
-peMA.Kathisma11.text = oc.m3.d6_en_US_goadedes.ocMA.Kathisma22.text
+peMA.Kathisma11.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
+peMA.Kathisma11.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.name
+peMA.Kathisma11.incipit = "You chose to suffer…"
+peMA.Kathisma11.text = "You chose to suffer both the Cross and death, O Christ, * and in the midst of the earth, O Lord, You planted Your Cross, * when You, O Savior, were well pleased that Your body be nailed to it. * Then the sun was horrified, and at midday it hid its rays. * When the Robber saw You thus on the Cross, he extolled You as Lord, * and cried to You, “Remember me, O Savior!” * And thus, believing, he was granted Paradise."
 
 peMA.Kathisma12.mode = miscellanea_en_US_goadedes.misc.Mode3
 peMA.Kathisma12.greekmelody = oc.m3.d1_en_US_goadedes.ocMA.Kathisma22.greekmelody
