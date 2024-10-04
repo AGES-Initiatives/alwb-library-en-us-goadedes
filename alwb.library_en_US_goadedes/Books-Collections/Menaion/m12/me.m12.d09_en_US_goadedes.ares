@@ -5,7 +5,7 @@ meDA.commemoration.full = "" // full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
 meDA.commemoration.first_title = "For St. Anna."
-meDA.commemoration.first_name = "St. Anna's Conception"
+meDA.commemoration.first_name = "St. Anna’s Conception"
 meDA.commemoration.second_title = titles_en_US_goadedes.ti.Consecration
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
@@ -851,5 +851,5 @@ meLI.Kontakion2.text = me.m12.d09_en_US_goadedes.meMA.Kontakion2.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
-meLI.Megalynarion.text = "Glorious St. Anna today conceives * by the laws of nature and divine providence the one * who would supernaturally mother God the Logos. * We praise the Virgin Mary's parents and honor them."
+meLI.Megalynarion.text = "Glorious St. Anna today conceives * by the laws of nature and divine providence the one * who would supernaturally mother God the Logos. * We praise the Virgin Mary’s parents and honor them."
 

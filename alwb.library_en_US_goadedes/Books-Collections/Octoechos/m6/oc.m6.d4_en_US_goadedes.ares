@@ -80,8 +80,8 @@ ocMA.Kathisma12.text = ""
 ocMA.Kathisma13.mode = miscellanea_en_US_goadedes.misc.Mode6
 ocMA.Kathisma13.greekmelody = he.a.m6_en_US_goadedes.heAU.ElpisTouKosmouAgathi.greekname
 ocMA.Kathisma13.melody = he.a.m6_en_US_goadedes.heAU.ElpisTouKosmouAgathi.name
-ocMA.Kathisma13.incipit = "…"
-ocMA.Kathisma13.text = ""
+ocMA.Kathisma13.incipit = "O Christ, Your Mother…"
+ocMA.Kathisma13.text = "O Christ, Your Mother who remained ever virgin in childbirth, * looked on as You were lifted up on the Cross for our salvation. * The knife of grief and sorrow cut her to the quick, * and she lamented as a mother and she wept. * Be merciful to us, at her appeals on our behalf, O Lord and God of mercy."
 
 ocMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode6
 ocMA.Kathisma21.melody = ""
@@ -96,14 +96,14 @@ ocMA.Kathisma22.text = ""
 ocMA.Kathisma23.mode = miscellanea_en_US_goadedes.misc.Mode6
 ocMA.Kathisma23.greekmelody = he.a.m6_en_US_goadedes.heAU.ElpisTouKosmouAgathi.greekname
 ocMA.Kathisma23.melody = he.a.m6_en_US_goadedes.heAU.ElpisTouKosmouAgathi.name
-ocMA.Kathisma23.incipit = "…"
-ocMA.Kathisma23.text = ""
+ocMA.Kathisma23.incipit = "The virgin Mother of our God…"
+ocMA.Kathisma23.text = "The virgin Mother of our God, who from her became incarnate, * saw Him hanging on the Cross, and she lamented and cried out, * “Although You are the only Lord and righteous Judge, * these villains nailed You as a convict to a cross. * I shudder, yet I marvel, O my Son, at Your divine, ineffable forbearance.”"
 
 ocMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode6
 ocMA.Kathisma31.greekmelody = he.a.m6_en_US_goadedes.heAU.ElpisTouKosmouAgathi.greekname
 ocMA.Kathisma31.melody = he.a.m6_en_US_goadedes.heAU.ElpisTouKosmouAgathi.name
-ocMA.Kathisma31.incipit = "…"
-ocMA.Kathisma31.text = ""
+ocMA.Kathisma31.incipit = "The tree in Eden…"
+ocMA.Kathisma31.text = "The tree in Eden yielded death to our ancestor Adam. * But now on Calvary, the tree of the Cross has produced life. * The enemy’s wickedness has been trampled down; * Adam is saved by the crucifixion of Christ, * and he returns to Paradise and cries aloud with joy, * “O tree, you are truly blessed!”"
 
 ocMA.Kathisma32.mode = miscellanea_en_US_goadedes.misc.Mode6
 ocMA.Kathisma32.melody = ""
@@ -607,9 +607,10 @@ ocMA.AposTheotokion.incipit = "…"
 ocMA.AposTheotokion.text = ""
 
 ocMA.ApolTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
-ocMA.ApolTheotokion.melody = ""
-ocMA.ApolTheotokion.incipit = "…"
-ocMA.ApolTheotokion.text = ""
+ocMA.ApolTheotokion.greekmelody = he.a.m6_en_US_goadedes.heAU.ElpisTouKosmouAgathi.greekname
+ocMA.ApolTheotokion.melody = he.a.m6_en_US_goadedes.heAU.ElpisTouKosmouAgathi.name
+ocMA.ApolTheotokion.incipit = oc.m6.d3_en_US_goadedes.ocMA.Kathisma13.incipit
+ocMA.ApolTheotokion.text = oc.m6.d3_en_US_goadedes.ocMA.Kathisma13.text
 
 ocLI.Beatitudes1.mode = miscellanea_en_US_goadedes.misc.Mode6
 ocLI.Beatitudes1.melody = he.h.m6_en_US_goadedes.heHE.IToChaireDiAngelou.name
