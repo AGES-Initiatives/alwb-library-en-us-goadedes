@@ -419,3 +419,18 @@ meLI.Kontakion1.text = me.m11.d16_en_US_goadedes.meMA.Kontakion1.text
 meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
 meLI.Megalynarion.text = "Being a companion of Christ the Word, * you were introduced to the sublime mysteries of God. * O Apostle Matthew, then grace divine inspired you * to put down in writing the holy Gospel of life."
+
+alt1.meMA.PostGospelGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
+alt1.meMA.PostGospelGlory.melody = ""
+alt1.meMA.PostGospelGlory.incipit = ho.ho03_en_US_goadedes.hoMA.PostGospelApostle.incipit
+alt1.meMA.PostGospelGlory.text = ho.ho03_en_US_goadedes.hoMA.PostGospelApostle.text
+
+alt1.meMA.PostGospelBoth.mode = miscellanea_en_US_goadedes.misc.Mode2
+alt1.meMA.PostGospelBoth.melody = ""
+alt1.meMA.PostGospelBoth.incipit = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.incipit
+alt1.meMA.PostGospelBoth.text = ho.ho03_en_US_goadedes.hoMA.PostGospelTheotokos.text
+
+alt1.meMA.PostGospelIdiomelon.mode = miscellanea_en_US_goadedes.misc.Mode6
+alt1.meMA.PostGospelIdiomelon.melody = ""
+alt1.meMA.PostGospelIdiomelon.incipit = "…"
+alt1.meMA.PostGospelIdiomelon.text = "All the faithful, let us congregate today, and with spiritual songs let us extol St. Matthew, the disciple and eyewitness of the Savior, and the all-glorious Apostle and Evangelist of Christ."
