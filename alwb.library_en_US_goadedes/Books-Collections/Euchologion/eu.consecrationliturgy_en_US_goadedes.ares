@@ -1,4 +1,236 @@
-A_Resource_Whose_Name = eu.consecrationliturgygoa_en_US_goadedes
+A_Resource_Whose_Name = eu.consecrationliturgy_en_US_goadedes
+
+euCA.MM.Ode1.text = properties_en_US_goadedes.media.key
+euCA.MM.Ode3.text = properties_en_US_goadedes.media.key
+euCA.MM.Ode4.text = properties_en_US_goadedes.media.key
+euCA.MM.Ode5.text = properties_en_US_goadedes.media.key
+euCA.MM.Ode6.text = properties_en_US_goadedes.media.key
+euCA.MM.Ode7.text = properties_en_US_goadedes.media.key
+euCA.MM.Ode8.text = properties_en_US_goadedes.media.key
+euCA.MM.Ode9.text = properties_en_US_goadedes.media.key
+
+euCA.poet = poets_en_US_goadedes.po.IoannouMonachou
+euCA.title = titles_en_US_goadedes.ti.CanonConsecration
+euCA.verse = prayers_en_US_goadedes.pr.verse_God.text
+
+euCA.Ode11.ode = miscellanea_en_US_goadedes.misc.Ode1
+euCA.Ode11.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode11.greekmelody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.greekname
+euCA.Ode11.melody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.name
+euCA.Ode11.incipit = "You led the chosen people…"
+euCA.Ode11.text = "You led the chosen people of Israel using a cloud long ago. * And now in Zion You planted Your Church * through the water of baptism, * O Christ, and she cries out to all, * “Come, let us sing unto our God a song.”"
+
+euCA.Ode12.ode = miscellanea_en_US_goadedes.misc.Ode1
+euCA.Ode12.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode12.melody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.name
+euCA.Ode12.incipit = "Today the descending…"
+euCA.Ode12.text = "Today the descending of Your glory, which is unapproachable, * has made this church, constructed here on earth, * into heaven, O Christ our God. * In it we all together sing, * “Come, let us sing unto our God a song.”"
+
+euCA.Ode13.ode = miscellanea_en_US_goadedes.misc.Ode1
+euCA.Ode13.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode13.melody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.name
+euCA.Ode13.incipit = "O Savior, Your Church…"
+euCA.Ode13.text = "O Savior, Your Church is decorated not by ritual rules of the Law, * nor by the slavish lifting of the hands. * But she sings to You, boasting in * the grace of Your all-holy Cross, * “Come, let us sing unto our God a song.”"
+
+euCA.Ode1T.ode = miscellanea_en_US_goadedes.misc.Ode1
+euCA.Ode1T.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode1T.melody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.name
+euCA.Ode1T.incipit = "The Father so willed…"
+euCA.Ode1T.text = "The Father so willed, and by the Holy Spirit without seed you conceived * the Son of God and bore Him in the flesh, * whom the Father begot without * a mother, and whom you brought forth * without a father, for the sake of all."
+
+euCA.Ode31.ode = miscellanea_en_US_goadedes.misc.Ode3
+euCA.Ode31.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode31.greekmelody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.greekname
+euCA.Ode31.melody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.name
+euCA.Ode31.incipit = "Anointing this holy Church…"
+euCA.Ode31.text = "Anointing this holy Church * with oil of gladness here on earth today, * by Your all-holy Spirit’s grace * You have sanctified it, O Christ our God."
+
+euCA.Ode32.ode = miscellanea_en_US_goadedes.misc.Ode3
+euCA.Ode32.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode32.melody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.name
+euCA.Ode32.incipit = "O Christ, this Your holy Church…"
+euCA.Ode32.text = "O Christ, this Your holy Church * has its unbreakable foundation in You; * and now Your most holy Cross, * like a royal crown, is surmounting it."
+
+euCA.Ode33.ode = miscellanea_en_US_goadedes.misc.Ode3
+euCA.Ode33.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode33.melody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.name
+euCA.Ode33.incipit = "Benevolent Lord…"
+euCA.Ode33.text = "Benevolent Lord, today * You make this building, that was made by hands, * to providentially house * Your glory, divine and ineffable."
+
+euCA.Ode3T.ode = miscellanea_en_US_goadedes.misc.Ode3
+euCA.Ode3T.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode3T.melody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.name
+euCA.Ode3T.incipit = "From you only we on earth…"
+euCA.Ode3T.text = "Through you only we on earth * procure divine and supernatural gifts, * all-holy Mother of God. * Therefore we salute you and sing, “Rejoice!”"
+
+euMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode4
+euMA.Ode3Kathisma1.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
+euMA.Ode3Kathisma1.incipit = me.m09.d13_en_US_goadedes.meMA.Kathisma11.incipit
+euMA.Ode3Kathisma1.text = me.m09.d13_en_US_goadedes.meMA.Kathisma11.text
+
+euMA.Ode3KathismaT.mode = miscellanea_en_US_goadedes.misc.Mode4
+euMA.Ode3KathismaT.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
+euMA.Ode3KathismaT.incipit = me.m09.d13_en_US_goadedes.meMA.Ode3KathismaT.incipit
+euMA.Ode3KathismaT.text = me.m09.d13_en_US_goadedes.meMA.Ode3KathismaT.text
+
+euCA.Ode41.ode = miscellanea_en_US_goadedes.misc.Ode4
+euCA.Ode41.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode41.greekmelody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.greekname
+euCA.Ode41.melody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.name
+euCA.Ode41.incipit = "Now Your Church…"
+euCA.Ode41.text = "Now Your Church, O Christ, is not sprinkled like the Temple * with sacrificial victims, but rather with Your precious * blood from Your life-giving side. * And rightly she sings to You, * “Glory to Your strength, O Lord!”"
+
+euCA.Ode42.ode = miscellanea_en_US_goadedes.misc.Ode4
+euCA.Ode42.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode42.melody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.name
+euCA.Ode42.incipit = "To the faithful…"
+euCA.Ode42.text = "To the faithful who desire to lay their eyes on * the glory of Your face unveiled, O Lord, Your beloved * tabernacles shout to them * with one voice and cry aloud, * “Glory to Your strength, O Lord!”"
+
+euCA.Ode43.ode = miscellanea_en_US_goadedes.misc.Ode4
+euCA.Ode43.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode43.melody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.name
+euCA.Ode43.incipit = "Now this church…"
+euCA.Ode43.text = "Now this church has been anointed today, depicting * the spiritual anointing of us Your chosen people * with the very precious oil * of chrism, receiving thus * the Spirit’s divine grace invisibly."
+
+euCA.Ode4T.ode = miscellanea_en_US_goadedes.misc.Ode4
+euCA.Ode4T.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode4T.melody = he.h.m4_en_US_goadedes.heHE.EparthentaSeIdousa.name
+euCA.Ode4T.incipit = "Remaining virgin, you conceived"
+euCA.Ode4T.text = "Remaining virgin, you conceived in your womb, O Virgin, * and even after childbirth, you remained a virgin. * Therefore with unwavering faith, O Lady, unceasingly * singing, we salute you: Rejoice!"
+
+euCA.Ode51.ode = miscellanea_en_US_goadedes.misc.Ode5
+euCA.Ode51.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode51.greekmelody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.greekname
+euCA.Ode51.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.name
+euCA.Ode51.incipit = "On Sinai long ago…"
+euCA.Ode51.text = "On Sinai long ago * You showed Moses, that seer of God, * the plan of the tabernacle, * O my Christ, that prefigured * Your Church, not made by human hands."
+
+euCA.Ode52.ode = miscellanea_en_US_goadedes.misc.Ode5
+euCA.Ode52.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode52.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.name
+euCA.Ode52.incipit = "O Master, You have built…"
+euCA.Ode52.text = "O Master, You have built * this tabernacle here on earth, * where heavenly hosts of Angels * meet the choirs of humans, * by Your divine omnipotence."
+
+euCA.Ode53.ode = miscellanea_en_US_goadedes.misc.Ode5
+euCA.Ode53.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode53.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.name
+euCA.Ode53.incipit = "O Christ, we know…"
+euCA.Ode53.text = "O Christ, we know that You * are the source of eternal life. * You came and You preached the Gospel * of peace unto Your people, * Your Church, O holy Lord our God."
+
+euCA.Ode5T.ode = miscellanea_en_US_goadedes.misc.Ode5
+euCA.Ode5T.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode5T.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.name
+euCA.Ode5T.incipit = "Against our every foe…"
+euCA.Ode5T.text = "Against our every foe, * we have you, our unbreakable shield. * We hope in you for salvation. * We have you as our anchor, all-holy Virgin, Bride of God."
+
+euCA.Ode61.ode = miscellanea_en_US_goadedes.misc.Ode6
+euCA.Ode61.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode61.greekmelody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.greekname
+euCA.Ode61.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.name
+euCA.Ode61.incipit = "Christ the King…"
+euCA.Ode61.text = "Christ the King as Lord has now desired the beauty of the holy Church that He founded. * He has made her mother of all the nations * He adopted by the Spirit and rescued from slavery."
+
+euCA.Ode62.ode = miscellanea_en_US_goadedes.misc.Ode6
+euCA.Ode62.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode62.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.name
+euCA.Ode62.incipit = "Battalions of wicked demons…"
+euCA.Ode62.text = "Battalions of wicked demons shudder before the Church of Christ and fearfully tremble, * for the holy sign of the Cross is marked there; * and the Spirit’s illumination covers and hallows it."
+
+euCA.Ode63.ode = miscellanea_en_US_goadedes.misc.Ode6
+euCA.Ode63.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode63.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.name
+euCA.Ode63.incipit = "Having her foundation…"
+euCA.Ode63.text = "Having her foundation not on sand but the rock of Christ, the holy Church of the Gentiles * is adorned with unapproachable beauty, * with the symbols of the eternal kingdom bedecking her."
+
+euCA.Ode6T.ode = miscellanea_en_US_goadedes.misc.Ode6
+euCA.Ode6T.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode6T.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.name
+euCA.Ode6T.incipit = "O miracle, more novel…"
+euCA.Ode6T.text = "O miracle, more novel than all other miracles! * Behold, without man a Virgin * in her body conceived the One who holds * in His hands the universe, and He was not confined by her."
+
+euMA.Kontakion.mode = me.m09.d13_en_US_goadedes.meMA.Kontakion1.mode
+euMA.Kontakion.melody = me.m09.d13_en_US_goadedes.meMA.Kontakion1.melody
+euMA.Kontakion.incipit = me.m09.d13_en_US_goadedes.meMA.Kontakion1.incipit
+euMA.Kontakion.text = me.m09.d13_en_US_goadedes.meMA.Kontakion1.text
+
+euMA.Oikos.text = me.m09.d13_en_US_goadedes.meMA.Oikos1.text
+
+euCA.Ode71.ode = miscellanea_en_US_goadedes.misc.Ode7
+euCA.Ode71.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode71.greekmelody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.greekname
+euCA.Ode71.melody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.name
+euCA.Ode71.incipit = "That fiery furnace…"
+euCA.Ode71.text = "That fiery furnace * long ago became like a dew-laden breeze. * Now the spiritual chrism composed of oil * sanctifies the faithful, who cry out * together, “In the temple of Your holy glory, You are blessed, O Lord.”"
+
+euCA.Ode72.ode = miscellanea_en_US_goadedes.misc.Ode7
+euCA.Ode72.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode72.melody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.name
+euCA.Ode72.incipit = "As in that furnace…"
+euCA.Ode72.text = "As in that furnace, * we who are the spiritual Israel, * standing in this new tabernacle where God dwells, * are bedewed with grace. So let us sing * together, “In the temple of Your holy glory, You are blessed, O Lord.”"
+
+euCA.Ode73.ode = miscellanea_en_US_goadedes.misc.Ode7
+euCA.Ode73.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode73.melody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.name
+euCA.Ode73.incipit = "All who are smitten…"
+euCA.Ode73.text = "All who are smitten * with sweetest love and longing for God, * entering this mystical bridal chamber now, * be united to the Bridegroom Christ. * Together let us sing to Him, “O Lord of glory, You are blessed.”"
+
+euCA.Ode7T.ode = miscellanea_en_US_goadedes.misc.Ode7
+euCA.Ode7T.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode7T.melody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.name
+euCA.Ode7T.incipit = "Divine and hallowed habitation…"
+euCA.Ode7T.text = "Divine and hallowed * habitation of the Most High God, rejoice! * For through you, O Theotokos, was given joy * unto us who cry aloud to you: * Among all women, Lady, you are blessed, all-blameless, and immaculate."
+
+euCA.Ode81.ode = miscellanea_en_US_goadedes.misc.Ode8
+euCA.Ode81.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode81.greekmelody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.greekname
+euCA.Ode81.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.name
+euCA.Ode81.incipit = "Master, on this day…"
+euCA.Ode81.text = "Master, on this day Your holy Church is like a bride who is wearing a wedding gown * that has been woven of grace divine * in the heavens. She invites her friends * and all the people to rejoice * and celebrate with her together singing, * “Bless the Lord and praise Him, all you works of the Lord.”"
+
+euCA.Ode82.ode = miscellanea_en_US_goadedes.misc.Ode8
+euCA.Ode82.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode82.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.name
+euCA.Ode82.incipit = "Today, second Adam…"
+euCA.Ode82.text = "Today, second Adam, namely Christ, has made this new tabernacle a spiritual * Garden of Eden. And in its midst, * instead of the tree of knowledge, * is the holy Cross, which is for us * life-giving armor, as we are singing, * “Bless the Lord and praise Him, all you works of the Lord.”"
+
+euCA.Ode83.ode = miscellanea_en_US_goadedes.misc.Ode8
+euCA.Ode83.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode83.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.name
+euCA.Ode83.incipit = "Single is the Godhead…"
+euCA.Ode83.text = "Single is the Godhead we adore, and unoriginate, in three hypostases, * consubstantial, indivisible, * perfect: Father unoriginate, * and You His Son, and the divine * Spirit, the Trinity. We extol You, * “Bless the Lord and praise Him, all you works of the Lord.”"
+
+euCA.Ode8T.ode = miscellanea_en_US_goadedes.misc.Ode8
+euCA.Ode8T.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode8T.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.name
+euCA.Ode8T.incipit = "Immaculate Virgin…"
+euCA.Ode8T.text = "Immaculate Virgin, in all generations only you became the Mother of God; * and you were also the dwelling place * of the Godhead, O all-blameless one, * and you were not at all consumed * by the fire of the unapproachable light. * We all now bless you, O Mary the Bride of God."
+
+euCA.Ode91.ode = miscellanea_en_US_goadedes.misc.Ode9
+euCA.Ode91.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode91.greekmelody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.greekname
+euCA.Ode91.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.name
+euCA.Ode91.incipit = "Purified in heart…"
+euCA.Ode91.text = "Purified in heart and with wakeful eyes of our intellect beholding * all the beauty and all the glory, * which is more splendid than gold, within the Church, * let us perceive the daughter of the King and magnify her evermore."
+
+euCA.Ode92.ode = miscellanea_en_US_goadedes.misc.Ode9
+euCA.Ode92.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode92.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.name
+euCA.Ode92.incipit = "Bride of the great King…"
+euCA.Ode92.text = "Bride of the great King, we salute you: Rejoice, O Virgin, and be merry! * For you are distinctly reflecting * the holy beauty of your celestial Bridegroom. * And with your people sing to Him, “We magnify You, O Giver of life.”"
+
+euCA.Ode93.ode = miscellanea_en_US_goadedes.misc.Ode9
+euCA.Ode93.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode93.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.name
+euCA.Ode93.incipit = "Grant Your Church…"
+euCA.Ode93.text = "Grant Your Church the mighty protection that comes from heaven, O our Savior. * For she knows no other protector * except for You, who laid down Your life for her. * And knowing this, she magnifies You as the Lord who is benevolent."
+
+euCA.Ode9T.ode = miscellanea_en_US_goadedes.misc.Ode9
+euCA.Ode9T.mode = miscellanea_en_US_goadedes.misc.Mode4
+euCA.Ode9T.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.name
+euCA.Ode9T.incipit = "Rejoice, holy Bride…"
+euCA.Ode9T.text = "Rejoice, holy Bride of the great King, Maiden full of grace, Virgin Mary! * Through you we have all been delivered * from the curse that Eve heard long ago in Eden, * and we have found eternal life, O ever-virgin, through your childbirth."
+
+euMA.R001 = "The Hierarch … and says the prayers of Pat. Callistus."
 
 euCON.Key4000.title = "CONSECRATION LITURGY"
 euCON.Key4100.title = "CONSECRATION"
