@@ -1307,10 +1307,14 @@ alt1.meMA.LaudsGlory.text = "The bounties of your protection, extending everywhe
 
 alt1.meMA.MM.Lauds1234as5678.text = properties_en_US_goadedes.media.key
 
-alt1.meLI.Kontakion1.mode = alt1.meMA.Kontakion1.mode
-alt1.meLI.Kontakion1.melody = alt1.meMA.Kontakion1.melody
-alt1.meLI.Kontakion1.incipit = alt1.meMA.Kontakion1.incipit
-alt1.meLI.Kontakion1.text = alt1.meMA.Kontakion1.text
+alt1.meLI.Kontakion1.mode = me.m10.d28_en_US_goadedes.alt1.meMA.Kontakion1.mode
+alt1.meLI.Kontakion1.melody = me.m10.d28_en_US_goadedes.alt1.meMA.Kontakion1.melody
+alt1.meLI.Kontakion1.incipit = me.m10.d28_en_US_goadedes.alt1.meMA.Kontakion1.incipit
+alt1.meLI.Kontakion1.text = me.m10.d28_en_US_goadedes.alt1.meMA.Kontakion1.text
+
+alt1.meLI.TheotokosHymn.mode = miscellanea_en_US_goadedes.misc.Mode4
+alt1.meLI.TheotokosHymnVerse.text = me.m10.d28_en_US_goadedes.alt1.meMA.Ode9C1M01.text
+alt1.meLI.TheotokosHymn.text = me.m10.d28_en_US_goadedes.alt1.meMA.Ode9C1H.text
 
 alt1.meLI.MM.CommunionHymn.text = properties_en_US_goadedes.media.key
 
