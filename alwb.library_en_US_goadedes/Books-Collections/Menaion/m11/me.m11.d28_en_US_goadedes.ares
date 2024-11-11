@@ -6,7 +6,7 @@ meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
 meDA.commemoration.first_title = "For St. Stephen."
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = "For St. Irenarchos."
+meDA.commemoration.second_title = "For St. Irenarchus."
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
@@ -25,40 +25,41 @@ meHO.note2 = ""
 meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.Stichera01.greekmelody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.greekname
 meVE.Stichera01.melody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.name
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
+meVE.Stichera01.incipit = "You were dedicated…"
+meVE.Stichera01.text = "You were dedicated to the Lord when you were an infant. * Transcending carnality * and earthly relationships, you became a monk, * and as such you excelled and become a vessel * of the Holy Spirit, blessed Saint * Stephen; and physically 
+secluding yourself in a narrow cell, * you let your mind and heart ascend * up into the heavens to contemplate * the celestial beauty of Christ our King and God. And for the sake * of venerating His images, you contested mightily."
 
 meVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.Stichera02.melody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.name
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
+meVE.Stichera02.incipit = "When you were arrested…"
+meVE.Stichera02.text = "When you were arrested and held in a dungeon, O Stephen, * you fasted for forty days * like the Lord, as you prepared for your martyrdom. * You consoled and inspired imprisoned monastics. * Then the merciless like vicious beasts * laid violent hands on you, the innocent lamb, and they dragged you out * and wounded you, who mightily endured it, as Martyrs admired you. * Then they threw your body where criminals were buried in a pit. * You now unceasingly intercede * for our souls with confidence."
 
 meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.Stichera03.melody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.name
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
+meVE.Stichera03.incipit = "Men who broke the law…"
+meVE.Stichera03.text = "Men who broke the law of God and who instead were obeying * the unlawful emperor’s * lawless orders and decrees pelted you with stones, * like your namesake of old, the first Martyr Stephen, * and they mercilessly crushed your skull, * ruthlessly dragging you * through the streets and thus disemboweling you, * all-honored Saint. But even when * you were dead, they showed no humanity. * Great was your endurance, your fortitude, your courage and resolve, * for which imperishable awards * from God were bestowed on you."
 
 meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.Stichera04.greekmelody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.greekname
 meVE.Stichera04.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
-meVE.Stichera04.incipit = "…"
-meVE.Stichera04.text = ""
+meVE.Stichera04.incipit = "O faithful, as we rightly…"
+meVE.Stichera04.text = "O faithful, as we rightly extol the contests of the Athlete of Christ * and his labors as champion of truth, we pray to God our Savior, * “O Lord, at his entreaties from all necessity deliver us.”"
 
 meVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.Stichera05.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
-meVE.Stichera05.incipit = "…"
-meVE.Stichera05.text = ""
+meVE.Stichera05.incipit = "While you were in the middle…"
+meVE.Stichera05.text = "While you were in the middle of your contest and the turbulence * of the torments, mighty peace came down from God to you, O valiant soldier, * all-blessed Irenarchus, who intercede for us who honor you."
 
 meVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.Stichera06.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
-meVE.Stichera06.incipit = "…"
-meVE.Stichera06.text = ""
+meVE.Stichera06.incipit = "O blessed Irenarchus…"
+meVE.Stichera06.text = "O blessed Irenarchus, with you a group of seven women and two * holy children and Acacius the divine defeated pagan error, * and mightily completed and won the contest of martyrdom."
 
 meVE.SticGlory.poet = poets_en_US_goadedes.po.Stouditou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "You were dedicated to God…"
+meVE.SticGlory.text = "You were dedicated to God from infancy, like the great prophet Samuel, O most sacred St. Stephen. You went up into a mountain, and you pleased the Lord, living the monastic life. Then you bravely prepared yourself for the contest. You endured exile and tribulation with fortitude, as well as fetters and imprisonment, for the sake for His holy icons. After you were dragged and beaten and stoned, and your skull was crushed, you received awards from Christ God. Entreat Him on behalf of us who happily celebrate your time-honored memory, to deliver us from suffering, temptation, and the coming tribulation, and to save our souls."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticTheotokion.melody = ""
@@ -73,8 +74,8 @@ meVE.SticStavrotheotokion.text = me.m02.d17_en_US_goadedes.meMA.LaudsStavrotheot
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "O devout father…"
+meVE.AposGlory.text = "O devout father, you preserved in yourself the undistorted image of God. You valiantly championed the sacred images and icons of Christ, not shrinking from the threats of the emperor called Copronymus. Indeed, you figuratively slew him with the sword of the Spirit. As you have acquired confidence towards God, O formidable Martyr Stephen, we implore you to preserve your flock from every heresy."
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.AposTheotokion.melody = ""
