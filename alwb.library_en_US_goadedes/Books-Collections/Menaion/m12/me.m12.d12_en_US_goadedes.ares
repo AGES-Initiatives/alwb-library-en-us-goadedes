@@ -372,8 +372,8 @@ meMA.Exaposteilarion2.text = ""
 
 meMA.ExapTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_en_US_goadedes.heAU.EnPnevmatiToIero.name
-meMA.ExapTheotokion.incipit = "…"
-meMA.ExapTheotokion.text = ""
+meMA.ExapTheotokion.incipit = me.m07.d01_en_US_goadedes.meMA.ExapTheotokion.incipit
+meMA.ExapTheotokion.text = me.m07.d01_en_US_goadedes.meMA.ExapTheotokion.text
 
 meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Lauds1.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname
@@ -877,8 +877,8 @@ alt1.meMA.Exaposteilarion2.text = me.m12.d12_en_US_goadedes.meMA.Exaposteilarion
 
 alt1.meMA.ExapTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode3
 alt1.meMA.ExapTheotokion.melody = he.a.m3_en_US_goadedes.heAU.EnPnevmatiToIero.name
-alt1.meMA.ExapTheotokion.incipit = me.m12.d12_en_US_goadedes.meMA.ExapTheotokion.incipit
-alt1.meMA.ExapTheotokion.text = me.m12.d12_en_US_goadedes.meMA.ExapTheotokion.text
+alt1.meMA.ExapTheotokion.incipit = me.m07.d01_en_US_goadedes.meMA.ExapTheotokion.incipit
+alt1.meMA.ExapTheotokion.text = me.m07.d01_en_US_goadedes.meMA.ExapTheotokion.text
 
 alt1.meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt1.meMA.Lauds1.greekmelody = he.a.m1_en_US_goadedes.heAU.TonOuranionTagmaton.greekname
