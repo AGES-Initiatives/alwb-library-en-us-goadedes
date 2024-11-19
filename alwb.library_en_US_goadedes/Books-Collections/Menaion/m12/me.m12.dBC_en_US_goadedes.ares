@@ -40,9 +40,9 @@ meVE.Stichera03.text = "The all-holy Virgin understood * that her inconceivable,
 
 meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Stichera04.greekmelody = he.a.m8_en_US_goadedes.heAU.OEnEdemParadeisos.greekname
-meVE.Stichera04.melody = he.a.m8_en_US_goadedes.heAU.OEnEdemParadeisos.notmetered
-meVE.Stichera04.incipit = "O believers, today as we observe…"
-meVE.Stichera04.text = "O believers, today as we observe the memory of the fathers, let us extol Christ our Redeemer, who magnified them among all nations, and who faithfully performed those extraordinary miracles, as powerful and mighty Lord. From them He produced the rod of power for us, namely Mary, the only perpetually virgin pure Mother of God. From her came forth the flower, namely Christ, who blossomed life for all, never-ending delight, and the salvation of our souls."
+meVE.Stichera04.melody = he.a.m8_en_US_goadedes.heAU.OEnEdemParadeisos.name
+meVE.Stichera04.incipit = me.m12.dFF_en_US_goadedes.meVE.Stichera01.incipit
+meVE.Stichera04.text = me.m12.dFF_en_US_goadedes.meVE.Stichera01.text
 
 meVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Stichera05.melody = he.a.m8_en_US_goadedes.heAU.OEnEdemParadeisos.name
