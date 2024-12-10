@@ -42,18 +42,18 @@ meVE.Stichera03.text = ""
 meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Stichera04.greekmelody = he.a.m8_en_US_goadedes.heAU.TiYmasKalesomen.greekname
 meVE.Stichera04.melody = he.a.m8_en_US_goadedes.heAU.TiYmasKalesomen.name
-meVE.Stichera04.incipit = "…"
-meVE.Stichera04.text = ""
+meVE.Stichera04.incipit = "You conversed with Angels…"
+meVE.Stichera04.text = "You conversed with Angels, O God-inspired * Zechariah, for you imitated them in way of life, * and through them your mind was lightened about things transcending thought. * The symbols of things wonderful were clarified, * and even greater mysteries were shown to you, * and you were spiritually renewed, * and you were able to prophesy. * So pray for us, and entreat the Lord to save our souls."
 
 meVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Stichera05.melody = he.a.m8_en_US_goadedes.heAU.TiYmasKalesomen.name
-meVE.Stichera05.incipit = "…"
-meVE.Stichera05.text = ""
+meVE.Stichera05.incipit = "You were like an Angel…"
+meVE.Stichera05.text = "You were like an Angel upon the earth, * with celestial interlocutors while living still on earth, * as a seer of the otherworldly and supermundane; * a lampstand that is shining with spiritual light; * a fruitful olive tree, of which the Psalmist sang, * dripping with fatness of grace divine * for all the faithful who honor you. * So pray for us, and entreat the Lord to save our souls."
 
 meVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Stichera06.melody = he.a.m8_en_US_goadedes.heAU.TiYmasKalesomen.name
-meVE.Stichera06.incipit = "…"
-meVE.Stichera06.text = ""
+meVE.Stichera06.incipit = "As a most authentic…"
+meVE.Stichera06.text = "As a most authentic Prophet of God, * you experienced theosis, which we also hope to do. * The delight that never ends has clearly permeated you, * beholding glory fiery and ineffable, * a crown of gold and silver adorning your head. * O Zechariah inspired by God, * earnestly pray to the Lord for us * who honor you, importuning Him to save our souls."
 
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.SticGlory.melody = ""
@@ -84,8 +84,8 @@ meVE.Aposticha3.text = me.m02.d03_en_US_goadedes.meMA.Aposticha3.text
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "Let us the faithful…"
+meVE.AposGlory.text = "Let us the faithful extol the valorous Great Martyr Theodore, whose name in Greek denotes the gifts of God; and let us fittingly call him blessed, for he is the heir of God’s blessedness. As the champion of the whole wide world, he intercedes with Christ God, on behalf of our souls."
 
 meVE.AposBoth.poet = poets_en_US_goadedes.po.AndreouKritis
 meVE.AposBoth.mode = miscellanea_en_US_goadedes.misc.Mode8
@@ -109,8 +109,8 @@ meVE.Apolytikion2ger.text = ""
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Kathisma11.greekmelody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
-meMA.Kathisma11.incipit = "…"
-meMA.Kathisma11.text = ""
+meMA.Kathisma11.incipit = "The Savior Christ’s triumphant…"
+meMA.Kathisma11.text = "The Savior Christ’s triumphant great medaled Athlete, * who is beloved by God and also by Angels, * yes, marvelous and glorious St. Theodore, * today is bringing holy joy in the grace of the Spirit * to the sacred Churches all in every location, * He prompts us all to joyfully observe * the celebration of his time-honored memory."
 
 meMA.Kathisma12.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Kathisma12.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
@@ -121,8 +121,8 @@ meMA.Kathisma12.text = me.m02.d02_en_US_goadedes.meMA.Ode3Kathisma1.text
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Kathisma21.greekmelody = he.a.m1_en_US_goadedes.heAU.TouLithouSfragisthentos.greekname
 meMA.Kathisma21.melody = he.a.m1_en_US_goadedes.heAU.TouLithouSfragisthentos.name
-meMA.Kathisma21.incipit = "…"
-meMA.Kathisma21.text = ""
+meMA.Kathisma21.incipit = me.m02.d01_en_US_goadedes.meMA.Ode3Kathisma2.incipit
+meMA.Kathisma21.text = me.m02.d01_en_US_goadedes.meMA.Ode3Kathisma2.text
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
@@ -695,10 +695,10 @@ meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_goadedes.misc.Mode3
-meMA.Exaposteilarion2.greekmelody = me.m02.d02_en_US_goadedes.meMA.Exaposteilarion1.greekmelody
-meMA.Exaposteilarion2.melody = me.m02.d02_en_US_goadedes.meMA.Exaposteilarion1.melody
-meMA.Exaposteilarion2.incipit = me.m02.d02_en_US_goadedes.meMA.Exaposteilarion1.incipit
-meMA.Exaposteilarion2.text = me.m02.d02_en_US_goadedes.meMA.Exaposteilarion1.text
+meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_goadedes.heAU.EnPnevmatiToIero.greekname
+meMA.Exaposteilarion2.melody = he.a.m3_en_US_goadedes.heAU.EnPnevmatiToIero.melody
+meMA.Exaposteilarion2.incipit = he.a.m3_en_US_goadedes.heAU.EnPnevmatiToIero.incipit
+meMA.Exaposteilarion2.text = he.a.m3_en_US_goadedes.heAU.EnPnevmatiToIero.text
 
 meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Lauds1.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
@@ -724,8 +724,8 @@ meMA.LaudsGlory.text = ""
 meMA.LaudsBoth.poet = poets_en_US_goadedes.po.Germanou
 meMA.LaudsBoth.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.LaudsBoth.melody = ""
-meMA.LaudsBoth.incipit = me.m02.d02_en_US_goadedes.meVE.Lity6.incipit
-meMA.LaudsBoth.text = me.m02.d02_en_US_goadedes.meVE.Lity6.text
+meMA.LaudsBoth.incipit = me.m02.d01_en_US_goadedes.meMA.AposGlory.incipit
+meMA.LaudsBoth.text = me.m02.d01_en_US_goadedes.meMA.AposGlory.text
 
 meMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname

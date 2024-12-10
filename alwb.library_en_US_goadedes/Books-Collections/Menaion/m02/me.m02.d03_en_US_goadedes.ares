@@ -112,8 +112,8 @@ meVE.Apolytikion2ger.text = ""
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Kathisma11.greekmelody = he.a.m1_en_US_goadedes.heAU.TouLithouSfragisthentos.greekname
 meMA.Kathisma11.melody = he.a.m1_en_US_goadedes.heAU.TouLithouSfragisthentos.name
-meMA.Kathisma11.incipit = "…"
-meMA.Kathisma11.text = ""
+meMA.Kathisma11.incipit = me.m02.d01_en_US_goadedes.meMA.Ode3Kathisma2.incipit
+meMA.Kathisma11.text = me.m02.d01_en_US_goadedes.meMA.Ode3Kathisma2.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode5
 meMA.Kathisma21.greekmelody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.greekname
@@ -415,18 +415,18 @@ meMA.Exaposteilarion1.text = ""
 meMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Aposticha1.greekmelody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.greekname
 meMA.Aposticha1.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
-meMA.Aposticha1.incipit = "…"
-meMA.Aposticha1.text = ""
+meMA.Aposticha1.incipit = "O Symeon, receive…"
+meMA.Aposticha1.text = "O Symeon, receive in your arms * the Maker of the universe, * holy Elder, and embrace Him, who is Christ, * whom the all-holy Virgin * conceived and bore without seed, * for the rejoicing of humanity."
 
 meMA.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Aposticha2.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
-meMA.Aposticha2.incipit = "…"
-meMA.Aposticha2.text = ""
+meMA.Aposticha2.incipit = "Believers from the across…"
+meMA.Aposticha2.text = "Believers from the across the globe, * assemble now and all extol * the Creator and the Maker of the Law, * at whom the Angels tremble, * the only Benefactor, * for He has come to us to save our souls."
 
 meMA.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Aposticha3.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
-meMA.Aposticha3.incipit = "…"
-meMA.Aposticha3.text = ""
+meMA.Aposticha3.incipit = "According to Your word…"
+meMA.Aposticha3.text = "According to Your word, O Christ, * You now release Your servant in peace * from the body; for I saw You, who are light * eternal, for the glory * of Israel Your people * and revelation to the nations all."
 
 meMA.AposGlory.poet = poets_en_US_goadedes.po.GermanouOiDeIoannouMonachou
 meMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
