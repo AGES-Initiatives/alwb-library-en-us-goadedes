@@ -12,6 +12,7 @@ meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
 meDA.note = "The additional materials, Lity, Kathismata, and Post Gospel Idiomelon, not found in the Menaion, were composed in Greek by St. Nikodemos of the Holy Mountain. (Systema Typikou, p. 186)."
 meDA.pdfcoverdate = ""
+meDA.pdfdatebefore = ""
 meDA.pdfheaderdate = ""
 meDA.fordate = ""
 meLE.commemoration1 = ""
