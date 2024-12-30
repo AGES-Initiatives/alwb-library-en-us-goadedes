@@ -64,18 +64,18 @@ meVE.SticGlory.text = me.m01.d02_en_US_goadedes.meVE.Aposticha3.text
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
 meVE.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meVE.Aposticha1.incipit = "…"
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.incipit = "Minister to the Word…"
+meVE.Aposticha1.text = "Minister to the Word, * O Forerunner and Prophet; * and as His friend, the Bridegroom; * and as His lamp, the Light; as His dawn, the Sun of righteousness."
 
 meVE.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Aposticha2.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meVE.Aposticha2.incipit = "…"
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.incipit = "Sing the pre-festal hymns…"
+meVE.Aposticha2.text = "Sing the pre-festal hymns! * For our illumination * and our Redeemer, Jesus, * is at the Jordan River. Come, let us all be purified."
 
 meVE.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Aposticha3.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meVE.Aposticha3.incipit = "…"
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.incipit = "All blessings…"
+meVE.Aposticha3.text = "All blessings come to me * through you, O Theotokos: * that God has dwelt among men, * the light appeared at Jordan, and in His light I see the light."
 
 meVE.AposGlory.poet = poets_en_US_goadedes.po.Vyzantiou
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
@@ -1027,8 +1027,8 @@ meMA.Aposticha1.text = me.m01.d03_en_US_goadedes.meMA.AposGlory.text
 
 meMA.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Aposticha2.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meMA.Aposticha2.incipit = "…"
-meMA.Aposticha2.text = ""
+meMA.Aposticha2.incipit = "Prophet and Baptist…"
+meMA.Aposticha2.text = "Prophet and Baptist John, * receive now as a servant * the world’s divine Redeemer, * and baptized the Creator as He renews humanity."
 
 meMA.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Aposticha3.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
@@ -1037,8 +1037,8 @@ meMA.Aposticha3.text = me.m01.d04_en_US_goadedes.meVE.Aposticha2.text
 
 meMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.AposGlory.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meMA.AposGlory.incipit = "…"
-meMA.AposGlory.text = ""
+meMA.AposGlory.incipit = "Christ has today…"
+meMA.AposGlory.text = "Christ has today bestowed * on all mankind the gift of * salvation and redemption, * He purifies our souls by the fire of His baptism."
 
 meLI.Kontakion1.mode = me.m01.d04_en_US_goadedes.meMA.Kontakion1.mode
 meLI.Kontakion1.greekmelody = me.m01.d04_en_US_goadedes.meMA.Kontakion1.greekmelody
