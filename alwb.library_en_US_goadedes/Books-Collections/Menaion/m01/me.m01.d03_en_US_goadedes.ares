@@ -64,18 +64,18 @@ meVE.SticGlory.text = ""
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.Aposticha1.greekmelody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.greekname
 meVE.Aposticha1.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
-meVE.Aposticha1.incipit = "…"
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.incipit = "Behold, our expiation…"
+meVE.Aposticha1.text = "Behold, our expiation has come! * Behold, illumination for us * the believers! To the Jordan Jesus goes * to cleanse our human nature * of every stain of sin, and since we were damaged to refashion us."
 
 meVE.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.Aposticha2.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
-meVE.Aposticha2.incipit = "…"
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.incipit = "O Master…"
+meVE.Aposticha2.text = "O Master, when Your Forerunner saw * You coming to him and he heard * You requesting that He be baptized by him, * with fear and trepidation * he said, “My God and Maker how can I baptize You, the sinless One?”"
 
 meVE.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.Aposticha3.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
-meVE.Aposticha3.incipit = "…"
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.incipit = "O faithful…"
+meVE.Aposticha3.text = "O faithful, let us mentally * assemble at the Jordan’s streams * and imagine that most wondrous spectacle. * The Creator of all things * is going to be baptized, having appeared in His epiphany."
 
 meVE.AposGlory.poet = poets_en_US_goadedes.po.Vyzantiou
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode5
@@ -249,30 +249,30 @@ meCO.Ode9C2H.text = he.h.m6_en_US_goadedes.heHE.TinTimioteran.text
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode3
 meMA.Kathisma11.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
 meMA.Kathisma11.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.name
-meMA.Kathisma11.incipit = "…"
-meMA.Kathisma11.text = ""
+meMA.Kathisma11.incipit = "Uncircumscribed is He…"
+meMA.Kathisma11.text = "Uncircumscribed is He in His divinity, * yet circumscribed in His corporeality; * and He is coming to be baptized in the River Jordan. * Come, let us receive the Lord with contemplative purity, * for He wishes to effect the renewal of everyone. * To Him let us with fear therefore cry out, * “Glory to Your epiphany, O Christ!”"
 
 meMA.Kathisma12.mode = miscellanea_en_US_goadedes.misc.Mode3
 meMA.Kathisma12.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
 meMA.Kathisma12.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.name
-meMA.Kathisma12.incipit = "…"
-meMA.Kathisma12.text = ""
+meMA.Kathisma12.incipit = "At Your epiphany…"
+meMA.Kathisma12.text = "At Your epiphany at River Jordan, O Lord, * when You were physically baptized therein by John, * the hosts of Angels were amazed, O Master of all creation, * seeing You, O Savior, stand near Your servant and speak to Him. * And the unoriginate heavenly Father bore witness to You. * And therefore with great joy we cry out to You: * Glory to Your epiphany, O Christ!"
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode5
 meMA.Kathisma21.greekmelody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.greekname
 meMA.Kathisma21.melody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.name
-meMA.Kathisma21.incipit = "…"
-meMA.Kathisma21.text = ""
+meMA.Kathisma21.incipit = "As the Father…"
+meMA.Kathisma21.text = "As the Father and Spirit are one in dignity, * so the Word, now incarnate and baptized for our sake. * As the hosts of Angels witnessed this, they trembled in awe. * When the Jordan River sensed its Creator enter it, * with fear and reverence it turned back, * and to heights of salvation * lifted us who fell into passions of old."
 
 meMA.Kathisma22.mode = miscellanea_en_US_goadedes.misc.Mode5
 meMA.Kathisma22.greekmelody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.greekname
 meMA.Kathisma22.melody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.name
-meMA.Kathisma22.incipit = "…"
-meMA.Kathisma22.text = ""
+meMA.Kathisma22.incipit = "As the Father and Spirit…"
+meMA.Kathisma22.text = "As the Father and Spirit are unoriginate, * so the Word, who with mercy assumed our human form. * He is going to the Jordan to be baptized for us. * Let us welcome Him with joy, having purified our thoughts, * and let us say, “Christ our Savior * and Benefactor, You are blessed, * for You have come to sanctify us!”"
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
-meMA.C.acrostic.notice2 = ""
+meMA.C1.acrostic.notice2 = ""
 meMA.C1.title = titles_en_US_goadedes.ti.CanonForefeast
 meMA.C1.verse = prayers_en_US_goadedes.pr.verse_God.text
 
@@ -978,40 +978,40 @@ meMA.Exaposteilarion1.text = ""
 meMA.Exaposteilarion2.mode = miscellanea_en_US_goadedes.misc.Mode3
 meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_goadedes.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_en_US_goadedes.heAU.EnPnevmatiToIero.name
-meMA.Exaposteilarion2.incipit = "…"
-meMA.Exaposteilarion2.text = ""
+meMA.Exaposteilarion2.incipit = "Having seen in Bethlehem…"
+meMA.Exaposteilarion2.text = "Having seen in Bethlehem the amazing new wonder, * with soulful ardor let us now go to the Jordan River, * and there we shall be witnesses of the awesome mystery; * for with godly dignity, my Christ has stripped himself for me, * and He has clothed me in the robe of the heavenly Kingdom."
 
 meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Lauds1.greekmelody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.greekname
 meMA.Lauds1.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
-meMA.Lauds1.incipit = "…"
-meMA.Lauds1.text = ""
+meMA.Lauds1.incipit = "Heaven is the throne…"
+meMA.Lauds1.text = "Heaven is the throne that He sits upon as Master. * He came down to earth now incarnate of the Virgin. * And at the Jordan River, He requests of the Baptist John * all humanity’s purification. * Let us the tribes and all the families of earth sing to Him, * “Blessed are You who have appeared; glory to You, our God!”"
 
 meMA.Lauds2.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Lauds2.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
-meMA.Lauds2.incipit = "…"
-meMA.Lauds2.text = ""
+meMA.Lauds2.incipit = "Christ has now arrived…"
+meMA.Lauds2.text = "Christ has now arrived at the waters of the Jordan. * He who washes sins is requesting to be baptized. * Let all the earth rejoice now with the heavens exultantly. * Celebrate, O Church of the Gentiles, * for to the King you have been wedded, and faithfully sing, * “Blessed are You who have appeared; glory to You, our God!”"
 
 meMA.Lauds3.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Lauds3.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
-meMA.Lauds3.incipit = "…"
-meMA.Lauds3.text = ""
+meMA.Lauds3.incipit = "Mountains, drip…"
+meMA.Lauds3.text = "Mountains, drip your sweet wine of joy, and you, O Nations, * clap your hands, and mystically blossom, O you desert, * as holy Prophets uttered. River Jordan, now welcome Christ. * Baptist, come and joyfully assist with * the sacrament of the Redeemer. Let all people sing, * “Blessed are You who have appeared; glory to You, our God!”"
 
 meMA.Lauds4.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.Lauds4.greekmelody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.greekname
 meMA.Lauds4.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
-meMA.Lauds4.incipit = "…"
-meMA.Lauds4.text = ""
+meMA.Lauds4.incipit = "Light from Light…"
+meMA.Lauds4.text = "Light from Light, He shone forth before all time and ages. * He appeared to those sitting in the night and shadow, * and He has purged the darkness of our sins and has made us clean. * Adam, dance for joy, and Eve, be happy. * For Christ has come for your redemption. O David, shout, * “Blessed are You who have appeared; glory to You, our God!”"
 
 meMA.LaudsGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.LaudsGlory.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
-meMA.LaudsGlory.incipit = "…"
-meMA.LaudsGlory.text = ""
+meMA.LaudsGlory.incipit = "Jacob’s Star…"
+meMA.LaudsGlory.text = "Jacob’s Star has shone on the world with divine splendor, * taking on himself all the flaming sin of mankind; * and in the Jordan River He has mystically buried it. * Shining with the radiance of Godhead, * He gives the light of godly knowledge to Nations all. * “Blessed are You who have appeared; glory to You, our God!”"
 
 meMA.LaudsBoth.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.LaudsBoth.melody = he.a.m6_en_US_goadedes.heAU.AiAngelikai.name
-meMA.LaudsBoth.incipit = "…"
-meMA.LaudsBoth.text = ""
+meMA.LaudsBoth.incipit = "Coming in the flesh…"
+meMA.LaudsBoth.text = "Coming in the flesh, Christ fulfilled the Law’s commandments. * Wishing to begin to accomplish our salvation, * He comes now to the Jordan. The compassionate Lord of all, * bows His holy head before the Baptist, * who cries out as a faithful servant, “All people, sing: * ‘Blessed are You who have appeared; glory to You, our God!’”"
 
 meMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
