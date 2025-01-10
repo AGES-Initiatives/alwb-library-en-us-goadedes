@@ -611,3 +611,28 @@ meLI.Kontakion1.incipit = me.m01.d10_en_US_goadedes.meMA.Kontakion1.incipit
 meLI.Kontakion1.text = me.m01.d10_en_US_goadedes.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = "Father, we salute you and sing, Rejoice! * Treasure house of wisdom, God-inspired teacher of the Church, * instrument that plays the divine and godly doctrines, * O Gregory of Nyssa, all-blessed Saint of God!"
+
+alt1.meVE.Lity1.mode = miscellanea_en_US_goadedes.misc.Mode1
+alt1.meVE.Lity1.melody = ""
+alt1.meVE.Lity1.incipit = "The wisdom of God…"
+alt1.meVE.Lity1.text = "The wisdom of God, which loves devout hearts, rested upon you, devout father Gregory. By it indeed you bridled the balderdash of the heresies, and you enriched the Church of Christ with your erudite words and the other virtues of your life. Therefore you were awarded the crown of righteousness, as an expert authority and famous champion of the Faith, and you earnestly intercede with the Lord, for the salvation of our souls. "
+
+alt1.meVE.Lity2.mode = miscellanea_en_US_goadedes.misc.Mode4
+alt1.meVE.Lity2.melody = ""
+alt1.meVE.Lity2.incipit = "…"
+alt1.meVE.Lity2.text = ""
+
+alt1.meVE.Lity3.mode = miscellanea_en_US_goadedes.misc.Mode5
+alt1.meVE.Lity3.melody = ""
+alt1.meVE.Lity3.incipit = "…"
+alt1.meVE.Lity3.text = ""
+
+alt1.meVE.LityGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
+alt1.meVE.LityGlory.melody = ""
+alt1.meVE.LityGlory.incipit = "…"
+alt1.meVE.LityGlory.text = ""
+
+alt1.meVE.LityBoth.mode = miscellanea_en_US_goadedes.misc.Mode8
+alt1.meVE.LityBoth.melody = ""
+alt1.meVE.LityBoth.incipit = me.m01.d06_en_US_goadedes.meVE.LityBoth.incipit
+alt1.meVE.LityBoth.text = me.m01.d06_en_US_goadedes.meVE.LityBoth.text

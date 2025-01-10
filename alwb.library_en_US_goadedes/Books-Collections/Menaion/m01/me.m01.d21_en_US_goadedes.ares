@@ -6,7 +6,7 @@ meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
 meDA.commemoration.first_title = "For St. Maximos."
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = "For. St. Neophytos."
+meDA.commemoration.second_title = "For St. Neophytos."
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
@@ -42,18 +42,18 @@ meVE.Stichera03.text = ""
 meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Stichera04.greekmelody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.greekname
 meVE.Stichera04.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
-meVE.Stichera04.incipit = "…"
-meVE.Stichera04.text = ""
+meVE.Stichera04.incipit = "This is amazing…"
+meVE.Stichera04.text = "This is amazing and marvelous! * A dove came down from on high, * and it spoke with a human voice * to Martyr Neophytos, * and it led and encouraged him * to live alone as a youth angelically * and to compete as a martyr mightily. * Great and divine indeed * was the Martyr’s fivefold contest! By his prayers * save our souls, O Christ, as You are most compassionate."
 
 meVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Stichera05.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
-meVE.Stichera05.incipit = "…"
-meVE.Stichera05.text = ""
+meVE.Stichera05.incipit = "This is amazing…"
+meVE.Stichera05.text = "This is amazing and marvelous! * For St. Neophytos * was mature from an early age. * By the Spirit’s energy, * he performed many miracles. * He prayed, and water came gushing from a stone; * he resurrected his mother when she died. * Great and divine indeed * was the Martyr’s fivefold contest! By his prayers * save our souls, O Christ, as You are most compassionate."
 
 meVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Stichera06.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
-meVE.Stichera06.incipit = "…"
-meVE.Stichera06.text = ""
+meVE.Stichera06.incipit = "This is amazing…"
+meVE.Stichera06.text = "This is amazing and marvelous! * As he was martyred for Christ, * brave and fearless Neophytos * astonished the enemies * with his marvelous miracles. * He doused the fire into which he was cast. * He made untamed beasts cower in fear of him. * He was invincible * and a wondrous Athlete by the might of Christ. * Hear his prayers on our behalf, O God, and save our souls."
 
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticGlory.melody = ""
@@ -63,8 +63,8 @@ meVE.SticGlory.text = me.m01.d15_en_US_goadedes.meVE.AposGlory.text
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticTheotokion.greekmelody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.greekname
 meVE.SticTheotokion.melody = he.a.m6_en_US_goadedes.heAU.OlinApothemenoi.name
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.incipit = "From the belly of the whale…"
+meVE.SticTheotokion.text = "From the belly of the whale of wicked sins extricate me, * O all-holy Mother, who in your belly held Him whom nothing can contain. * Rescue me from the storm of raging temptations. * From the tempest of my trespasses * Lady, deliver me; * and dry up the sea of iniquities, * within which I am wallowing; * and obliterate the demonic hosts, * that always assault me, for you are my protection and defense, * and I will ceaselessly glorify you, all-blessed Virgin pure."
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticStavrotheotokion.greekmelody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.greekname
@@ -624,8 +624,8 @@ meMA.Exaposteilarion1.text = ""
 meMA.Exaposteilarion2.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.name
-meMA.Exaposteilarion2.incipit = "…"
-meMA.Exaposteilarion2.text = ""
+meMA.Exaposteilarion2.incipit = "Glorious St. Neophytos…"
+meMA.Exaposteilarion2.text = "Glorious St. Neophytos, * you did a wondrous marvel * by resurrecting from the dead * your mother, demonstrating yourself to be a great servant * of Christ, near whom you stand now * wearing your crown, O godly Saint. * Please persist interceding on the behalf * of us who extol you and who are keeping * your illustrious memory, * O victorious Martyr."
 
 meMA.ExapTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.name
