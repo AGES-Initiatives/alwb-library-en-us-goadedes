@@ -84,8 +84,8 @@ meVE.AposTheotokion.text = oc.m2.d6_en_US_goadedes.ocVE.Stichera4.text
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.AposStavrotheotokion.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
 meVE.AposStavrotheotokion.melody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.name
-meVE.AposStavrotheotokion.incipit = "…"
-meVE.AposStavrotheotokion.text = ""
+meVE.AposStavrotheotokion.incipit = oc.m2.d6_en_US_goadedes.ocVE.SticTheotokion.incipit
+meVE.AposStavrotheotokion.text = oc.m2.d6_en_US_goadedes.ocVE.SticTheotokion.text
 
 meVE.Apolytikion1.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Apolytikion1.melody = ""
