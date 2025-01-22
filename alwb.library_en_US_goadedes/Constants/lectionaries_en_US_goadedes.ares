@@ -113,6 +113,8 @@ lecEV.me.m10.dHF.R01 = "Note: If the eleventh of October is a Sunday, or, on the
 lecEV.me.m12.dFF.R01 = "Note: We use the Gospel reading below on December 11 if this is a Sunday, or on the first Sunday following December 11."
 lecEV.me.m12.dSunBE.R01 = "Note: If there are two Sundays between Christmas and Theophany, we use the Gospel reading of the Sunday After the Nativity on the first Sunday, and on the second, the Gospel reading of the Sunday Before Theophany. If there is only one Saturday and one Sunday, on Saturday we use the Gospel reading for Saturday After Christmas, and on Sunday we use the Gospel reading for the Sunday Before Epiphany."
 
+lecLE.SetEachYear.text = "The reading for this day must be reset each year."
+
 lecLE.separator = " –"
 lecLE.openP = ""
 lecLE.closeP = ""
