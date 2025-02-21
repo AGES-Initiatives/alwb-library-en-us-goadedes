@@ -459,9 +459,9 @@ meMA.LaudsTheotokion.incipit = oc.m4.d2_en_US_goadedes.ocMA.AposTheotokion.incip
 meMA.LaudsTheotokion.text = oc.m4.d2_en_US_goadedes.ocMA.AposTheotokion.text
 
 meMA.LaudsStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.LaudsStavrotheotokion.melody = ""
-meMA.LaudsStavrotheotokion.incipit = "…"
-meMA.LaudsStavrotheotokion.text = ""
+meMA.LaudsStavrotheotokion.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
+meMA.LaudsStavrotheotokion.incipit = me.m07.d06_en_US_goadedes.meVE.SticStavrotheotokion.incipit
+meMA.LaudsStavrotheotokion.text = me.m07.d06_en_US_goadedes.meVE.SticStavrotheotokion.text
 
 meLI.Kontakion1.mode = me.m07.d15_en_US_goadedes.meMA.Kontakion1.mode
 meLI.Kontakion1.greekmelody = me.m07.d15_en_US_goadedes.meMA.Kontakion1.greekmelody
