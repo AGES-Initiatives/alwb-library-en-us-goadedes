@@ -196,15 +196,14 @@ trMA.Ode3Kathisma2.incipit = "…"
 trMA.Ode3Kathisma2.text = ""
 
 trMA.Ode3Kathisma3.mode = miscellanea_en_US_goadedes.misc.Mode6
-trMA.Ode3Kathisma3.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
-trMA.Ode3Kathisma3.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
-trMA.Ode3Kathisma3.incipit = "…"
-trMA.Ode3Kathisma3.text = ""
+trMA.Ode3Kathisma3.melody = ""
+trMA.Ode3Kathisma3.incipit = oc.m6.d2_en_US_goadedes.ocMA.Kathisma11.incipit
+trMA.Ode3Kathisma3.text = oc.m6.d2_en_US_goadedes.ocMA.Kathisma11.text
 
 trMA.Ode3Kathisma4.mode = miscellanea_en_US_goadedes.misc.Mode6
 trMA.Ode3Kathisma4.melody = ""
-trMA.Ode3Kathisma4.incipit = "…"
-trMA.Ode3Kathisma4.text = ""
+trMA.Ode3Kathisma4.incipit = oc.m6.d2_en_US_goadedes.ocMA.Kathisma12.incipit
+trMA.Ode3Kathisma4.text = oc.m6.d2_en_US_goadedes.ocMA.Kathisma12.text
 
 trMA.Ode3Kathisma5.mode = miscellanea_en_US_goadedes.misc.Mode6
 trMA.Ode3Kathisma5.greekmelody = he.a.m6_en_US_goadedes.heAU.ElpisTouKosmouAgathi.greekname
