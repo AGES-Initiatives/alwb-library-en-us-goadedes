@@ -54,8 +54,8 @@ meVE.SticTheotokion.text = oc.m4.d4_en_US_goadedes.ocVE.Stichera4.text
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.incipit = oc.m4.d6_en_US_goadedes.ocVE.SticTheotokion.incipit
+meVE.SticStavrotheotokion.text = oc.m4.d6_en_US_goadedes.ocVE.SticTheotokion.text
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.AposGlory.melody = ""
@@ -71,8 +71,8 @@ meVE.AposTheotokion.text = me.m01.d21_en_US_goadedes.meVE.AposTheotokion.text
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.AposStavrotheotokion.greekmelody = he.a.m8_en_US_goadedes.heAU.OiMartyresSouKyrie.greekname
 meVE.AposStavrotheotokion.melody = he.a.m8_en_US_goadedes.heAU.OiMartyresSouKyrie.name
-meVE.AposStavrotheotokion.incipit = "…"
-meVE.AposStavrotheotokion.text = ""
+meVE.AposStavrotheotokion.incipit = oc.m8.d6_en_US_goadedes.ocVE.AposTheotokion.incipit
+meVE.AposStavrotheotokion.text = oc.m8.d6_en_US_goadedes.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1ger.poet = poets_en_US_goadedes.po.Gerasimou
 meVE.Apolytikion1ger.mode = miscellanea_en_US_goadedes.misc.Mode1
