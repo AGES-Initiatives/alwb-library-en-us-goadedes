@@ -479,15 +479,6 @@ trMA.Encomia3T.text = "We pray you, Virgin Mother * of Christ, to count us worth
 // Not in Triodion, but common
 trMA.Encomia3F.text = tr.d070_en_US_goadedes.trMA.Encomia301.text
 
-// Resurrectional Evlogetaria keys for media
-trMA.MM.Evlogetaria1.text = properties_en_US_goadedes.media.key
-trMA.MM.Evlogetaria2.text = properties_en_US_goadedes.media.key
-trMA.MM.Evlogetaria3.text = properties_en_US_goadedes.media.key
-trMA.MM.Evlogetaria4.text = properties_en_US_goadedes.media.key
-trMA.MM.Evlogetaria5.text = properties_en_US_goadedes.media.key
-trMA.MM.Evlogetaria6.text = properties_en_US_goadedes.media.key
-trMA.MM.Evlogetaria7.text = properties_en_US_goadedes.media.key
-
 trMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
 trMA.Kathisma11.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 trMA.Kathisma11.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
