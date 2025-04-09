@@ -39,21 +39,21 @@ meVE.Stichera03.melody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.name
 meVE.Stichera03.incipit = me.m03.d26_en_US_goadedes.meVE.Stichera03.incipit
 meVE.Stichera03.text = me.m03.d26_en_US_goadedes.meVE.Stichera03.text
 
-meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode8
-meVE.Stichera04.greekmelody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.greekname
-meVE.Stichera04.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
-meVE.Stichera04.incipit = "…"
-meVE.Stichera04.text = ""
+meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.Aposticha1.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
+meVE.Aposticha1.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
+meVE.Aposticha1.incipit = me.m11.d08_en_US_goadedes.meVE.Stichera04.incipit
+meVE.Aposticha1.text = me.m11.d08_en_US_goadedes.meVE.Stichera04.text
 
-meVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode8
-meVE.Stichera05.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
-meVE.Stichera05.incipit = "…"
-meVE.Stichera05.text = ""
+meVE.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.Aposticha2.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
+meVE.Aposticha2.incipit = me.m11.d08_en_US_goadedes.meVE.Stichera05.incipit
+meVE.Aposticha2.text = me.m11.d08_en_US_goadedes.meVE.Stichera05.text
 
-meVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode8
-meVE.Stichera06.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
-meVE.Stichera06.incipit = "…"
-meVE.Stichera06.text = ""
+meVE.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode4
+meVE.Aposticha3.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
+meVE.Aposticha3.incipit = me.m11.d08_en_US_goadedes.meVE.Stichera06.incipit
+meVE.Aposticha3.text = me.m11.d08_en_US_goadedes.meVE.Stichera06.text
 
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticGlory.melody = ""
