@@ -89,8 +89,8 @@ meVE.AposGlory.text = me.m07.d20_en_US_goadedes.meMA.LaudsGlory.text
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.AposTheotokion.melody = ""
-meVE.AposTheotokion.incipit = "…"
-meVE.AposTheotokion.text = ""
+meVE.AposTheotokion.incipit = oc.m8.d2_en_US_goadedes.ocMA.AposTheotokion.incipit
+meVE.AposTheotokion.text = oc.m8.d2_en_US_goadedes.ocMA.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.AposStavrotheotokion.greekmelody = he.a.m8_en_US_goadedes.heAU.OiMartyresSouKyrie.greekname

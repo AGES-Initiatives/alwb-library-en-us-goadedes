@@ -26,18 +26,18 @@ meHO.note2 = ""
 meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Stichera01.greekmelody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.greekname
 meVE.Stichera01.melody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.name
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
+meVE.Stichera01.incipit = "When Christ had been buried…"
+meVE.Stichera01.text = "When Christ had been buried in a tomb, * and was breathing on the dead the resurrection, O Mary, you brought ointments unto Him. * After He had risen, you were weeping seeking Him; * and you were first to see Him and worship Him. And now we pray to you: * Intercede with Him on our behalf, * that He grant peace * to our souls and great mercy."
 
 meVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Stichera02.melody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.name
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
+meVE.Stichera02.incipit = "You wept when you saw…"
+meVE.Stichera02.text = "You wept when you saw that Christ the Lord * had been nailed upon the Cross. O Mary Magdalene, you cried out, “What is this spectacle? * How can You, the Life, die? All creation seeing this * is quaking, and the sun has been rendered dark!” And now we pray to you: * Intercede with Him on our behalf, * that He grant peace * to our souls and great mercy."
 
 meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Stichera03.melody = he.a.m1_en_US_goadedes.heAU.PaneffimoiMartyres.name
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
+meVE.Stichera03.incipit = "O glorious Mary…"
+meVE.Stichera03.text = "O glorious Mary, you were filled * with true knowledge and a wealth of understanding, from spending time with Christ the God of all. * You proclaimed the Gospel * of His incarnation and His death and resurrection to multitudes. And now we pray to you: * Intercede with Him on our behalf, * that He grant peace * to our souls and great mercy."
 
 meVE.SticGlory.poet = poets_en_US_goadedes.po.Anatoliou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
@@ -79,10 +79,9 @@ meVE.AposGlory.incipit = "…"
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
-meVE.AposTheotokion.greekmelody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.greekname
-meVE.AposTheotokion.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
-meVE.AposTheotokion.incipit = oc.m8.d2_en_US_goadedes.ocVE.AposTheotokion.incipit
-meVE.AposTheotokion.text = oc.m8.d2_en_US_goadedes.ocVE.AposTheotokion.text
+meVE.AposTheotokion.melody = ""
+meVE.AposTheotokion.incipit = oc.m8.d2_en_US_goadedes.ocMA.AposTheotokion.incipit
+meVE.AposTheotokion.text = oc.m8.d2_en_US_goadedes.ocMA.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.AposStavrotheotokion.greekmelody = he.a.m8_en_US_goadedes.heAU.TiYmasKalesomen.greekname

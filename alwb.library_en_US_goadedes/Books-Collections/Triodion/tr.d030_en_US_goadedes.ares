@@ -45,8 +45,8 @@ trVE.AposMartyric.text = oc.m8.d2_en_US_goadedes.ocVE.Aposticha3.text
 
 trVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode8
 trVE.AposTheotokion.melody = ""
-trVE.AposTheotokion.incipit = "…"
-trVE.AposTheotokion.text = ""
+trVE.AposTheotokion.incipit = oc.m8.d2_en_US_goadedes.ocMA.AposTheotokion.incipit
+trVE.AposTheotokion.text = oc.m8.d2_en_US_goadedes.ocMA.AposTheotokion.text
 
 trMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode4
 trMA.Kathisma21.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
