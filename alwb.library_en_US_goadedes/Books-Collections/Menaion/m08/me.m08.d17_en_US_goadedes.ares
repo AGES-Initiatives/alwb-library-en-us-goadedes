@@ -91,8 +91,8 @@ meVE.Apolytikion1ger.text = ""
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode3
 meMA.Kathisma11.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
 meMA.Kathisma11.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.name
-meMA.Kathisma11.incipit = "…"
-meMA.Kathisma11.text = ""
+meMA.Kathisma11.incipit = me.m08.d14_en_US_goadedes.meMA.Kathisma11.incipit
+meMA.Kathisma11.text = me.m08.d14_en_US_goadedes.meMA.Kathisma11.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Kathisma21.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
@@ -380,8 +380,8 @@ meMA.Aposticha1.text = ""
 
 meMA.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Aposticha2.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meMA.Aposticha2.incipit = me.m08.d15_en_US_goadedes.meSV.Aposticha1.incipit
-meMA.Aposticha2.text = me.m08.d15_en_US_goadedes.meSV.Aposticha1.text
+meMA.Aposticha2.incipit = me.m08.d14_en_US_goadedes.meMA.Aposticha1.incipit
+meMA.Aposticha2.text = me.m08.d14_en_US_goadedes.meMA.Aposticha1.text
 
 meMA.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Aposticha3.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name

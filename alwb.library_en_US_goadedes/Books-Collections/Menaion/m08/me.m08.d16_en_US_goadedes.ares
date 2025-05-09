@@ -26,18 +26,18 @@ meHO.note2 = ""
 meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Stichera01.greekmelody = he.a.m2_en_US_goadedes.heAU.PoioisEffimionStemmasin.greekname
 meVE.Stichera01.melody = he.a.m2_en_US_goadedes.heAU.PoioisEffimionStemmasin.name
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
+meVE.Stichera01.incipit = "How shall we who were born…"
+meVE.Stichera01.text = "How shall we who were born here on earth * cast our eyes on Your all-holy Icon? * The angelic hosts are unable to * look at it without great respect and fear, * for it is resplendent with divine light. * By God’s will, it was transported from a foreign land * to stay in that queen of cities named for Constantine, * to be among Christian people. * And when it arrived there * the imperial court rejoiced. * With fear and with faith, O Christ, they devoutly venerated it."
 
 meVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Stichera02.melody = he.a.m2_en_US_goadedes.heAU.PoioisEffimionStemmasin.name
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
+meVE.Stichera02.incipit = "How shall we…"
+meVE.Stichera02.text = "How shall we who are humans made of clay * with our hands touch Your Icon, O Logos? * How can we whose sins have defiled us * dare to venerate Your holy image, O God, * who are unapproachable and sinless? * The Cherubim cover their faces with fear and awe. * The Seraphim dare not gaze on Your magnificence. * Creation fearfully serves You. * Please do not condemn us * when we kiss with unworthy lips * and faithfully venerate Your marvelous Icon, O Christ."
 
 meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Stichera03.melody = he.a.m2_en_US_goadedes.heAU.PoioisEffimionStemmasin.name
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
+meVE.Stichera03.incipit = "This, too, is a divine…"
+meVE.Stichera03.text = "This, too, is a divine holiday * celebrating a feast of the Master. * For the Lord who sits on the throne on high * now has clearly come down to visit us, * through His most sublime and holy Icon. * Today He who is invisible to the Cherubim * through icons is seen by those whose likeness He assumed. * By the divine Father’s finger * He was formed ineffably * in the likeness of himself. * And we now are sanctified when we kiss it with faith and love."
 
 meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera04.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
@@ -63,8 +63,8 @@ meVE.SticGlory.text = ""
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
 meVE.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meVE.Aposticha1.incipit = me.m08.d15_en_US_goadedes.meSV.Aposticha1.incipit
-meVE.Aposticha1.text = me.m08.d15_en_US_goadedes.meSV.Aposticha1.text
+meVE.Aposticha1.incipit = "Mother of God…"
+meVE.Aposticha1.text = "Mother of God, from far * and wide, your Son's Disciples * assemble in the town of * Gethsemane to bury your body that had hosted life."
 
 meVE.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Aposticha2.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
@@ -651,8 +651,8 @@ alt1.meSV.AposGlory.text = ""
 
 alt1.meSV.AposBoth.mode = miscellanea_en_US_goadedes.misc.Mode2
 alt1.meSV.AposBoth.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-alt1.meSV.AposBoth.incipit = "…"
-alt1.meSV.AposBoth.text = ""
+alt1.meSV.AposBoth.incipit = me.m08.d14_en_US_goadedes.meMA.AposGlory.incipit
+alt1.meSV.AposBoth.text = me.m08.d14_en_US_goadedes.meMA.AposGlory.text
 
 alt1.meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meVE.Stichera01.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
