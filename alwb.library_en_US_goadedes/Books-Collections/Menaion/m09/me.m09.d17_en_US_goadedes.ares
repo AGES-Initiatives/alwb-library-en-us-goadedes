@@ -104,14 +104,14 @@ meVE.Apolytikion3.text = ""
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Kathisma11.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
-meMA.Kathisma11.incipit = "…"
-meMA.Kathisma11.text = ""
+meMA.Kathisma11.incipit = "O thrice-blessed…"
+meMA.Kathisma11.text = "O thrice-blessed, life-bestowing Cross, we Christians on earth * now festively celebrate your exaltation along with bodiless hosts on high. * Every rank of the clergy and the people extol you, * and all the devout monastics, monks and nuns, venerate you, * all of us glorifying Christ our Lord who was crucified."
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Kathisma21.greekmelody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.name
-meMA.Kathisma21.incipit = "…"
-meMA.Kathisma21.text = ""
+meMA.Kathisma21.incipit = me.m09.d13_en_US_goadedes.meMA.Ode3Kathisma2.incipit
+meMA.Kathisma21.text = me.m09.d13_en_US_goadedes.meMA.Ode3Kathisma2.text
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
@@ -406,8 +406,8 @@ meMA.ExapTheotokion.text = ""
 meMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meMA.Aposticha1.incipit = "…"
-meMA.Aposticha1.text = ""
+meMA.Aposticha1.incipit = "Let us exalt…"
+meMA.Aposticha1.text = "Let us exalt the Cross, * the lance, the nails, all items * used in the crucifixion * of the life-bearing body of Christ, and let us honor them."
 
 meMA.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Aposticha2.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
@@ -416,13 +416,13 @@ meMA.Aposticha2.text = ""
 
 meMA.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Aposticha3.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meMA.Aposticha3.incipit = "…"
-meMA.Aposticha3.text = ""
+meMA.Aposticha3.incipit = "Glorifying Your Cross…"
+meMA.Aposticha3.text = "Glorifying Your Cross, * Your Church and bride, O Logos, * is brightly decorated * with deifying water and blood that flowed from You, O Christ."
 
 meMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.AposGlory.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meMA.AposGlory.incipit = "…"
-meMA.AposGlory.text = ""
+meMA.AposGlory.incipit = me.m09.d14_en_US_goadedes.meSV.Aposticha3.incipit
+meMA.AposGlory.text = me.m09.d14_en_US_goadedes.meSV.Aposticha3.text
 
 meLI.Kontakion1.mode = me.m09.d17_en_US_goadedes.meMA.Kontakion1.mode
 meLI.Kontakion1.greekmelody = me.m09.d17_en_US_goadedes.meMA.Kontakion1.greekmelody

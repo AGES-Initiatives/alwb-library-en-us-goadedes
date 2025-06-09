@@ -63,18 +63,18 @@ meVE.SticGlory.text = me.m09.d14_en_US_goadedes.meMA.AdditionalIdiomelonGlory.te
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.Aposticha1.greekmelody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.greekname
 meVE.Aposticha1.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
-meVE.Aposticha1.incipit = "…"
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.incipit = me.m09.d16_en_US_goadedes.meMA.Aposticha1.incipit
+meVE.Aposticha1.text = me.m09.d16_en_US_goadedes.meMA.Aposticha1.text
 
 meVE.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.Aposticha2.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
-meVE.Aposticha2.incipit = "…"
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.incipit = me.m09.d16_en_US_goadedes.meMA.Aposticha2.incipit
+meVE.Aposticha2.text = me.m09.d16_en_US_goadedes.meMA.Aposticha2.text
 
 meVE.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.Aposticha3.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
-meVE.Aposticha3.incipit = "…"
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.incipit = me.m09.d16_en_US_goadedes.meMA.Aposticha3.incipit
+meVE.Aposticha3.text = me.m09.d16_en_US_goadedes.meMA.Aposticha3.text
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.AposGlory.melody = ""
@@ -375,8 +375,8 @@ meMA.Exaposteilarion2.text = me.m09.d14_en_US_goadedes.meMA.Exaposteilarion1.tex
 meMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meMA.Aposticha1.incipit = "…"
-meMA.Aposticha1.text = ""
+meMA.Aposticha1.incipit = me.m09.d17_en_US_goadedes.meMA.Aposticha2.incipit
+meMA.Aposticha1.text = me.m09.d17_en_US_goadedes.meMA.Aposticha2.text
 
 meMA.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Aposticha2.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
