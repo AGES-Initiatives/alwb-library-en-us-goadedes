@@ -42,18 +42,18 @@ meVE.Stichera03.text = me.m09.d14_en_US_goadedes.meMA.Lauds3.text
 meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Stichera04.greekmelody = he.a.m8_en_US_goadedes.heAU.OiMartyresSouKyrie.greekname
 meVE.Stichera04.melody = he.a.m8_en_US_goadedes.heAU.OiMartyresSouKyrie.name
-meVE.Stichera04.incipit = "…"
-meVE.Stichera04.text = ""
+meVE.Stichera04.incipit = "O blessed Martyr…"
+meVE.Stichera04.text = "O blessed Martyr Trophimus, longing to gain delight that is unending, * you found delight when tortured in the body * and were translated with great joy * from this fleeting life to immortality, * being decorated with your martyrdom. * So intercede with Christ God, * praying to Him to bestow on all the great mercy."
 
 meVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Stichera05.melody = he.a.m8_en_US_goadedes.heAU.OiMartyresSouKyrie.name
-meVE.Stichera05.incipit = "…"
-meVE.Stichera05.text = ""
+meVE.Stichera05.incipit = "Glorious St. Sabbatius…"
+meVE.Stichera05.text = "Glorious St. Sabbatius, after persevering through so many tortures, * is now enjoying the eternal Sabbath * dwelling in heaven in its courts, * receiving the honors that are due to him, * numbered as he is with the angelic hosts. * O Christ, at his entreaties * and his intercessions, grant to all the great mercy."
 
 meVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Stichera06.melody = he.a.m8_en_US_goadedes.heAU.OiMartyresSouKyrie.name
-meVE.Stichera06.incipit = "…"
-meVE.Stichera06.text = ""
+meVE.Stichera06.incipit = "Refusing to submit…"
+meVE.Stichera06.text = "Refusing to submit to the ungodly council's edict, Dorymedon * bolstered his firm resolve with God-inspired * counsels and earnestly went forth * to the trials and torments that awaited him, * for which he received awards of victory. * With Christ he now is reigning, * praying to Him at all times for the salvation of all."
 
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.SticGlory.melody = ""
@@ -380,13 +380,13 @@ meMA.Aposticha1.text = me.m09.d17_en_US_goadedes.meMA.Aposticha2.text
 
 meMA.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Aposticha2.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meMA.Aposticha2.incipit = "…"
-meMA.Aposticha2.text = ""
+meMA.Aposticha2.incipit = me.m09.d17_en_US_goadedes.meVE.Aposticha2.incipit
+meMA.Aposticha2.text = me.m09.d17_en_US_goadedes.meVE.Aposticha2.text
 
 meMA.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Aposticha3.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
-meMA.Aposticha3.incipit = "…"
-meMA.Aposticha3.text = ""
+meMA.Aposticha3.incipit = me.m09.d17_en_US_goadedes.meVE.Aposticha3.incipit
+meMA.Aposticha3.text = me.m09.d17_en_US_goadedes.meVE.Aposticha3.text
 
 meMA.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.AposGlory.melody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.name
