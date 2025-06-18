@@ -26,30 +26,30 @@ meHO.note2 = ""
 meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera01.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.Stichera01.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
+meVE.Stichera01.incipit = "You withered the carnal…"
+meVE.Stichera01.text = "You withered the carnal passions through your disciplined self-control * and intense and unceasing prayer. * You drowned in your many tears the beguiling serpent, * and you were well-pleasing to God exceedingly, O Saint, * devout and God-bearing father Chariton. * Then Jesus, the almighty Savior of our souls and benevolent * Lord of all, decorated you with His heavenly gifts of grace."
 
 meVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
+meVE.Stichera02.incipit = "With sweat of ascetic…"
+meVE.Stichera02.text = "With sweat of ascetic labors you extinguished the burning coals * of the passions, O blessed Saint. * You confessed your faith in Christ, the incarnate Logos, * before unjust judges, and you were sentenced to endure * excruciating torture and burning fire. * And thus you were a Martyr, O devout and God-bearing Chariton, * decorated with scars and marks of the torments you underwent."
 
 meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
+meVE.Stichera03.incipit = "You fled far away…"
+meVE.Stichera03.text = "You fled far away to mountains, and you lodged in the wilderness, * O devout father Chariton, * preserving your soul unstained. You became the dwelling * of the Holy Trinity, which empowered you to build * the monasteries attributed to you, * as dwellings that were suitable for monks to live and to care about * their salvation, O blessed Saint. Now we honor your memory."
 
 meVE.SticGlory.poet = poets_en_US_goadedes.po.IoannouMonachou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "O God-bearing St. Chariton…"
+meVE.SticGlory.text = "O God-bearing St. Chariton, even after death you live in Christ in the heavens. For His sake you crucified yourself to the world, and you truly lived above things visible, going outside the flesh and the world. For you did not live for yourself, but rather Christ our God lived in you. We pray that you implore Him to save our souls."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.SticTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 meVE.SticTheotokion.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.incipit = me.m02.d12_en_US_goadedes.meVE.SticTheotokion.incipit
+meVE.SticTheotokion.text = me.m02.d12_en_US_goadedes.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
@@ -393,8 +393,8 @@ meMA.LaudsGlory.text = me.m01.d15_en_US_goadedes.meVE.AposGlory.text
 meMA.LaudsTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
 meMA.LaudsTheotokion.greekmelody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.greekname
 meMA.LaudsTheotokion.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
-meMA.LaudsTheotokion.incipit = "…"
-meMA.LaudsTheotokion.text = ""
+meMA.LaudsTheotokion.incipit = "Correct me the incorrigible…"
+meMA.LaudsTheotokion.text = "Correct me the incorrigible, * O Lady Theotokos, the hope * of all Christians. * Intercede on my behalf, * and free me from perdition, * all punishments and  torments, * and from the everlasting fire of hell."
 
 meLI.Kontakion1.mode = me.m09.d28_en_US_goadedes.meMA.Kontakion1.mode
 meLI.Kontakion1.greekmelody = me.m09.d28_en_US_goadedes.meMA.Kontakion1.greekmelody
