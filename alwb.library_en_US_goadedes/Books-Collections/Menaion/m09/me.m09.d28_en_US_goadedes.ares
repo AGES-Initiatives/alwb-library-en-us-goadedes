@@ -107,52 +107,52 @@ meMA.C1.verse = prayers_en_US_goadedes.pr.verse_SaintM.text
 meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode1C11.greekmelody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.greekname
-meMA.Ode1C11.melody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.name
+meMA.Ode1C11.melody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.notmetered
 meMA.Ode1C11.incipit = "…"
-meMA.Ode1C11.text = ""
+meMA.Ode1C11.text = "O blessed Chariton, parting the sea of your contest with the life-giving weapon of the Cross, with divine power you drowned the noetic destroyer like Pharaoh."
 
 meMA.Ode1C12.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode1C12.melody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.name
+meMA.Ode1C12.melody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.notmetered
 meMA.Ode1C12.incipit = "…"
-meMA.Ode1C12.text = ""
+meMA.Ode1C12.text = "O blessed one, you were dedicated to the Lord from infancy. As an adult, you proclaimed Christ with a godly mind before the tyrant, and like Moses you cast down the arrogance God's enemies."
 
 meMA.Ode1C13.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode1C13.melody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.name
+meMA.Ode1C13.melody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.notmetered
 meMA.Ode1C13.incipit = "…"
-meMA.Ode1C13.text = ""
+meMA.Ode1C13.text = "O devout Chariton, when you left the Egypt of error and became a citizen of the desert, you purely conversed with Him who is pure, and you received the heavenly inheritance."
 
 meMA.Ode1C1T.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_goadedes.heHE.ThalassisToErythraion.name
-meMA.Ode1C1T.incipit = "…"
-meMA.Ode1C1T.text = ""
+meMA.Ode1C1T.incipit = oc.m4.d1_en_US_goadedes.ocMA.OdeS1C1T.incipit
+meMA.Ode1C1T.text = oc.m4.d1_en_US_goadedes.ocMA.OdeS1C1T.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3C11.greekmelody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.greekname
-meMA.Ode3C11.melody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.name
+meMA.Ode3C11.melody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.notmetered
 meMA.Ode3C11.incipit = "…"
-meMA.Ode3C11.text = ""
+meMA.Ode3C11.text = "O devout Saint, the rational flock of your disciples rejoices in you, partaking in your spiritual cheer."
 
 meMA.Ode3C12.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode3C12.melody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.name
+meMA.Ode3C12.melody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.notmetered
 meMA.Ode3C12.incipit = "…"
-meMA.Ode3C12.text = ""
+meMA.Ode3C12.text = "Devout St. Chariton, you subordinated to the spirit of life the mind set on the flesh, which is the cause of enmity with God."
 
 meMA.Ode3C13.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode3C13.melody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.name
+meMA.Ode3C13.melody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.notmetered
 meMA.Ode3C13.incipit = "…"
-meMA.Ode3C13.text = ""
+meMA.Ode3C13.text = "O devout Saint, like David, you overthrew the power of the noetic alien Goliath, with the whole armor of the Spirit."
 
 meMA.Ode3C1T.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3C1T.melody = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.name
-meMA.Ode3C1T.incipit = "…"
-meMA.Ode3C1T.text = ""
+meMA.Ode3C1T.incipit = oc.m4.d1_en_US_goadedes.ocMA.OdeS3C1T.incipit
+meMA.Ode3C1T.text = oc.m4.d1_en_US_goadedes.ocMA.OdeS3C1T.text
 
 meMA.Ode3H.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -163,94 +163,94 @@ meMA.Ode3H.text = he.h.m4_en_US_goadedes.heHE.EffrainetaiEpiSoi.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
-meMA.Ode3Kathisma1.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
-meMA.Ode3Kathisma1.incipit = "…"
-meMA.Ode3Kathisma1.text = ""
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.notmetered
+meMA.Ode3Kathisma1.incipit = "You adorned the Church…"
+meMA.Ode3Kathisma1.text = "You adorned the Church of Christ with your words. You honored the image of God by your works, O blessed Chariton. Your virtues and prudence shone in the world, glowing with faith and the gifts of healing. Therefore with love we celebrate your memory."
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
-meMA.Ode3KathismaT.incipit = "…"
-meMA.Ode3KathismaT.text = ""
+meMA.Ode3KathismaT.incipit = "Immaculate Virgin…"
+meMA.Ode3KathismaT.text = "Immaculate Virgin, you are truly Mother of God * who is most benevolent. Join the devout Saints and please * entreat Him unceasingly * that He forgive our sins and that He grant the amendment * of life before the end to us who rightly extol you * with faith, love, and longing, O only all-lauded one."
 
 meMA.Ode3KathismaSt.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3KathismaSt.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
-meMA.Ode3KathismaSt.incipit = "…"
-meMA.Ode3KathismaSt.text = ""
+meMA.Ode3KathismaSt.incipit = "Beholding how…"
+meMA.Ode3KathismaSt.text = "Beholding how You were nailed upon the tree of the Cross, * Your immaculate Mother grieved, O Word of God, and she said, * lamenting maternally, * “You, as the Life of all things, * are with death now conversing, * wishing in Your compassion * to give life unto those who are dead. * This wonder without precedent * baffles me, O my Son.”"
 
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode4C11.greekmelody = he.h.m4_en_US_goadedes.heHE.DiAgapisinOiktirmon.greekname
-meMA.Ode4C11.melody = he.h.m4_en_US_goadedes.heHE.DiAgapisinOiktirmon.name
+meMA.Ode4C11.melody = he.h.m4_en_US_goadedes.heHE.DiAgapisinOiktirmon.notmetered
 meMA.Ode4C11.incipit = "…"
-meMA.Ode4C11.text = ""
+meMA.Ode4C11.text = "O St. Chariton, before your death you put to death the tyrannical pleasures with the labors of self-control, devoutly clothing yourself in life-bearing mortification."
 
 meMA.Ode4C12.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode4C12.melody = he.h.m4_en_US_goadedes.heHE.DiAgapisinOiktirmon.name
+meMA.Ode4C12.melody = he.h.m4_en_US_goadedes.heHE.DiAgapisinOiktirmon.notmetered
 meMA.Ode4C12.incipit = "…"
-meMA.Ode4C12.text = ""
+meMA.Ode4C12.text = "O blessed Chariton, with your fiery meditations you burned the thorns of the worldly cares that choke the fruitfulness of the soul."
 
 meMA.Ode4C13.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode4C13.melody = he.h.m4_en_US_goadedes.heHE.DiAgapisinOiktirmon.name
+meMA.Ode4C13.melody = he.h.m4_en_US_goadedes.heHE.DiAgapisinOiktirmon.notmetered
 meMA.Ode4C13.incipit = "…"
-meMA.Ode4C13.text = ""
+meMA.Ode4C13.text = "O blessed Chariton, the graces of the kingdom of Christ were the crown you won for your contest, by which you erased the drunkenness of deceptive error."
 
 meMA.Ode4C1T.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode4C1T.melody = he.h.m4_en_US_goadedes.heHE.DiAgapisinOiktirmon.name
+meMA.Ode4C1T.melody = he.h.m4_en_US_goadedes.heHE.DiAgapisinOiktirmon.notmetered
 meMA.Ode4C1T.incipit = "…"
-meMA.Ode4C1T.text = ""
+meMA.Ode4C1T.text = "Your childbirth was ineffable, O pure and blessed Virgin, Mother of God. Therefore we pray to you, and we salute you: Rejoice!"
 
 meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode5C11.greekmelody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.greekname
-meMA.Ode5C11.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.name
-meMA.Ode5C11.incipit = "…"
-meMA.Ode5C11.text = ""
+meMA.Ode5C11.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.notmetered
+meMA.Ode5C11.incipit = "O devout and all-blessed…"
+meMA.Ode5C11.text = "O devout and all-blessed Chariton, you became a spotless mirror of the light that shines from on high."
 
 meMA.Ode5C12.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode5C12.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.name
+meMA.Ode5C12.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.notmetered
 meMA.Ode5C12.incipit = "…"
-meMA.Ode5C12.text = ""
+meMA.Ode5C12.text = "O devout Saint, you shine like lightning with twofold graces: you were piously lit up by the torments of martyrdom and by the labors of asceticism."
 
 meMA.Ode5C13.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode5C13.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.name
+meMA.Ode5C13.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.notmetered
 meMA.Ode5C13.incipit = "…"
-meMA.Ode5C13.text = ""
+meMA.Ode5C13.text = "O devout and all-blessed Chariton, from your youth you sought the wisdom of God, and then you became a physician of souls."
 
 meMA.Ode5C1T.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode5C1T.melody = he.h.m4_en_US_goadedes.heHE.SyKyrieMouFos.name
-meMA.Ode5C1T.incipit = "…"
-meMA.Ode5C1T.text = ""
+meMA.Ode5C1T.incipit = oc.m4.d1_en_US_goadedes.ocMA.OdeS5C1T.incipit
+meMA.Ode5C1T.text = oc.m4.d1_en_US_goadedes.ocMA.OdeS5C1T.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode6C11.greekmelody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.greekname
-meMA.Ode6C11.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.name
-meMA.Ode6C11.incipit = "…"
-meMA.Ode6C11.text = ""
+meMA.Ode6C11.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.notmetered
+meMA.Ode6C11.incipit = "O Father, you set…"
+meMA.Ode6C11.text = "O Father, you set your foundation not on sand but on Christ, and you built on it with virtue more precious than gold. You became a dwelling of the all-holy Trinity."
 
 meMA.Ode6C12.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode6C12.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.name
+meMA.Ode6C12.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C12.incipit = "…"
-meMA.Ode6C12.text = ""
+meMA.Ode6C12.text = "Although the serpent is known as the agent of evil, yet it was conquered by your virtues, O God-bearing Chariton, and by God's righteous providence it defends you from the unrighteous."
 
 meMA.Ode6C13.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode6C13.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.name
+meMA.Ode6C13.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C13.incipit = "…"
-meMA.Ode6C13.text = ""
+meMA.Ode6C13.text = "O blessed Father, delighting in being united to God, nothing could separate you from the love of God, neither physical torture nor the imminent death sentence."
 
 meMA.Ode6C1T.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode6C1T.melody = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.name
-meMA.Ode6C1T.incipit = "…"
-meMA.Ode6C1T.text = ""
+meMA.Ode6C1T.incipit = oc.m4.d1_en_US_goadedes.ocMA.OdeS6C1T.incipit
+meMA.Ode6C1T.text = oc.m4.d1_en_US_goadedes.ocMA.OdeS6C1T.text
 
 meMA.Ode6H.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -270,52 +270,52 @@ meMA.Oikos1.text = ""
 meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode7C11.greekmelody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.greekname
-meMA.Ode7C11.melody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.name
-meMA.Ode7C11.incipit = "…"
-meMA.Ode7C11.text = ""
+meMA.Ode7C11.melody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.notmetered
+meMA.Ode7C11.incipit = "O God-bearing Saint…"
+meMA.Ode7C11.text = "O God-bearing Saint, you emulated those descendants of Abraham in the furnace, and in your zeal for godliness you trampled the tyrant's decree, and you sang, “O my God and Lord, are You are blessed.”"
 
 meMA.Ode7C12.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode7C12.melody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.name
+meMA.Ode7C12.melody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.notmetered
 meMA.Ode7C12.incipit = "…"
-meMA.Ode7C12.text = ""
+meMA.Ode7C12.text = "O devout Saint, you were in the burning furnace of temptations, and the divine whistling wind of grace from heaven visited you, as you sang, “O my God and Lord, are You are blessed.”"
 
 meMA.Ode7C13.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode7C13.melody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.name
+meMA.Ode7C13.melody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.notmetered
 meMA.Ode7C13.incipit = "…"
-meMA.Ode7C13.text = ""
+meMA.Ode7C13.text = "O Saint, smitten with divine desire for the Trinity, you commended your three spiritual folds to God. And they sang, “O Lord, blessed are You in the temple of Your glory.” "
 
 meMA.Ode7C1T.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode7C1T.melody = he.h.m4_en_US_goadedes.heHE.EnTiKaminoAvramiaioi.name
-meMA.Ode7C1T.incipit = "…"
-meMA.Ode7C1T.text = ""
+meMA.Ode7C1T.incipit = oc.m4.d1_en_US_goadedes.ocMA.OdeS7C1T.incipit
+meMA.Ode7C1T.text = oc.m4.d1_en_US_goadedes.ocMA.OdeS7C1T.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode8C11.greekmelody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.greekname
-meMA.Ode8C11.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.name
-meMA.Ode8C11.incipit = "…"
-meMA.Ode8C11.text = ""
+meMA.Ode8C11.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.notmetered
+meMA.Ode8C11.incipit = "O devout Saint…"
+meMA.Ode8C11.text = "O devout Saint, a flame burned within you. By it you burned the unrighteous, but you remained unburned, by the power of the Holy Spirit. You roused people to piety, and they sang, “All you works of the Lord, bless the Lord!”"
 
 meMA.Ode8C12.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode8C12.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.name
+meMA.Ode8C12.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.notmetered
 meMA.Ode8C12.incipit = "…"
-meMA.Ode8C12.text = ""
+meMA.Ode8C12.text = "O devout Saint, you put off the old man and truly put on Christ. Through martyric torments, you overcame the dark ruler of the world. And with gladness you sang, “All you works of the Lord, bless the Lord!”"
 
 meMA.Ode8C13.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode8C13.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.name
+meMA.Ode8C13.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.notmetered
 meMA.Ode8C13.incipit = "…"
-meMA.Ode8C13.text = ""
+meMA.Ode8C13.text = "O devout St. Chariton, as a genuine disciple of Paul, you followed in his steps. You became a trainer of monastics. You were a rule of virtue for all who sing, “All you works of the Lord, bless the Lord!”"
 
 meMA.Ode8C1T.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode8C1T.melody = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.name
-meMA.Ode8C1T.incipit = "…"
-meMA.Ode8C1T.text = ""
+meMA.Ode8C1T.incipit = oc.m4.d1_en_US_goadedes.ocMA.OdeS8C1T.incipit
+meMA.Ode8C1T.text = oc.m4.d1_en_US_goadedes.ocMA.OdeS8C1T.text
 
 meMA.Ode8H.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -327,27 +327,27 @@ meMA.Ode8H.text = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.text
 meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode9C11.greekmelody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.greekname
-meMA.Ode9C11.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.name
-meMA.Ode9C11.incipit = "…"
-meMA.Ode9C11.text = ""
+meMA.Ode9C11.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.notmetered
+meMA.Ode9C11.incipit = "O devout St. Chariton…"
+meMA.Ode9C11.text = "O devout St. Chariton, not even the grave, that agent of forgetting, could hide your virtues, for your memorial, which endures for ever, shines like the sun. We worthily magnify you."
 
 meMA.Ode9C12.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode9C12.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.name
+meMA.Ode9C12.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.notmetered
 meMA.Ode9C12.incipit = "…"
-meMA.Ode9C12.text = ""
+meMA.Ode9C12.text = "As we spiritually celebrate the annual memory of the God-bearing Saint, let us all imitate his virtues, and with him let us cry out, “O thrice-holy God, we magnify You.”"
 
 meMA.Ode9C1Tr.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C1Tr.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode9C1Tr.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.name
-meMA.Ode9C1Tr.incipit = "…"
-meMA.Ode9C1Tr.text = ""
+meMA.Ode9C1Tr.incipit = oc.m4.d1_en_US_goadedes.ocMA.OdeS9C1Tr.incipit
+meMA.Ode9C1Tr.text = oc.m4.d1_en_US_goadedes.ocMA.OdeS9C1Tr.text
 
 meMA.Ode9C1T.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode9C1T.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.name
+meMA.Ode9C1T.melody = he.h.m4_en_US_goadedes.heHE.LithosAcheirotmitos.notmetered
 meMA.Ode9C1T.incipit = "…"
-meMA.Ode9C1T.text = ""
+meMA.Ode9C1T.text = "Bride of the great King, we salute you: Rejoice, O Virgin, and be merry! For you are distinctly reflecting the holy beauty of your celestial Bridegroom. You are shinier than gold and brighter than the sun."
 
 meMA.Ode9H.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_goadedes.misc.Mode4

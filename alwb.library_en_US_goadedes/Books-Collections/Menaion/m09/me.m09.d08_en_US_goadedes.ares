@@ -178,10 +178,8 @@ meMA.Kathisma21.text = me.m09.d07_en_US_goadedes.meVE.Apolytikion1.text
 meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Kathisma31.greekmelody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.greekname
 meMA.Kathisma31.melody = he.a.m8_en_US_goadedes.heAU.ToProstachthen.name
-meMA.Kathisma31.incipit = "…"
-meMA.Kathisma31.text = ""
-
-//From goarch: http://goarch.org/chapel/lectionary_view?type= MGandcode= 370andlanguage= elanddate= 9/8/2012
+meMA.Kathisma31.incipit = me.m09.d07_en_US_goadedes.meMA.Ode3Kathisma2.incipit
+meMA.Kathisma31.text = me.m09.d07_en_US_goadedes.meMA.Ode3Kathisma2.text
 
 meMA.PostGospelGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelGlory.melody = ""
