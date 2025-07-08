@@ -167,27 +167,27 @@ meMA.C1.verse = prayers_en_US_goadedes.pr.verse_SaintsM.text
 meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode1C11.greekmelody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.greekname
-meMA.Ode1C11.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
-meMA.Ode1C11.incipit = "…"
-meMA.Ode1C11.text = ""
+meMA.Ode1C11.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.notmetered
+meMA.Ode1C11.incipit = "O all-blessed Martyrs…"
+meMA.Ode1C11.text = "O all-blessed Martyrs, equal in number to the all-holy Trinity, you were worshipers of the divine Trinity, and you stand near the throne of the Trinity, as fervent helpers of those who pray to you."
 
 meMA.Ode1C12.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode1C12.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
+meMA.Ode1C12.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.notmetered
 meMA.Ode1C12.incipit = "…"
-meMA.Ode1C12.text = ""
+meMA.Ode1C12.text = "O Saints, you unstintingly spout unassailable grace, granting it to those who pray to you with faith, and you quell every assault, all despondency, every storm and turbulence."
 
 meMA.Ode1C13.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode1C13.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
+meMA.Ode1C13.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.notmetered
 meMA.Ode1C13.incipit = "…"
-meMA.Ode1C13.text = ""
+meMA.Ode1C13.text = "O Saints, you were girded with invincible strength, and thus you were not concerned with the frailty of the flesh; rather you displayed an intrepid frame of mind and braved the fire and torture."
 
 meMA.Ode1C1T.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
-meMA.Ode1C1T.incipit = "…"
-meMA.Ode1C1T.text = ""
+meMA.Ode1C1T.incipit = oc.m4.d6_en_US_goadedes.ocMA.OdeW1C22.incipit
+meMA.Ode1C1T.text = oc.m4.d6_en_US_goadedes.ocMA.OdeW1C22.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -211,8 +211,8 @@ meMA.Ode3C13.text = "O famous Martyrs, * as you shared the beliefs of the Three 
 meMA.Ode3C1T.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3C1T.melody = he.h.m4_en_US_goadedes.heHE.OukEnSofia.name
-meMA.Ode3C1T.incipit = "O Theotokos…"
-meMA.Ode3C1T.text = "O Theotokos, * we have you for unfaltering patronage; * and entrusting all our hopes * to you, O Mother of God, we are saved. * In you taking refuge, we are safe on every side."
+meMA.Ode3C1T.incipit = oc.m4.d6_en_US_goadedes.ocMA.OdeW3C23.incipit
+meMA.Ode3C1T.text = oc.m4.d6_en_US_goadedes.ocMA.OdeW3C23.text
 
 meMA.Ode3H.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -223,15 +223,15 @@ meMA.Ode3H.text = he.h.m4_en_US_goadedes.heHE.OukEnSofia.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
-meMA.Ode3Kathisma1.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
-meMA.Ode3Kathisma1.incipit = "…"
-meMA.Ode3Kathisma1.text = ""
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.notmetered
+meMA.Ode3Kathisma1.incipit = "Lawless people…"
+meMA.Ode3Kathisma1.text = "Lawless people were amazed, seeing your courageous souls, O Martyrs, and they believed in the Lord and cried aloud, “Glory to, almighty Christ! You are God, and we know no other but You, who work marvelous wonders in Your holy Martyrs.” O Savior of the world, by their intercessions illumine us who extol You."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
-meMA.Ode3Kathisma2.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
-meMA.Ode3Kathisma2.incipit = "…"
-meMA.Ode3Kathisma2.text = ""
+meMA.Ode3Kathisma2.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.notmetered
+meMA.Ode3Kathisma2.incipit = "The famous Martyrs…"
+meMA.Ode3Kathisma2.text = "The famous Martyrs ran the race of godliness unassailably, and they competed in the stadium, strengthened by the hope of awards. They completely defeated the opponents, and unimpeded they obtained victory. Now unstintingly they continually spout many healings to those who ask with faith. Let us sing to them, “Intercede with Christ our God that He grant forgiveness of offenses to those who with longing observe your holy memory.”"
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.melody
@@ -246,64 +246,64 @@ meMA.Ode3KathismaSt.text = oc.m8.d4_en_US_goadedes.ocMA.Kathisma13.text
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode4C11.greekmelody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.greekname
-meMA.Ode4C11.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.name
-meMA.Ode4C11.incipit = "…"
-meMA.Ode4C11.text = ""
+meMA.Ode4C11.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.notmetered
+meMA.Ode4C11.incipit = "Martyrs of Christ…"
+meMA.Ode4C11.text = "Martyrs of Christ, were bright lamps, glowing with the beauty of your excellent contest, and illuminating with bright beams those who sing, “Glory to Your strength, O Christ!”"
 
 meMA.Ode4C12.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode4C12.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.name
+meMA.Ode4C12.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.notmetered
 meMA.Ode4C12.incipit = "…"
-meMA.Ode4C12.text = ""
+meMA.Ode4C12.text = "The Martyrs' blood is a mercy seat and a fragrant dedication to God, unimpeded granting an unassailable spout of cures streaming forth for all."
 
 meMA.Ode4C13.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode4C13.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.name
+meMA.Ode4C13.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.notmetered
 meMA.Ode4C13.incipit = "…"
-meMA.Ode4C13.text = ""
+meMA.Ode4C13.text = "Admirable Martyrs, by your intercessions with Christ, drive away the assault of manifold temptations and dangers from us who loyally celebrate your sacred, festive memory."
 
 meMA.Ode4C14.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C14.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode4C14.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.name
+meMA.Ode4C14.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.notmetered
 meMA.Ode4C14.incipit = "…"
-meMA.Ode4C14.text = ""
+meMA.Ode4C14.text = "Ever-venerable Martyrs, you undid the godless deception of idolatry. You proclaimed the life-creating power of the God of all over His works, and you sang, “Glory to Your strength, O Christ!”"
 
 meMA.Ode4C1T.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode4C1T.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.name
+meMA.Ode4C1T.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.notmetered
 meMA.Ode4C1T.incipit = "…"
-meMA.Ode4C1T.text = ""
+meMA.Ode4C1T.text = "O Mother of God, we present you as our mightiest weapon against our enemies, and thus we evade injury and all adversity and hardship, and we escape the waves of heresies."
 
 meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode5C11.greekmelody = he.h.m4_en_US_goadedes.heHE.AseveisOukOpsontai.greekname
-meMA.Ode5C11.melody = he.h.m4_en_US_goadedes.heHE.AseveisOukOpsontai.name
-meMA.Ode5C11.incipit = "…"
-meMA.Ode5C11.text = ""
+meMA.Ode5C11.melody = he.h.m4_en_US_goadedes.heHE.AseveisOukOpsontai.notmetered
+meMA.Ode5C11.incipit = "Glorious Aphthonius…"
+meMA.Ode5C11.text = "Glorious Aphthonius, you offered yourself to God, when you bravely refuted the godless opinion of the tyrant and ran rejoicing to the light of faith."
 
 meMA.Ode5C12.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode5C12.melody = he.h.m4_en_US_goadedes.heHE.AseveisOukOpsontai.name
+meMA.Ode5C12.melody = he.h.m4_en_US_goadedes.heHE.AseveisOukOpsontai.notmetered
 meMA.Ode5C12.incipit = "…"
-meMA.Ode5C12.text = ""
+meMA.Ode5C12.text = "Excellent Aphthonius, being initiated into the Passion of Christ, you were beheaded for His sake and hastened to the everlasting celebration and immortal delight."
 
 meMA.Ode5C13.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode5C13.melody = he.h.m4_en_US_goadedes.heHE.AseveisOukOpsontai.name
+meMA.Ode5C13.melody = he.h.m4_en_US_goadedes.heHE.AseveisOukOpsontai.notmetered
 meMA.Ode5C13.incipit = "…"
-meMA.Ode5C13.text = ""
+meMA.Ode5C13.text = "All-wise Elpidephorus, established on immovable hope, and spitting on the earthly delights, you were winged by your love for the immaculate beauty."
 
 meMA.Ode5C14.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C14.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode5C14.melody = he.h.m4_en_US_goadedes.heHE.AseveisOukOpsontai.name
+meMA.Ode5C14.melody = he.h.m4_en_US_goadedes.heHE.AseveisOukOpsontai.notmetered
 meMA.Ode5C14.incipit = "…"
-meMA.Ode5C14.text = ""
+meMA.Ode5C14.text = "Glorious Martyr Acindynus, you were granted a blessed lot and unspeakable delight in the heavenly dwellings, for you did not deviate as you ran the race of martyrdom."
 
 meMA.Ode5C1T.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode5C1T.melody = he.h.m4_en_US_goadedes.heHE.AseveisOukOpsontai.name
-meMA.Ode5C1T.incipit = "…"
-meMA.Ode5C1T.text = ""
+meMA.Ode5C1T.incipit = oc.m4.d6_en_US_goadedes.ocMA.OdeW5C21.incipit
+meMA.Ode5C1T.text = oc.m4.d6_en_US_goadedes.ocMA.OdeW5C21.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -348,58 +348,58 @@ meMA.Oikos1.text = ""
 meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode7C11.greekmelody = he.h.m4_en_US_goadedes.heHE.ODiasosasEnPyri.greekname
-meMA.Ode7C11.melody = he.h.m4_en_US_goadedes.heHE.ODiasosasEnPyri.name
-meMA.Ode7C11.incipit = "…"
-meMA.Ode7C11.text = ""
+meMA.Ode7C11.melody = he.h.m4_en_US_goadedes.heHE.ODiasosasEnPyri.notmetered
+meMA.Ode7C11.incipit = "O Lord, as You delivered…"
+meMA.Ode7C11.text = "O Lord, as You delivered the three godly youthful Servants from the flame, You also preserved the athletes in the furnace of fire. In unison they sang to you, “O God of our Fathers, You are blessed!”"
 
 meMA.Ode7C12.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode7C12.melody = he.h.m4_en_US_goadedes.heHE.ODiasosasEnPyri.name
+meMA.Ode7C12.melody = he.h.m4_en_US_goadedes.heHE.ODiasosasEnPyri.notmetered
 meMA.Ode7C12.incipit = "…"
-meMA.Ode7C12.text = ""
+meMA.Ode7C12.text = "O Christ, in Your compassion You unstintingly bestow Your gifts and spout miracles to Your medaled Martyrs, working with them in synergy, and showing Yourself to those who sing, “O God of our Fathers, You are blessed!”"
 
 meMA.Ode7C13.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode7C13.melody = he.h.m4_en_US_goadedes.heHE.ODiasosasEnPyri.name
+meMA.Ode7C13.melody = he.h.m4_en_US_goadedes.heHE.ODiasosasEnPyri.notmetered
 meMA.Ode7C13.incipit = "…"
-meMA.Ode7C13.text = ""
+meMA.Ode7C13.text = "O Saints, your brought to Christ many Martyrs, joined in faith, when you performed marvelous wonders and sang, “O God of our Fathers, You are blessed!”"
 
 meMA.Ode7C1T.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode7C1T.melody = he.h.m4_en_US_goadedes.heHE.ODiasosasEnPyri.name
+meMA.Ode7C1T.melody = he.h.m4_en_US_goadedes.heHE.ODiasosasEnPyri.notmetered
 meMA.Ode7C1T.incipit = "…"
-meMA.Ode7C1T.text = ""
+meMA.Ode7C1T.text = "Most glorious Lady, through you we were delivered from the curse on our ancestors, and we are conveyed to everlasting delight. We salute you and sing, “Rejoice!” O Mother of incarnate God."
 
 meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode8C11.greekmelody = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.greekname
-meMA.Ode8C11.melody = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.name
-meMA.Ode8C11.incipit = "…"
-meMA.Ode8C11.text = ""
+meMA.Ode8C11.melody = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.notmetered
+meMA.Ode8C11.incipit = "The solemn celebration…"
+meMA.Ode8C11.text = "The solemn celebration and joyous feast of the Martyrs has arrived, and it illumines the world and gladdens everyone, giving cheer and brightening those who sing with faith, “O all you works of the Lord, to all ages sing praises to the Lord and exalt Him beyond measure.”"
 
 meMA.Ode8C12.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode8C12.melody = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.name
+meMA.Ode8C12.melody = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.notmetered
 meMA.Ode8C12.incipit = "…"
-meMA.Ode8C12.text = ""
+meMA.Ode8C12.text = "Blessed Saints, you were brave in the face of wild beasts, dungeons, and violent tortures, for you had the invincible Lord of glory as your helper. And now we sing to Him, “O all you works of the Lord, to all ages sing praises to the Lord and exalt Him beyond measure.”"
 
 meMA.Ode8C13.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode8C13.melody = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.name
+meMA.Ode8C13.melody = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.notmetered
 meMA.Ode8C13.incipit = "…"
-meMA.Ode8C13.text = ""
+meMA.Ode8C13.text = "O noble medaled Martyrs Acindynus, Pegasius, Aphthonius, Anempodistus, and all-renowned Elpidephorus, as unshakable defense, we unceasingly sing the Lord's praises, and to all the ages we exalt Him beyond measure."
 
 meMA.Ode8C14.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C14.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode8C14.melody = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.name
+meMA.Ode8C14.melody = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.notmetered
 meMA.Ode8C14.incipit = "…"
-meMA.Ode8C14.text = ""
+meMA.Ode8C14.text = "O Martyrs, brightly decorated with the beautiful medals of victory, you enjoy the never-setting splendor and the blessed finish in heaven, and you sing, “O all you works of the Lord, to all ages sing praises to the Lord and exalt Him beyond measure.”"
 
 meMA.Ode8C1T.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode8C1T.melody = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.name
-meMA.Ode8C1T.incipit = "…"
-meMA.Ode8C1T.text = ""
+meMA.Ode8C1T.incipit = oc.m4.d6_en_US_goadedes.ocMA.OdeW8C23.incipit
+meMA.Ode8C1T.text = oc.m4.d6_en_US_goadedes.ocMA.OdeW8C23.text
 
 meMA.Ode8H.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -411,27 +411,27 @@ meMA.Ode8H.text = he.h.m4_en_US_goadedes.heHE.PaidasEvageis.text
 meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode9C11.greekmelody = he.h.m4_en_US_goadedes.heHE.EvaMenToTisParakois.greekname
-meMA.Ode9C11.melody = he.h.m4_en_US_goadedes.heHE.EvaMenToTisParakois.name
-meMA.Ode9C11.incipit = "…"
-meMA.Ode9C11.text = ""
+meMA.Ode9C11.melody = he.h.m4_en_US_goadedes.heHE.EvaMenToTisParakois.notmetered
+meMA.Ode9C11.incipit = "O Saints, your labors…"
+meMA.Ode9C11.text = "O Saints, your labors on earth were succeeded by the heavenly joy, where the company of martyrs are and the teams of medaled athletes, and where the the first-born all rejoice together with the heavenly hosts."
 
 meMA.Ode9C12.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode9C12.melody = he.h.m4_en_US_goadedes.heHE.EvaMenToTisParakois.name
+meMA.Ode9C12.melody = he.h.m4_en_US_goadedes.heHE.EvaMenToTisParakois.notmetered
 meMA.Ode9C12.incipit = "…"
-meMA.Ode9C12.text = ""
+meMA.Ode9C12.text = "All-blessed and all-venerable Martyrs, pray for peace, serenity, and salvation of us who loyally celebrate your sacred feast, and save us from occupation and danger."
 
 meMA.Ode9C13.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode9C13.melody = he.h.m4_en_US_goadedes.heHE.EvaMenToTisParakois.name
+meMA.Ode9C13.melody = he.h.m4_en_US_goadedes.heHE.EvaMenToTisParakois.notmetered
 meMA.Ode9C13.incipit = "…"
-meMA.Ode9C13.text = ""
+meMA.Ode9C13.text = "O medaled Athletes, you glow with abundant light, illustrious in grace. Join all who shared your heroic exploits, and implore our Lord and Benefactor that we who pray to you be released from our sins and from anxiety."
 
 meMA.Ode9C1T.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode9C1T.melody = he.h.m4_en_US_goadedes.heHE.EvaMenToTisParakois.name
+meMA.Ode9C1T.melody = he.h.m4_en_US_goadedes.heHE.EvaMenToTisParakois.notmetered
 meMA.Ode9C1T.incipit = "…"
-meMA.Ode9C1T.text = ""
+meMA.Ode9C1T.text = "Eve was exiled and hindered from partaking from the Tree of Life. But you, O Virgin Theotokos, for all the world conceived Life, who was before the ages. And now you grant to us by faith His vivifying energy."
 
 meMA.Ode9H.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_goadedes.misc.Mode4
