@@ -26,18 +26,20 @@ meHO.note2 = ""
 meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera01.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.Stichera01.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
+meVE.Stichera01.incipit = "Your memory…"
+meVE.Stichera01.text = "Your memory, brighter than the sun, O blessed Eulampius, 
+has arisen resplendently * on the faithful, as your name denotes, and illumines * creation with God's light, and drives away demonic night * and misty darkness that sinful passions bring. * We annually honor you, the luminary of all the world, * holy Martyr, and call you blest, as you ardently pray for us."
 
 meVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
+meVE.Stichera02.incipit = "Your mind…"
+meVE.Stichera02.text = "Your mind was preserved unshaken by divine grace, O blessed Saint, * even as you were physically * scraped and raked with iron hooks, burned with flaming torches, * imprisoned and tortured in many ways and given up * to be devoured by savage animals. * And therefore you were decorated with the medals of victory. * Now we joyfully honor you, celebrating your memory."
 
 meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
+meVE.Stichera03.incipit = "Wounded by the love…"
+meVE.Stichera03.text = "Wounded by the love of Christ the King of all, O Eulampia, 
+you were able to mightily * endure every torture and wounding of your body; * and thereby you wounded the crafty serpent, who of old * had wounded Eve, ousting her from Paradise. * And you attained divine theosis by sublimest experience. * Now you pray on behalf of all who with faith are extolling you."
 
 meVE.SticGlory.poet = poets_en_US_goadedes.po.IoannouMonachou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -54,8 +56,8 @@ meVE.SticTheotokion.text = "We salute you, Lady, who became the luminous chariot
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.incipit = "Savior, when Your side…"
+meVE.SticStavrotheotokion.text = "Savior, when Your side was pierced, the bond that from the beginning stood * against Adam our ancestor, * was cancelled and torn apart; * and our human nature, * which of old was banished, * is sanctified now by Your blood, * O very merciful Lord. We sing to You: * O Jesus the almighty Savior of our souls, we all glorify * your compassion, extolling Your * crucifixion that saved the world."
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.AposGlory.melody = ""
@@ -71,8 +73,8 @@ meVE.AposTheotokion.text = oc.m4.d6_en_US_goadedes.ocVE.Stichera4.text
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.AposStavrotheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.AposStavrotheotokion.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.AposStavrotheotokion.incipit = "…"
-meVE.AposStavrotheotokion.text = ""
+meVE.AposStavrotheotokion.incipit = "You, all-blameless Lady…"
+meVE.AposStavrotheotokion.text = "You, all-blameless Lady, are the virgin Mother of Christ our God, * who was physically crucified, * diminishing passions by His all-holy Passion * and all that He suffered and voluntarily endured, * for the salvation by grace of humankind. * O virgin Mother, higher than the hosts of Angels, implore your Son, * so that I may be saved through your intercessions on my behalf."
 
 meVE.Apolytikion1ger.poet = poets_en_US_goadedes.po.Gerasimou
 meVE.Apolytikion1ger.mode = miscellanea_en_US_goadedes.misc.Mode1
