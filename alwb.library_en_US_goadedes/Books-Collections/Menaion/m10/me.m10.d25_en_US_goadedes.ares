@@ -26,18 +26,18 @@ meHO.note2 = ""
 meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera01.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
 meVE.Stichera01.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
+meVE.Stichera01.incipit = "When they finished…"
+meVE.Stichera01.text = "When they finished the race like Paul * the Apostle and kept the faith, * holy Martyrs Marcian and Martyrius * received the halos of victory. * Now they are unshakable * pillars of the Church of Christ; * they pour out pure and spiritual * milk for all to drink; * they are bright shining pearls and luminaries that enlighten all creation * with Orthodoxy like rays of light."
 
 meVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
+meVE.Stichera02.incipit = "Being one and the same…"
+meVE.Stichera02.text = "Being one and the same in their * faith in God and theology, * the two holy Martyrs destroyed the heresy * of the division of Arius, * and rather instructed all * that the Spirit and the Son * with the Father forever are unoriginate, * and that one is the undivided nature in the Trinity, and one God * in three united hypostases. "
 
 meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
+meVE.Stichera03.incipit = "As disciples…"
+meVE.Stichera03.text = "As disciples and followers * of the preacher and patriarch * St. Paul, blessed Marcian and Martyrius, * you imitated his life and zeal. * O Martyrs, your blood was spilled, * in it foes of God were drowned. * And you dried up the torrents of wicked heresies. * You were rivers of Orthodox theology and Apostolic teachings, * with which you water the Church of Christ."
 
 meVE.SticGlory.poet = poets_en_US_goadedes.po.Germanou
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode1
@@ -64,8 +64,8 @@ meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode3
 meVE.AposTheotokion.melody = ""
-meVE.AposTheotokion.incipit = oc.m3.d2_en_US_goadedes.ocMA.AposTheotokion.incipit
-meVE.AposTheotokion.text = oc.m3.d2_en_US_goadedes.ocMA.AposTheotokion.text
+meVE.AposTheotokion.incipit = oc.m3.d7_en_US_goadedes.ocVE.AposTheotokion.incipit
+meVE.AposTheotokion.text = oc.m3.d7_en_US_goadedes.ocVE.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode3
 meVE.AposStavrotheotokion.greekmelody = he.a.m3_en_US_goadedes.heAU.MegaliTouStavrouSou.greekname

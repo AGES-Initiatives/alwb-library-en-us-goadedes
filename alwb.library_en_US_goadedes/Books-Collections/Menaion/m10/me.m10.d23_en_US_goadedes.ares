@@ -26,18 +26,18 @@ meHO.note2 = ""
 meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera01.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.Stichera01.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
+meVE.Stichera01.incipit = "Godly-minded people…"
+meVE.Stichera01.text = "Godly-minded people, come and let us honor the memory * of the brother of God today. * With zeal he took up the yoke of Christ, who had chosen * him to preach the Gospel and to proclaim the saving news * of His benevolence and kingly rule, * entrusting our salvation's divine and ineffable plan to him. * We entreat You, forgive our sins, * by his prayers, O almighty Lord."
 
 meVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
+meVE.Stichera02.incipit = "The sound of your words…"
+meVE.Stichera02.text = "The sound of your words and proclamation went into all the earth, * and they echoed throughout the world. * Through them we have seen the light, and we are instructed * in all godly virtues, and we have faithfully been led * to certain knowledge of God the Trinity. * O Hierarch, we therefore now implore you: Earnestly pray for us * to benevolent Jesus Christ, * and beseech Him to save our souls."
 
 meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
+meVE.Stichera03.incipit = "Christ, as the benevolent…"
+meVE.Stichera03.text = "Christ, as the benevolent prognosticator, from long before * saw your virtuous way of life, * O James, and considered you His genuine brother. * Therefore He ordained you sacred instructor of the Faith * and loyal chief shepherd of Jerusalem, * and hierarch and liturgist of the ineffable sacraments. * We beseech you to pray for us, * and entreat Him to save our souls."
 
 meVE.MM.Stichera1123as78910.text = "" // for media
 
@@ -55,7 +55,7 @@ meVE.SticTheotokion.text = me.m09.d30_en_US_goadedes.meVE.SticTheotokion.text
 alt1.meVE.Lity1.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt1.meVE.Lity1.melody = ""
 alt1.meVE.Lity1.incipit = "Every good endowment…"
-alt1.meVE.Lity1.text = "Every good endowment and every perfect gift is sent down from above, as you said, O James the seer of God. So God the Logos selected you, from your mother’s womb, and made you His own brother, giving you the favor of this high honor, to which not even the whole world is of equal value. Since you have the greatest confidence towards Him, earnestly enteat Him on behalf of our souls."
+alt1.meVE.Lity1.text = "Every good endowment and every perfect gift is sent down from above, as you said, O James the seer of God. So God the Logos selected you, from your mother’s womb, and made you His own brother, giving you the favor of this high honor, to which not even the whole world is of equal value. Since you have the greatest confidence towards Him, earnestly entreat Him on behalf of our souls."
 
 alt1.meVE.Lity2.mode = miscellanea_en_US_goadedes.misc.Mode3
 alt1.meVE.Lity2.melody = ""
@@ -65,23 +65,23 @@ alt1.meVE.Lity2.text = "You were especially loved by Christ God, your teacher, O
 alt1.meVE.LityGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt1.meVE.LityGlory.melody = ""
 alt1.meVE.LityGlory.incipit = "Today, the solemn feast…"
-alt1.meVE.LityGlory.text = "Today, the solemn feast of the Apostle has come to us, like a fragrant apple in autumn. So come, all you fans of the Church’s feasts, let us spiritually celebrate, and let us salute him with triumphant voices and say to him: “Rejoice, O glorious James, the jewel of Apostles, the pinacle of hierarchs, and the solemn pride of the Just! Rejoice! You are the most distinguished brother, according to the flesh, of the Lord who without flux was begotten of the Father before all ages. Rejoice! You immitated your teacher, Christ, as His legitimate disciple. Indeed, for just as He prayed for those who crucified Him, so you also prayed for those who murdered you. We implore you to intercede and entreat Him to grant us the great mercy.”"
+alt1.meVE.LityGlory.text = "Today, the solemn feast of the Apostle has come to us, like a fragrant apple in autumn. So come, all you fans of the Church’s feasts, let us spiritually celebrate, and let us salute him with triumphant voices and say to him: “Rejoice, O glorious James, the jewel of Apostles, the pinnacle of hierarchs, and the solemn pride of the Just! Rejoice! You are the most distinguished brother, according to the flesh, of the Lord who without flux was begotten of the Father before all ages. Rejoice! You imitated your teacher, Christ, as His legitimate disciple. Indeed, for just as He prayed for those who crucified Him, so you also prayed for those who murdered you. We implore you to intercede and entreat Him to grant us the great mercy.”"
 
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Aposticha1.greekmelody = he.a.m8_en_US_goadedes.heAU.KyrieEiKaiKritirio.greekname
 meVE.Aposticha1.melody = he.a.m8_en_US_goadedes.heAU.KyrieEiKaiKritirio.name
-meVE.Aposticha1.incipit = "…"
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.incipit = "Lord, even as St. James…"
+meVE.Aposticha1.text = "Lord, even as St. James, Your brother, was standing * on the holy Temple's pinnacle, * boldly he cried out and proclaimed that * You are God the Word and Son of God, * and the Creator of all, * who came into the world in the flesh. * At his entreaties and intercessions, * grant us all illumination of soul."
 
 meVE.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Aposticha2.melody = he.a.m8_en_US_goadedes.heAU.KyrieEiKaiKritirio.name
-meVE.Aposticha2.incipit = "…"
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.incipit = "Lord, even as the head…"
+meVE.Aposticha2.text = "Lord, even as the head of James Your apostle * was being crushed by a wooden club, * it was brought to You in the Garden, * for You yourself are the tree of life. * From things temporal released, * he rejoices eternally. * At his entreaties and intercessions, * to Your churches send abiding peace."
 
 meVE.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Aposticha3.melody = he.a.m8_en_US_goadedes.heAU.KyrieEiKaiKritirio.name
-meVE.Aposticha3.incipit = "…"
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.incipit = "Lord, when James…"
+meVE.Aposticha3.text = "Lord, when James, Your holy Apostle, confessed You * to be the Son of the Most High God * bravely and sincerely, that famous * and noble brother of God rejoiced. * He put the slanderous foes * to shame, and he silenced them. * And then after he was martyred, * with great joy he went to stand near You."
 
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.AposGlory.melody = ""

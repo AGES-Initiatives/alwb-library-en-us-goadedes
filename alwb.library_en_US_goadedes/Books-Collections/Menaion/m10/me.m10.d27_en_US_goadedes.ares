@@ -42,18 +42,18 @@ meVE.Stichera03.text = ""
 meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Stichera04.greekmelody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.greekname
 meVE.Stichera04.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
-meVE.Stichera04.incipit = "…"
-meVE.Stichera04.text = ""
+meVE.Stichera04.incipit = "Putting on the full armor…"
+meVE.Stichera04.text = "Putting on the full armor of Christ, O blessed Nestor, you met * that barbarian Lyaios * in the ring and challenged him * and defeated him physically. * And with invisible wrestling holds you pinned * the unseen enemy, neutralizing him. * Therefore, O glorious * Martyr Athlete, you received a victor's crown * for your mighty victory from our magnanimous God."
 
 meVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Stichera05.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
 meVE.Stichera05.incipit = "…"
-meVE.Stichera05.text = ""
+meVE.Stichera05.text = "Strengthened by the godly words great Martyr Demetrius, * O wise Nestor, courageously * you challenged the arrogant * fighting man, and you put him to death. * When you professed your belief in Christ who died * and conquered Hades as true immortal God, * glorious Saint, you were * unjustly assassinated, and for this * you rejoice now as an heir of everlasting life. "
 
 meVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode8
 meVE.Stichera06.melody = he.a.m8_en_US_goadedes.heAU.OTouParadoxou.name
 meVE.Stichera06.incipit = "…"
-meVE.Stichera06.text = ""
+meVE.Stichera06.text = "Nestor, you were in the prime of youth, handsome in body and soul, * and adorned with the grace of God, * full of wisdom, and endowed * as a strapping young man with strength. * Therefore you bested the might of Lyaios, * being empowered by God omnipotent. * After this, joyfully * you accepted martyrdom and joined the ranks * of martyrs. Rejoicing now with them, remember us."
 
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode6
 meVE.SticGlory.melody = ""
@@ -61,10 +61,9 @@ meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode6
-meVE.SticTheotokion.greekmelody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.greekname
-meVE.SticTheotokion.melody = he.a.m6_en_US_goadedes.heAU.TriimerosAnestis.name
-meVE.SticTheotokion.incipit = oc.m6.d5_en_US_goadedes.ocMA.AposTheotokion.incipit
-meVE.SticTheotokion.text = oc.m6.d5_en_US_goadedes.ocMA.AposTheotokion.text
+meVE.SticTheotokion.melody = he.o_en_US_goadedes.heOT.TheotokeSyEi.name
+meVE.SticTheotokion.incipit = he.o_en_US_goadedes.heOT.TheotokeSyEi.incipit
+meVE.SticTheotokion.text = he.o_en_US_goadedes.heOT.TheotokeSyEiAthloforou.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
 meVE.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
@@ -99,7 +98,7 @@ meVE.Apolytikion2ger.mode = miscellanea_en_US_goadedes.misc.Mode5
 meVE.Apolytikion2ger.greekmelody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.greekname
 meVE.Apolytikion2ger.melody = he.a.m5_en_US_goadedes.heAU.TonSynanarchonLogon.name
 meVE.Apolytikion2ger.incipit = "O invincible athlete…"
-meVE.Apolytikion2ger.text = "O invincible athlete of Christianity, * the recruit and disciple of St. Demetrius, * blessed Nestor, you competed most courageously, * and you defeated Lyaeus with guidance from on high. * And then you yourself were slaughtered * and offered as a blameless sacrifice * to our God who rewarded you."
+meVE.Apolytikion2ger.text = "O invincible athlete of Christianity, * the recruit and disciple of St. Demetrius, * blessed Nestor, you competed most courageously, * and with guidance from on high you defeated Lyaios. * And then you yourself were slaughtered * and offered as a blameless sacrifice * to our God who rewarded you."
 
 meMA.C1.title = "Canon for St. Nestor."
 meMA.C1.verse = prayers_en_US_goadedes.pr.verse_SaintM.text
