@@ -26,8 +26,8 @@ meHO.note2 = ""
 meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera01.greekmelody = he.a.m4_en_US_goadedes.heAU.OExYpsistouKlitheis.greekname
 meVE.Stichera01.melody = he.a.m4_en_US_goadedes.heAU.OExYpsistouKlitheis.name
-meVE.Stichera01.incipit = "When the refelction…"
-meVE.Stichera01.text = "When the refelction of God the Father’s glory * appeared hypostatically for mercy’s sake to save * the human race, you, O glorious Apostle Andrew, * were by the light of the Forerunner prepared. * Then, as you were first of those who by Lord were called, * you went to Him, and your mind became fully illumined * by the resplendence of His divinity. * Now we extol you who indeed became * an Apostle and herald of Christ our God. * Therefore earnestly pray Him to illumine us and save our souls."
+meVE.Stichera01.incipit = "When the reflection…"
+meVE.Stichera01.text = "When the reflection of God the Father’s glory * appeared hypostatically for mercy’s sake to save * the human race, you, O glorious Apostle Andrew, * were by the light of the Forerunner prepared. * Then, as you were first of those who by Lord were called, * you went to Him, and your mind became fully illumined * by the resplendence of His divinity. * Now we extol you who indeed became * an Apostle and herald of Christ our God. * Therefore earnestly pray Him to illumine us and save our souls."
 
 meVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_goadedes.heAU.OExYpsistouKlitheis.name
@@ -376,8 +376,8 @@ meMA.Ode3Kathisma2.text = "You, O blessed St. Andrew, became the Lord’s * firs
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
-meMA.Ode3KathismaT.incipit = me.m08.d25_en_US_goadedes.meMA.Ode3KathismaT.incipit
-meMA.Ode3KathismaT.text = me.m08.d25_en_US_goadedes.meMA.Ode3KathismaT.text
+meMA.Ode3KathismaT.incipit = ""
+meMA.Ode3KathismaT.text = ""
 
 meMA.Ode4C1H.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_goadedes.misc.Mode1

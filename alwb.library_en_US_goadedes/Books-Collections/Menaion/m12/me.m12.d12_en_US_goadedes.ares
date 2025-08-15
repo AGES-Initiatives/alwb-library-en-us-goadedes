@@ -55,18 +55,18 @@ meVE.SticBoth.text = me.m12.d06_en_US_goadedes.meVE.SticBoth.text
 meVE.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Aposticha1.greekmelody = he.a.m1_en_US_goadedes.heAU.NefelinSeFotos.greekname
 meVE.Aposticha1.melody = he.a.m1_en_US_goadedes.heAU.NefelinSeFotos.name
-meVE.Aposticha1.incipit = "…"
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.incipit = "The gathering is festive…"
+meVE.Aposticha1.text = "The gathering is festive, the banquet is sacred. * Come, believers, partake of it. * St. Spyridon now invites us to join him, * as he is our spiritual host. * Heavenly is the menu, * delightful his miracles, * his deeds are immortalized. * Come all, let us imitate * his gentleness, his innocence, * his simplicity, and his humanity, * his wisdom concerning all. * In these virtues he shines as a light among hierarchs."
 
 meVE.Aposticha2.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Aposticha2.melody = he.a.m1_en_US_goadedes.heAU.NefelinSeFotos.name
-meVE.Aposticha2.incipit = "…"
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.incipit = "O Spyridon, you worked…"
+meVE.Aposticha2.text = "O Spyridon, you worked extraordinary wonders, * being wise and most virtuous. * Your life, all aglow with virtue, was shining * brighter than the splendor of the sun; * and by your many wonders * and marvelous miracles, * which you did during your life * and even after your death, * you light up the whole wide world * even more so than lightning, exceeding both * in beauty and radiance. * And now, O Saint, you protect us who put our faith in you."
 
 meVE.Aposticha3.mode = miscellanea_en_US_goadedes.misc.Mode1
 meVE.Aposticha3.melody = he.a.m1_en_US_goadedes.heAU.NefelinSeFotos.name
-meVE.Aposticha3.incipit = "…"
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.incipit = "The miracle was great…"
+meVE.Aposticha3.text = "The miracle was great! For the dead girl responded * audibly when you questioned her. * The current of the river that had flooded * was restrained when you commanded it, * and the emperor’s illness * was cured when you prayed for him. * A snake was transformed by you * into gold and then restored, * and people who died were raised. * For Christ was working through you. St. Spyridon, * the Hierarch of the Lord, * you publicly proclaimed the dogma of the Trinity."
 
 meVE.AposGlory.poet = poets_en_US_goadedes.po.Germanou
 meVE.AposGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
@@ -117,8 +117,8 @@ meMA.Kathisma31.text = ""
 
 meMA.Kathisma3T.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Kathisma3T.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
-meMA.Kathisma3T.incipit = me.m08.d25_en_US_goadedes.meMA.Ode3KathismaT.incipit
-meMA.Kathisma3T.text = me.m08.d25_en_US_goadedes.meMA.Ode3KathismaT.text
+meMA.Kathisma3T.incipit= me.m11.d30_en_US_goadedes.meMA.Ode3KathismaT.incipit
+meMA.Kathisma3T.text= me.m11.d30_en_US_goadedes.meMA.Ode3KathismaT.text
 
 meMA.PostGospelGlory.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.PostGospelGlory.melody = ""
