@@ -26,18 +26,18 @@ meHO.note2 = ""
 meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera01.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.Stichera01.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
+meVE.Stichera01.incipit = "Longing to attain…"
+meVE.Stichera01.text = "Longing to attain the glory and esteem that has been prepared * for the Martyrs who suffer much, * with confidence you endured many painful tortures, * hoping to be taken into a painless place of rest, * and to be granted the heavenly awards, * and residence in Paradise, where the divine uncreated light * never sets, and eternal life, O all-blessed St. Boniface."
 
 meVE.Stichera02.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
+meVE.Stichera02.incipit = "You endured…"
+meVE.Stichera02.text = "You endured the savage torments, for they needled your fingernails * and poured molten lead down your throat; * they beat you and tore your flesh; then you were beheaded. * And for your endurance of the excruciating pain, * with joy you joined the choir of Martyr Saints * in heaven with angelic hosts, O medal-winner St. Boniface. * Every year now we honor you on this day of your sacred feast."
 
 meVE.Stichera03.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
+meVE.Stichera03.incipit = "Aglaia dispatched…"
+meVE.Stichera03.text = "Aglaia dispatched you as her slave, and she got you back as her * godly master, O Boniface. * For you had at last subdued all the carnal passions, * prevailed over tyrants, defeated foes, and thus received * the glowing halo and crown of victory. * She therefore had a church constructed to enshrine your miraculous * holy relics and solemnly with this monument honored you."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.SticTheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
@@ -48,8 +48,8 @@ meVE.SticTheotokion.text = ""
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.SticStavrotheotokion.incipit = oc.m4.d4_en_US_goadedes.ocVE.SticTheotokion.incipit
-meVE.SticStavrotheotokion.text = oc.m4.d4_en_US_goadedes.ocVE.SticTheotokion.text
+meVE.SticStavrotheotokion.incipit = ""
+meVE.SticStavrotheotokion.text = ""
 
 meVE.Apolytikion1ger.poet = poets_en_US_goadedes.po.Gerasimou
 meVE.Apolytikion1ger.mode = miscellanea_en_US_goadedes.misc.Mode4
