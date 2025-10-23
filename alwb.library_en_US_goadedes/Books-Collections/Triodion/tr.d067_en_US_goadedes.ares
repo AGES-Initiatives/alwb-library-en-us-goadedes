@@ -16,6 +16,7 @@ trCO.header = ""
 trVL.header = "" //for pdf headers of presanctified and vesperal liturgies
 trEM.header = "" //for pdf evening Matins
 trDA.dismissal = dismissals_en_US_goadedes.dis00.bridegroom
+trDA.dismissal.incipit = dismissals_en_US_goadedes.dis00.bridegroom.incipit
 
 trVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode1
 trVE.Stichera01.melody = miscellanea_en_US_goadedes.misc.Idiomelon

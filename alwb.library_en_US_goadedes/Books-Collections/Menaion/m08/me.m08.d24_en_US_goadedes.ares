@@ -819,6 +819,7 @@ alt2.meHO.commemorations = ""
 alt2.meHO.note1 = ""
 alt2.meHO.note2 = ""
 alt2.meDA.dismissal = ""
+alt2.meDA.dismissal.incipit = ""
 
 alt2.meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode2
 alt2.meVE.Stichera01.greekmelody = he.a.m2_en_US_goadedes.heAU.OteEkTouXylou.greekname
@@ -962,8 +963,8 @@ alt2.meMA.Kathisma11.text = "On Zakynthos the crowds with delight are observing 
 alt2.meMA.Kathisma12.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt2.meMA.Kathisma12.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 alt2.meMA.Kathisma12.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
-alt2.meMA.Kathisma12.incipit = "…"
-alt2.meMA.Kathisma12.text = ""
+alt2.meMA.Kathisma12.incipit = "The Master knew…"
+alt2.meMA.Kathisma12.text = "The Master knew your soul to be pure, O wise father. * He elevated you to the see of Aegina. * From there you shone brilliantly like the sun that is luminous. * With your radiance you rid your flock of the darkness * of their trespasses, and as a shepherd you led them * to Christ the unwaning light."
 
 alt2.meMA.Kathisma1T.mode = miscellanea_en_US_goadedes.misc.Mode1
 alt2.meMA.Kathisma1T.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
@@ -975,13 +976,13 @@ alt2.meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode4
 alt2.meMA.Kathisma21.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 alt2.meMA.Kathisma21.melody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.name
 alt2.meMA.Kathisma21.incipit = "When you prudently renounced…"
-alt2.meMA.Kathisma21.text = "When you prudently renounced the cares of secular life, * you unwaveringly walked on the path of God’s commands, * and you went to the monastery of Anafonitria. * While there, as you excelled in the angelic life, * you purified your soul, obtaining second sight. * And by the grace of the Spirit you reminded * the priest Pancratius of the lapse he had thought to conceal. * And even after you died, your body * pours out cures to all, O St. Dionysius."
+alt2.meMA.Kathisma21.text = "When you prudently renounced the cares of secular life, * you unwaveringly walked on the path of God’s commands, * and you went to the monastery of Anaphonitria. * While there, as you excelled in the angelic life, * you purified your soul, obtaining second sight. * And by the grace of the Spirit you reminded * the priest Pancratius of the lapse he had thought to conceal. * And even after you died, your body * pours out cures to all, O St. Dionysius."
 
 alt2.meMA.Kathisma22.mode = miscellanea_en_US_goadedes.misc.Mode3
 alt2.meMA.Kathisma22.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname
 alt2.meMA.Kathisma22.melody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.name
-alt2.meMA.Kathisma22.incipit = "…"
-alt2.meMA.Kathisma22.text = ""
+alt2.meMA.Kathisma22.incipit = "The Isle of Zakynthos…"
+alt2.meMA.Kathisma22.text = "The Isle of Zakynthos is filled with joy today * and celebrates the gift that it received from God, * namely the body of its Saint, that wellspring of many wonders. * Lovers of the Church's feasts, let us go there and solemnly * venerate it, crying out, “O thrice-holy almighty Lord, * we pray You save our souls from perdition, * at the intercessions of the Dionysius.”"
 
 alt2.meMA.Kathisma2T.mode = miscellanea_en_US_goadedes.misc.Mode3
 alt2.meMA.Kathisma2T.greekmelody = he.a.m3_en_US_goadedes.heAU.TinOraiotita.greekname

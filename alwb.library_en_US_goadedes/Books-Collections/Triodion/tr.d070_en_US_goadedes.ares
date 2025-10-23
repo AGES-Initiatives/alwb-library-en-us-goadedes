@@ -16,6 +16,7 @@ trCO.header = ""
 trVE.header = ""
 trEM.header = "" //for pdf evening Matins
 trDA.dismissal = dismissals_en_US_goadedes.dis00.holyfriday
+trDA.dismissal.incipit = dismissals_en_US_goadedes.dis00.holyfriday.incipit
 
 trVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode1
 trVE.Stichera01.melody = miscellanea_en_US_goadedes.misc.Idiomelon

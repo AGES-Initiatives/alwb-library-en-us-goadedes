@@ -353,8 +353,8 @@ meMA.Exaposteilarion1.text = ""
 
 meMA.ExapTheotokion.mode = miscellanea_en_US_goadedes.misc.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_en_US_goadedes.heAU.EnPnevmatiToIero.name
-meMA.ExapTheotokion.incipit = "…"
-meMA.ExapTheotokion.text = ""
+meMA.ExapTheotokion.incipit = me.m06.d08_en_US_goadedes.meMA.ExapTheotokion.incipit
+meMA.ExapTheotokion.text = me.m06.d08_en_US_goadedes.meMA.ExapTheotokion.text
 
 meMA.Lauds1.poet = poets_en_US_goadedes.po.Vyzantiou
 meMA.Lauds1.mode = miscellanea_en_US_goadedes.misc.Mode4

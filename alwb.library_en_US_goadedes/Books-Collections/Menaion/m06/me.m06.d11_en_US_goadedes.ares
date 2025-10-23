@@ -23,6 +23,7 @@ meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 meDA.dismissal = ""
+meDA.dismissal.incipit = ""
 
 meVE.Stichera01.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera01.greekmelody = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
@@ -547,6 +548,7 @@ alt1.meHO.commemorations = ""
 alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
 alt1.meDA.dismissal = ""
+alt1.meDA.dismissal.incipit = ""
 alt1.meDA.poet = ""
 
 alt1.meSV.Stichera1.mode = miscellanea_en_US_goadedes.misc.Mode1
