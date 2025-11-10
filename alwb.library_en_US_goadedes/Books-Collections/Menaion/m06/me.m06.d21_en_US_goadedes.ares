@@ -70,52 +70,52 @@ meMA.C1.verse = prayers_en_US_goadedes.pr.verse_SaintM.text
 meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode1C11.greekmelody = he.h.m8_en_US_goadedes.heHE.AsomenToKyrio.greekname
-meMA.Ode1C11.melody = he.h.m8_en_US_goadedes.heHE.AsomenToKyrio.name
-meMA.Ode1C11.incipit = "…"
-meMA.Ode1C11.text = ""
+meMA.Ode1C11.melody = he.h.m8_en_US_goadedes.heHE.AsomenToKyrio.notmetered
+meMA.Ode1C11.incipit = "Your acclaimed…"
+meMA.Ode1C11.text = "Your acclaimed and highly honored memory is celebrated with sacred hymns and glorified with unapproachable glory, O athlete St. Julian."
 
 meMA.Ode1C12.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode1C12.melody = he.h.m8_en_US_goadedes.heHE.AsomenToKyrio.name
-meMA.Ode1C12.incipit = "…"
-meMA.Ode1C12.text = ""
+meMA.Ode1C12.melody = he.h.m8_en_US_goadedes.heHE.AsomenToKyrio.notmetered
+meMA.Ode1C12.incipit = "As you competed…"
+meMA.Ode1C12.text = "As you competed in martyrdom to the point of blood, you did not stumble due to any infirmity of the flesh, O soldier of Christ."
 
 meMA.Ode1C13.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode1C13.melody = he.h.m8_en_US_goadedes.heHE.AsomenToKyrio.name
-meMA.Ode1C13.incipit = "…"
-meMA.Ode1C13.text = ""
+meMA.Ode1C13.melody = he.h.m8_en_US_goadedes.heHE.AsomenToKyrio.notmetered
+meMA.Ode1C13.incipit = "The Saint is decorated…"
+meMA.Ode1C13.text = "The Saint is decorated by his martyric torments, shining brighter than gold and any precious stone."
 
 meMA.Ode1C1T.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C1T.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode1C1T.melody = he.h.m8_en_US_goadedes.heHE.AsomenToKyrio.name
-meMA.Ode1C1T.incipit = "…"
-meMA.Ode1C1T.text = ""
+meMA.Ode1C1T.incipit = "Mother of God…"
+meMA.Ode1C1T.text = "Mother of God and Virgin, * in a way transcending nature you gave birth * to the incarnate Logos * who is God beyond divine. We sing your praise."
 
 meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode3C11.greekmelody = he.h.m8_en_US_goadedes.heHE.SyEiToStereoma.greekname
 meMA.Ode3C11.melody = he.h.m8_en_US_goadedes.heHE.SyEiToStereoma.name
-meMA.Ode3C11.incipit = "…"
-meMA.Ode3C11.text = ""
+meMA.Ode3C11.incipit = "Julian responded…"
+meMA.Ode3C11.text = "Julian responded to the deluded judge, “I have been commanded not to worship handcrafted stone objects as gods.”"
 
 meMA.Ode3C12.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C12.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode3C12.melody = he.h.m8_en_US_goadedes.heHE.SyEiToStereoma.name
-meMA.Ode3C12.incipit = "…"
-meMA.Ode3C12.text = ""
+meMA.Ode3C12.incipit = "Julian, Martyr…"
+meMA.Ode3C12.text = "Julian, Martyr of Christ, you appeared before the tyrant's court, while standing in the presence of the Judge of the living and the dead."
 
 meMA.Ode3C13.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C13.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode3C13.melody = he.h.m8_en_US_goadedes.heHE.SyEiToStereoma.name
-meMA.Ode3C13.incipit = "…"
-meMA.Ode3C13.text = ""
+meMA.Ode3C13.incipit = "Julian said…"
+meMA.Ode3C13.text = "Julian said, “I am not crazy in confessing the one and only God, who is praised and worshiped as indivisible Trinity.”"
 
 meMA.Ode3C1T.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C1T.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode3C1T.melody = he.h.m8_en_US_goadedes.heHE.SyEiToStereoma.name
-meMA.Ode3C1T.incipit = "…"
-meMA.Ode3C1T.text = ""
+meMA.Ode3C1T.incipit = "O all-pure one…"
+meMA.Ode3C1T.text = "O all-pure one, give to us * your great assistance through your intense and ardent prayers, * and repel the grievous circumstances besetting us."
 
 meMA.Ode3H.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_goadedes.misc.Mode8
@@ -127,8 +127,8 @@ meMA.Ode3H.text = he.h.m8_en_US_goadedes.heHE.SyEiToStereoma.text
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
-meMA.Ode3Kathisma1.incipit = "…"
-meMA.Ode3Kathisma1.text = ""
+meMA.Ode3Kathisma1.incipit = "O Saint, when you…"
+meMA.Ode3Kathisma1.text = "O Saint, when you were thrown into the sea and by drowning * received your blessed end, you therein drowned the serpent * who takes many forms, and you who are wise took the victory. * Blessed Julian, as we extol you, we pray you * intercede with Christ for us who lovingly honor * your praiseworthy memory. "
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode3KathismaT.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
@@ -137,89 +137,89 @@ meMA.Ode3KathismaT.text = me.m03.d03_en_US_goadedes.meMA.Ode3KathismaT.text
 
 meMA.Ode3KathismaSt.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode3KathismaSt.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
-meMA.Ode3KathismaSt.incipit = "…"
-meMA.Ode3KathismaSt.text = ""
+meMA.Ode3KathismaSt.incipit = me.m01.d19_en_US_goadedes.meMA.Ode3KathismaSt.incipit
+meMA.Ode3KathismaSt.text = me.m01.d19_en_US_goadedes.meMA.Ode3KathismaSt.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode4C11.greekmelody = he.h.m8_en_US_goadedes.heHE.EisakikoaKyrie.greekname
-meMA.Ode4C11.melody = he.h.m8_en_US_goadedes.heHE.EisakikoaKyrie.name
-meMA.Ode4C11.incipit = "…"
-meMA.Ode4C11.text = ""
+meMA.Ode4C11.melody = he.h.m8_en_US_goadedes.heHE.EisakikoaKyrie.notmetered
+meMA.Ode4C11.incipit = "Julian delivered…"
+meMA.Ode4C11.text = "Julian delivered his body to be whipped, but it felt like snow flurries. He was preserved from feeling the pain, due to his love and longing for Christ."
 
 meMA.Ode4C12.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode4C12.melody = he.h.m8_en_US_goadedes.heHE.EisakikoaKyrie.name
-meMA.Ode4C12.incipit = "…"
-meMA.Ode4C12.text = ""
+meMA.Ode4C12.melody = he.h.m8_en_US_goadedes.heHE.EisakikoaKyrie.notmetered
+meMA.Ode4C12.incipit = "Most honorable…"
+meMA.Ode4C12.text = "Most honorable St. Julian, you left earthly luxuries to the persecutors, for as a servant of Christ, you desired the heavenly delights. "
 
 meMA.Ode4C13.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode4C13.melody = he.h.m8_en_US_goadedes.heHE.EisakikoaKyrie.name
-meMA.Ode4C13.incipit = "…"
-meMA.Ode4C13.text = ""
+meMA.Ode4C13.melody = he.h.m8_en_US_goadedes.heHE.EisakikoaKyrie.notmetered
+meMA.Ode4C13.incipit = "All-honorable…"
+meMA.Ode4C13.text = "All-honorable Saint, it was not your physical strength, but your invincible longing for the sufferings of Christ that made you a victor over the pagan superstitions."
 
 meMA.Ode4C14.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C14.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode4C14.melody = he.h.m8_en_US_goadedes.heHE.EisakikoaKyrie.name
-meMA.Ode4C14.incipit = "…"
-meMA.Ode4C14.text = ""
+meMA.Ode4C14.melody = he.h.m8_en_US_goadedes.heHE.EisakikoaKyrie.notmetered
+meMA.Ode4C14.incipit = "O Saint, as if…"
+meMA.Ode4C14.text = "O Saint, as if with wings you flew above the traps of idolatry, and in the strength and grace of the Spirit you were brought to where the Martyrs dwell."
 
 meMA.Ode4C1T.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C1T.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode4C1T.melody = he.h.m8_en_US_goadedes.heHE.EisakikoaKyrie.name
-meMA.Ode4C1T.incipit = "…"
-meMA.Ode4C1T.text = ""
+meMA.Ode4C1T.melody = he.h.m8_en_US_goadedes.heHE.EisakikoaKyrie.notmetered
+meMA.Ode4C1T.incipit = "O all-pure Lady…"
+meMA.Ode4C1T.text = "O all-pure Lady, we who have been illumined all profess you to be Theotokos, for you conceived the Sun of Righteousness, O ever-virgin Mary."
 
 meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode5C11.greekmelody = he.h.m8_en_US_goadedes.heHE.OrthrizontesVoomenSoi.greekname
-meMA.Ode5C11.melody = he.h.m8_en_US_goadedes.heHE.OrthrizontesVoomenSoi.name
-meMA.Ode5C11.incipit = "…"
-meMA.Ode5C11.text = ""
+meMA.Ode5C11.melody = he.h.m8_en_US_goadedes.heHE.OrthrizontesVoomenSoi.notmetered
+meMA.Ode5C11.incipit = "All-lauded Julian…"
+meMA.Ode5C11.text = "All-lauded Julian, imitating your Master in every way, you stood on trial in the court of the unlawful."
 
 meMA.Ode5C12.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C12.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode5C12.melody = he.h.m8_en_US_goadedes.heHE.OrthrizontesVoomenSoi.name
-meMA.Ode5C12.incipit = "…"
-meMA.Ode5C12.text = ""
+meMA.Ode5C12.melody = he.h.m8_en_US_goadedes.heHE.OrthrizontesVoomenSoi.notmetered
+meMA.Ode5C12.incipit = "O blessed Julian…"
+meMA.Ode5C12.text = "O blessed Julian, you competed according to the rules, and like an innocent lamb, you were sacrificed to the Master at the hands of lawless men."
 
 meMA.Ode5C13.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C13.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode5C13.melody = he.h.m8_en_US_goadedes.heHE.OrthrizontesVoomenSoi.name
-meMA.Ode5C13.incipit = "…"
-meMA.Ode5C13.text = ""
+meMA.Ode5C13.melody = he.h.m8_en_US_goadedes.heHE.OrthrizontesVoomenSoi.notmetered
+meMA.Ode5C13.incipit = "Celebrated and blessed…"
+meMA.Ode5C13.text = "Celebrated and blessed Martyr Julian, after your holy martyrdom, you were acknowledged by God Almighty."
 
 meMA.Ode5C1T.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C1T.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode5C1T.melody = he.h.m8_en_US_goadedes.heHE.OrthrizontesVoomenSoi.name
-meMA.Ode5C1T.incipit = "…"
-meMA.Ode5C1T.text = ""
+meMA.Ode5C1T.melody = he.h.m8_en_US_goadedes.heHE.OrthrizontesVoomenSoi.notmetered
+meMA.Ode5C1T.incipit = "We extol you…"
+meMA.Ode5C1T.text = "We extol you, O Theotokos, for you conceived God the Logos in the flesh for the sake of the world, and you remained virgin after childbirth."
 
 meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode6C11.greekmelody = he.h.m8_en_US_goadedes.heHE.ChitonaMoiParaschou.greekname
-meMA.Ode6C11.melody = he.h.m8_en_US_goadedes.heHE.ChitonaMoiParaschou.name
-meMA.Ode6C11.incipit = "…"
-meMA.Ode6C11.text = ""
+meMA.Ode6C11.melody = he.h.m8_en_US_goadedes.heHE.ChitonaMoiParaschou.notmetered
+meMA.Ode6C11.incipit = "O Christ…"
+meMA.Ode6C11.text = "O Christ, Your famous servant was not ashamed of You for being nailed to a cross; rather he prides himself as a partaker of Your glory."
 
 meMA.Ode6C12.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode6C12.melody = he.h.m8_en_US_goadedes.heHE.ChitonaMoiParaschou.name
-meMA.Ode6C12.incipit = "…"
-meMA.Ode6C12.text = ""
+meMA.Ode6C12.melody = he.h.m8_en_US_goadedes.heHE.ChitonaMoiParaschou.notmetered
+meMA.Ode6C12.incipit = "When divine…"
+meMA.Ode6C12.text = "When divine mysteries were revealed by the tongues of the inspired Martyrs of Christ, the vulgarities of paganism were silenced."
 
 meMA.Ode6C13.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C13.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode6C13.melody = he.h.m8_en_US_goadedes.heHE.ChitonaMoiParaschou.name
-meMA.Ode6C13.incipit = "…"
-meMA.Ode6C13.text = ""
+meMA.Ode6C13.melody = he.h.m8_en_US_goadedes.heHE.ChitonaMoiParaschou.notmetered
+meMA.Ode6C13.incipit = "O glorious athlete…"
+meMA.Ode6C13.text = "O glorious athlete of the Savior, pray for us who extol you, that we may receive healing of every kind of illness and forgiveness of offenses."
 
 meMA.Ode6C1T.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C1T.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode6C1T.melody = he.h.m8_en_US_goadedes.heHE.ChitonaMoiParaschou.name
-meMA.Ode6C1T.incipit = "…"
-meMA.Ode6C1T.text = ""
+meMA.Ode6C1T.melody = he.h.m8_en_US_goadedes.heHE.ChitonaMoiParaschou.notmetered
+meMA.Ode6C1T.incipit = "O Theotokos…"
+meMA.Ode6C1T.text = "O Theotokos, the Logos of God came down to us through you, making you like an escalator to heaven for humanity."
 
 meMA.Ode6H.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_goadedes.misc.Mode8
@@ -231,64 +231,64 @@ meMA.Ode6H.text = he.h.m8_en_US_goadedes.heHE.ChitonaMoiParaschou.text
 meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode7C11.greekmelody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.greekname
-meMA.Ode7C11.melody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.name
-meMA.Ode7C11.incipit = "…"
-meMA.Ode7C11.text = ""
+meMA.Ode7C11.melody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.notmetered
+meMA.Ode7C11.incipit = "Soldier of Christ…"
+meMA.Ode7C11.text = "Soldier of Christ, your celebrated and glorious memory spreads a sweet fragrance over those who unceasingly sing, “Blessed are You, O Lord, the God of our fathers to the ages.”"
 
 meMA.Ode7C12.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode7C12.melody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.name
-meMA.Ode7C12.incipit = "…"
-meMA.Ode7C12.text = ""
+meMA.Ode7C12.melody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.notmetered
+meMA.Ode7C12.incipit = "Soldier of Christ…"
+meMA.Ode7C12.text = "Soldier of Christ, those who have come to church to praise you are crowned with ineffable glory, as they unceasingly sing, “Blessed are You, O Lord, the God of our fathers to the ages.”"
 
 meMA.Ode7C13.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode7C13.melody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.name
-meMA.Ode7C13.incipit = "…"
-meMA.Ode7C13.text = ""
+meMA.Ode7C13.melody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.notmetered
+meMA.Ode7C13.incipit = "Celebrated Saint…"
+meMA.Ode7C13.text = "Celebrated Saint, you did not obey the decree of the tyrant, nor did you worship something created, but only the living God, as you sang, “Blessed are You, O Lord, the God of our fathers to the ages.”"
 
 meMA.Ode7C14.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C14.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode7C14.melody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.name
-meMA.Ode7C14.incipit = "…"
-meMA.Ode7C14.text = ""
+meMA.Ode7C14.melody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.notmetered
+meMA.Ode7C14.incipit = "O Saint…"
+meMA.Ode7C14.text = "O Saint, exposing the folly of the lawless, you confounded the delusions of the tyrant; and you proclaimed the glory of Christ, as you sang, “Blessed are You, O Lord, the God of our fathers to the ages.”"
 
 meMA.Ode7C1T.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C1T.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode7C1T.melody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.name
-meMA.Ode7C1T.incipit = "…"
-meMA.Ode7C1T.text = ""
+meMA.Ode7C1T.melody = he.h.m8_en_US_goadedes.heHE.PaidesEvraion.notmetered
+meMA.Ode7C1T.incipit = "All-pure and blameless…"
+meMA.Ode7C1T.text = "All-pure and blameless Virgin, we salute you, “Rejoice!” You gave birth to God in the flesh for the sake of the world. He rescues from delusion those who with faith extol you, O Lady, as the true Theotokos."
 
 meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode8C11.greekmelody = he.h.m8_en_US_goadedes.heHE.MousikonOrganon.greekname
-meMA.Ode8C11.melody = he.h.m8_en_US_goadedes.heHE.MousikonOrganon.name
-meMA.Ode8C11.incipit = "…"
-meMA.Ode8C11.text = ""
+meMA.Ode8C11.melody = he.h.m8_en_US_goadedes.heHE.MousikonOrganon.notmetered
+meMA.Ode8C11.incipit = "O Julian…"
+meMA.Ode8C11.text = "O Julian, the tyrant flattered you, and then tortured you to turn you to his delusion. But for your part, you cried aloud, “Sing a hymn to the Lord and exalt Him beyond measure, unto all the ages.”"
 
 meMA.Ode8C12.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode8C12.melody = he.h.m8_en_US_goadedes.heHE.MousikonOrganon.name
-meMA.Ode8C12.incipit = "…"
-meMA.Ode8C12.text = ""
+meMA.Ode8C12.melody = he.h.m8_en_US_goadedes.heHE.MousikonOrganon.notmetered
+meMA.Ode8C12.incipit = "St. Julian…"
+meMA.Ode8C12.text = "St. Julian, mightily like a lion, you assailed the tyrants after they tortured you, soberly crying aloud, “Sing a hymn to the Lord and exalt Him beyond measure, unto all the ages.”"
 
 meMA.Ode8C13.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode8C13.melody = he.h.m8_en_US_goadedes.heHE.MousikonOrganon.name
-meMA.Ode8C13.incipit = "…"
-meMA.Ode8C13.text = ""
+meMA.Ode8C13.melody = he.h.m8_en_US_goadedes.heHE.MousikonOrganon.notmetered
+meMA.Ode8C13.incipit = "O Saint…"
+meMA.Ode8C13.text = "O Saint, you were led through the cities, appearing like a living monument of virtue, triumphant over paganism, as you cried aloud, “Sing a hymn to the Lord and exalt Him beyond measure, unto all the ages.”"
 
 meMA.Ode8C14.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C14.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode8C14.melody = he.h.m8_en_US_goadedes.heHE.MousikonOrganon.name
-meMA.Ode8C14.incipit = "…"
-meMA.Ode8C14.text = ""
+meMA.Ode8C14.melody = he.h.m8_en_US_goadedes.heHE.MousikonOrganon.notmetered
+meMA.Ode8C14.incipit = "Neither the threat…"
+meMA.Ode8C14.text = "“Neither the threat of ferocious fire nor the edge of the sword can separate me from God who made me.” So you said, O Saint, and you cried aloud, “Sing a hymn to the Lord and exalt Him beyond measure, unto all the ages.”"
 
 meMA.Ode8C1T.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C1T.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode8C1T.melody = he.h.m8_en_US_goadedes.heHE.MousikonOrganon.name
-meMA.Ode8C1T.incipit = "…"
-meMA.Ode8C1T.text = ""
+meMA.Ode8C1T.melody = he.h.m8_en_US_goadedes.heHE.MousikonOrganon.notmetered
+meMA.Ode8C1T.incipit = "O Mary…"
+meMA.Ode8C1T.text = "O Mary, you gave birth to the Lord of all and remain a virgin after childbirth. We the faithful rightly extol you and salute you, saying, “Rejoice!” And we exalt you beyond measure, unto all the ages."
 
 meMA.Ode8H.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_goadedes.misc.Mode8
@@ -301,32 +301,32 @@ meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode9C11.greekmelody = he.h.m8_en_US_goadedes.heHE.TinAgninEndoxos.greekname
 meMA.Ode9C11.melody = he.h.m8_en_US_goadedes.heHE.TinAgninEndoxos.name
-meMA.Ode9C11.incipit = "…"
-meMA.Ode9C11.text = ""
+meMA.Ode9C11.incipit = "O soldier of Christ…"
+meMA.Ode9C11.text = "O soldier of Christ, you confounded the delusions of the tyrant, and you broke him by competing mightily and courageously. And we now call you blessed."
 
 meMA.Ode9C12.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C12.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode9C12.melody = he.h.m8_en_US_goadedes.heHE.TinAgninEndoxos.name
-meMA.Ode9C12.incipit = "…"
-meMA.Ode9C12.text = ""
+meMA.Ode9C12.incipit = "O soldier of God…"
+meMA.Ode9C12.text = "O soldier of God, you humbled the arrogance of the bodiless devil, when you with your body courageously wrestled against him, ever magnifying Christ."
 
 meMA.Ode9C13.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C13.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode9C13.melody = he.h.m8_en_US_goadedes.heHE.TinAgninEndoxos.name
-meMA.Ode9C13.incipit = "…"
-meMA.Ode9C13.text = ""
+meMA.Ode9C13.incipit = "O blessed Saint…"
+meMA.Ode9C13.text = "O blessed Saint, you escaped the lair of the dragon, that enemy and author of evil, when you were thrown into the depths of the sea. We now sing hymns to magnify you."
 
 meMA.Ode9C14.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C14.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode9C14.melody = he.h.m8_en_US_goadedes.heHE.TinAgninEndoxos.name
-meMA.Ode9C14.incipit = "…"
-meMA.Ode9C14.text = ""
+meMA.Ode9C14.incipit = "You competed…"
+meMA.Ode9C14.text = "You competed so well for the Master! How beautiful are the awards you received from that right hand of the Lord! We now worthily magnify you."
 
 meMA.Ode9C1T.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C1T.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode9C1T.melody = he.h.m8_en_US_goadedes.heHE.TinAgninEndoxos.name
-meMA.Ode9C1T.incipit = "…"
-meMA.Ode9C1T.text = ""
+meMA.Ode9C1T.incipit = "O pure Virgin…"
+meMA.Ode9C1T.text = "O pure Virgin, in the bush on the mountain Moses saw a prefigurement of you, who would receive the unbearable fire of the Godhead and not be consumed. Now we all magnify you."
 
 meMA.Ode9H.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_goadedes.misc.Mode8
