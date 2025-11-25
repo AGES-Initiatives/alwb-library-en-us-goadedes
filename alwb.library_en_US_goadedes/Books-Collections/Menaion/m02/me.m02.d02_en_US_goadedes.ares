@@ -188,8 +188,8 @@ meMA.Kathisma11.text = he.a.m1_en_US_goadedes.heAU.ChorosAngelikos.text
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Kathisma21.greekmelody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma21.melody = he.a.m1_en_US_goadedes.heAU.TonTafonSouSotir.name
-meMA.Kathisma21.incipit = "…"
-meMA.Kathisma21.text = ""
+meMA.Kathisma21.incipit = me.m02.d01_en_US_goadedes.meMA.Kathisma11.incipit
+meMA.Kathisma21.text = me.m02.d01_en_US_goadedes.meMA.Kathisma11.text
 
 meMA.Kathisma31.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Kathisma31.greekmelody = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname

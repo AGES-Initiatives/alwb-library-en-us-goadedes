@@ -106,8 +106,8 @@ meVE.Apolytikion2.text = ""
 meMA.Kathisma11.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Kathisma11.greekmelody = he.a.m1_en_US_goadedes.heAU.ChorosAngelikos.greekname
 meMA.Kathisma11.melody = he.a.m1_en_US_goadedes.heAU.ChorosAngelikos.name
-meMA.Kathisma11.incipit = me.m02.d02_en_US_goadedes.meMA.Kathisma21.incipit
-meMA.Kathisma11.text = me.m02.d02_en_US_goadedes.meMA.Kathisma21.text
+meMA.Kathisma11.incipit = ""
+meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Kathisma21.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
@@ -135,27 +135,27 @@ meMA.Ode1C1H.text = he.h.m4_en_US_goadedes.heHE.AsomaiSoiKyrie.text
 meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode1C11.greekmelody = he.h.m4_en_US_goadedes.heHE.AsomaiSoiKyrie.greekname
-meMA.Ode1C11.melody = he.h.m4_en_US_goadedes.heHE.AsomaiSoiKyrie.name
-meMA.Ode1C11.incipit = "…"
-meMA.Ode1C11.text = ""
+meMA.Ode1C11.melody = he.h.m4_en_US_goadedes.heHE.AsomaiSoiKyrie.notmetered
+meMA.Ode1C11.incipit = "I will sing to You…"
+meMA.Ode1C11.text = "I will sing to You, O Lord my God, who physically became an infant, complied with the Law, and saved humanity, for whom You became human."
 
 meMA.Ode1C12.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode1C12.melody = he.h.m4_en_US_goadedes.heHE.AsomaiSoiKyrie.name
-meMA.Ode1C12.incipit = "…"
-meMA.Ode1C12.text = ""
+meMA.Ode1C12.melody = he.h.m4_en_US_goadedes.heHE.AsomaiSoiKyrie.notmetered
+meMA.Ode1C12.incipit = "In his arms…"
+meMA.Ode1C12.text = "In his arms the Elder embraced God, the Giver of life, and he was released from life, saying, “Now You let me depart, for today I have seen You.”"
 
 meMA.Ode1C13.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode1C13.melody = he.h.m4_en_US_goadedes.heHE.AsomaiSoiKyrie.name
-meMA.Ode1C13.incipit = "…"
-meMA.Ode1C13.text = ""
+meMA.Ode1C13.melody = he.h.m4_en_US_goadedes.heHE.AsomaiSoiKyrie.notmetered
+meMA.Ode1C13.incipit = "O Christ, long ago…"
+meMA.Ode1C13.text = "O Christ, long ago on Mount Sinai You dictated the Law for my sake. Now You yourself submit to the laws of nature, and You follow the regulations to the letter of the Law."
 
 meMA.Ode1C1T.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode1C1T.melody = he.h.m4_en_US_goadedes.heHE.AsomaiSoiKyrie.name
-meMA.Ode1C1T.incipit = "…"
-meMA.Ode1C1T.text = ""
+meMA.Ode1C1T.melody = he.h.m4_en_US_goadedes.heHE.AsomaiSoiKyrie.notmetered
+meMA.Ode1C1T.incipit = "I will sing…"
+meMA.Ode1C1T.text = "I will sing to You, O Lord my God, for You were born of a holy and virgin Mother, whom You designated to be the hope of our souls."
 
 meMA.Ode1C21.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_goadedes.misc.Mode8
@@ -193,26 +193,26 @@ meMA.Ode3C11.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3C11.greekmelody = he.h.m4_en_US_goadedes.heHE.EnKyrioTheoMou.greekname
 meMA.Ode3C11.melody = he.h.m4_en_US_goadedes.heHE.EnKyrioTheoMou.notmetered
-meMA.Ode3C11.incipit = "Let the Temple open…"
-meMA.Ode3C11.text = "Let the Temple open its doors; for now she who is the temple of God has come, to make us temples of His Holy Spirit."
+meMA.Ode3C11.incipit = "Open, Temple…"
+meMA.Ode3C11.text = "Open, Temple! The Temple of God has come, in order to make us temples of His Holy Spirit."
 
 meMA.Ode3C12.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C12.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3C12.melody = he.h.m4_en_US_goadedes.heHE.EnKyrioTheoMou.notmetered
-meMA.Ode3C12.incipit = "…"
-meMA.Ode3C12.text = "The shadow of the Law has passed, and in its place the truth is introduced with the coming of grace. Symeon, come now and receive Christ."
+meMA.Ode3C12.incipit = "The shadow…"
+meMA.Ode3C12.text = "The shadow has passed now, and with the coming of grace, the truth is brought in. So receive the Christ now, O Symeon."
 
 meMA.Ode3C13.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C13.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3C13.melody = he.h.m4_en_US_goadedes.heHE.EnKyrioTheoMou.notmetered
-meMA.Ode3C13.incipit = "…"
-meMA.Ode3C13.text = "Let Anna the chaste widow, secluded and known to God, come now and give thanks to Him who physically became an infant for us."
+meMA.Ode3C13.incipit = "Chaste widow Anna…"
+meMA.Ode3C13.text = "Chaste widow Anna, devoted and known to God, give thanks now to Him, who for us has physically became an infant."
 
 meMA.Ode3C1T.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3C1T.melody = he.h.m4_en_US_goadedes.heHE.EnKyrioTheoMou.notmetered
-meMA.Ode3C1T.incipit = "Let us as Orthodox…"
-meMA.Ode3C1T.text = "Let us as Orthodox Christians extol the Virgin Mother of God. For she does not cease to intercede with the Lord on our behalf."
+meMA.Ode3C1T.incipit = "Let us religiously…"
+meMA.Ode3C1T.text = "Let us religiously extol the virgin Mother of God; for she unceasingly intercedes with the Lord on our behalf."
 
 meMA.Ode3C21.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_goadedes.misc.Mode8
@@ -249,8 +249,8 @@ meMA.Ode3H.text = he.h.m8_en_US_goadedes.heHE.SyEiToStereoma.text
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
-meMA.Ode3Kathisma1.incipit = "…"
-meMA.Ode3Kathisma1.text = ""
+meMA.Ode3Kathisma1.incipit = "Delighting, O blessed…"
+meMA.Ode3Kathisma1.text = "Delighting, O blessed Tryphon, in the physical pain, * you worthily now experience relief and divine * delights up in Paradise. * You have received from God the crown of life everlasting. * Now you pour out a river of miraculous healings * to us with love entreat you, O Martyr, to shelter us."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode3Kathisma2.greekmelody = he.a.m1_en_US_goadedes.heAU.TouLithouSfragisthentos.greekname
@@ -268,33 +268,33 @@ meMA.Ode4C1H.text = he.h.m4_en_US_goadedes.heHE.TousOuranousIAretiSou.text
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode4C11.greekmelody = he.h.m4_en_US_goadedes.heHE.TousOuranousIAretiSou.greekname
-meMA.Ode4C11.melody = he.h.m4_en_US_goadedes.heHE.TousOuranousIAretiSou.name
-meMA.Ode4C11.incipit = "…"
-meMA.Ode4C11.text = ""
+meMA.Ode4C11.melody = he.h.m4_en_US_goadedes.heHE.TousOuranousIAretiSou.notmetered
+meMA.Ode4C11.incipit = "The angelic orders…"
+meMA.Ode4C11.text = "The angelic orders were amazed, when they saw that in the Elder's arms lay He who is extolled with the Father and the Spirit, since He is the Son and our God."
 
 meMA.Ode4C12.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode4C12.melody = he.h.m4_en_US_goadedes.heHE.TousOuranousIAretiSou.name
-meMA.Ode4C12.incipit = "…"
-meMA.Ode4C12.text = ""
+meMA.Ode4C12.melody = he.h.m4_en_US_goadedes.heHE.TousOuranousIAretiSou.notmetered
+meMA.Ode4C12.incipit = "God who is wholly…"
+meMA.Ode4C12.text = "God who is wholly perfect assumed our imperfection, and by the offering made in accordance with the Law, He granted us the perfection of grace."
 
 meMA.Ode4C13.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode4C13.melody = he.h.m4_en_US_goadedes.heHE.TousOuranousIAretiSou.name
-meMA.Ode4C13.incipit = "…"
-meMA.Ode4C13.text = ""
+meMA.Ode4C13.melody = he.h.m4_en_US_goadedes.heHE.TousOuranousIAretiSou.notmetered
+meMA.Ode4C13.incipit = "When he received…"
+meMA.Ode4C13.text = "When he received the Infant in his arms, Symeon in the Spirit perceived that He was God, and he proclaimed that He was Christ, the salvation of the world."
 
 meMA.Ode4C14.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C14.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode4C14.melody = he.h.m4_en_US_goadedes.heHE.TousOuranousIAretiSou.name
-meMA.Ode4C14.incipit = "…"
-meMA.Ode4C14.text = ""
+meMA.Ode4C14.melody = he.h.m4_en_US_goadedes.heHE.TousOuranousIAretiSou.notmetered
+meMA.Ode4C14.incipit = "O Elder…"
+meMA.Ode4C14.text = "O Elder, you are now more eminent than Moses, who on Mt. Sinai received the Law; for in your arms you held Christ the Lord."
 
 meMA.Ode4C1T.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode4C1T.melody = he.h.m4_en_US_goadedes.heHE.TousOuranousIAretiSou.name
-meMA.Ode4C1T.incipit = "…"
-meMA.Ode4C1T.text = ""
+meMA.Ode4C1T.melody = he.h.m4_en_US_goadedes.heHE.TousOuranousIAretiSou.notmetered
+meMA.Ode4C1T.incipit = "Anna the prophetess…"
+meMA.Ode4C1T.text = "Anna the prophetess spoke to all about the child born of your womb, that He was God. We now pray to you, O Mother of God, that you unceasingly intercede for the salvation of us your servants."
 
 meMA.Ode4C21.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_goadedes.misc.Mode8
@@ -331,21 +331,21 @@ meMA.Ode5C1H.text = he.h.m4_en_US_goadedes.heHE.OAnateilasToFos.text
 meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode5C11.greekmelody = he.h.m4_en_US_goadedes.heHE.OAnateilasToFos.greekname
-meMA.Ode5C11.melody = he.h.m4_en_US_goadedes.heHE.OAnateilasToFos.name
-meMA.Ode5C11.incipit = "…"
-meMA.Ode5C11.text = ""
+meMA.Ode5C11.melody = he.h.m4_en_US_goadedes.heHE.OAnateilasToFos.notmetered
+meMA.Ode5C11.incipit = "In the shadow…"
+meMA.Ode5C11.text = "In the shadow of the Law, to righteous Symeon was revealed the word of grace, as he physically received the Christ."
 
 meMA.Ode5C12.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode5C12.melody = he.h.m4_en_US_goadedes.heHE.OAnateilasToFos.name
-meMA.Ode5C12.incipit = "…"
-meMA.Ode5C12.text = ""
+meMA.Ode5C12.melody = he.h.m4_en_US_goadedes.heHE.OAnateilasToFos.notmetered
+meMA.Ode5C12.incipit = "Then Symeon…"
+meMA.Ode5C12.text = "Then Symeon prophesied, “This Child is set for the fall and the rising of many, the fall of unbelievers and the rising of those who believe.”"
 
 meMA.Ode5C1T.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode5C1T.melody = he.h.m4_en_US_goadedes.heHE.OAnateilasToFos.name
-meMA.Ode5C1T.incipit = "…"
-meMA.Ode5C1T.text = ""
+meMA.Ode5C1T.melody = he.h.m4_en_US_goadedes.heHE.OAnateilasToFos.notmetered
+meMA.Ode5C1T.incipit = "O pure Mother…"
+meMA.Ode5C1T.text = "O pure Mother of God, we pray you importune your Son to deliver from every danger and disaster those who glorify you, O immaculate Theotokos."
 
 meMA.Ode5C21.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_goadedes.misc.Mode8
@@ -376,34 +376,34 @@ meMA.Ode6C1H.text = he.h.m4_en_US_goadedes.heHE.OsIonanTonProfitin.text
 meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode6C11.greekmelody = he.h.m4_en_US_goadedes.heHE.OsIonanTonProfitin.greekname
-meMA.Ode6C11.melody = he.h.m4_en_US_goadedes.heHE.OsIonanTonProfitin.name
-meMA.Ode6C11.incipit = "…"
-meMA.Ode6C11.text = ""
+meMA.Ode6C11.melody = he.h.m4_en_US_goadedes.heHE.OsIonanTonProfitin.notmetered
+meMA.Ode6C11.incipit = "It had been revealed…"
+meMA.Ode6C11.text = "It had been revealed to the Elder that he should not see death before he had seen Christ the Lord. Today he holds Him in his arms, and he displays Him to all the people of Israel."
 
 meMA.Ode6C12.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode6C12.melody = he.h.m4_en_US_goadedes.heHE.OsIonanTonProfitin.name
-meMA.Ode6C12.incipit = "…"
-meMA.Ode6C12.text = ""
+meMA.Ode6C12.melody = he.h.m4_en_US_goadedes.heHE.OsIonanTonProfitin.notmetered
+meMA.Ode6C12.incipit = "When the Elder…"
+meMA.Ode6C12.text = "When the Elder received the Creator of the ages as an infant, knew that this was the Christ, pre-eternal God, the light for the Gentiles and for glory to Israel."
 
 meMA.Ode6C13.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode6C13.melody = he.h.m4_en_US_goadedes.heHE.OsIonanTonProfitin.name
-meMA.Ode6C13.incipit = "…"
-meMA.Ode6C13.text = ""
+meMA.Ode6C13.melody = he.h.m4_en_US_goadedes.heHE.OsIonanTonProfitin.notmetered
+meMA.Ode6C13.incipit = "Now Symeon…"
+meMA.Ode6C13.text = "Now Symeon is prophesying, and Anna is giving thanks to God, he to the virgin Mother, and she to the One born of the Virgin in the flesh."
 
 meMA.Ode6C1T.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode6C1T.melody = he.h.m4_en_US_goadedes.heHE.OsIonanTonProfitin.name
-meMA.Ode6C1T.incipit = "…"
-meMA.Ode6C1T.text = ""
+meMA.Ode6C1T.melody = he.h.m4_en_US_goadedes.heHE.OsIonanTonProfitin.notmetered
+meMA.Ode6C1T.incipit = "How blessed…"
+meMA.Ode6C1T.text = "How blessed is your womb, O Virgin! How did you produce this glory? He who was born of you is God, the light for the Gentiles, and the glory and the redemption."
 
 meMA.Ode6C21.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode6C21.greekmelody = he.h.m8_en_US_goadedes.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C21.melody = he.h.m8_en_US_goadedes.heHE.IlasthitiMoiSotir.notmetered
-meMA.Ode6C21.incipit = "O glorious Trypho…"
-meMA.Ode6C21.text = "O glorious Trypho, with your own blood you dried the foul libations and the stench of frenzied pagan sacrifices, and you irrigated all the noble scions of the Church. "
+meMA.Ode6C21.incipit = "O glorious Tryphon…"
+meMA.Ode6C21.text = "O glorious Tryphon, with your own blood you dried the foul libations and the stench of frenzied pagan sacrifices, and you irrigated all the noble scions of the Church. "
 
 meMA.Ode6C22.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C22.mode = miscellanea_en_US_goadedes.misc.Mode8
