@@ -109,9 +109,10 @@ ocVE.AposTheotokion.incipit = "My Creator and Redeemer…"
 ocVE.AposTheotokion.text = "My Creator and Redeemer, Christ the Lord, clothed himself in me and was born from your womb, and He freed Adam from the ancient curse. And now, O all-pure one, we address you as the truly virgin Mother of God, and unceasingly we sing to you the Angel’s salutation: O Lady, Rejoice! You are our defense and protection and salvation of our souls."
 
 ocVE.Apolytikion.mode = miscellanea_en_US_goadedes.misc.Mode6
-ocVE.Apolytikion.melody = ""
-ocVE.Apolytikion.incipit = "When the angelic powers…"
-ocVE.Apolytikion.text = "When the angelic powers appeared at Your tomb, the soldiers guarding it feared and became as dead. And standing by the sepulcher was Mary, who was seeking Your immaculate body. Unassailed by Hades, You divested it of spoils. Then You met the Virgin. You granted life. O Lord, risen from the dead, glory to You!"
+ocVE.Apolytikion.greekmelody = he.a.m6_en_US_goadedes.heAU.AngelikaiDynameis.greekname
+ocVE.Apolytikion.melody = he.a.m6_en_US_goadedes.heAU.AngelikaiDynameis.melody
+ocVE.Apolytikion.incipit = he.a.m6_en_US_goadedes.heAU.AngelikaiDynameis.incipit
+ocVE.Apolytikion.text = he.a.m6_en_US_goadedes.heAU.AngelikaiDynameis.text
 
 ocVE.ApolTheotokionVM.mode = miscellanea_en_US_goadedes.misc.Mode6
 ocVE.ApolTheotokionVM.melody = ""
