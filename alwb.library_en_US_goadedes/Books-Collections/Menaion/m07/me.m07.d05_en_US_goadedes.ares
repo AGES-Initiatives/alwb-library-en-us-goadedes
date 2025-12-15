@@ -156,27 +156,27 @@ meMA.C2.verse = prayers_en_US_goadedes.pr.verse_DevoutMan.text
 meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode1C11.greekmelody = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.greekname
-meMA.Ode1C11.melody = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.name
-meMA.Ode1C11.incipit = "…"
-meMA.Ode1C11.text = ""
+meMA.Ode1C11.melody = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.notmetered
+meMA.Ode1C11.incipit = "O Father Athanasius…"
+meMA.Ode1C11.text = "O Father Athanasius, your name in Greek means immortality. Even while you were alive, before you departed from the mundane, you were a partaker of the true immortality. And now, being near Christ, remember us who commemorate you."
 
 meMA.Ode1C12.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode1C12.melody = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.name
-meMA.Ode1C12.incipit = "…"
-meMA.Ode1C12.text = ""
+meMA.Ode1C12.melody = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.notmetered
+meMA.Ode1C12.incipit = "O devout Saint…"
+meMA.Ode1C12.text = "O devout Saint, you were religious from an early age. The loss of your parents did not hinder you from the attaining virtue. You wholeheartedly focused all your longing and desire exclusively on your Creator."
 
 meMA.Ode1C13.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode1C13.melody = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.name
-meMA.Ode1C13.incipit = "…"
-meMA.Ode1C13.text = ""
+meMA.Ode1C13.melody = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.notmetered
+meMA.Ode1C13.incipit = "I dare to sing…"
+meMA.Ode1C13.text = "I dare to sing your praise from defiled lips, having love for you and captivated by longing for you. O Father, pardon me and permit me to offer this worthy praise to you."
 
 meMA.Ode1C1T.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C1T.mode = miscellanea_en_US_goadedes.misc.Mode8
-meMA.Ode1C1T.melody = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.name
-meMA.Ode1C1T.incipit = "…"
-meMA.Ode1C1T.text = ""
+meMA.Ode1C1T.melody = he.h.m8_en_US_goadedes.heHE.ArmatilatinFarao.notmetered
+meMA.Ode1C1T.incipit = "O Virgin, you ineffably…"
+meMA.Ode1C1T.text = "O Virgin, you ineffably gave birth to an infant who is the Ancient of Days, and you showed us on earth new paths of virtue. And your glorious servant Athanasius, wounded by love for Him, built this church for you."
 
 meMA.Ode1C21.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_goadedes.misc.Mode2
@@ -261,8 +261,8 @@ meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
-meMA.Ode3KathismaT.incipit = "…"
-meMA.Ode3KathismaT.text = ""
+meMA.Ode3KathismaT.incipit = "By conceiving the Wisdom…"
+meMA.Ode3KathismaT.text = "By conceiving the Wisdom and Word of God * in your womb without burning, O Mother of God, * for the world’s sake you carried Him who has the whole world in His hand, * and at your breasts your nursed Him who provides food for everyone, * and in your arms you held Him who holds together the universe. * Therefore, O all-holy Virgin Mary, I pray you, * that I be forgiven of my offenses when I shall stand before Him who created me. * O all-lauded Lady most pure, I implore you to assist me in that hour, * for I your servant hope and rely on you."
 
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode8
