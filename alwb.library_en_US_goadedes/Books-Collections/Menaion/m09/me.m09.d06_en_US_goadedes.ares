@@ -113,27 +113,27 @@ meMA.C2.verse = prayers_en_US_goadedes.pr.verse_Archangel.text
 meMA.Ode1C11.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode1C11.greekmelody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.greekname
-meMA.Ode1C11.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
-meMA.Ode1C11.incipit = "…"
-meMA.Ode1C11.text = ""
+meMA.Ode1C11.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.notmetered
+meMA.Ode1C11.incipit = "O Chief Commander…"
+meMA.Ode1C11.text = "O Chief Commander of the celestial armies, as you always shine like lightning with divine splendor, I pray you illumine my mind to extol you, who are the mighty defender of all who rely on you."
 
 meMA.Ode1C12.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode1C12.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
-meMA.Ode1C12.incipit = "…"
-meMA.Ode1C12.text = ""
+meMA.Ode1C12.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.notmetered
+meMA.Ode1C12.incipit = "All-celebrated Chief…"
+meMA.Ode1C12.text = "All-celebrated Chief Commander, the unoriginate Mind made you the Marshal of the supermundane host, a light to those in darkness, and a divine jewel of His Church."
 
 meMA.Ode1C13.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode1C13.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
-meMA.Ode1C13.incipit = "…"
-meMA.Ode1C13.text = ""
+meMA.Ode1C13.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.notmetered
+meMA.Ode1C13.incipit = "Most excellent Michael…"
+meMA.Ode1C13.text = "Most excellent Michael, you are the leader of the heavenly spiritual intelligences, and you were given to us on earth as a protective wall, a mighty defender, and a sword slaying and vanquishing enemies."
 
 meMA.Ode1C1T.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode1C1T.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.name
-meMA.Ode1C1T.incipit = "…"
-meMA.Ode1C1T.text = ""
+meMA.Ode1C1T.melody = he.h.m4_en_US_goadedes.heHE.AnoixoToStomaMou.notmetered
+meMA.Ode1C1T.incipit = "All-blameless Virgin…"
+meMA.Ode1C1T.text = "All-blameless Virgin, impressive to the Angels and helpful to humanity, I pray you help me who am on the sea of life, whenever storms of sin make me falter and put me in danger."
 
 meMA.Ode1C21.ode = miscellanea_en_US_goadedes.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -182,7 +182,7 @@ meMA.Ode3C11.text = "O all-lauded Captain of the Angels, strengthened by God, yo
 meMA.Ode3C12.ode = miscellanea_en_US_goadedes.misc.Ode3
 meMA.Ode3C12.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode3C12.melody = he.h.m4_en_US_goadedes.heHE.OukEnSofia.notmetered
-meMA.Ode3C12.incipit = "Most godlike Chief Captain…"
+meMA.Ode3C12.incipit = "Most godlike Chief…"
 meMA.Ode3C12.text = "Most godlike Chief Captain of God, you are a divine herald, a reliable defender of believers, a guide and instructor of the errant."
 
 meMA.Ode3C13.ode = miscellanea_en_US_goadedes.misc.Ode3
@@ -237,8 +237,8 @@ meMA.Ode3C2T.text = ""
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
-meMA.Ode3Kathisma1.incipit = "…"
-meMA.Ode3Kathisma1.text = ""
+meMA.Ode3Kathisma1.incipit = "By command…"
+meMA.Ode3Kathisma1.text = "By command of your Maker you rightly stand * as the chief of celestial orders and hosts, * and also a minister of His glory and godly will. * Your mighty interventions have saved Christians everywhere. * In your unearthly glory you rescue them from tragedy. * That is why we all with due respect now extol you * and sing hymns of praise on this your divine feast in church today, O Chief Commander Michael. * Intercede with Christ our God, and entreat Him to forgive the sins of all * who with longing celebrate your divine miracles."
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.melody
@@ -248,27 +248,27 @@ meMA.Ode3KathismaT.text = "By conceiving the Wisdom and Word of God * in your wo
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode4C11.greekmelody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.greekname
-meMA.Ode4C11.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.name
-meMA.Ode4C11.incipit = "…"
-meMA.Ode4C11.text = ""
+meMA.Ode4C11.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.notmetered
+meMA.Ode4C11.incipit = "After the first…"
+meMA.Ode4C11.text = "After the first Intellect willed and created the godly intellects, He appointed Michael as the their leader, who by blessed participation was illumined, glowing with God-inspired thinking."
 
 meMA.Ode4C12.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode4C12.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.name
-meMA.Ode4C12.incipit = "…"
-meMA.Ode4C12.text = ""
+meMA.Ode4C12.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.notmetered
+meMA.Ode4C12.incipit = "All-celebrated Michael…"
+meMA.Ode4C12.text = "All-celebrated Michael, you sing a holy hymn to the Trinity, joining the Thrones and Principalities,  Powers and Authorities, and the sacred Dominions; and you rescue us extol you."
 
 meMA.Ode4C13.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode4C13.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.name
-meMA.Ode4C13.incipit = "…"
-meMA.Ode4C13.text = ""
+meMA.Ode4C13.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.notmetered
+meMA.Ode4C13.incipit = "We magnify the Maker…"
+meMA.Ode4C13.text = "We magnify the Maker and Master of all, who in His compassion gave us the luminous Chief Commander Michael, who is for us like a great fortification, an unassailable wall and barrier."
 
 meMA.Ode4C1T.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode4C1T.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.name
-meMA.Ode4C1T.incipit = "…"
-meMA.Ode4C1T.text = ""
+meMA.Ode4C1T.melody = he.h.m4_en_US_goadedes.heHE.OKathimenosEnDoxi.notmetered
+meMA.Ode4C1T.incipit = "O Virgin, long ago…"
+meMA.Ode4C1T.text = "O Virgin, long ago one of the holy Prophets was noetically shown the wonder of your childbirth, when in the Spirit he saw you as an overshadowed mountain, from which our holy God came forth incarnate."
 
 meMA.Ode4C21.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -310,27 +310,27 @@ meMA.Ode4C2T.text = ""
 meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode5C11.greekmelody = he.h.m4_en_US_goadedes.heHE.AseveisOukOpsontai.greekname
-meMA.Ode5C11.melody = he.h.m4_en_US_goadedes.heHE.AseveisOukOpsontai.name
-meMA.Ode5C11.incipit = "…"
-meMA.Ode5C11.text = ""
+meMA.Ode5C11.melody = he.h.m4_en_US_goadedes.heHE.AseveisOukOpsontai.notmetered
+meMA.Ode5C11.incipit = "O Michael…"
+meMA.Ode5C11.text = "O Michael, the bodiless Captain of the Angels, you went ahead of the people of Israel long ago, when so commanded by Him would come to humanity in the flesh as a bodily descendant of Jacob."
 
 meMA.Ode5C12.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode5C12.melody = he.h.m4_en_US_goadedes.heHE.AseveisOukOpsontai.name
-meMA.Ode5C12.incipit = "…"
-meMA.Ode5C12.text = ""
+meMA.Ode5C12.melody = he.h.m4_en_US_goadedes.heHE.AseveisOukOpsontai.notmetered
+meMA.Ode5C12.incipit = "O principal Angel…"
+meMA.Ode5C12.text = "O principal Angel, you are extraordinarily marvelous, ever deified by divine participation with immaterial rays of light, and you bestow the light-giving illumination on us."
 
 meMA.Ode5C13.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode5C13.melody = he.h.m4_en_US_goadedes.heHE.AseveisOukOpsontai.name
-meMA.Ode5C13.incipit = "…"
-meMA.Ode5C13.text = ""
+meMA.Ode5C13.melody = he.h.m4_en_US_goadedes.heHE.AseveisOukOpsontai.notmetered
+meMA.Ode5C13.incipit = "O Michael, principal…"
+meMA.Ode5C13.text = "O Michael, principal Angel and deflector of ills, your sacred church is beautified with grace, when you visit it and it becomes like an ocean of cures and healings."
 
 meMA.Ode5C1T.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode5C1T.melody = he.h.m4_en_US_goadedes.heHE.AseveisOukOpsontai.name
-meMA.Ode5C1T.incipit = "…"
-meMA.Ode5C1T.text = ""
+meMA.Ode5C1T.melody = he.h.m4_en_US_goadedes.heHE.AseveisOukOpsontai.notmetered
+meMA.Ode5C1T.incipit = "O immaculate Virgin…"
+meMA.Ode5C1T.text = "O immaculate Virgin, God made you superior to the noetic Angels, when He came down and entered your all-blameless womb. We ask you to implore Him always to take pity on us who extol you."
 
 meMA.Ode5C21.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -372,27 +372,27 @@ meMA.Ode5C2T.text = ""
 meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode6C11.greekmelody = he.h.m4_en_US_goadedes.heHE.EvoiseProtypon.greekname
-meMA.Ode6C11.melody = he.h.m4_en_US_goadedes.heHE.EvoiseProtypon.name
-meMA.Ode6C11.incipit = "…"
-meMA.Ode6C11.text = ""
+meMA.Ode6C11.melody = he.h.m4_en_US_goadedes.heHE.EvoiseProtypon.notmetered
+meMA.Ode6C11.incipit = "O Michael…"
+meMA.Ode6C11.text = "O Michael, the faithful congregants celebrate and extol you, and they glorify the all-holy Logos, who in His goodness has brought Angels and humans together."
 
 meMA.Ode6C12.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode6C12.melody = he.h.m4_en_US_goadedes.heHE.EvoiseProtypon.name
-meMA.Ode6C12.incipit = "…"
-meMA.Ode6C12.text = ""
+meMA.Ode6C12.melody = he.h.m4_en_US_goadedes.heHE.EvoiseProtypon.notmetered
+meMA.Ode6C12.incipit = "O Chief Commander…"
+meMA.Ode6C12.text = "O Chief Commander, you appeared and rescued the camp of Israel. Executing God's commands, you defeated the enemies and utterly vanquished them."
 
 meMA.Ode6C13.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode6C13.melody = he.h.m4_en_US_goadedes.heHE.EvoiseProtypon.name
-meMA.Ode6C13.incipit = "…"
-meMA.Ode6C13.text = ""
+meMA.Ode6C13.melody = he.h.m4_en_US_goadedes.heHE.EvoiseProtypon.notmetered
+meMA.Ode6C13.incipit = "O Commander…"
+meMA.Ode6C13.text = "O Commander of the Angels, when Joshua the son of Nun saw you, he was overcome by reverence and fear, and he bowed to you and asked you your divine and holy name."
 
 meMA.Ode6C1T.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode6C1T.melody = he.h.m4_en_US_goadedes.heHE.EvoiseProtypon.name
-meMA.Ode6C1T.incipit = "…"
-meMA.Ode6C1T.text = ""
+meMA.Ode6C1T.melody = he.h.m4_en_US_goadedes.heHE.EvoiseProtypon.notmetered
+meMA.Ode6C1T.incipit = "Blessed are the people…"
+meMA.Ode6C1T.text = "Blessed are the people who forever call you blessed, O blessed Lady, who gave birth to our blessed God, when through an ineffable union He deified humanity in His tender mercy."
 
 meMA.Ode6C21.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -441,27 +441,27 @@ meMA.Oikos1.text = ""
 meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode7C11.greekmelody = he.h.m4_en_US_goadedes.heHE.ODiasosasEnPyri.greekname
-meMA.Ode7C11.melody = he.h.m4_en_US_goadedes.heHE.ODiasosasEnPyri.name
-meMA.Ode7C11.incipit = "…"
-meMA.Ode7C11.text = ""
+meMA.Ode7C11.melody = he.h.m4_en_US_goadedes.heHE.ODiasosasEnPyri.notmetered
+meMA.Ode7C11.incipit = "Blessed refulgent…"
+meMA.Ode7C11.text = "Blessed refulgent Gabriel, as Daniel looked, he saw you standing before him at the Ulai River and instructing him in the vision he saw; and then you made Michael known to him."
 
 meMA.Ode7C12.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode7C12.melody = he.h.m4_en_US_goadedes.heHE.ODiasosasEnPyri.name
-meMA.Ode7C12.incipit = "…"
-meMA.Ode7C12.text = ""
+meMA.Ode7C12.melody = he.h.m4_en_US_goadedes.heHE.ODiasosasEnPyri.notmetered
+meMA.Ode7C12.incipit = "Let us faithfully…"
+meMA.Ode7C12.text = "Let us faithfully lift our voices and extol Michael and Gabriel, the leaders of the Angels, the deiform bringers of light, our good helpers, protectors, and guardians."
 
 meMA.Ode7C13.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode7C13.melody = he.h.m4_en_US_goadedes.heHE.ODiasosasEnPyri.name
-meMA.Ode7C13.incipit = "…"
-meMA.Ode7C13.text = ""
+meMA.Ode7C13.melody = he.h.m4_en_US_goadedes.heHE.ODiasosasEnPyri.notmetered
+meMA.Ode7C13.incipit = "Great and luminous…"
+meMA.Ode7C13.text = "Great and luminous Michael, you are handsome, majestic, and deiform; you were appointed leader of the spiritual bodiless ministers. We pray that all of you implore God on our behalf."
 
 meMA.Ode7C1T.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode7C1T.melody = he.h.m4_en_US_goadedes.heHE.ODiasosasEnPyri.name
-meMA.Ode7C1T.incipit = "…"
-meMA.Ode7C1T.text = ""
+meMA.Ode7C1T.melody = he.h.m4_en_US_goadedes.heHE.ODiasosasEnPyri.notmetered
+meMA.Ode7C1T.incipit = "O Virgin…"
+meMA.Ode7C1T.text = "O Virgin, when the Archangel Gabriel saw the eternal Logos of the truly great Mind ineffably and awesomely residing in you, he saluted you and said, “Rejoice, blessed throne of God Most High!”"
 
 meMA.Ode7C21.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -503,27 +503,27 @@ meMA.Ode7C2T.text = ""
 meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode8C11.greekmelody = he.h.m4_en_US_goadedes.heHE.LytrotaTouPantos.greekname
-meMA.Ode8C11.melody = he.h.m4_en_US_goadedes.heHE.LytrotaTouPantos.name
-meMA.Ode8C11.incipit = "…"
-meMA.Ode8C11.text = ""
+meMA.Ode8C11.melody = he.h.m4_en_US_goadedes.heHE.LytrotaTouPantos.notmetered
+meMA.Ode8C11.incipit = "O Michael…"
+meMA.Ode8C11.text = "O Michael, you were appointed marshal of the noetic bodiless hosts. You intercede for the salvation of humanity, as a divine minister of God; and you unceasingly sing, “All you works, bless the Lord and extol Him!”"
 
 meMA.Ode8C12.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode8C12.melody = he.h.m4_en_US_goadedes.heHE.LytrotaTouPantos.name
-meMA.Ode8C12.incipit = "…"
-meMA.Ode8C12.text = ""
+meMA.Ode8C12.melody = he.h.m4_en_US_goadedes.heHE.LytrotaTouPantos.notmetered
+meMA.Ode8C12.incipit = "Archangels Michael and Gabriel…"
+meMA.Ode8C12.text = "Archangels Michael and Gabriel, the two most resplendent luminaries, you guide creation to the light with the brilliant rays of the triply fulgurant Godhead, and you dissipate our troubles like the fog."
 
 meMA.Ode8C13.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode8C13.melody = he.h.m4_en_US_goadedes.heHE.LytrotaTouPantos.name
-meMA.Ode8C13.incipit = "…"
-meMA.Ode8C13.text = ""
+meMA.Ode8C13.melody = he.h.m4_en_US_goadedes.heHE.LytrotaTouPantos.notmetered
+meMA.Ode8C13.incipit = "O Archangels…"
+meMA.Ode8C13.text = "O Archangels, my soul is in jeopardy, caught in sin like a ship in a storm. Save me, I pray you, since you are good, and steer me to the harbor of God's will."
 
 meMA.Ode8C1T.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode8C1T.melody = he.h.m4_en_US_goadedes.heHE.LytrotaTouPantos.name
-meMA.Ode8C1T.incipit = "…"
-meMA.Ode8C1T.text = ""
+meMA.Ode8C1T.melody = he.h.m4_en_US_goadedes.heHE.LytrotaTouPantos.notmetered
+meMA.Ode8C1T.incipit = "O unwedded Bride…"
+meMA.Ode8C1T.text = "O unwedded Bride of God, the godly Archangel came to you like a bridal escort, and he saluted you, saying, “Rejoice! You are the glory of Angels and the salvation and defense of humanity.”"
 
 meMA.Ode8C21.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -565,33 +565,33 @@ meMA.Ode8C2T.text = ""
 meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode4
 meMA.Ode9C11.greekmelody = he.h.m4_en_US_goadedes.heHE.EvaMenToTisParakois.greekname
-meMA.Ode9C11.melody = he.h.m4_en_US_goadedes.heHE.EvaMenToTisParakois.name
-meMA.Ode9C11.incipit = "…"
-meMA.Ode9C11.text = ""
+meMA.Ode9C11.melody = he.h.m4_en_US_goadedes.heHE.EvaMenToTisParakois.notmetered
+meMA.Ode9C11.incipit = "Behold, how majestic…"
+meMA.Ode9C11.text = "Behold, how majestic is your holy house, O Archangel! It shines with your resplendent presence, which emits the flares of your miracles, and every day it drives away the darkness of diseases, by divine grace."
 
 meMA.Ode9C12.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C12.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode9C12.melody = he.h.m4_en_US_goadedes.heHE.EvaMenToTisParakois.name
-meMA.Ode9C12.incipit = "…"
-meMA.Ode9C12.text = ""
+meMA.Ode9C12.melody = he.h.m4_en_US_goadedes.heHE.EvaMenToTisParakois.notmetered
+meMA.Ode9C12.incipit = "O Archangels…"
+meMA.Ode9C12.text = "O Archangels, as a handsome and delightful duo, you administer the Master's commands to us on earth, and you deliver us from evils, and in the Holy Spirit you send down saving illumination to all."
 
 meMA.Ode9C13.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C13.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode9C13.melody = he.h.m4_en_US_goadedes.heHE.EvaMenToTisParakois.name
-meMA.Ode9C13.incipit = "…"
-meMA.Ode9C13.text = ""
+meMA.Ode9C13.melody = he.h.m4_en_US_goadedes.heHE.EvaMenToTisParakois.notmetered
+meMA.Ode9C13.incipit = "The godly bodiless…"
+meMA.Ode9C13.text = "The godly bodiless Intellects celebrate with us today, beholding their great and radiant Chief Commander being extolled by all. And he prays for our enlightenment and release from our offenses."
 
 meMA.Ode9C14.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C14.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode9C14.melody = he.h.m4_en_US_goadedes.heHE.EvaMenToTisParakois.name
-meMA.Ode9C14.incipit = "…"
-meMA.Ode9C14.text = ""
+meMA.Ode9C14.melody = he.h.m4_en_US_goadedes.heHE.EvaMenToTisParakois.notmetered
+meMA.Ode9C14.incipit = "All-venerable Michael…"
+meMA.Ode9C14.text = "All-venerable Michael and glorious Gabriel, godly duo of Archangels beaming with light, as you stand in the presence of the Holy Trinity, deliver us from the liability for our offenses and from everlasting perdition."
 
 meMA.Ode9C1T.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C1T.mode = miscellanea_en_US_goadedes.misc.Mode4
-meMA.Ode9C1T.melody = he.h.m4_en_US_goadedes.heHE.EvaMenToTisParakois.name
-meMA.Ode9C1T.incipit = "…"
-meMA.Ode9C1T.text = ""
+meMA.Ode9C1T.melody = he.h.m4_en_US_goadedes.heHE.EvaMenToTisParakois.notmetered
+meMA.Ode9C1T.incipit = "O all-blameless Virgin…"
+meMA.Ode9C1T.text = "O all-blameless Virgin, at the voice of the Archangel Gabriel you conceived God the Logos, who by a word made the celestial hosts, and who gives us the power of speech to extol His ineffable and incomprehensible holy condescension."
 
 meMA.Ode9C21.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_goadedes.misc.Mode4
