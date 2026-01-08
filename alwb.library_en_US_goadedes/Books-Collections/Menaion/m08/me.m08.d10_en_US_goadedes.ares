@@ -44,18 +44,19 @@ meVE.Stichera03.text = me.m08.d06_en_US_goadedes.meSV.Stichera3.text
 meVE.Stichera04.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera04.greekmelody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
 meVE.Stichera04.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.Stichera04.incipit = "…"
-meVE.Stichera04.text = ""
+meVE.Stichera04.incipit = "Our Master and Lord…"
+meVE.Stichera04.text = "Our Master and Lord gave you, O Martyr Lawrence, a burning coal * to assist you in martyrdom. * Consumed by the fire of zeal, * you put off the garment * of your earthly body, and you received immortal life * and heaven's kingdom as your inheritance. * And that is why we celebrate the joyous feast of your memory * singing hymns to you joyfully, * O all-blessed and haloed Saint."
 
 meVE.Stichera05.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera05.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.Stichera05.incipit = "…"
-meVE.Stichera05.text = ""
+meVE.Stichera05.incipit = "Roasted over…"
+meVE.Stichera05.text = "Roasted over burning coals, O blessed Saint, you extinguished coals * of fallacious idolatry. * And as you were withering, * you discarded thick flesh * like a heavy burden, and you shook off the ash and dust * of the mortality of our ancestors. * And now, as if an inextinguishable coal, you illuminate * and enlighten resplendently * all who honor your memory."
 
 meVE.Stichera06.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.Stichera06.melody = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
-meVE.Stichera06.incipit = "…"
-meVE.Stichera06.text = ""
+meVE.Stichera06.incipit = "Seeming to be…"
+meVE.Stichera06.text = "Seeming to be kindled by a burning coal, the invincible
+holy Martyrs were lit by God * with the Spirit's radiance. * Ardently dispelling * the ungodly error of paganism as if mist, * they lit the beacon of Christianity. * The Savior's loyal Deacon Lawrence is among their respected ranks. * He is truly illustrious * for his marvelous miracles."
 
 meVE.SticGlory.mode = miscellanea_en_US_goadedes.misc.Mode4
 meVE.SticGlory.melody = ""
@@ -365,8 +366,8 @@ meMA.Exaposteilarion1.text = ""
 meMA.Exaposteilarion2.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_goadedes.heAU.ToisMathitaisSynelthomen.name
-meMA.Exaposteilarion2.incipit = me.m08.d09_en_US_goadedes.meMA.Exaposteilarion2.incipit
-meMA.Exaposteilarion2.text = me.m08.d09_en_US_goadedes.meMA.Exaposteilarion2.text
+meMA.Exaposteilarion2.incipit = me.m08.d07_en_US_goadedes.meMA.Exaposteilarion2.incipit
+meMA.Exaposteilarion2.text = me.m08.d07_en_US_goadedes.meMA.Exaposteilarion2.text
 
 meMA.Aposticha1.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Aposticha1.greekmelody = he.a.m2_en_US_goadedes.heAU.OikosTouEfratha.greekname
