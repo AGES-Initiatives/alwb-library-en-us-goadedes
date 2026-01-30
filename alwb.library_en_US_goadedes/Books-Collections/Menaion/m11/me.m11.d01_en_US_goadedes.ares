@@ -221,21 +221,23 @@ meMA.Ode3H.text = he.h.m4_en_US_goadedes.heHE.OukEnSofia.text
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
-meMA.Ode3Kathisma1.incipit = "…"
-meMA.Ode3Kathisma1.text = ""
+meMA.Ode3Kathisma1.incipit = "Since from heaven…"
+meMA.Ode3Kathisma1.text = "Since from heaven you marvelously received * the divine gift of working wonders from Christ, * continually you cure every illness and malady. * For in you has the grace of the Spirit been manifest, * granting healings and cures by the power of God Most High. * For your ardent faith and unmercenary mindset * a wealth of immortal gifts was abundantly given you. * O God-bearing Unmercenaries, * intercede with Christ our God, that He grant forgiveness of offenses * to us who celebrate your holy memory with faith and love."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_goadedes.misc.Mode8
 meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
-meMA.Ode3Kathisma2.incipit = "…"
-meMA.Ode3Kathisma2.text = ""
+meMA.Ode3Kathisma2.incipit = "By the grace…"
+meMA.Ode3Kathisma2.text = "By the grace of the Spirit you have been shown * to all people as miracle-working Saints, * bright torches of miracles, and the givers of many cures. * By faith you alleviate the fevers and aches and pains * of the faithful, providing them with comfort and peace of mind. * Those who have the good fortune to visit your holy * and all-sacred church have it as a spiritual hospital. * O God-bearing Unmercenaries, * intercede with Christ our God, that He grant forgiveness of offenses * to us who celebrate your holy memory with faith and love."
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3KathismaT.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3KathismaT.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
-meMA.Ode3KathismaT.incipit = "…"
-meMA.Ode3KathismaT.text = ""
+meMA.Ode3KathismaT.incipit = "Come, believers…"
+meMA.Ode3KathismaT.text = "Come, believers, and let us all praise the Queen * and the Mother of God the Maker of all, * and magnify her in song, and extol her and cry aloud, * “O all-lauded Virgin, you indeed are the cause of joy! * By your intercessions, protect and save us who honor you. * You can freely speak to God the Lord, as His Mother, * and ask Him to pity us and to heal our infirmities. * And we therefore sing to you: * Intercede with your Son and God, * that He grant forgiveness of offenses * to your servants who correctly extol your seedless childbirth.”"
 
 meMA.Ode3KathismaSt.mode = miscellanea_en_US_goadedes.misc.Mode8
+meMA.Ode3KathismaSt.greekmelody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3KathismaSt.melody = he.a.m8_en_US_goadedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3KathismaSt.incipit = "…"
 meMA.Ode3KathismaSt.text = ""
@@ -243,27 +245,27 @@ meMA.Ode3KathismaSt.text = ""
 meMA.Ode4C11.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode4C11.greekmelody = he.h.m1_en_US_goadedes.heHE.KatenoisaPantodyname.greekname
-meMA.Ode4C11.melody = he.h.m1_en_US_goadedes.heHE.KatenoisaPantodyname.name
-meMA.Ode4C11.incipit = "…"
-meMA.Ode4C11.text = ""
+meMA.Ode4C11.melody = he.h.m1_en_US_goadedes.heHE.KatenoisaPantodyname.notmetered
+meMA.Ode4C11.incipit = "O godly Unmercenaries…"
+meMA.Ode4C11.text = "O godly Unmercenaries, you did not possess burnished gold coins nor silver, clearly obeying the God's word."
 
 meMA.Ode4C12.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode4C12.melody = he.h.m1_en_US_goadedes.heHE.KatenoisaPantodyname.name
-meMA.Ode4C12.incipit = "…"
-meMA.Ode4C12.text = ""
+meMA.Ode4C12.melody = he.h.m1_en_US_goadedes.heHE.KatenoisaPantodyname.notmetered
+meMA.Ode4C12.incipit = "The Unmercenaries…"
+meMA.Ode4C12.text = "The Unmercenaries sparkle with divine miracles; the impart grace for the benefit of all."
 
 meMA.Ode4C13.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode4C13.melody = he.h.m1_en_US_goadedes.heHE.KatenoisaPantodyname.name
-meMA.Ode4C13.incipit = "…"
-meMA.Ode4C13.text = ""
+meMA.Ode4C13.melody = he.h.m1_en_US_goadedes.heHE.KatenoisaPantodyname.notmetered
+meMA.Ode4C13.incipit = "O Saints, you were adept…"
+meMA.Ode4C13.text = "O Saints, you were adept physicians, using your hands to counteract painful illnesses."
 
 meMA.Ode4C1T.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C1T.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode4C1T.melody = he.h.m1_en_US_goadedes.heHE.KatenoisaPantodyname.name
-meMA.Ode4C1T.incipit = "…"
-meMA.Ode4C1T.text = ""
+meMA.Ode4C1T.melody = he.h.m1_en_US_goadedes.heHE.KatenoisaPantodyname.notmetered
+meMA.Ode4C1T.incipit = "O all-pure Lady…"
+meMA.Ode4C1T.text = "O all-pure Lady, anyone who does not profess you to be Theotokos should be slapped in the face."
 
 meMA.Ode4C21.ode = miscellanea_en_US_goadedes.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -293,27 +295,27 @@ meMA.Ode4C2T.text = ""
 meMA.Ode5C11.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode5C11.greekmelody = he.h.m1_en_US_goadedes.heHE.EkNyktosOrthrizontes.greekname
-meMA.Ode5C11.melody = he.h.m1_en_US_goadedes.heHE.EkNyktosOrthrizontes.name
-meMA.Ode5C11.incipit = "…"
-meMA.Ode5C11.text = ""
+meMA.Ode5C11.melody = he.h.m1_en_US_goadedes.heHE.EkNyktosOrthrizontes.notmetered
+meMA.Ode5C11.incipit = "Glorious Unmercenaries…"
+meMA.Ode5C11.text = "Glorious Unmercenaries, when you cure the believersʼ diseases of soul and body, you are like fountains issuing waters of blessings from God."
 
 meMA.Ode5C12.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C12.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode5C12.melody = he.h.m1_en_US_goadedes.heHE.EkNyktosOrthrizontes.name
-meMA.Ode5C12.incipit = "…"
-meMA.Ode5C12.text = ""
+meMA.Ode5C12.melody = he.h.m1_en_US_goadedes.heHE.EkNyktosOrthrizontes.notmetered
+meMA.Ode5C12.incipit = "Holy Unmercenaries…"
+meMA.Ode5C12.text = "Holy Unmercenaries, you are an opening for the source of grace. As we now pray to you with faith and love, you provide us with good health."
 
 meMA.Ode5C13.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C13.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode5C13.melody = he.h.m1_en_US_goadedes.heHE.EkNyktosOrthrizontes.name
-meMA.Ode5C13.incipit = "…"
-meMA.Ode5C13.text = ""
+meMA.Ode5C13.melody = he.h.m1_en_US_goadedes.heHE.EkNyktosOrthrizontes.notmetered
+meMA.Ode5C13.incipit = "The Saints, as shining…"
+meMA.Ode5C13.text = "The Saints, as shining and intelligent luminaries, who make earth heavenly, in imitation of the luminous Angels, unceasingly illuminate us."
 
 meMA.Ode5C1T.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C1T.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode5C1T.melody = he.h.m1_en_US_goadedes.heHE.EkNyktosOrthrizontes.name
-meMA.Ode5C1T.incipit = "…"
-meMA.Ode5C1T.text = ""
+meMA.Ode5C1T.melody = he.h.m1_en_US_goadedes.heHE.EkNyktosOrthrizontes.notmetered
+meMA.Ode5C1T.incipit = "Virgin Mother…"
+meMA.Ode5C1T.text = "Virgin Mother, you were exalted, when for the sake of the world you conceived and gave birth to the the Savior and Lord, who together with His Father is beginningless and the Maker of all."
 
 meMA.Ode5C21.ode = miscellanea_en_US_goadedes.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -343,27 +345,27 @@ meMA.Ode5C2T.text = ""
 meMA.Ode6C11.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode6C11.greekmelody = he.h.m1_en_US_goadedes.heHE.TonProfitinDiesosas.greekname
-meMA.Ode6C11.melody = he.h.m1_en_US_goadedes.heHE.TonProfitinDiesosas.name
-meMA.Ode6C11.incipit = "…"
-meMA.Ode6C11.text = ""
+meMA.Ode6C11.melody = he.h.m1_en_US_goadedes.heHE.TonProfitinDiesosas.notmetered
+meMA.Ode6C11.incipit = "Let us enthusiastically…"
+meMA.Ode6C11.text = "Let us enthusiastically honor the Sts. Cosmas and Damian, our godly-minded benefactors and therapeutic physicians."
 
 meMA.Ode6C12.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode6C12.melody = he.h.m1_en_US_goadedes.heHE.TonProfitinDiesosas.name
-meMA.Ode6C12.incipit = "…"
-meMA.Ode6C12.text = ""
+meMA.Ode6C12.melody = he.h.m1_en_US_goadedes.heHE.TonProfitinDiesosas.notmetered
+meMA.Ode6C12.incipit = "Sts. Cosmas and Damian…"
+meMA.Ode6C12.text = "Sts. Cosmas and Damian exercised self-restraint and adorned themselves with sobriety. And now they celebrate with Christ."
 
 meMA.Ode6C13.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C13.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode6C13.melody = he.h.m1_en_US_goadedes.heHE.TonProfitinDiesosas.name
-meMA.Ode6C13.incipit = "…"
-meMA.Ode6C13.text = ""
+meMA.Ode6C13.melody = he.h.m1_en_US_goadedes.heHE.TonProfitinDiesosas.notmetered
+meMA.Ode6C13.incipit = "O Saints, since you lived…"
+meMA.Ode6C13.text = "O Saints, since you lived and practiced together in concord and unanimity, you have both been entrusted with granting cures to us."
 
 meMA.Ode6C1T.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C1T.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode6C1T.melody = he.h.m1_en_US_goadedes.heHE.TonProfitinDiesosas.name
-meMA.Ode6C1T.incipit = "…"
-meMA.Ode6C1T.text = ""
+meMA.Ode6C1T.melody = he.h.m1_en_US_goadedes.heHE.TonProfitinDiesosas.notmetered
+meMA.Ode6C1T.incipit = "All-pure Virgin…"
+meMA.Ode6C1T.text = "All-pure Virgin, you physically gave birth Him who is the unapproachable Light. He enlightens the entire world with the rays of His divinity."
 
 meMA.Ode6C21.ode = miscellanea_en_US_goadedes.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -399,35 +401,35 @@ meMA.Ode6H.text = he.h.m4_en_US_goadedes.heHE.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_goadedes.misc.Mode2
 meMA.Kontakion1.melody = ""
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.incipit = "Since you received…"
+meMA.Kontakion1.text = "Since you received the grace of healing, you extend health to those in need, O glorious wonder-working Physicians. We pray that you will visit us and humble the insolence of our enemies, as you cure the world by your miracles."
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "The story of the expert physicians is beyond all comprehension and expertise. They have received the grace of the Most High, and they invisibly grant health to everyone. And now they have granted to me the gift of narration, in order to extol them as God-bearing Saints, commendable servants of God, and healers who provide many cures. They offer relief from pain to all, and they cure the world by their miracles."
 
 meMA.Ode7C11.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode7C11.greekmelody = he.h.m1_en_US_goadedes.heHE.SeNoitin.greekname
-meMA.Ode7C11.melody = he.h.m1_en_US_goadedes.heHE.SeNoitin.name
-meMA.Ode7C11.incipit = "…"
-meMA.Ode7C11.text = ""
+meMA.Ode7C11.melody = he.h.m1_en_US_goadedes.heHE.SeNoitin.notmetered
+meMA.Ode7C11.incipit = "All-glorious Unmercenaries…"
+meMA.Ode7C11.text = "All-glorious Unmercenaries, because of your godly mentality, you were wholly of God and wholly filled with God. For the love of God, you left the whole world and followed in the Saviorʼs footsteps; and in this godly manner, you honored the God of our fathers."
 
 meMA.Ode7C12.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode7C12.melody = he.h.m1_en_US_goadedes.heHE.SeNoitin.name
-meMA.Ode7C12.incipit = "…"
-meMA.Ode7C12.text = ""
+meMA.Ode7C12.melody = he.h.m1_en_US_goadedes.heHE.SeNoitin.notmetered
+meMA.Ode7C12.incipit = "Most excellent physicians…"
+meMA.Ode7C12.text = "Most excellent physicians, with mystical procedures you supernaturally heal all the injuries of your patients, producing saving remedies from the pharmacies on high, and praising God who is supremely glorious."
 
 meMA.Ode7C13.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode7C13.melody = he.h.m1_en_US_goadedes.heHE.SeNoitin.name
-meMA.Ode7C13.incipit = "…"
-meMA.Ode7C13.text = ""
+meMA.Ode7C13.melody = he.h.m1_en_US_goadedes.heHE.SeNoitin.notmetered
+meMA.Ode7C13.incipit = "O Christ our Master…"
+meMA.Ode7C13.text = "O Christ our Master, You majestically adorned the Unmercenaries with the glowing halo and crown of Your kingdom, for they longed after Your extraordinary beauty and handsomeness. You have made them benefactors of the all the faithful."
 
 meMA.Ode7C1T.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C1T.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode7C1T.melody = he.h.m1_en_US_goadedes.heHE.SeNoitin.name
-meMA.Ode7C1T.incipit = "…"
-meMA.Ode7C1T.text = ""
+meMA.Ode7C1T.melody = he.h.m1_en_US_goadedes.heHE.SeNoitin.notmetered
+meMA.Ode7C1T.incipit = "O all-pure Lady…"
+meMA.Ode7C1T.text = "O all-pure Lady, when Orient from on high appeared on earth, you became His majestic and luminous gate. You brightened the world with sparkling rays of your purity, sending beams of miracles to all the faithful."
 
 meMA.Ode7C21.ode = miscellanea_en_US_goadedes.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -457,27 +459,27 @@ meMA.Ode7C2T.text = ""
 meMA.Ode8C11.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode8C11.greekmelody = he.h.m1_en_US_goadedes.heHE.EnKaminoPaides.greekname
-meMA.Ode8C11.melody = he.h.m1_en_US_goadedes.heHE.EnKaminoPaides.name
-meMA.Ode8C11.incipit = "…"
-meMA.Ode8C11.text = ""
+meMA.Ode8C11.melody = he.h.m1_en_US_goadedes.heHE.EnKaminoPaides.notmetered
+meMA.Ode8C11.incipit = "O Unmercenaries…"
+meMA.Ode8C11.text = "O Unmercenaries, you became dead to worldly delights, and you cut off the disease of avarice. Therefore you are called wise by all who sing, “Bless the Lord, all you works; to the Lord sing a hymn and exalt Him beyond measure unto all the ages.”"
 
 meMA.Ode8C12.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode8C12.melody = he.h.m1_en_US_goadedes.heHE.EnKaminoPaides.name
-meMA.Ode8C12.incipit = "…"
-meMA.Ode8C12.text = ""
+meMA.Ode8C12.melody = he.h.m1_en_US_goadedes.heHE.EnKaminoPaides.notmetered
+meMA.Ode8C12.incipit = "You left behind…"
+meMA.Ode8C12.text = "You left behind the delights of this ruined life, and you indeed became partakers of eternal life. And together you sing, “Bless the Lord, all you works; to the Lord sing a hymn and exalt Him beyond measure unto all the ages.”"
 
 meMA.Ode8C13.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode8C13.melody = he.h.m1_en_US_goadedes.heHE.EnKaminoPaides.name
-meMA.Ode8C13.incipit = "…"
-meMA.Ode8C13.text = ""
+meMA.Ode8C13.melody = he.h.m1_en_US_goadedes.heHE.EnKaminoPaides.notmetered
+meMA.Ode8C13.incipit = "O Christ our Master…"
+meMA.Ode8C13.text = "O Christ our Master, rescue everyone from serious illnesses, at the intercessions of the Unmercenaries. Make us ever worthy to sing together to You, “Bless the Lord, all you works; to the Lord sing a hymn and exalt Him beyond measure unto all the ages.”"
 
 meMA.Ode8C1T.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C1T.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode8C1T.melody = he.h.m1_en_US_goadedes.heHE.EnKaminoPaides.name
-meMA.Ode8C1T.incipit = "…"
-meMA.Ode8C1T.text = ""
+meMA.Ode8C1T.melody = he.h.m1_en_US_goadedes.heHE.EnKaminoPaides.notmetered
+meMA.Ode8C1T.incipit = "O virgin Mother…"
+meMA.Ode8C1T.text = "O virgin Mother, all we the faithful, who have been redeemed through your childbirth, rejoice for being made healthy by grace, and unceasingly we sing, “Bless the Lord, all you works; to the Lord sing a hymn and exalt Him beyond measure unto all the ages.”"
 
 meMA.Ode8C21.ode = miscellanea_en_US_goadedes.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_goadedes.misc.Mode4
@@ -520,33 +522,33 @@ meMA.Ode8H.text = he.h.m4_en_US_goadedes.heHE.CheirasEkpetasasDaniil.text
 meMA.Ode9C11.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_goadedes.misc.Mode1
 meMA.Ode9C11.greekmelody = he.h.m1_en_US_goadedes.heHE.SeTinFaeinin.greekname
-meMA.Ode9C11.melody = he.h.m1_en_US_goadedes.heHE.SeTinFaeinin.name
-meMA.Ode9C11.incipit = "…"
-meMA.Ode9C11.text = ""
+meMA.Ode9C11.melody = he.h.m1_en_US_goadedes.heHE.SeTinFaeinin.notmetered
+meMA.Ode9C11.incipit = "Those two wise…"
+meMA.Ode9C11.text = "Those two wise Unmercenaries flash like lightning with the splendor of the noetic light, as they impart illumination to all. Let us unceasingly extol them and call them blessed."
 
 meMA.Ode9C12.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C12.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode9C12.melody = he.h.m1_en_US_goadedes.heHE.SeTinFaeinin.name
-meMA.Ode9C12.incipit = "…"
-meMA.Ode9C12.text = ""
+meMA.Ode9C12.melody = he.h.m1_en_US_goadedes.heHE.SeTinFaeinin.notmetered
+meMA.Ode9C12.incipit = "O Saints…"
+meMA.Ode9C12.text = "O Saints, since you restore believersʼ souls to good health, and since you have been entrusted with curing our physical ailments, we rightly ever extol you as saviors."
 
 meMA.Ode9C13.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C13.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode9C13.melody = he.h.m1_en_US_goadedes.heHE.SeTinFaeinin.name
-meMA.Ode9C13.incipit = "…"
-meMA.Ode9C13.text = ""
+meMA.Ode9C13.melody = he.h.m1_en_US_goadedes.heHE.SeTinFaeinin.notmetered
+meMA.Ode9C13.incipit = "The Saints are luminaries…"
+meMA.Ode9C13.text = "The Saints are luminaries shining with divine splendor; they noetically brighten the holy Church's firmament, and they unceasingly illuminate it with a flood of light."
 
 meMA.Ode9C14.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C14.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode9C14.melody = he.h.m1_en_US_goadedes.heHE.SeTinFaeinin.name
-meMA.Ode9C14.incipit = "…"
-meMA.Ode9C14.text = ""
+meMA.Ode9C14.melody = he.h.m1_en_US_goadedes.heHE.SeTinFaeinin.notmetered
+meMA.Ode9C14.incipit = "These two Saints…"
+meMA.Ode9C14.text = "These two Saints were called by God. They were strengthened by the Holy Trinity, and they pour out gifts of healing for all who with longing call them blessed."
 
 meMA.Ode9C1T.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C1T.mode = miscellanea_en_US_goadedes.misc.Mode1
-meMA.Ode9C1T.melody = he.h.m1_en_US_goadedes.heHE.SeTinFaeinin.name
-meMA.Ode9C1T.incipit = "…"
-meMA.Ode9C1T.text = ""
+meMA.Ode9C1T.melody = he.h.m1_en_US_goadedes.heHE.SeTinFaeinin.notmetered
+meMA.Ode9C1T.incipit = "We extol and magnify…"
+meMA.Ode9C1T.text = "We extol and magnify you, O Theotokos, for you are the cloud of light, the holy ark, and the luminous gate of the noetic Sun."
 
 meMA.Ode9C21.ode = miscellanea_en_US_goadedes.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_goadedes.misc.Mode4
